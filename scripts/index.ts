@@ -58,9 +58,8 @@ const query = /* GraphQL */ `
         imageUrl = token?.channel?.imageUrl;
       }
 
-      console.log(name, type, imageUrl);
-
-      if (imageUrl) {
+      // momentarily excludes imgur images
+      if (imageUrl && !imageUrl.includes("imgur")) {
         // download image
         const res = await fetch(imageUrl);
         const buffer = await res.buffer();
