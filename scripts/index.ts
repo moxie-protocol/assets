@@ -3,6 +3,7 @@ import { config } from "dotenv";
 import fetch from "node-fetch";
 import sharp from "sharp";
 import fs from "node:fs";
+import getImgurImageSrc from "../utils/getImgurImageSrc";
 
 config();
 
@@ -61,7 +62,11 @@ const query = /* GraphQL */ `
       // momentarily excludes imgur images
       if (imageUrl && !imageUrl.includes("imgur")) {
         // download image
-        const res = await fetch(imageUrl);
+        const res = await fetch(
+          (!imageUrl.includes("imgur")
+            ? imageUrl
+            : await getImgurImageSrc(imageUrl)) as string
+        );
         const buffer = await res.buffer();
         console.log(buffer);
         // resize image
