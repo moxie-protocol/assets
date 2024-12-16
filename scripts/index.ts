@@ -22,6 +22,7 @@ const query = /* GraphQL */ `
       MoxieFanToken {
         fanTokenSymbol
         fanTokenName
+        fanTokenAddress
         socials {
           profileImageContentValue {
             image {
@@ -63,22 +64,38 @@ const query = /* GraphQL */ `
 
     for (const token of allFanTokens) {
       let name: string;
-      let type: string;
       let imageUrl: string;
       const symbol = token?.fanTokenSymbol;
+      const address = token?.fanTokenAddress;
 
       if (symbol?.startsWith("fid:")) {
         name = token?.fanTokenName;
-        type = "profiles";
         imageUrl = token?.socials?.[0]?.profileImageContentValue?.image?.small;
       } else if (symbol?.startsWith("cid:")) {
         name = symbol.split(":")[1];
-        type = "farcaster-channels";
         imageUrl = token?.channel?.imageUrl;
       } else {
         // skip network tokens
+        // network tokens is added manually
         continue;
       }
+
+      // create directory
+      await fs.promises.mkdir(`./fan-tokens/${address}`, { recursive: true });
+
+      // save metadata to info.json
+      await fs.promises.writeFile(
+        `./fan-tokens/${address}/info.json`,
+        JSON.stringify(
+          {
+            name,
+            symbol,
+            decimal: 18,
+          },
+          null,
+          2
+        )
+      );
 
       // momentarily excludes imgur images
       if (imageUrl && !imageUrl.includes("imgur")) {
@@ -92,10 +109,8 @@ const query = /* GraphQL */ `
         console.log(`Saving ${name}'s images...`, buffer);
         // resize image
         const resizedImage = await sharp(buffer).resize(256, 256).toBuffer();
-        // create directory
-        await fs.promises.mkdir(`./${type}/${name}`, { recursive: true });
         // save image
-        await sharp(resizedImage).toFile(`./${type}/${name}/logo.jpg`);
+        await sharp(resizedImage).toFile(`./fan-tokens/${address}/logo.jpg`);
       }
     }
   } catch (e) {
