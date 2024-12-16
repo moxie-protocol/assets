@@ -10,12 +10,13 @@ config();
 init(process.env.AIRSTACK_API_KEY as string);
 
 const query = /* GraphQL */ `
-  query MyQuery {
+  query MyQuery($cursor: String = "") {
     MoxieFanTokens(
       input: {
         blockchain: ALL
         limit: 200
         filter: { uniqueHolders: { _gte: "0" } }
+        cursor: $cursor
       }
     ) {
       MoxieFanToken {
@@ -32,18 +33,35 @@ const query = /* GraphQL */ `
           imageUrl
         }
       }
+      pageInfo {
+        nextCursor
+        hasNextPage
+      }
     }
   }
 `;
 
 (async () => {
   try {
-    const { data, error } = await fetchQuery(query);
-    if (error) {
-      throw new Error(error);
+    let cursor = "";
+    let allFanTokens = [];
+    let page = 1;
+    console.log("Fetching fan tokens...");
+    while (true) {
+      const { data, error } = await fetchQuery(query, { cursor });
+      if (error) {
+        throw new Error(error);
+      }
+      allFanTokens = [...allFanTokens, ...data.MoxieFanTokens.MoxieFanToken];
+      console.log(`Fetched ${page++} pages...`);
+
+      const { hasNextPage, nextCursor } = data.MoxieFanTokens.pageInfo;
+      if (!hasNextPage) break;
+
+      cursor = nextCursor;
     }
 
-    for (const token of data.MoxieFanTokens.MoxieFanToken) {
+    for (const token of allFanTokens) {
       let name: string;
       let type: string;
       let imageUrl: string;
@@ -57,6 +75,9 @@ const query = /* GraphQL */ `
         name = symbol.split(":")[1];
         type = "farcaster-channels";
         imageUrl = token?.channel?.imageUrl;
+      } else {
+        // skip network tokens
+        continue;
       }
 
       // momentarily excludes imgur images
@@ -68,7 +89,7 @@ const query = /* GraphQL */ `
             : await getImgurImageSrc(imageUrl)) as string
         );
         const buffer = await res.buffer();
-        console.log(buffer);
+        console.log(`Saving ${name}'s images...`, buffer);
         // resize image
         const resizedImage = await sharp(buffer).resize(256, 256).toBuffer();
         // create directory
