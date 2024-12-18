@@ -1,0 +1,19 @@
+{
+    "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
+    "name": "Moxie Testnet",
+    "timestamp": "2024-12-18T10:42:14.722Z",
+    "tokens": [
+        {
+            "address": "0x9cE6e0c6282ac0050B1888656C5c5716a4Ef4BE8",
+            "decimals": 18,
+            "logoURI": "https://sepolia.basescan.org/assets/basesepolia/images/svg/logos/logo-light.svg",
+            "name": "something",
+            "symbol": "somesymbol"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

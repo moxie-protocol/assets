@@ -1,0 +1,20 @@
+{
+  "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
+  "name": "Moxie",
+  "timestamp": "2024-12-18T10:42:14.722Z",
+  "tokens": [
+    {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "logoURI": "url of image in images/ directory",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "type": "POLYGON"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
