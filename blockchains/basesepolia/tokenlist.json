@@ -37,6 +37,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/p_iVbbZ1_normal-fc9076c3-402e-4e87-8405-d7bca2d58854.jpg",
             "name": "Moxie:airstack_xyz-x",
             "symbol": "Moxie:airstack_xyz-x"
+        },
+        {
+            "address": "0xfF6076e2470e06F15Bd90674683840170a9b4219",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/CiXSazHa_normal-cfdd837b-bb7d-4295-8578-ad53432173b6.jpg",
+            "name": "Moxie:Audie_fu_ki-x",
+            "symbol": "Moxie:Audie_fu_ki-x"
         }
     ],
     "version": {
