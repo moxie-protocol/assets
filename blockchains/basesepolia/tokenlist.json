@@ -44,6 +44,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/CiXSazHa_normal-cfdd837b-bb7d-4295-8578-ad53432173b6.jpg",
             "name": "Moxie:Audie_fu_ki-x",
             "symbol": "Moxie:Audie_fu_ki-x"
+        },
+        {
+            "address": "0xF723db723F6aaE679CCFd71F3aC11cd85d653496",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/IWkXHud5_normal-9b4d138e-597f-450e-9dff-9fde02ef135c.jpg",
+            "name": "Moxie:Darcyzana_-x",
+            "symbol": "Moxie:Darcyzana_-x"
         }
     ],
     "version": {
