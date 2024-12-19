@@ -65,6 +65,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/default_profile_normal-cdae24c8-8759-411a-9a8e-6e88bd010b04.png",
             "name": "Moxie:kazuya65-x",
             "symbol": "Moxie:kazuya65-x"
+        },
+        {
+            "address": "0x0dfC09C88687233611C91b81Cee709065d1ef01b",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/WNcSM7z3_normal-4cf1be7c-21de-49c6-bf70-0f94a6d903a5.jpg",
+            "name": "Moxie:ChastityKa34612-x",
+            "symbol": "Moxie:ChastityKa34612-x"
         }
     ],
     "version": {
