@@ -79,6 +79,13 @@
             "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
             "name": "Moxie:sharath-fc",
             "symbol": "Moxie:sharath-fc"
+        },
+        {
+            "address": "0x6C3B37801272e88F0683430a9F4312f559366a5D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1377912150241406979/0T6y-Fgq_normal.jpg",
+            "name": "Moxie:phansuong4-x",
+            "symbol": "Moxie:phansuong4-x"
         }
     ],
     "version": {
