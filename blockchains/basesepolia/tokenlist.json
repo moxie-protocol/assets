@@ -9,6 +9,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/logo-purple-fcdb2ff7-9b31-4c2f-acbe-405693d952de.svg",
             "name": "Moxie:manjeet-fc",
             "symbol": "Moxie:manjeet-fc"
+        },
+        {
+            "address": "0x45817388D95019E40d1c2B129dff81119cFF293a",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/9W8fMT2v-ab219824-6c18-4246-be7d-9c61cdb61333.jpg",
+            "name": "Moxie:bhsk_3494-x",
+            "symbol": "Moxie:bhsk_3494-x"
         }
     ],
     "version": {
