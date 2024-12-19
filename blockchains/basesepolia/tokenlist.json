@@ -16,6 +16,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/9W8fMT2v-ab219824-6c18-4246-be7d-9c61cdb61333.jpg",
             "name": "Moxie:bhsk_3494-x",
             "symbol": "Moxie:bhsk_3494-x"
+        },
+        {
+            "address": "0x321c68a32fD99aB59B0e20E23e37e12F65948537",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/VXQLMSg9_normal-85a7b093-1de3-4f35-8c54-29b1988a6bc2.jpg",
+            "name": "Moxie:jlcolton-x",
+            "symbol": "Moxie:jlcolton-x"
         }
     ],
     "version": {
