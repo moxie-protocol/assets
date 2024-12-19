@@ -72,6 +72,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/WNcSM7z3_normal-4cf1be7c-21de-49c6-bf70-0f94a6d903a5.jpg",
             "name": "Moxie:ChastityKa34612-x",
             "symbol": "Moxie:ChastityKa34612-x"
+        },
+        {
+            "address": "0xa0Edd0D5DB6b7a3c4284690c5e7827C2AC8C4996",
+            "decimals": 18,
+            "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
+            "name": "Moxie:sharath-fc",
+            "symbol": "Moxie:sharath-fc"
         }
     ],
     "version": {
