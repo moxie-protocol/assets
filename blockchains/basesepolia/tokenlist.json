@@ -1,11 +1,19 @@
 {
-  "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
-  "name": "Moxie Testnet",
-  "timestamp": "2024-12-18T10:42:14.722Z",
-  "tokens": [],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+    "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
+    "name": "Moxie Testnet",
+    "timestamp": "2024-12-18T10:42:14.722Z",
+    "tokens": [
+        {
+            "address": "0x430B924aA23038a38456E727Cd55cC60D4C8d076",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/logo-purple-fcdb2ff7-9b31-4c2f-acbe-405693d952de.svg",
+            "name": "Moxie:manjeet-fc",
+            "symbol": "Moxie:manjeet-fc"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
