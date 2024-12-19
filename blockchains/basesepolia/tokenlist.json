@@ -30,6 +30,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/hHboAmac_normal-e43476da-c78d-4de6-96a9-090bdc998ba9.jpg",
             "name": "Moxie:BhaskarJ-li",
             "symbol": "Moxie:BhaskarJ-li"
+        },
+        {
+            "address": "0x2b360835eAeD35B33346197038eAb3225b339A36",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/basesepolia/images/p_iVbbZ1_normal-fc9076c3-402e-4e87-8405-d7bca2d58854.jpg",
+            "name": "Moxie:airstack_xyz-x",
+            "symbol": "Moxie:airstack_xyz-x"
         }
     ],
     "version": {
