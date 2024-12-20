@@ -177,6 +177,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/161f95ac-a165-4ed3-daef-6641d1223b00/rectcrop3",
             "name": "Moxie:aliami-fc",
             "symbol": "Moxie:aliami-fc"
+        },
+        {
+            "address": "0xeed237223Fe0DD36b940160F6957D0131DBE6977",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/dv",
+            "symbol": "cid:dv"
         }
     ],
     "version": {
