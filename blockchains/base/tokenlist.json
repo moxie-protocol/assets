@@ -282,6 +282,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1777461770338344962/eoshZ8Sf.jpg",
             "name": "Moxie:CHOBINCHOOBIN-x",
             "symbol": "Moxie:CHOBINCHOOBIN-x"
+        },
+        {
+            "address": "0x5Ee679760Bff947406811bE4114b0C556576dC02",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1816152967189340160/Cu0UKJgy.jpg",
+            "name": "Moxie:ErfanCryptos-x",
+            "symbol": "Moxie:ErfanCryptos-x"
         }
     ],
     "version": {
