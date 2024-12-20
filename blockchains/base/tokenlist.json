@@ -240,6 +240,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a99ed63f-f029-4c72-698e-fac0616fda00/rectcrop3",
             "name": "Moxie:page4758-fc",
             "symbol": "Moxie:page4758-fc"
+        },
+        {
+            "address": "0xE3654212d67174b5726557b581ae5E938FB6E1ea",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859878769563246594/22C6_QE0.jpg",
+            "name": "Moxie:CyberShakti-x",
+            "symbol": "Moxie:CyberShakti-x"
         }
     ],
     "version": {
