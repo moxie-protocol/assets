@@ -100,6 +100,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1499300454508863489/FOL9dAGb.jpg",
             "name": "Moxie:vysakh_g_nair-x",
             "symbol": "Moxie:vysakh_g_nair-x"
+        },
+        {
+            "address": "0x04268653074EF5eC9309C2741bc2aDf996DDAe3D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809847525664333825/BqwC8keZ.jpg",
+            "name": "Moxie:mx1000m-x",
+            "symbol": "Moxie:mx1000m-x"
         }
     ],
     "version": {
