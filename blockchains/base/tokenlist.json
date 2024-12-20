@@ -51,6 +51,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1693699293364809728/YsFkTem8.jpg",
             "name": "Moxie:kesh5210-x",
             "symbol": "Moxie:kesh5210-x"
+        },
+        {
+            "address": "0xFB4dA2a3F522eCb19E906e903C0451AFB2Ae7090",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c978eb40-52f7-4e9d-287d-fa0246e7c500/original",
+            "name": "Moxie:mysticpol.eth-fc",
+            "symbol": "Moxie:mysticpol.eth-fc"
         }
     ],
     "version": {
