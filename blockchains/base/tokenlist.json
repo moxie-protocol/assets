@@ -79,6 +79,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60e77210-276b-4555-3893-633b99263f00/original",
             "name": "Moxie:jonathanmccallum-fc",
             "symbol": "Moxie:jonathanmccallum-fc"
+        },
+        {
+            "address": "0xc9ECaD21FFBe4088B7721BCB4BDcd05a8807a17C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ksenia",
+            "symbol": "fid:294174"
         }
     ],
     "version": {
