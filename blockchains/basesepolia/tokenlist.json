@@ -107,6 +107,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1542825513542352898/dVbTW4qN.jpg",
             "name": "Moxie:sarveshgi-x",
             "symbol": "Moxie:sarveshgi-x"
+        },
+        {
+            "address": "0x5c9Bf105d6c1CAF872Ea565C7505DcEfa33Dd0e3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795831522437574656/LFpn_T9f_normal.jpg",
+            "name": "Moxie:urNumber01Hater-x",
+            "symbol": "Moxie:urNumber01Hater-x"
         }
     ],
     "version": {
