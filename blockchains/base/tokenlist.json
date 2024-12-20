@@ -170,6 +170,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb96a879-279e-456b-5d25-6b6466645d00/original",
             "name": "Moxie:wayaway.eth-fc",
             "symbol": "Moxie:wayaway.eth-fc"
+        },
+        {
+            "address": "0x3C68a744b7FB6249dF041fEe79192642FF1BDc14",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/161f95ac-a165-4ed3-daef-6641d1223b00/rectcrop3",
+            "name": "Moxie:aliami-fc",
+            "symbol": "Moxie:aliami-fc"
         }
     ],
     "version": {
