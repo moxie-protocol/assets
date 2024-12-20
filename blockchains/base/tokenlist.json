@@ -219,6 +219,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1862813516144562176/-qQzyOkx.jpg",
             "name": "Moxie:richonbase-x",
             "symbol": "Moxie:richonbase-x"
+        },
+        {
+            "address": "0x0377aa71ee34582919b407e1BF7cdd1062356570",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79ecbcee-ac1c-40d0-c610-d09a7025bd00/rectcrop3",
+            "name": "Moxie:kweksey-fc",
+            "symbol": "Moxie:kweksey-fc"
         }
     ],
     "version": {
