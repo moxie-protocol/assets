@@ -72,6 +72,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1838579348086882305/KEjwEWVa.jpg",
             "name": "Moxie:TalentProtocol-x",
             "symbol": "Moxie:TalentProtocol-x"
+        },
+        {
+            "address": "0x53Ed7AC0E7739E9fCb7cC2a7d35eB18aA6654D57",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60e77210-276b-4555-3893-633b99263f00/original",
+            "name": "Moxie:jonathanmccallum-fc",
+            "symbol": "Moxie:jonathanmccallum-fc"
         }
     ],
     "version": {
