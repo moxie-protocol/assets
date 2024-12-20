@@ -114,6 +114,13 @@
             "logoURI": "https://bafybeiforbe6xdnezs6ymph5palwpan2eace7kk74y5pvxlhwobcxtz4li.ipfs.dweb.link?filename=ciudadex.png",
             "name": "Moxie:[9e2ade6eab662cc2f09bb428c62345fc8ae8ad906ddee478ec5062e71f158c1e].[2dc1318376e3f5c1df02850294bbc90e16a9c311ab446771d182088df644d885].xyz-ens",
             "symbol": "Moxie:[9e2ade6eab662cc2f09bb428c62345fc8ae8ad906ddee478ec5062e71f158c1e].[2dc1318376e3f5c1df02850294bbc90e16a9c311ab446771d182088df644d885].xyz-ens"
+        },
+        {
+            "address": "0x84e3814dA2C7faaB4D0c3C329E0B8A144086Bb6a",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/NnNvRyP/DALLE2024-12-2020-43-36-Amodernvibrantlogofor-Blockchain-Buddy-BBYfeaturingafriendlyandfuturisticdig.png",
+            "name": "Moxie:dralkhatib.base.eth-base",
+            "symbol": "Moxie:dralkhatib.base.eth-base"
         }
     ],
     "version": {
