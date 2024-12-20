@@ -233,6 +233,13 @@
             "logoURI": "https://i.seadn.io/gae/9KIL56q19B9i8BasJfTcVZFn7QOcvdtBqww5dgK5Zk5Mi5w4Ljekw0ibITpf6TBtGnyqcLTDNEEG9OpUC98aLukfcM9yXhSltJoe?w=500\u0026auto=format",
             "name": "Moxie:not3nough-eth-fc",
             "symbol": "Moxie:not3nough-eth-fc"
+        },
+        {
+            "address": "0x06BA43887eDAf4C7076feca509F143847276293d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a99ed63f-f029-4c72-698e-fac0616fda00/rectcrop3",
+            "name": "Moxie:page4758-fc",
+            "symbol": "Moxie:page4758-fc"
         }
     ],
     "version": {
