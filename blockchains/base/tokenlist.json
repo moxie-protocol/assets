@@ -191,6 +191,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861495110740889600/QLHnSpMZ.jpg",
             "name": "Moxie:bartofrenchking-x",
             "symbol": "Moxie:bartofrenchking-x"
+        },
+        {
+            "address": "0xFD32eE0f3a9A224714F59c181B6De6ddCDeb76Ef",
+            "decimals": 18,
+            "logoURI": "https://www.google.com/search?client=ms-android-xiaomi-rvo3\u0026sca_esv=71ea608cd454a4bd\u0026sxsrf=ADLYWIKmrFb6G_kPrkCFN1Fifmj8jcQQbg:1734722099205\u0026q=base\u0026udm=2\u0026fbs=AEQNm0Dvr3xYvXRaGaB8liPABJYdGovAUMem85jmaNP43N9LWv8DF2btGLpo_B7RuF8Id5PkYwsygcQQGSDDhky5d0wFAK55dbXurolVAN8M4NpBZd1arDXOhSS1gqGFqpe8E3tQZ_9j4XGxZ4CwkViS3H4eFAT3IAx0QgYHb5T75Q2nCB04_s1Ce2QnWuqyN5m9gVreVak0iZqS6ovxNj-OhGJs5t9Us39LmTPOtXK6woVYig3JEyA\u0026sa=X\u0026ved=2ahUKEwjU_oa0h7eKAxW2R0EAHSEIDp0QtKgLegQIGxAB\u0026biw=393\u0026bih=715\u0026dpr=2.75#vhid=yq4cxTAdx_sgjM\u0026vssid=mosaic",
+            "name": "Moxie:1domainsconnected-ens",
+            "symbol": "Moxie:1domainsconnected-ens"
         }
     ],
     "version": {
