@@ -289,6 +289,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1816152967189340160/Cu0UKJgy.jpg",
             "name": "Moxie:ErfanCryptos-x",
             "symbol": "Moxie:ErfanCryptos-x"
+        },
+        {
+            "address": "0x3759Cc64f4Cdb1a6EdaF9099AFA5DFB3986E1747",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1841788020120551424/0nlgmBHb.jpg",
+            "name": "Moxie:Aniltprabhakar-x",
+            "symbol": "Moxie:Aniltprabhakar-x"
         }
     ],
     "version": {
