@@ -93,6 +93,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1794842534788608000/A7MghsC_.jpg",
             "name": "Moxie:DrewAustin-x",
             "symbol": "Moxie:DrewAustin-x"
+        },
+        {
+            "address": "0x9e3aF946c865d4A0a6ADe29Dd26e4880Ba0E22C0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1499300454508863489/FOL9dAGb.jpg",
+            "name": "Moxie:vysakh_g_nair-x",
+            "symbol": "Moxie:vysakh_g_nair-x"
         }
     ],
     "version": {
