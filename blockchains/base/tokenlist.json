@@ -163,6 +163,13 @@
             "logoURI": "https://x.com/805ETH/status/1870168462737453167",
             "name": "Moxie:ber4m.eth-ens",
             "symbol": "Moxie:ber4m.eth-ens"
+        },
+        {
+            "address": "0xa461C7feD10ECA362714491FdfFD5c21dB316d7A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb96a879-279e-456b-5d25-6b6466645d00/original",
+            "name": "Moxie:wayaway.eth-fc",
+            "symbol": "Moxie:wayaway.eth-fc"
         }
     ],
     "version": {
