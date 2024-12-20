@@ -9,6 +9,13 @@
             "logoURI": null,
             "name": "korayozpalamutcu",
             "symbol": "fid:12495"
+        },
+        {
+            "address": "0x3f69Cf90090642b197EAA106B4bB85A910D0C9c6",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "cryptolena",
+            "symbol": "fid:223521"
         }
     ],
     "version": {
