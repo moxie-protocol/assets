@@ -254,6 +254,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1758435071751868416/xaPkIgl8.jpg",
             "name": "Moxie:JimiCohen-x",
             "symbol": "Moxie:JimiCohen-x"
+        },
+        {
+            "address": "0x26773A360916dCa27deF450856894a3d930d71A3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OdlzhTc.jpg",
+            "name": "Moxie:warpedone-fc",
+            "symbol": "Moxie:warpedone-fc"
         }
     ],
     "version": {
