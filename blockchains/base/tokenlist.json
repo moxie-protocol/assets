@@ -184,6 +184,13 @@
             "logoURI": null,
             "name": "/dv",
             "symbol": "cid:dv"
+        },
+        {
+            "address": "0x744977f18de7316eC512ea0997c9FDE4aA33dB67",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861495110740889600/QLHnSpMZ.jpg",
+            "name": "Moxie:bartofrenchking-x",
+            "symbol": "Moxie:bartofrenchking-x"
         }
     ],
     "version": {
