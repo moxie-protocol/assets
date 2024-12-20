@@ -149,6 +149,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1745635933859237888/GaxhvQWS.jpg",
             "name": "Moxie:RAnSacks-x",
             "symbol": "Moxie:RAnSacks-x"
+        },
+        {
+            "address": "0x3A9C6A6fB8E6B013d6176ccF290Dcc4f217f5803",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864293276444184580/SYcDxH7y.jpg",
+            "name": "Moxie:jaadasss-x",
+            "symbol": "Moxie:jaadasss-x"
         }
     ],
     "version": {
