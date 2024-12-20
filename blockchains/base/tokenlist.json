@@ -142,6 +142,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8389396-301c-4490-e42b-7c61a55a7100/original",
             "name": "Moxie:joepadawan.base.eth-base",
             "symbol": "Moxie:joepadawan.base.eth-base"
+        },
+        {
+            "address": "0x0375fcBe0a13F43392f2aC2a5510E8a9c14AeF13",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1745635933859237888/GaxhvQWS.jpg",
+            "name": "Moxie:RAnSacks-x",
+            "symbol": "Moxie:RAnSacks-x"
         }
     ],
     "version": {
