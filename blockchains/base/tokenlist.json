@@ -44,6 +44,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1572218173352710148/D1ZTlTB7.jpg",
             "name": "Moxie:prashantfb65-x",
             "symbol": "Moxie:prashantfb65-x"
+        },
+        {
+            "address": "0x2200744823E449bacdc34baeE0FEc99c42D8049a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1693699293364809728/YsFkTem8.jpg",
+            "name": "Moxie:kesh5210-x",
+            "symbol": "Moxie:kesh5210-x"
         }
     ],
     "version": {
