@@ -247,6 +247,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859878769563246594/22C6_QE0.jpg",
             "name": "Moxie:CyberShakti-x",
             "symbol": "Moxie:CyberShakti-x"
+        },
+        {
+            "address": "0x13c3e1B28159469B68CF11E88AB72a3Fe5CE3Ac6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1758435071751868416/xaPkIgl8.jpg",
+            "name": "Moxie:JimiCohen-x",
+            "symbol": "Moxie:JimiCohen-x"
         }
     ],
     "version": {
