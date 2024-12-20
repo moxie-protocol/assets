@@ -65,6 +65,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843324157947224068/G6g0XqwG.jpg",
             "name": "Moxie:sharathkrml-x",
             "symbol": "Moxie:sharathkrml-x"
+        },
+        {
+            "address": "0xFB4a48EbEf66a13F6D80861A5FF28d65c279A438",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1838579348086882305/KEjwEWVa.jpg",
+            "name": "Moxie:TalentProtocol-x",
+            "symbol": "Moxie:TalentProtocol-x"
         }
     ],
     "version": {
