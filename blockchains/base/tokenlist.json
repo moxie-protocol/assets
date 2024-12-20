@@ -1,11 +1,19 @@
 {
-  "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
-  "name": "Moxie",
-  "timestamp": "2024-12-18T10:42:14.722Z",
-  "tokens": [],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+    "logoURI": "https://moxie.xyz/images/icons/moxie-with-name.svg",
+    "name": "Moxie",
+    "timestamp": "2024-12-18T10:42:14.722Z",
+    "tokens": [
+        {
+            "address": "0xfCaC002F639edf2b58B5f3b4161Ae8011aC0302A",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "korayozpalamutcu",
+            "symbol": "fid:12495"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
