@@ -23,6 +23,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1675826459967991808/JoHbMvvM.png",
             "name": "Moxie:IPeciura8387-x",
             "symbol": "Moxie:IPeciura8387-x"
+        },
+        {
+            "address": "0x77587849c46f05FF733CBD989dbb8721a508DF10",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "cryptostan",
+            "symbol": "fid:352465"
         }
     ],
     "version": {
