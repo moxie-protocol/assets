@@ -58,6 +58,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c978eb40-52f7-4e9d-287d-fa0246e7c500/original",
             "name": "Moxie:mysticpol.eth-fc",
             "symbol": "Moxie:mysticpol.eth-fc"
+        },
+        {
+            "address": "0x03Bb066fe76fa1EFAA0E7a20104A3be95e07Cf6d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1843324157947224068/G6g0XqwG.jpg",
+            "name": "Moxie:sharathkrml-x",
+            "symbol": "Moxie:sharathkrml-x"
         }
     ],
     "version": {
