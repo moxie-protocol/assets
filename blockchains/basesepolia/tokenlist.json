@@ -93,6 +93,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf787fb9-6d11-43fa-ab34-9d14e8fc3100/original",
             "name": "Moxie:gopi-bathala-fc",
             "symbol": "Moxie:gopi-bathala-fc"
+        },
+        {
+            "address": "0x5F0982Cc504F2FeE7571aC4E8AA670d4F1403985",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828574942881050624/9W8fMT2v.jpg",
+            "name": "Moxie:bhsk_3494-x",
+            "symbol": "Moxie:bhsk_3494-x"
         }
     ],
     "version": {
