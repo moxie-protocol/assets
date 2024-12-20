@@ -156,6 +156,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864293276444184580/SYcDxH7y.jpg",
             "name": "Moxie:jaadasss-x",
             "symbol": "Moxie:jaadasss-x"
+        },
+        {
+            "address": "0xBa5aEd34ff2596B1E69FD86542A84D7603dAFC7e",
+            "decimals": 18,
+            "logoURI": "https://x.com/805ETH/status/1870168462737453167",
+            "name": "Moxie:ber4m.eth-ens",
+            "symbol": "Moxie:ber4m.eth-ens"
         }
     ],
     "version": {
