@@ -121,6 +121,13 @@
             "logoURI": "https://i.ibb.co/NnNvRyP/DALLE2024-12-2020-43-36-Amodernvibrantlogofor-Blockchain-Buddy-BBYfeaturingafriendlyandfuturisticdig.png",
             "name": "Moxie:dralkhatib.base.eth-base",
             "symbol": "Moxie:dralkhatib.base.eth-base"
+        },
+        {
+            "address": "0x00EcBcd8a338Ab8BdA2602Ee6F646E171BC2632a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868077144229728256/GcHE1MH2.jpg",
+            "name": "Moxie:Nftkid23-x",
+            "symbol": "Moxie:Nftkid23-x"
         }
     ],
     "version": {
