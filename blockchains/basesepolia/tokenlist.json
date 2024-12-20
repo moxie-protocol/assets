@@ -135,6 +135,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/954271537191837696/DXNyU1kN_normal.jpg",
             "name": "Moxie:Puroos-x",
             "symbol": "Moxie:Puroos-x"
+        },
+        {
+            "address": "0xF9b76f4256cdbAbEFB5556B2F843B61b4830c097",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1486420463005978628/kgQqMbKh_normal.jpg",
+            "name": "Moxie:Inna77537771-x",
+            "symbol": "Moxie:Inna77537771-x"
         }
     ],
     "version": {
