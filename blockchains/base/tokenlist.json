@@ -261,6 +261,13 @@
             "logoURI": "https://i.imgur.com/OdlzhTc.jpg",
             "name": "Moxie:warpedone-fc",
             "symbol": "Moxie:warpedone-fc"
+        },
+        {
+            "address": "0x4a9835dCADa1c3Bb0Ec0B47AA3A427Ec37B99C8E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9jdnK8H.jpg",
+            "name": "Moxie:cryptomilovat-fc",
+            "symbol": "Moxie:cryptomilovat-fc"
         }
     ],
     "version": {
