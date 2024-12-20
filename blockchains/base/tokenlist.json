@@ -205,6 +205,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1823434492960288768/aYtGdoyb.jpg",
             "name": "Moxie:Marty_cFly-x",
             "symbol": "Moxie:Marty_cFly-x"
+        },
+        {
+            "address": "0xFD392AFBd66cf9750ca3AFEd5A15d5E718907D08",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb45d7e1-b9f6-4052-92f3-549ccf02b000/rectcrop3",
+            "name": "Moxie:socialbase-fc",
+            "symbol": "Moxie:socialbase-fc"
         }
     ],
     "version": {
