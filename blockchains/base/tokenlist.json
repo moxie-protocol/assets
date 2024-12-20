@@ -30,6 +30,13 @@
             "logoURI": null,
             "name": "cryptostan",
             "symbol": "fid:352465"
+        },
+        {
+            "address": "0x125490489A27d541e39813c08D260dEbac071BB7",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/base/images/base-network.png",
+            "name": "Base Economy",
+            "symbol": "base-economy"
         }
     ],
     "version": {
