@@ -212,6 +212,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb45d7e1-b9f6-4052-92f3-549ccf02b000/rectcrop3",
             "name": "Moxie:socialbase-fc",
             "symbol": "Moxie:socialbase-fc"
+        },
+        {
+            "address": "0x661a72FB06C0F30f341805cfA29eaA9C4c2493a5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1862813516144562176/-qQzyOkx.jpg",
+            "name": "Moxie:richonbase-x",
+            "symbol": "Moxie:richonbase-x"
         }
     ],
     "version": {
