@@ -86,6 +86,13 @@
             "logoURI": null,
             "name": "ksenia",
             "symbol": "fid:294174"
+        },
+        {
+            "address": "0x3eE9546589dc2E26de12D07680A73B08C20bAe23",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1794842534788608000/A7MghsC_.jpg",
+            "name": "Moxie:DrewAustin-x",
+            "symbol": "Moxie:DrewAustin-x"
         }
     ],
     "version": {
