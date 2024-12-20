@@ -114,6 +114,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795831522437574656/LFpn_T9f_normal.jpg",
             "name": "Moxie:urNumber01Hater-x",
             "symbol": "Moxie:urNumber01Hater-x"
+        },
+        {
+            "address": "0xb0a26b3749C2520Ba8A5D1A1bA2f6c95ee400190",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "name": "Moxie:Skundu55128-x",
+            "symbol": "Moxie:Skundu55128-x"
         }
     ],
     "version": {
