@@ -583,6 +583,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1749572341086973952/vXAv25Jl.jpg",
             "name": "Moxie:hcrypto_trainer-x",
             "symbol": "Moxie:hcrypto_trainer-x"
+        },
+        {
+            "address": "0x9019C56AFec21c34f4C2D724210A8203f623Eaa9",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6OF7-sVQ5TawHLqfEDOlbxK9hMtJ6Wfiyg\u0026s",
+            "name": "Moxie:mersin05.eth-ens",
+            "symbol": "Moxie:mersin05.eth-ens"
         }
     ],
     "version": {
