@@ -877,6 +877,13 @@
             "logoURI": "https://drive.google.com/file/d/1xlvGZ_G6VCiTx82EIw1pUArPN8XTo-38/view?usp=drive_link",
             "name": "Moxie:lev51.eth-ens",
             "symbol": "Moxie:lev51.eth-ens"
+        },
+        {
+            "address": "0x4F951b9cDB6dB09DB1E5820272958FD8f0DbB57e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1748901394332172288/4gHzbqos.jpg",
+            "name": "Moxie:MemeCoinMania77-x",
+            "symbol": "Moxie:MemeCoinMania77-x"
         }
     ],
     "version": {
