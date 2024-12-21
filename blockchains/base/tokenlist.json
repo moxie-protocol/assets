@@ -555,6 +555,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1818629052363948036/ihmHTT9S.jpg",
             "name": "Moxie:asalimasali1-x",
             "symbol": "Moxie:asalimasali1-x"
+        },
+        {
+            "address": "0x58eA9F11E3D9fBE9a7e17180231D92f097C7F7A6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Df7qRhn.jpg",
+            "name": "Moxie:k4-fc",
+            "symbol": "Moxie:k4-fc"
         }
     ],
     "version": {
