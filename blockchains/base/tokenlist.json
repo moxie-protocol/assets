@@ -569,6 +569,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/147e538b-d48f-4f9d-0bde-efd4bae69d00/original",
             "name": "Moxie:kayvanvakily-fc",
             "symbol": "Moxie:kayvanvakily-fc"
+        },
+        {
+            "address": "0x9C1E1F505d6f686BF72EF83CE6D9d2F8CAFbB016",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eCUdni4.jpg",
+            "name": "Moxie:pinkgirl-fc",
+            "symbol": "Moxie:pinkgirl-fc"
         }
     ],
     "version": {
