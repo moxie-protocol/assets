@@ -835,6 +835,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1328136561653903360/NZ7sqTRd.jpg",
             "name": "Moxie:codingsh-x",
             "symbol": "Moxie:codingsh-x"
+        },
+        {
+            "address": "0xEeC171fae3568F66Cc9974447160f8a32F20Ce67",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1667858075145969665/UY5T1vLW.jpg",
+            "name": "Moxie:KHshohel4-x",
+            "symbol": "Moxie:KHshohel4-x"
         }
     ],
     "version": {
