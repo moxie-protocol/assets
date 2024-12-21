@@ -618,6 +618,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeif2ut7uytjfphit2krnoknyccmzudi63kis3tpo4isezq6w6ixwyi",
             "name": "Moxie:napaxtra-fc",
             "symbol": "Moxie:napaxtra-fc"
+        },
+        {
+            "address": "0x736eee764Ff520b11Bb4987a5eE3CE9efb10d7DD",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/sFyF1xF",
+            "name": "Moxie:nelii.base.eth-base",
+            "symbol": "Moxie:nelii.base.eth-base"
         }
     ],
     "version": {
