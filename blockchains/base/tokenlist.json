@@ -513,6 +513,13 @@
             "logoURI": "https://i.imgur.com/qDdsaRb.jpg",
             "name": "Moxie:netman-fc",
             "symbol": "Moxie:netman-fc"
+        },
+        {
+            "address": "0x733eE5232e1d79DDcA32A064646de3C00cBF8DcA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa088bd7-e6dd-42ac-b8b8-270685332100/rectcrop3",
+            "name": "Moxie:mostafa-fc",
+            "symbol": "Moxie:mostafa-fc"
         }
     ],
     "version": {
