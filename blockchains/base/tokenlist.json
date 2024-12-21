@@ -800,6 +800,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866521645407469568/EgG_UtAo.jpg",
             "name": "Moxie:r0bp-x",
             "symbol": "Moxie:r0bp-x"
+        },
+        {
+            "address": "0xaA131E7fc2887497C888c89597d934048220968C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4c82d5a-99e0-4256-8bc7-fbbdf5743100/rectcrop3",
+            "name": "Moxie:86ed-fc",
+            "symbol": "Moxie:86ed-fc"
         }
     ],
     "version": {
