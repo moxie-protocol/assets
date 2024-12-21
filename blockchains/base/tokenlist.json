@@ -625,6 +625,13 @@
             "logoURI": "https://ibb.co/sFyF1xF",
             "name": "Moxie:nelii.base.eth-base",
             "symbol": "Moxie:nelii.base.eth-base"
+        },
+        {
+            "address": "0xd68dcF4A8772973e60F5589Bdd44Be2b727EF806",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8492cd25-8464-49e4-6228-1f402804ae00/rectcrop3",
+            "name": "Moxie:amique1122-fc",
+            "symbol": "Moxie:amique1122-fc"
         }
     ],
     "version": {
