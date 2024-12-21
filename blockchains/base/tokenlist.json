@@ -744,6 +744,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1765228511759884288/ZR9yim8x.jpg",
             "name": "Moxie:Izaya718-x",
             "symbol": "Moxie:Izaya718-x"
+        },
+        {
+            "address": "0x00bb9E9EAE0AB40f44aa41f0bD0e440a3f548da2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1733567303478886401/LV-L1DBr.png",
+            "name": "Moxie:omiaydin-x",
+            "symbol": "Moxie:omiaydin-x"
         }
     ],
     "version": {
