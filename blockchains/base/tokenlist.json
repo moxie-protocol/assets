@@ -478,6 +478,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a7031c2-3762-4696-30d9-262cc3c08a00/rectcrop3",
             "name": "Moxie:mapex-fc",
             "symbol": "Moxie:mapex-fc"
+        },
+        {
+            "address": "0x95189da54d17a3093444D7A4B282B9D5903724e2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wcw1wo7.jpg",
+            "name": "Moxie:hsn-fc",
+            "symbol": "Moxie:hsn-fc"
         }
     ],
     "version": {
