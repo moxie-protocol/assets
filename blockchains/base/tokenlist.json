@@ -667,6 +667,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868727395684847616/bRFc2Ba4.jpg",
             "name": "Moxie:Shinobu_takeru-x",
             "symbol": "Moxie:Shinobu_takeru-x"
+        },
+        {
+            "address": "0x5073A96935167F4114Ac3027B4D4dDCFdFB1CC02",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fgCyPLA.jpg",
+            "name": "Moxie:elhamsadr-fc",
+            "symbol": "Moxie:elhamsadr-fc"
         }
     ],
     "version": {
