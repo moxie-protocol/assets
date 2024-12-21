@@ -639,6 +639,13 @@
             "logoURI": "https://warpcast.com/bigstrongboy",
             "name": "Moxie:shefff.base.eth-base",
             "symbol": "Moxie:shefff.base.eth-base"
+        },
+        {
+            "address": "0x207D7d896625Bb67abF59401F53B1d09D97b100a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lkaYLeq.jpg",
+            "name": "Moxie:kianousham-fc",
+            "symbol": "Moxie:kianousham-fc"
         }
     ],
     "version": {
