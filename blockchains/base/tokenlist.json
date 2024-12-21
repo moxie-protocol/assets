@@ -709,6 +709,13 @@
             "logoURI": "https://i.imgur.com/8spQR3w.jpg",
             "name": "Moxie:cryptohamed-fc",
             "symbol": "Moxie:cryptohamed-fc"
+        },
+        {
+            "address": "0x1039e747171F3EA12cF1174804F9FccA75Fe86e2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81ffa340-ce3a-4196-23f4-771ec9099300/rectcrop3",
+            "name": "Moxie:chrisis-fc",
+            "symbol": "Moxie:chrisis-fc"
         }
     ],
     "version": {
