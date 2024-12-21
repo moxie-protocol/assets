@@ -394,6 +394,13 @@
             "logoURI": "https://i.imgur.com/meYSy9Q.jpg",
             "name": "Moxie:at79w-fc",
             "symbol": "Moxie:at79w-fc"
+        },
+        {
+            "address": "0x8F7E39DCc9B178cc1C61216a9D3B82559ca24d17",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5486d3da-3d2d-4100-00b5-9e74b6a3ab00/rectcrop3",
+            "name": "Moxie:mudhorn-fc",
+            "symbol": "Moxie:mudhorn-fc"
         }
     ],
     "version": {
