@@ -779,6 +779,13 @@
             "logoURI": "https://i.imgur.com/5Ue2YEF.png",
             "name": "Moxie:btcsatoshi-fc",
             "symbol": "Moxie:btcsatoshi-fc"
+        },
+        {
+            "address": "0x1244A601Ea5C167c37B1d91A157e2fB404CE3256",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1741495397384679424/fSFNSzKb.jpg",
+            "name": "Moxie:JenPanepinto-x",
+            "symbol": "Moxie:JenPanepinto-x"
         }
     ],
     "version": {
