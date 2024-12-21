@@ -863,6 +863,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1721057201874157568/wY7UYB65.jpg",
             "name": "Moxie:dinylya_7-x",
             "symbol": "Moxie:dinylya_7-x"
+        },
+        {
+            "address": "0x4fB71ab11C40d7a7b5EB12Df1a9b4c51fE02085A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70646856-67c5-4284-5457-20a3217b7000/original",
+            "name": "Moxie:terricola.eth-fc",
+            "symbol": "Moxie:terricola.eth-fc"
         }
     ],
     "version": {
