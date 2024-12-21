@@ -338,6 +338,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e1d772d-7f83-425e-19be-deb8088ae100/rectcrop3",
             "name": "Moxie:nikolinas-fc",
             "symbol": "Moxie:nikolinas-fc"
+        },
+        {
+            "address": "0xED994581FEC422815A8aE3138C79Ac4C66684e96",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/212d2a38-befd-4f14-b14f-86060503c800/original",
+            "name": "Moxie:banlamduocma-fc",
+            "symbol": "Moxie:banlamduocma-fc"
         }
     ],
     "version": {
