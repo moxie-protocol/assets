@@ -331,6 +331,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da2e4dc8-b039-4322-7dae-1162806f6b00/rectcrop3",
             "name": "Moxie:xavierzx-fc",
             "symbol": "Moxie:xavierzx-fc"
+        },
+        {
+            "address": "0x99686F0B89311ed19D001D2a3d4fDf6AA14f47fb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e1d772d-7f83-425e-19be-deb8088ae100/rectcrop3",
+            "name": "Moxie:nikolinas-fc",
+            "symbol": "Moxie:nikolinas-fc"
         }
     ],
     "version": {
