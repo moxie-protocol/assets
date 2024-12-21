@@ -492,6 +492,13 @@
             "logoURI": "https://i.imgur.com/QLgRznb.png",
             "name": "Moxie:danillo-fc",
             "symbol": "Moxie:danillo-fc"
+        },
+        {
+            "address": "0x9F115c7E3A3794f38b06f94925700934EA15f7cd",
+            "decimals": 18,
+            "logoURI": "https://images.app.goo.gl/A9zTfNib9QPyyWFQA",
+            "name": "Moxie:chypno.base.eth-base",
+            "symbol": "Moxie:chypno.base.eth-base"
         }
     ],
     "version": {
