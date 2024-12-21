@@ -506,6 +506,13 @@
             "logoURI": "https://i.seadn.io/s/raw/files/0b5db20dd1c0505e0f9866679ea505f6.png?w=500\u0026auto=format",
             "name": "Moxie:ems911-fc",
             "symbol": "Moxie:ems911-fc"
+        },
+        {
+            "address": "0x4303f487c7def103C7EA4248472755A59278CdEE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qDdsaRb.jpg",
+            "name": "Moxie:netman-fc",
+            "symbol": "Moxie:netman-fc"
         }
     ],
     "version": {
