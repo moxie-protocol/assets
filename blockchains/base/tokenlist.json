@@ -548,6 +548,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870398478867628032/E1Osv24Z.jpg",
             "name": "Moxie:lord__salim-x",
             "symbol": "Moxie:lord__salim-x"
+        },
+        {
+            "address": "0x7041F7af19b6914305f8281e5af4C2C7f320B007",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1818629052363948036/ihmHTT9S.jpg",
+            "name": "Moxie:asalimasali1-x",
+            "symbol": "Moxie:asalimasali1-x"
         }
     ],
     "version": {
