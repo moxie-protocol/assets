@@ -681,6 +681,13 @@
             "logoURI": "https://i.imgur.com/pjXFeGs.jpg",
             "name": "Moxie:mrpullback-fc",
             "symbol": "Moxie:mrpullback-fc"
+        },
+        {
+            "address": "0xcA5a0BC8335b6ACe79c1DF111334ecf76db83439",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/99932304-76f7-40bd-92b8-74ac4041ce00/rectcrop3",
+            "name": "Moxie:baraan-fc",
+            "symbol": "Moxie:baraan-fc"
         }
     ],
     "version": {
