@@ -590,6 +590,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6OF7-sVQ5TawHLqfEDOlbxK9hMtJ6Wfiyg\u0026s",
             "name": "Moxie:mersin05.eth-ens",
             "symbol": "Moxie:mersin05.eth-ens"
+        },
+        {
+            "address": "0x19977Cb28Ac337662488375A447F0de46C2Af36c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rhFkAql.jpg",
+            "name": "Moxie:nevtrace-fc",
+            "symbol": "Moxie:nevtrace-fc"
         }
     ],
     "version": {
