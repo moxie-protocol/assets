@@ -415,6 +415,13 @@
             "logoURI": "https://tnefufn3icgcny7hjgydjnvwsfwie7tvlrzslzslb2yjz5s4zzba.arweave.net/m0haFbtAjCbj50mwNLa2kWyCfnVccyXmSw6wnPZczkI/bnxdqz_image.jpg",
             "name": "Moxie:memelovers.base.eth-base",
             "symbol": "Moxie:memelovers.base.eth-base"
+        },
+        {
+            "address": "0x2f39eA381787CF3180CB82C347AFc2e1f65f1776",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5dded35e-b111-4e42-5352-deb43b452600/rectcrop3",
+            "name": "Moxie:meppo-fc",
+            "symbol": "Moxie:meppo-fc"
         }
     ],
     "version": {
