@@ -730,6 +730,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1716701309880225792/tnzKPPlR.jpg",
             "name": "Moxie:jveerendra-x",
             "symbol": "Moxie:jveerendra-x"
+        },
+        {
+            "address": "0x4B124b58FCBB49816952e3a9972f49b66969AA99",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/PzRy7TB",
+            "name": "Moxie:arabicwhale.base.eth-base",
+            "symbol": "Moxie:arabicwhale.base.eth-base"
         }
     ],
     "version": {
