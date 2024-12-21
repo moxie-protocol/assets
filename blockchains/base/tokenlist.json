@@ -716,6 +716,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81ffa340-ce3a-4196-23f4-771ec9099300/rectcrop3",
             "name": "Moxie:chrisis-fc",
             "symbol": "Moxie:chrisis-fc"
+        },
+        {
+            "address": "0x537C0D1431515b0075bd2b99c1FBFF08bF27f334",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c80716f-a146-47cc-2d75-10e33a542e00/rectcrop3",
+            "name": "Moxie:timcoin-fc",
+            "symbol": "Moxie:timcoin-fc"
         }
     ],
     "version": {
