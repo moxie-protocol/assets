@@ -772,6 +772,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d0f2022-4ca9-46b8-4292-ba31dbaf2000/original",
             "name": "Moxie:saraahhxi-fc",
             "symbol": "Moxie:saraahhxi-fc"
+        },
+        {
+            "address": "0xF051Aa7C2E8Be8eDf6153Aee844ab77C2661A919",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5Ue2YEF.png",
+            "name": "Moxie:btcsatoshi-fc",
+            "symbol": "Moxie:btcsatoshi-fc"
         }
     ],
     "version": {
