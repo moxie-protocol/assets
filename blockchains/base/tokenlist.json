@@ -758,6 +758,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/828e8f5f-8285-4a05-e55e-7e4b7e41c500/original",
             "name": "Moxie:bezos-fc",
             "symbol": "Moxie:bezos-fc"
+        },
+        {
+            "address": "0xD30e4F82c82fEf8EAc02f1A35DD69911f9a383Ba",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "dianchik",
+            "symbol": "fid:327468"
         }
     ],
     "version": {
