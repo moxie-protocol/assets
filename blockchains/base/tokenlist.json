@@ -723,6 +723,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c80716f-a146-47cc-2d75-10e33a542e00/rectcrop3",
             "name": "Moxie:timcoin-fc",
             "symbol": "Moxie:timcoin-fc"
+        },
+        {
+            "address": "0x523e51c373DaC8bD78c25d8CAd5f7772398C3dd6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1716701309880225792/tnzKPPlR.jpg",
+            "name": "Moxie:jveerendra-x",
+            "symbol": "Moxie:jveerendra-x"
         }
     ],
     "version": {
