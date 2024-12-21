@@ -828,6 +828,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1363736296565317637/O6iHBTHA.jpg",
             "name": "Moxie:segall_max-x",
             "symbol": "Moxie:segall_max-x"
+        },
+        {
+            "address": "0xEc45C45FDba299335796D815F070075b24E83463",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1328136561653903360/NZ7sqTRd.jpg",
+            "name": "Moxie:codingsh-x",
+            "symbol": "Moxie:codingsh-x"
         }
     ],
     "version": {
