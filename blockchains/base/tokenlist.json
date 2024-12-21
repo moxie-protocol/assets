@@ -471,6 +471,13 @@
             "logoURI": null,
             "name": "/socks",
             "symbol": "cid:socks"
+        },
+        {
+            "address": "0x23E7607231033848b680E3e35EeC985f22C5D19D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a7031c2-3762-4696-30d9-262cc3c08a00/rectcrop3",
+            "name": "Moxie:mapex-fc",
+            "symbol": "Moxie:mapex-fc"
         }
     ],
     "version": {
