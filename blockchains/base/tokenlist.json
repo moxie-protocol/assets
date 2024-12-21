@@ -660,6 +660,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1809958416237973504/BC4M7G9E.jpg",
             "name": "Moxie:Liam4chill-x",
             "symbol": "Moxie:Liam4chill-x"
+        },
+        {
+            "address": "0xf9e620aC3780534C002254014C49d24595baDaD5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868727395684847616/bRFc2Ba4.jpg",
+            "name": "Moxie:Shinobu_takeru-x",
+            "symbol": "Moxie:Shinobu_takeru-x"
         }
     ],
     "version": {
