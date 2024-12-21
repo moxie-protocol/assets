@@ -345,6 +345,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/212d2a38-befd-4f14-b14f-86060503c800/original",
             "name": "Moxie:banlamduocma-fc",
             "symbol": "Moxie:banlamduocma-fc"
+        },
+        {
+            "address": "0xeF7e5d6F0359191F6f75e1555A10745ad2EfF218",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11ec3728-aaa2-45f2-96d7-5a687e34c600/original",
+            "name": "Moxie:stustustudio-fc",
+            "symbol": "Moxie:stustustudio-fc"
         }
     ],
     "version": {
