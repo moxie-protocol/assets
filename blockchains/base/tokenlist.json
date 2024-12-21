@@ -373,6 +373,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48909cdf-4234-4916-5fd8-3bc62623b900/original",
             "name": "Moxie:meyde.eth-ens",
             "symbol": "Moxie:meyde.eth-ens"
+        },
+        {
+            "address": "0xC647A0D9E5D6a37EE9A69CD4FCE94dbEe93D0C18",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90496053-dacf-498d-3094-390b2ca6b300/rectcrop3",
+            "name": "Moxie:itoajah-fc",
+            "symbol": "Moxie:itoajah-fc"
         }
     ],
     "version": {
