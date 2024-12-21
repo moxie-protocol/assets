@@ -611,6 +611,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0dcb0be6-0028-44e0-833b-2cd7e3c33500/original",
             "name": "Moxie:kakarotand-fc",
             "symbol": "Moxie:kakarotand-fc"
+        },
+        {
+            "address": "0xdF8a23C179a6C616671473b22bb2DabE0E3397a9",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeif2ut7uytjfphit2krnoknyccmzudi63kis3tpo4isezq6w6ixwyi",
+            "name": "Moxie:napaxtra-fc",
+            "symbol": "Moxie:napaxtra-fc"
         }
     ],
     "version": {
