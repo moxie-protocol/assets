@@ -793,6 +793,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82f98a3a-37bb-46e4-bdfb-d7ef9546cb00/rectcrop3",
             "name": "Moxie:uncle777-fc",
             "symbol": "Moxie:uncle777-fc"
+        },
+        {
+            "address": "0xE2CAD73257A686a06e09f59e579b49b959D82445",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866521645407469568/EgG_UtAo.jpg",
+            "name": "Moxie:r0bp-x",
+            "symbol": "Moxie:r0bp-x"
         }
     ],
     "version": {
