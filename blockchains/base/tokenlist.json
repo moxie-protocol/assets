@@ -317,6 +317,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05498d19-56e8-4f14-9319-823dfae0be00/rectcrop3",
             "name": "Moxie:dovecoco-fc",
             "symbol": "Moxie:dovecoco-fc"
+        },
+        {
+            "address": "0xa76FAFa76750F558E8bA9Dcb905eaE48e901DBA3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1734530701247021058/lzUcrYBE.jpg",
+            "name": "Moxie:still_shotz_-x",
+            "symbol": "Moxie:still_shotz_-x"
         }
     ],
     "version": {
