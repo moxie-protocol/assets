@@ -352,6 +352,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11ec3728-aaa2-45f2-96d7-5a687e34c600/original",
             "name": "Moxie:stustustudio-fc",
             "symbol": "Moxie:stustustudio-fc"
+        },
+        {
+            "address": "0x2f5A964b4d82a2fBf34917B4cc9d3434720a7d68",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50b1e1ec-62e3-4d4d-c446-e40c04e1fd00/rectcrop3",
+            "name": "Moxie:gimmedanger.eth-ens",
+            "symbol": "Moxie:gimmedanger.eth-ens"
         }
     ],
     "version": {
