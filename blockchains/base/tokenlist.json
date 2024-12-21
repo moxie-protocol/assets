@@ -632,6 +632,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8492cd25-8464-49e4-6228-1f402804ae00/rectcrop3",
             "name": "Moxie:amique1122-fc",
             "symbol": "Moxie:amique1122-fc"
+        },
+        {
+            "address": "0x55920c7875df8a863E774400Bd35152acEBEfaF0",
+            "decimals": 18,
+            "logoURI": "https://warpcast.com/bigstrongboy",
+            "name": "Moxie:shefff.base.eth-base",
+            "symbol": "Moxie:shefff.base.eth-base"
         }
     ],
     "version": {
