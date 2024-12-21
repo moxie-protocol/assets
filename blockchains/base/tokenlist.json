@@ -842,6 +842,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1667858075145969665/UY5T1vLW.jpg",
             "name": "Moxie:KHshohel4-x",
             "symbol": "Moxie:KHshohel4-x"
+        },
+        {
+            "address": "0x736dd97e5De0e1ED3393d55Ec7A8778944C51136",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869936316470747136/0O9IlXx1.jpg",
+            "name": "Moxie:shiddycoin-x",
+            "symbol": "Moxie:shiddycoin-x"
         }
     ],
     "version": {
