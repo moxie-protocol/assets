@@ -807,6 +807,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4c82d5a-99e0-4256-8bc7-fbbdf5743100/rectcrop3",
             "name": "Moxie:86ed-fc",
             "symbol": "Moxie:86ed-fc"
+        },
+        {
+            "address": "0x095C7a6709dc1f53B09a9e8e60Ec059Ea8655Cec",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreicjlrk43qz7urp74ezqbtaqrx47zknezmahyhqnb4rg6zdv65g4jm",
+            "name": "Moxie:chungsanman-fc",
+            "symbol": "Moxie:chungsanman-fc"
         }
     ],
     "version": {
