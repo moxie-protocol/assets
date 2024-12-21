@@ -562,6 +562,13 @@
             "logoURI": "https://i.imgur.com/Df7qRhn.jpg",
             "name": "Moxie:k4-fc",
             "symbol": "Moxie:k4-fc"
+        },
+        {
+            "address": "0xEA20C48484D9262023F7c20815C47e466AE75f31",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/147e538b-d48f-4f9d-0bde-efd4bae69d00/original",
+            "name": "Moxie:kayvanvakily-fc",
+            "symbol": "Moxie:kayvanvakily-fc"
         }
     ],
     "version": {
