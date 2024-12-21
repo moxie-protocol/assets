@@ -527,6 +527,13 @@
             "logoURI": "https://i.imgur.com/GTJwOzF.jpg",
             "name": "Moxie:dump-fc",
             "symbol": "Moxie:dump-fc"
+        },
+        {
+            "address": "0x2D72dc574820d202bcac9268d594D7c5bed8AE81",
+            "decimals": 18,
+            "logoURI": "https://images.app.goo.gl/pfZmPxQnoLzwvPdU9",
+            "name": "Moxie:vilakit.eth-ens",
+            "symbol": "Moxie:vilakit.eth-ens"
         }
     ],
     "version": {
