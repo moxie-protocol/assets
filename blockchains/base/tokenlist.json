@@ -576,6 +576,13 @@
             "logoURI": "https://i.imgur.com/eCUdni4.jpg",
             "name": "Moxie:pinkgirl-fc",
             "symbol": "Moxie:pinkgirl-fc"
+        },
+        {
+            "address": "0xF2eB25B991C39f73c9D96F1271F7DDfC3FEfbf00",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1749572341086973952/vXAv25Jl.jpg",
+            "name": "Moxie:hcrypto_trainer-x",
+            "symbol": "Moxie:hcrypto_trainer-x"
         }
     ],
     "version": {
