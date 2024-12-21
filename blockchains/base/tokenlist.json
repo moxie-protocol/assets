@@ -359,6 +359,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50b1e1ec-62e3-4d4d-c446-e40c04e1fd00/rectcrop3",
             "name": "Moxie:gimmedanger.eth-ens",
             "symbol": "Moxie:gimmedanger.eth-ens"
+        },
+        {
+            "address": "0xB1a5C3dC60Cd5512ee1B59319606E1C4DE8d904c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5dea431c-4e62-4a80-be88-5b366622d500/original",
+            "name": "Moxie:hyrae-fc",
+            "symbol": "Moxie:hyrae-fc"
         }
     ],
     "version": {
