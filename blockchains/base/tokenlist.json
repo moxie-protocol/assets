@@ -646,6 +646,13 @@
             "logoURI": "https://i.imgur.com/lkaYLeq.jpg",
             "name": "Moxie:kianousham-fc",
             "symbol": "Moxie:kianousham-fc"
+        },
+        {
+            "address": "0xFbC54CeEFDC0018FBbc229aAcB1FeDFecaf6ec0A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2668c57b-8a5c-4e95-e1cd-d8882bd20800/rectcrop3",
+            "name": "Moxie:vcool-fc",
+            "symbol": "Moxie:vcool-fc"
         }
     ],
     "version": {
