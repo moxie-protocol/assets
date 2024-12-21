@@ -450,6 +450,13 @@
             "logoURI": "https://warpcast.com/neoh20/0xf6ddb7d8",
             "name": "Moxie:NeoH20-gt",
             "symbol": "Moxie:NeoH20-gt"
+        },
+        {
+            "address": "0x769b7BE2dF7CB2F4B3E0b44558e8d9D173dAD0E2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f61e189d-2dc6-46f2-2a1b-21cbfb26a100/rectcrop3",
+            "name": "Moxie:homohugh-fc",
+            "symbol": "Moxie:homohugh-fc"
         }
     ],
     "version": {
