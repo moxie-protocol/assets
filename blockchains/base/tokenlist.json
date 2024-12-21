@@ -436,6 +436,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c34cc56-0b72-44c1-7dda-19b80b25de00/rectcrop3",
             "name": "Moxie:mahmoud-fc",
             "symbol": "Moxie:mahmoud-fc"
+        },
+        {
+            "address": "0x4A9120E52e246357Dce865DAeEc3b2BD5e235E4B",
+            "decimals": 18,
+            "logoURI": "https://avatars.mds.yandex.net/i?id=142fd2bb50df15331bc70975d265d077_l-10527650-images-thumbs\u0026n=33\u0026w=1440\u0026h=720",
+            "name": "Moxie:dskromm.base.eth-base",
+            "symbol": "Moxie:dskromm.base.eth-base"
         }
     ],
     "version": {
