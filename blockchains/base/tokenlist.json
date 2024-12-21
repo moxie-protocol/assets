@@ -499,6 +499,13 @@
             "logoURI": "https://images.app.goo.gl/A9zTfNib9QPyyWFQA",
             "name": "Moxie:chypno.base.eth-base",
             "symbol": "Moxie:chypno.base.eth-base"
+        },
+        {
+            "address": "0x0Bd24EEE4bc33cFb92ab8D86B06E1EFa02b9C591",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/s/raw/files/0b5db20dd1c0505e0f9866679ea505f6.png?w=500\u0026auto=format",
+            "name": "Moxie:ems911-fc",
+            "symbol": "Moxie:ems911-fc"
         }
     ],
     "version": {
