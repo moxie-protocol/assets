@@ -870,6 +870,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70646856-67c5-4284-5457-20a3217b7000/original",
             "name": "Moxie:terricola.eth-fc",
             "symbol": "Moxie:terricola.eth-fc"
+        },
+        {
+            "address": "0xB345d45E6326b1AED35EAa4fA1FA32c01E63c384",
+            "decimals": 18,
+            "logoURI": "https://drive.google.com/file/d/1xlvGZ_G6VCiTx82EIw1pUArPN8XTo-38/view?usp=drive_link",
+            "name": "Moxie:lev51.eth-ens",
+            "symbol": "Moxie:lev51.eth-ens"
         }
     ],
     "version": {
