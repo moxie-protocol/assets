@@ -597,6 +597,13 @@
             "logoURI": "https://i.imgur.com/rhFkAql.jpg",
             "name": "Moxie:nevtrace-fc",
             "symbol": "Moxie:nevtrace-fc"
+        },
+        {
+            "address": "0x104aE1622370872AAdD6bdbfDFc6dbD811C0b9BA",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
+            "name": "Moxie:alimoji-fc",
+            "symbol": "Moxie:alimoji-fc"
         }
     ],
     "version": {
