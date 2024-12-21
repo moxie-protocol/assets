@@ -380,6 +380,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90496053-dacf-498d-3094-390b2ca6b300/rectcrop3",
             "name": "Moxie:itoajah-fc",
             "symbol": "Moxie:itoajah-fc"
+        },
+        {
+            "address": "0x0A56282dcDeF258F708c9CF9BA16418d5F4940C9",
+            "decimals": 18,
+            "logoURI": "https://tinypic.host/image/koles-w-kapturze-2.2bozaZ",
+            "name": "Moxie:brzydal.eth-ens",
+            "symbol": "Moxie:brzydal.eth-ens"
         }
     ],
     "version": {
