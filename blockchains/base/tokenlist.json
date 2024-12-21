@@ -429,6 +429,13 @@
             "logoURI": "https://images.app.goo.gl/Dxpok8Z7Stpj7Zs98",
             "name": "Moxie:jacobanadekakzfke.base.eth-base",
             "symbol": "Moxie:jacobanadekakzfke.base.eth-base"
+        },
+        {
+            "address": "0x4866881B5fb4AB793e606cb3BB52D239815638b8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c34cc56-0b72-44c1-7dda-19b80b25de00/rectcrop3",
+            "name": "Moxie:mahmoud-fc",
+            "symbol": "Moxie:mahmoud-fc"
         }
     ],
     "version": {
