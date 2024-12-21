@@ -366,6 +366,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5dea431c-4e62-4a80-be88-5b366622d500/original",
             "name": "Moxie:hyrae-fc",
             "symbol": "Moxie:hyrae-fc"
+        },
+        {
+            "address": "0x7F7bA2dfb163B0f5CB746Fd0A0A2573394C69270",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48909cdf-4234-4916-5fd8-3bc62623b900/original",
+            "name": "Moxie:meyde.eth-ens",
+            "symbol": "Moxie:meyde.eth-ens"
         }
     ],
     "version": {
