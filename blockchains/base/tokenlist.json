@@ -765,6 +765,13 @@
             "logoURI": null,
             "name": "dianchik",
             "symbol": "fid:327468"
+        },
+        {
+            "address": "0x2fF71694cF572A4a5Aa3B796fd61d0Cb9D1c010C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d0f2022-4ca9-46b8-4292-ba31dbaf2000/original",
+            "name": "Moxie:saraahhxi-fc",
+            "symbol": "Moxie:saraahhxi-fc"
         }
     ],
     "version": {
