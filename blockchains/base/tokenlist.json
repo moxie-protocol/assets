@@ -324,6 +324,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1734530701247021058/lzUcrYBE.jpg",
             "name": "Moxie:still_shotz_-x",
             "symbol": "Moxie:still_shotz_-x"
+        },
+        {
+            "address": "0xc722bDb1ee7e7C2ABB546F08b21aFFCB4763A173",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da2e4dc8-b039-4322-7dae-1162806f6b00/rectcrop3",
+            "name": "Moxie:xavierzx-fc",
+            "symbol": "Moxie:xavierzx-fc"
         }
     ],
     "version": {
