@@ -541,6 +541,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35f1d89b-16fc-4053-b896-c2b44aa98900/original",
             "name": "Moxie:babakstark-fc",
             "symbol": "Moxie:babakstark-fc"
+        },
+        {
+            "address": "0x18c5c5D005334aF68687777a8699a71abD92aFC5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870398478867628032/E1Osv24Z.jpg",
+            "name": "Moxie:lord__salim-x",
+            "symbol": "Moxie:lord__salim-x"
         }
     ],
     "version": {
