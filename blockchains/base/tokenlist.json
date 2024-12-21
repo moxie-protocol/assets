@@ -303,6 +303,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94dad00d-1f59-46be-bd8b-16776021a900/rectcrop3",
             "name": "Moxie:dolvin-fc",
             "symbol": "Moxie:dolvin-fc"
+        },
+        {
+            "address": "0x48717c190b26A9BabDd10c5946dEe3Ea5a879891",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/green.jpg",
+            "name": "Moxie:samiam-fc",
+            "symbol": "Moxie:samiam-fc"
         }
     ],
     "version": {
