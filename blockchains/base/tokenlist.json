@@ -751,6 +751,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1733567303478886401/LV-L1DBr.png",
             "name": "Moxie:omiaydin-x",
             "symbol": "Moxie:omiaydin-x"
+        },
+        {
+            "address": "0xd147FFBdF7424Ab69b132be52eb490A40bf08824",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/828e8f5f-8285-4a05-e55e-7e4b7e41c500/original",
+            "name": "Moxie:bezos-fc",
+            "symbol": "Moxie:bezos-fc"
         }
     ],
     "version": {
