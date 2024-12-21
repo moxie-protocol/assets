@@ -737,6 +737,13 @@
             "logoURI": "https://ibb.co/PzRy7TB",
             "name": "Moxie:arabicwhale.base.eth-base",
             "symbol": "Moxie:arabicwhale.base.eth-base"
+        },
+        {
+            "address": "0xc5d0Be386c015d8e0a6ea1907AB8d16E6A1Ad543",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1765228511759884288/ZR9yim8x.jpg",
+            "name": "Moxie:Izaya718-x",
+            "symbol": "Moxie:Izaya718-x"
         }
     ],
     "version": {
