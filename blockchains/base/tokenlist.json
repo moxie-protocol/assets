@@ -702,6 +702,13 @@
             "logoURI": "https://www.imghippo.com/i/RkV3523Po.png",
             "name": "Moxie:goldenbeard.base.eth-base",
             "symbol": "Moxie:goldenbeard.base.eth-base"
+        },
+        {
+            "address": "0x6ee99aBb9810143Acbbe32762aa06c4514814b94",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8spQR3w.jpg",
+            "name": "Moxie:cryptohamed-fc",
+            "symbol": "Moxie:cryptohamed-fc"
         }
     ],
     "version": {
