@@ -856,6 +856,13 @@
             "logoURI": "https://i.imgur.com/1O3F3jI.jpg",
             "name": "Moxie:didi7.eth-ens",
             "symbol": "Moxie:didi7.eth-ens"
+        },
+        {
+            "address": "0x732fe9D3426C7cC3d460df955084613715F3adB0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1721057201874157568/wY7UYB65.jpg",
+            "name": "Moxie:dinylya_7-x",
+            "symbol": "Moxie:dinylya_7-x"
         }
     ],
     "version": {
