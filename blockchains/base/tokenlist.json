@@ -387,6 +387,13 @@
             "logoURI": "https://tinypic.host/image/koles-w-kapturze-2.2bozaZ",
             "name": "Moxie:brzydal.eth-ens",
             "symbol": "Moxie:brzydal.eth-ens"
+        },
+        {
+            "address": "0xea41a983Dd1dEcb0bc3070A8F06be80F66a15c90",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/meYSy9Q.jpg",
+            "name": "Moxie:at79w-fc",
+            "symbol": "Moxie:at79w-fc"
         }
     ],
     "version": {
