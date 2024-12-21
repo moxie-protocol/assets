@@ -604,6 +604,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:alimoji-fc",
             "symbol": "Moxie:alimoji-fc"
+        },
+        {
+            "address": "0x59732dD1FEc5F5E4986eac9D1927DDac00aCfdC0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0dcb0be6-0028-44e0-833b-2cd7e3c33500/original",
+            "name": "Moxie:kakarotand-fc",
+            "symbol": "Moxie:kakarotand-fc"
         }
     ],
     "version": {
