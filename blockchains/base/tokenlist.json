@@ -520,6 +520,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa088bd7-e6dd-42ac-b8b8-270685332100/rectcrop3",
             "name": "Moxie:mostafa-fc",
             "symbol": "Moxie:mostafa-fc"
+        },
+        {
+            "address": "0x9a1ac299857EFdcdAFdA71ba836115027f5fE866",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GTJwOzF.jpg",
+            "name": "Moxie:dump-fc",
+            "symbol": "Moxie:dump-fc"
         }
     ],
     "version": {
