@@ -457,6 +457,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f61e189d-2dc6-46f2-2a1b-21cbfb26a100/rectcrop3",
             "name": "Moxie:homohugh-fc",
             "symbol": "Moxie:homohugh-fc"
+        },
+        {
+            "address": "0x0987Ae2cd8A9962F2C31C369638f87521903110F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1840708639327465473/xUhRd9jW.jpg",
+            "name": "Moxie:S16793589-x",
+            "symbol": "Moxie:S16793589-x"
         }
     ],
     "version": {
