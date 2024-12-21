@@ -821,6 +821,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861423952049930240/LOAHpw38.jpg",
             "name": "Moxie:Sarah2000jones-x",
             "symbol": "Moxie:Sarah2000jones-x"
+        },
+        {
+            "address": "0x58d6D75e42102f89b30a061CE8a57633813a79B6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1363736296565317637/O6iHBTHA.jpg",
+            "name": "Moxie:segall_max-x",
+            "symbol": "Moxie:segall_max-x"
         }
     ],
     "version": {
