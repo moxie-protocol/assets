@@ -695,6 +695,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/69995397-8b9b-47dd-77b9-7c94e2b76b00/rectcrop3",
             "name": "Moxie:ahmedrazaeth-fc",
             "symbol": "Moxie:ahmedrazaeth-fc"
+        },
+        {
+            "address": "0x939E2414b370B2A4F7032De1BC26d785F7Dfe14f",
+            "decimals": 18,
+            "logoURI": "https://www.imghippo.com/i/RkV3523Po.png",
+            "name": "Moxie:goldenbeard.base.eth-base",
+            "symbol": "Moxie:goldenbeard.base.eth-base"
         }
     ],
     "version": {
