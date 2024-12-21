@@ -464,6 +464,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1840708639327465473/xUhRd9jW.jpg",
             "name": "Moxie:S16793589-x",
             "symbol": "Moxie:S16793589-x"
+        },
+        {
+            "address": "0xC446Cd71357CaDBE74A22b66D5f166133bb29370",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/socks",
+            "symbol": "cid:socks"
         }
     ],
     "version": {
