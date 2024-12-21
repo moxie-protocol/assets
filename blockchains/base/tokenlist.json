@@ -443,6 +443,13 @@
             "logoURI": "https://avatars.mds.yandex.net/i?id=142fd2bb50df15331bc70975d265d077_l-10527650-images-thumbs\u0026n=33\u0026w=1440\u0026h=720",
             "name": "Moxie:dskromm.base.eth-base",
             "symbol": "Moxie:dskromm.base.eth-base"
+        },
+        {
+            "address": "0x1ceEdC91D8a217BbAA802bA7Fa06692A11813eAd",
+            "decimals": 18,
+            "logoURI": "https://warpcast.com/neoh20/0xf6ddb7d8",
+            "name": "Moxie:NeoH20-gt",
+            "symbol": "Moxie:NeoH20-gt"
         }
     ],
     "version": {
