@@ -310,6 +310,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/green.jpg",
             "name": "Moxie:samiam-fc",
             "symbol": "Moxie:samiam-fc"
+        },
+        {
+            "address": "0xF30BD0D3C5D9b36BBa25CBcbBfC09dF8e341adAb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05498d19-56e8-4f14-9319-823dfae0be00/rectcrop3",
+            "name": "Moxie:dovecoco-fc",
+            "symbol": "Moxie:dovecoco-fc"
         }
     ],
     "version": {
