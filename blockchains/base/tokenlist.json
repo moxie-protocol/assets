@@ -534,6 +534,13 @@
             "logoURI": "https://images.app.goo.gl/pfZmPxQnoLzwvPdU9",
             "name": "Moxie:vilakit.eth-ens",
             "symbol": "Moxie:vilakit.eth-ens"
+        },
+        {
+            "address": "0x37775246EB0D90590282000a4e2491a42bAE0Fd9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35f1d89b-16fc-4053-b896-c2b44aa98900/original",
+            "name": "Moxie:babakstark-fc",
+            "symbol": "Moxie:babakstark-fc"
         }
     ],
     "version": {
