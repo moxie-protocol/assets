@@ -674,6 +674,13 @@
             "logoURI": "https://i.imgur.com/fgCyPLA.jpg",
             "name": "Moxie:elhamsadr-fc",
             "symbol": "Moxie:elhamsadr-fc"
+        },
+        {
+            "address": "0xdfF051b25486C6cf042acBac44aDfbcf4856977e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pjXFeGs.jpg",
+            "name": "Moxie:mrpullback-fc",
+            "symbol": "Moxie:mrpullback-fc"
         }
     ],
     "version": {
