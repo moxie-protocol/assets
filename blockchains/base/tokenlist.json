@@ -485,6 +485,13 @@
             "logoURI": "https://i.imgur.com/wcw1wo7.jpg",
             "name": "Moxie:hsn-fc",
             "symbol": "Moxie:hsn-fc"
+        },
+        {
+            "address": "0xEFcAC3252dF0EDA87b4aA21128752eB2257CCec0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QLgRznb.png",
+            "name": "Moxie:danillo-fc",
+            "symbol": "Moxie:danillo-fc"
         }
     ],
     "version": {
