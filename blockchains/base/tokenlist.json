@@ -653,6 +653,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2668c57b-8a5c-4e95-e1cd-d8882bd20800/rectcrop3",
             "name": "Moxie:vcool-fc",
             "symbol": "Moxie:vcool-fc"
+        },
+        {
+            "address": "0x88648f1AF8E3f2D57441B4829e781560A4A07D89",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809958416237973504/BC4M7G9E.jpg",
+            "name": "Moxie:Liam4chill-x",
+            "symbol": "Moxie:Liam4chill-x"
         }
     ],
     "version": {
