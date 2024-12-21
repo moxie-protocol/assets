@@ -814,6 +814,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreicjlrk43qz7urp74ezqbtaqrx47zknezmahyhqnb4rg6zdv65g4jm",
             "name": "Moxie:chungsanman-fc",
             "symbol": "Moxie:chungsanman-fc"
+        },
+        {
+            "address": "0xCAD121724eB1509994f2780061DFa73AddE6646a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861423952049930240/LOAHpw38.jpg",
+            "name": "Moxie:Sarah2000jones-x",
+            "symbol": "Moxie:Sarah2000jones-x"
         }
     ],
     "version": {
