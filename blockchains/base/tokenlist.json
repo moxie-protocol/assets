@@ -1136,6 +1136,13 @@
             "logoURI": null,
             "name": "aishhhroyyy",
             "symbol": "fid:862481"
+        },
+        {
+            "address": "0xa76dAf7b171FeD120407788873Fc0Cb651561348",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0e57799-323d-44e8-de07-53b296fc9400/original",
+            "name": "Moxie:xstarlight-fc",
+            "symbol": "Moxie:xstarlight-fc"
         }
     ],
     "version": {
