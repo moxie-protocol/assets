@@ -1122,6 +1122,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1821252308522442752/isIuRI3T.jpg",
             "name": "Moxie:Laemkaa-x",
             "symbol": "Moxie:Laemkaa-x"
+        },
+        {
+            "address": "0xd0aDD018E5ED729B42B00D62d98559122B980867",
+            "decimals": 18,
+            "logoURI": "https://x.com/Zackxzackx/photo",
+            "name": "Moxie:zackwolf.base.eth-base",
+            "symbol": "Moxie:zackwolf.base.eth-base"
         }
     ],
     "version": {
