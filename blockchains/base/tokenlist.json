@@ -1094,6 +1094,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868353400292716544/zcOK4CSD.jpg",
             "name": "Moxie:Meownique_eth-x",
             "symbol": "Moxie:Meownique_eth-x"
+        },
+        {
+            "address": "0x4f75694bAeBAd1F373560504587943c867698de7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3aca4074-301c-49ee-793a-b755f5f58600/original",
+            "name": "Moxie:frissonchain.eth-fc",
+            "symbol": "Moxie:frissonchain.eth-fc"
         }
     ],
     "version": {
