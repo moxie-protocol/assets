@@ -1157,6 +1157,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d15b4fa-ff34-4fb7-d03e-aaff827eaf00/rectcrop3",
             "name": "Moxie:based-bren-fc",
             "symbol": "Moxie:based-bren-fc"
+        },
+        {
+            "address": "0x5F27b2be12ffDF42881c287D2199fCd24FA6078A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854959980396658688/S0I5IPmW.jpg",
+            "name": "Moxie:purpdranknotaro-x",
+            "symbol": "Moxie:purpdranknotaro-x"
         }
     ],
     "version": {
