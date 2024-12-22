@@ -1066,6 +1066,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1804479497548312576/D6NwFMlE.jpg",
             "name": "Moxie:Luke_0x1-x",
             "symbol": "Moxie:Luke_0x1-x"
+        },
+        {
+            "address": "0x1eC882f9Ff69908Dd9B24BB1899c3f41BF3f0472",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798751741632208897/znLt8Zj-.jpg",
+            "name": "Moxie:MedCnft-x",
+            "symbol": "Moxie:MedCnft-x"
         }
     ],
     "version": {
