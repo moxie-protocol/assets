@@ -1052,6 +1052,13 @@
             "logoURI": null,
             "name": "ola5t",
             "symbol": "fid:430820"
+        },
+        {
+            "address": "0x941aDB9BFcd317440674aF8a099Ac26c8CA34802",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1780236062238941184/cmXd4GYa.jpg",
+            "name": "Moxie:Cos_ty12345-x",
+            "symbol": "Moxie:Cos_ty12345-x"
         }
     ],
     "version": {
