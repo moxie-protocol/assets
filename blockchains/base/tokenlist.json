@@ -926,6 +926,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c74eccdc-74ba-4f2b-0b54-b2df9fa3a400/original",
             "name": "Moxie:fxnac89-fc",
             "symbol": "Moxie:fxnac89-fc"
+        },
+        {
+            "address": "0xFf3B7D328a011ADF445B4579698164f897468222",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07e61c61-5d97-4385-f617-d27ae2d4e200/original",
+            "name": "Moxie:pounf.eth-fc",
+            "symbol": "Moxie:pounf.eth-fc"
         }
     ],
     "version": {
