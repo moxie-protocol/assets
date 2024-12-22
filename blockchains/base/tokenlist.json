@@ -1206,6 +1206,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb6f90ee-b7c6-461a-25b5-4bbfae51e600/original",
             "name": "Moxie:vonenzo-fc",
             "symbol": "Moxie:vonenzo-fc"
+        },
+        {
+            "address": "0x9daa311A089BB8E44C499921B3f06B9c6F63cADB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/CtO5cBk.jpg",
+            "name": "Moxie:bbcworldpeace-fc",
+            "symbol": "Moxie:bbcworldpeace-fc"
         }
     ],
     "version": {
