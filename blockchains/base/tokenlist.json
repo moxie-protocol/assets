@@ -1262,6 +1262,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41999e6b-c101-4e9c-24dc-6568019d8f00/rectcrop3",
             "name": "Moxie:0xcryptodz-fc",
             "symbol": "Moxie:0xcryptodz-fc"
+        },
+        {
+            "address": "0xbd871E8592669953820a84eDe5f0F5cBA0079b50",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1757425598975152128/gBYSapqp.jpg",
+            "name": "Moxie:1CrypticPoet-x",
+            "symbol": "Moxie:1CrypticPoet-x"
         }
     ],
     "version": {
