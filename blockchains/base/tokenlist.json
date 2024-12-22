@@ -1192,6 +1192,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854637635559469085/7lKyWY9a.jpg",
             "name": "Moxie:CosmoNote31-x",
             "symbol": "Moxie:CosmoNote31-x"
+        },
+        {
+            "address": "0xF2C19892a572ba3ecD890ccaC4070c6e35e8fea4",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/TphSj-hrBVrCEK3Lq1q9EOrAnon6cf8H0JP_KaE7o-w/",
+            "name": "Moxie:ho3ein-fc",
+            "symbol": "Moxie:ho3ein-fc"
         }
     ],
     "version": {
