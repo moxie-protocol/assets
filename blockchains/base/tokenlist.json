@@ -1129,6 +1129,13 @@
             "logoURI": "https://x.com/Zackxzackx/photo",
             "name": "Moxie:zackwolf.base.eth-base",
             "symbol": "Moxie:zackwolf.base.eth-base"
+        },
+        {
+            "address": "0x9827A5Ca8aC94DAe67D2a98133F694D0dc654f53",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "aishhhroyyy",
+            "symbol": "fid:862481"
         }
     ],
     "version": {
