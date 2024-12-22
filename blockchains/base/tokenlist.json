@@ -884,6 +884,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1748901394332172288/4gHzbqos.jpg",
             "name": "Moxie:MemeCoinMania77-x",
             "symbol": "Moxie:MemeCoinMania77-x"
+        },
+        {
+            "address": "0xcCB0381A8276d6c01CC48036b832c098dCc67550",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868824456648630272/vgbsIWX1.jpg",
+            "name": "Moxie:MonstejzTTV-x",
+            "symbol": "Moxie:MonstejzTTV-x"
         }
     ],
     "version": {
