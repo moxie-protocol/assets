@@ -1038,6 +1038,13 @@
             "logoURI": "https://x.com/chainchampion10/photo",
             "name": "Moxie:atoms.base.eth-base",
             "symbol": "Moxie:atoms.base.eth-base"
+        },
+        {
+            "address": "0x045dfe1a0b5D0Eb7aBBB1975a5B50df5F531c94F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd66a73d-51a8-4556-8b2f-c0fbdc7a7b00/original",
+            "name": "Moxie:karrylady-fc",
+            "symbol": "Moxie:karrylady-fc"
         }
     ],
     "version": {
