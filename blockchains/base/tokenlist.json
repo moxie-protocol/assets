@@ -1213,6 +1213,13 @@
             "logoURI": "https://i.imgur.com/CtO5cBk.jpg",
             "name": "Moxie:bbcworldpeace-fc",
             "symbol": "Moxie:bbcworldpeace-fc"
+        },
+        {
+            "address": "0xe1C2B723E43b725EDA4018c9AA5594a2E8114E61",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZyrGYlM.jpg",
+            "name": "Moxie:kaverina-fc",
+            "symbol": "Moxie:kaverina-fc"
         }
     ],
     "version": {
