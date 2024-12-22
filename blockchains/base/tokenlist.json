@@ -933,6 +933,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07e61c61-5d97-4385-f617-d27ae2d4e200/original",
             "name": "Moxie:pounf.eth-fc",
             "symbol": "Moxie:pounf.eth-fc"
+        },
+        {
+            "address": "0x1884a0ca4710847f60e86E85ece9EFA182Da7B00",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1672251294915133440/MnoNt8IP.jpg",
+            "name": "Moxie:gadgeteerth-x",
+            "symbol": "Moxie:gadgeteerth-x"
         }
     ],
     "version": {
