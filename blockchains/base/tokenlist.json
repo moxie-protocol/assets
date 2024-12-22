@@ -1073,6 +1073,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1798751741632208897/znLt8Zj-.jpg",
             "name": "Moxie:MedCnft-x",
             "symbol": "Moxie:MedCnft-x"
+        },
+        {
+            "address": "0x9a86d9809C2bB09133DF85cBAC0BC324e82B4e38",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3634ca61-8d28-45e7-1d87-49b60c74b200/original",
+            "name": "Moxie:noori-fc",
+            "symbol": "Moxie:noori-fc"
         }
     ],
     "version": {
