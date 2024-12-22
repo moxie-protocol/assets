@@ -982,6 +982,13 @@
             "logoURI": null,
             "name": "86ed",
             "symbol": "fid:852612"
+        },
+        {
+            "address": "0x959c12fb6Dbd48d75f7AD18814a7EDFFb2cc5369",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db4bab96-c14a-46bf-fc58-61865e363200/original",
+            "name": "Moxie:chipa-fc",
+            "symbol": "Moxie:chipa-fc"
         }
     ],
     "version": {
