@@ -912,6 +912,13 @@
             "logoURI": "https://i.imgur.com/lhtEvAO.gif",
             "name": "Moxie:masihahisen-fc",
             "symbol": "Moxie:masihahisen-fc"
+        },
+        {
+            "address": "0x4A447859F9c6823B74273047452Fb667BcaB4976",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e718da6-5d55-4ef2-3ad4-aa65ae43eb00/rectcrop3",
+            "name": "Moxie:caccac-fc",
+            "symbol": "Moxie:caccac-fc"
         }
     ],
     "version": {
