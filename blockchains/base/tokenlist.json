@@ -919,6 +919,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e718da6-5d55-4ef2-3ad4-aa65ae43eb00/rectcrop3",
             "name": "Moxie:caccac-fc",
             "symbol": "Moxie:caccac-fc"
+        },
+        {
+            "address": "0x4996478C770F02190dF5edB992cDedBfB607b1F8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c74eccdc-74ba-4f2b-0b54-b2df9fa3a400/original",
+            "name": "Moxie:fxnac89-fc",
+            "symbol": "Moxie:fxnac89-fc"
         }
     ],
     "version": {
