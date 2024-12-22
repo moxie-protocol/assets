@@ -1045,6 +1045,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd66a73d-51a8-4556-8b2f-c0fbdc7a7b00/original",
             "name": "Moxie:karrylady-fc",
             "symbol": "Moxie:karrylady-fc"
+        },
+        {
+            "address": "0x3267bC848E2D9102d5b24e7De248A19fCF8c4bf8",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ola5t",
+            "symbol": "fid:430820"
         }
     ],
     "version": {
