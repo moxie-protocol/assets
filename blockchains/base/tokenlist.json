@@ -1080,6 +1080,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3634ca61-8d28-45e7-1d87-49b60c74b200/original",
             "name": "Moxie:noori-fc",
             "symbol": "Moxie:noori-fc"
+        },
+        {
+            "address": "0x47B797567891e4760b6801e5DE1fcd1000d29448",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f348d33-876f-4669-1e4d-47d18d0c1e00/original",
+            "name": "Moxie:sinedrisk-fc",
+            "symbol": "Moxie:sinedrisk-fc"
         }
     ],
     "version": {
