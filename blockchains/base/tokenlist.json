@@ -968,6 +968,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1808887170788126720/geIu942v.jpg",
             "name": "Moxie:TokenBreakr-x",
             "symbol": "Moxie:TokenBreakr-x"
+        },
+        {
+            "address": "0x9E0bc9dCA10D155Ec8Bb6b8e9dF704c238196878",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870592767426179072/FU5B59IL.png",
+            "name": "Moxie:jonius_V2-x",
+            "symbol": "Moxie:jonius_V2-x"
         }
     ],
     "version": {
