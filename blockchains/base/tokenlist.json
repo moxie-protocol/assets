@@ -954,6 +954,13 @@
             "logoURI": "https://i.imgur.com/V8r3vf2.jpg",
             "name": "Moxie:zksnark-fc",
             "symbol": "Moxie:zksnark-fc"
+        },
+        {
+            "address": "0xD19c84DBB0B82e609D0d1C77bfDb1390227D4c2A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1760027780652425216/gm2yrJEj.jpg",
+            "name": "Moxie:9TO5SUCK-x",
+            "symbol": "Moxie:9TO5SUCK-x"
         }
     ],
     "version": {
