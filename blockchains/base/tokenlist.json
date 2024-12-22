@@ -961,6 +961,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1760027780652425216/gm2yrJEj.jpg",
             "name": "Moxie:9TO5SUCK-x",
             "symbol": "Moxie:9TO5SUCK-x"
+        },
+        {
+            "address": "0x3212c805F59030EFc44073fc5484421049f70DAF",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1808887170788126720/geIu942v.jpg",
+            "name": "Moxie:TokenBreakr-x",
+            "symbol": "Moxie:TokenBreakr-x"
         }
     ],
     "version": {
