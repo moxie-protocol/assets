@@ -1024,6 +1024,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1844629280568848397/ZVDjM6b7.jpg",
             "name": "Moxie:_meyi_-x",
             "symbol": "Moxie:_meyi_-x"
+        },
+        {
+            "address": "0x5B7b4dF80c5901381A15a114a7e0366321C4FB6C",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869388587579420673/0RHvp0Uw.jpg",
+            "name": "Moxie:achillou2712-x",
+            "symbol": "Moxie:achillou2712-x"
         }
     ],
     "version": {
