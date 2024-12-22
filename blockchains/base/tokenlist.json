@@ -1248,6 +1248,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1842325603225071616/kgSPmt48.jpg",
             "name": "Moxie:alexanderchopan-x",
             "symbol": "Moxie:alexanderchopan-x"
+        },
+        {
+            "address": "0x468A8204987a3e1Ac6116d964F37c54944BC6615",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1846228915993317379/V1pi9SGQ.jpg",
+            "name": "Moxie:AtzeWuan-x",
+            "symbol": "Moxie:AtzeWuan-x"
         }
     ],
     "version": {
