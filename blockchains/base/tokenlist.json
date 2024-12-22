@@ -1234,6 +1234,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54152b35-ee0c-49a5-3035-a42f605bf200/rectcrop3",
             "name": "Moxie:smailyk83-fc",
             "symbol": "Moxie:smailyk83-fc"
+        },
+        {
+            "address": "0x304127eca842E786CfB1358acdaAD84ef95e5998",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "maklaud.eth",
+            "symbol": "fid:338246"
         }
     ],
     "version": {
