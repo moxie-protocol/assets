@@ -1003,6 +1003,13 @@
             "logoURI": "https://www.google.com/logos/2024/moon/december-r4/cta.png",
             "name": "Moxie:rajonmia3031.base.eth-base",
             "symbol": "Moxie:rajonmia3031.base.eth-base"
+        },
+        {
+            "address": "0x7516644E1FDEBD1D2B0Bfa5F831Dde3D78CDCDF7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b380094f-d0f5-465c-4fc3-4da1d6881a00/rectcrop3",
+            "name": "Moxie:tonynotonyeth-fc",
+            "symbol": "Moxie:tonynotonyeth-fc"
         }
     ],
     "version": {
