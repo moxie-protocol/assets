@@ -996,6 +996,13 @@
             "logoURI": "https://ipfs.io/ipfs/bafybeieac55vmzsdxiiinzkbqytmxcgjn2xwa3ddq7nvhomaufrdy3fp7e",
             "name": "Moxie:croth.eth-ens",
             "symbol": "Moxie:croth.eth-ens"
+        },
+        {
+            "address": "0x19421bDd503915F485e2527b7059aD4F1E42b6D8",
+            "decimals": 18,
+            "logoURI": "https://www.google.com/logos/2024/moon/december-r4/cta.png",
+            "name": "Moxie:rajonmia3031.base.eth-base",
+            "symbol": "Moxie:rajonmia3031.base.eth-base"
         }
     ],
     "version": {
