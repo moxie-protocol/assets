@@ -1150,6 +1150,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1786389038510878720/zfvALqVr.jpg",
             "name": "Moxie:RaikageGT-x",
             "symbol": "Moxie:RaikageGT-x"
+        },
+        {
+            "address": "0xe91a3ee0987B74Be9A42f254462a0bAE2B0953a9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d15b4fa-ff34-4fb7-d03e-aaff827eaf00/rectcrop3",
+            "name": "Moxie:based-bren-fc",
+            "symbol": "Moxie:based-bren-fc"
         }
     ],
     "version": {
