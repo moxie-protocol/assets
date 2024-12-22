@@ -1031,6 +1031,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869388587579420673/0RHvp0Uw.jpg",
             "name": "Moxie:achillou2712-x",
             "symbol": "Moxie:achillou2712-x"
+        },
+        {
+            "address": "0x428dA62A0b4192b26C9F1E26393b55743c8C8648",
+            "decimals": 18,
+            "logoURI": "https://x.com/chainchampion10/photo",
+            "name": "Moxie:atoms.base.eth-base",
+            "symbol": "Moxie:atoms.base.eth-base"
         }
     ],
     "version": {
