@@ -1199,6 +1199,13 @@
             "logoURI": "https://arweave.net/TphSj-hrBVrCEK3Lq1q9EOrAnon6cf8H0JP_KaE7o-w/",
             "name": "Moxie:ho3ein-fc",
             "symbol": "Moxie:ho3ein-fc"
+        },
+        {
+            "address": "0x1A0AdA485E70f50cbA7Bf0bb3CC34bB45230cf64",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fb6f90ee-b7c6-461a-25b5-4bbfae51e600/original",
+            "name": "Moxie:vonenzo-fc",
+            "symbol": "Moxie:vonenzo-fc"
         }
     ],
     "version": {
