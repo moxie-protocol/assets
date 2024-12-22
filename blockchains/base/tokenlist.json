@@ -898,6 +898,13 @@
             "logoURI": null,
             "name": "tigerking69",
             "symbol": "fid:652483"
+        },
+        {
+            "address": "0xef9b5d2786EE3Dbcc5b7387686669b6CF2D2d55f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b78f9474-b974-4b0f-3349-4a5591b58100/rectcrop3",
+            "name": "Moxie:653343-fc",
+            "symbol": "Moxie:653343-fc"
         }
     ],
     "version": {
