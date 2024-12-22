@@ -891,6 +891,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868824456648630272/vgbsIWX1.jpg",
             "name": "Moxie:MonstejzTTV-x",
             "symbol": "Moxie:MonstejzTTV-x"
+        },
+        {
+            "address": "0xDd561Dbb9a5Cf1303AED645Ee108b16A6Dff46BE",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "tigerking69",
+            "symbol": "fid:652483"
         }
     ],
     "version": {
