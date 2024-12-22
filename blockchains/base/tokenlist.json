@@ -947,6 +947,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1785865536347181056/LDEjgw4V.jpg",
             "name": "Moxie:officialMahavir-x",
             "symbol": "Moxie:officialMahavir-x"
+        },
+        {
+            "address": "0x49BB78A33Bbe21C1E4eA33fCAEd76A3D7C75BF69",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/V8r3vf2.jpg",
+            "name": "Moxie:zksnark-fc",
+            "symbol": "Moxie:zksnark-fc"
         }
     ],
     "version": {
