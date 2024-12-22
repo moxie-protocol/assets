@@ -1227,6 +1227,13 @@
             "logoURI": "https://i.imgur.com/74jMfL5.jpg",
             "name": "Moxie:taranlena5-fc",
             "symbol": "Moxie:taranlena5-fc"
+        },
+        {
+            "address": "0xafad9d027cF97258b75fe9BD0Cf100BE05033cCA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54152b35-ee0c-49a5-3035-a42f605bf200/rectcrop3",
+            "name": "Moxie:smailyk83-fc",
+            "symbol": "Moxie:smailyk83-fc"
         }
     ],
     "version": {
