@@ -1115,6 +1115,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868839693510483968/V9XgTJe0.jpg",
             "name": "Moxie:cryptosensey59-x",
             "symbol": "Moxie:cryptosensey59-x"
+        },
+        {
+            "address": "0x9CcD8d33D4CA75B689f5D6A7334489A9443A3D13",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1821252308522442752/isIuRI3T.jpg",
+            "name": "Moxie:Laemkaa-x",
+            "symbol": "Moxie:Laemkaa-x"
         }
     ],
     "version": {
