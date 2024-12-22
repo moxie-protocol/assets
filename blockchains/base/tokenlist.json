@@ -1220,6 +1220,13 @@
             "logoURI": "https://i.imgur.com/ZyrGYlM.jpg",
             "name": "Moxie:kaverina-fc",
             "symbol": "Moxie:kaverina-fc"
+        },
+        {
+            "address": "0xa8858000A4D4B0963B1506E7478B1A9B657B87fF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/74jMfL5.jpg",
+            "name": "Moxie:taranlena5-fc",
+            "symbol": "Moxie:taranlena5-fc"
         }
     ],
     "version": {
