@@ -1087,6 +1087,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f348d33-876f-4669-1e4d-47d18d0c1e00/original",
             "name": "Moxie:sinedrisk-fc",
             "symbol": "Moxie:sinedrisk-fc"
+        },
+        {
+            "address": "0x575eE5bF885E443A67448bce5Fedf9bE679C8Bf9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868353400292716544/zcOK4CSD.jpg",
+            "name": "Moxie:Meownique_eth-x",
+            "symbol": "Moxie:Meownique_eth-x"
         }
     ],
     "version": {
