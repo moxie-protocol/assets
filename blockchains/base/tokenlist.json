@@ -1171,6 +1171,13 @@
             "logoURI": "https://i.postimg.cc/cLQx682t/renso-token.png",
             "name": "Moxie:renso.eth-ens",
             "symbol": "Moxie:renso.eth-ens"
+        },
+        {
+            "address": "0xCC0DDaa1bDAf78f4f634aAe10224D3d16d41057F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fccfc266-42f3-4c3e-7945-a777163bd000/rectcrop3",
+            "name": "Moxie:coyotee-fc",
+            "symbol": "Moxie:coyotee-fc"
         }
     ],
     "version": {
