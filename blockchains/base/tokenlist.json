@@ -1185,6 +1185,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861176658281275394/7bdiWknq.jpg",
             "name": "Moxie:FomoTsar-x",
             "symbol": "Moxie:FomoTsar-x"
+        },
+        {
+            "address": "0x31dFEc5e305b14CC849562E5Eca3208810C6C74A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854637635559469085/7lKyWY9a.jpg",
+            "name": "Moxie:CosmoNote31-x",
+            "symbol": "Moxie:CosmoNote31-x"
         }
     ],
     "version": {
