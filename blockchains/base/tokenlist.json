@@ -1010,6 +1010,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b380094f-d0f5-465c-4fc3-4da1d6881a00/rectcrop3",
             "name": "Moxie:tonynotonyeth-fc",
             "symbol": "Moxie:tonynotonyeth-fc"
+        },
+        {
+            "address": "0x52ad98d80990FE1A8c8B6D82D233d65559B6418b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1368a23a-c4be-4701-271b-c46a93a5ff00/rectcrop3",
+            "name": "Moxie:victor1195-fc",
+            "symbol": "Moxie:victor1195-fc"
         }
     ],
     "version": {
