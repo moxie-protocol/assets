@@ -975,6 +975,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870592767426179072/FU5B59IL.png",
             "name": "Moxie:jonius_V2-x",
             "symbol": "Moxie:jonius_V2-x"
+        },
+        {
+            "address": "0x1C72f4aA93a2cBCfE07754bEaDB1717200C73B8e",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "86ed",
+            "symbol": "fid:852612"
         }
     ],
     "version": {
