@@ -1164,6 +1164,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854959980396658688/S0I5IPmW.jpg",
             "name": "Moxie:purpdranknotaro-x",
             "symbol": "Moxie:purpdranknotaro-x"
+        },
+        {
+            "address": "0x3442Bdc428c2B169DE4F9344DAB7353523104953",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/cLQx682t/renso-token.png",
+            "name": "Moxie:renso.eth-ens",
+            "symbol": "Moxie:renso.eth-ens"
         }
     ],
     "version": {
