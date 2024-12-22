@@ -1255,6 +1255,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846228915993317379/V1pi9SGQ.jpg",
             "name": "Moxie:AtzeWuan-x",
             "symbol": "Moxie:AtzeWuan-x"
+        },
+        {
+            "address": "0x52EE5968e6550303824Cea2968183FDc8E2719d9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41999e6b-c101-4e9c-24dc-6568019d8f00/rectcrop3",
+            "name": "Moxie:0xcryptodz-fc",
+            "symbol": "Moxie:0xcryptodz-fc"
         }
     ],
     "version": {
