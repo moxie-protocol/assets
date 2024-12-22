@@ -940,6 +940,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1672251294915133440/MnoNt8IP.jpg",
             "name": "Moxie:gadgeteerth-x",
             "symbol": "Moxie:gadgeteerth-x"
+        },
+        {
+            "address": "0xC4a0c0A69c8c3B81624058a75EC3c8204465A8b2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1785865536347181056/LDEjgw4V.jpg",
+            "name": "Moxie:officialMahavir-x",
+            "symbol": "Moxie:officialMahavir-x"
         }
     ],
     "version": {
