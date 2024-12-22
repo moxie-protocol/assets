@@ -989,6 +989,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db4bab96-c14a-46bf-fc58-61865e363200/original",
             "name": "Moxie:chipa-fc",
             "symbol": "Moxie:chipa-fc"
+        },
+        {
+            "address": "0x225d2467596B1d0E5524aF6f37349dA7511dd6b6",
+            "decimals": 18,
+            "logoURI": "https://ipfs.io/ipfs/bafybeieac55vmzsdxiiinzkbqytmxcgjn2xwa3ddq7nvhomaufrdy3fp7e",
+            "name": "Moxie:croth.eth-ens",
+            "symbol": "Moxie:croth.eth-ens"
         }
     ],
     "version": {
