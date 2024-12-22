@@ -1143,6 +1143,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0e57799-323d-44e8-de07-53b296fc9400/original",
             "name": "Moxie:xstarlight-fc",
             "symbol": "Moxie:xstarlight-fc"
+        },
+        {
+            "address": "0xF637bD7fcdbC813b8647d7234632c06FE20eBCE8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1786389038510878720/zfvALqVr.jpg",
+            "name": "Moxie:RaikageGT-x",
+            "symbol": "Moxie:RaikageGT-x"
         }
     ],
     "version": {
