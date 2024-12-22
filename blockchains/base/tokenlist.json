@@ -1241,6 +1241,13 @@
             "logoURI": null,
             "name": "maklaud.eth",
             "symbol": "fid:338246"
+        },
+        {
+            "address": "0x685d9d97bce03411ca4CB8DC874930D7eD62d8e6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1842325603225071616/kgSPmt48.jpg",
+            "name": "Moxie:alexanderchopan-x",
+            "symbol": "Moxie:alexanderchopan-x"
         }
     ],
     "version": {
