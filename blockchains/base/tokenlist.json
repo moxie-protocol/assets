@@ -1500,6 +1500,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/742153ce-93a0-4aad-01dc-9911cbf9df00/rectcrop3",
             "name": "Moxie:dogalife-fc",
             "symbol": "Moxie:dogalife-fc"
+        },
+        {
+            "address": "0xF31bEb8E30009a303C53ac8490C440B6bDA5f155",
+            "decimals": 18,
+            "logoURI": "https://x.com/AkterPiasha/photo",
+            "name": "Moxie:maria22.eth-ens",
+            "symbol": "Moxie:maria22.eth-ens"
         }
     ],
     "version": {
