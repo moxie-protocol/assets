@@ -1528,6 +1528,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1850972393067454464/HsFDFsgf.jpg",
             "name": "Moxie:crypto_chomeur-x",
             "symbol": "Moxie:crypto_chomeur-x"
+        },
+        {
+            "address": "0xDEBA55AE0344a2AaFAC1eB214221Be7031010013",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1706530740588953600/2dvJKVlL.jpg",
+            "name": "Moxie:mortespiral-x",
+            "symbol": "Moxie:mortespiral-x"
         }
     ],
     "version": {
