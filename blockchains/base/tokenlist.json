@@ -1836,6 +1836,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihx3kppfwheeg4tglnhtw7egtwn6uu6zd3sseyyxfgipxra5dzyhq",
             "name": "Moxie:matzae-fc",
             "symbol": "Moxie:matzae-fc"
+        },
+        {
+            "address": "0xd04FC9DDf81C94890263f2844440340603384753",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3x8wO9z.jpg",
+            "name": "Moxie:andk0108-fc",
+            "symbol": "Moxie:andk0108-fc"
         }
     ],
     "version": {
