@@ -1353,6 +1353,13 @@
             "logoURI": "https://avatars.githubusercontent.com/u/39770659?v=4",
             "name": "Moxie:itsbhatt-gt",
             "symbol": "Moxie:itsbhatt-gt"
+        },
+        {
+            "address": "0x2135e8027Df02A217A467A55e973525185D8eF85",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihig3a73xceyffkjgs6wvx3rvtbehspgsbeqjzle4ytd5iue74u24/1764",
+            "name": "Moxie:rudeboy-fc",
+            "symbol": "Moxie:rudeboy-fc"
         }
     ],
     "version": {
