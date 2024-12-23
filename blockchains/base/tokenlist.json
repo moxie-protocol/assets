@@ -1269,6 +1269,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1757425598975152128/gBYSapqp.jpg",
             "name": "Moxie:1CrypticPoet-x",
             "symbol": "Moxie:1CrypticPoet-x"
+        },
+        {
+            "address": "0x05663617Cdac8b43dCa7A2514f8a8b3bFe527682",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1492526752014299137/bMNk0wLH.jpg",
+            "name": "Moxie:engrJojufet-x",
+            "symbol": "Moxie:engrJojufet-x"
         }
     ],
     "version": {
