@@ -1885,6 +1885,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4148812e-6395-43ed-2ff1-9c3cf3d87200/original",
             "name": "Moxie:agimwho-fc",
             "symbol": "Moxie:agimwho-fc"
+        },
+        {
+            "address": "0x00673be710EE0CC770AE9836E0c0AED95149E9F4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1071476847857197056/lZnzOW1Q.jpg",
+            "name": "Moxie:marulerwindo11-x",
+            "symbol": "Moxie:marulerwindo11-x"
         }
     ],
     "version": {
