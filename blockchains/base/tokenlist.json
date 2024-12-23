@@ -1290,6 +1290,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1855695526244581376/iLD8FL0y.jpg",
             "name": "Moxie:ypkv7v4y9q-x",
             "symbol": "Moxie:ypkv7v4y9q-x"
+        },
+        {
+            "address": "0x76DF76Eef5Ce61cd2A9153Fbfe7a31eE6dFA394d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1865144884023214080/IpF2ptA4.jpg",
+            "name": "Moxie:CodyCampbe16881-x",
+            "symbol": "Moxie:CodyCampbe16881-x"
         }
     ],
     "version": {
