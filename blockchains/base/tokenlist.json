@@ -1416,6 +1416,13 @@
             "logoURI": "https://i.imgur.com/6ImzmfQ.jpg",
             "name": "Moxie:masoudxyz-fc",
             "symbol": "Moxie:masoudxyz-fc"
+        },
+        {
+            "address": "0xBCcE55f6aBbA606A52A83Ed51b9dc51329F6aB2a",
+            "decimals": 18,
+            "logoURI": "https://ipfs.algonode.xyz/ipfs/QmPkgv5dE5Y5UwKxVHro1EGf17zVV4zEi5LXsBp4hxnk6S",
+            "name": "Moxie:aldoonbase.base.eth-base",
+            "symbol": "Moxie:aldoonbase.base.eth-base"
         }
     ],
     "version": {
