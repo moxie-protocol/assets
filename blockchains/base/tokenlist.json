@@ -1409,6 +1409,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0168c104-91ce-4505-f0d3-bd887eb7f900/rectcrop3",
             "name": "Moxie:dubelyou-fc",
             "symbol": "Moxie:dubelyou-fc"
+        },
+        {
+            "address": "0xf5F10b731F98372671A50516Db6a3c39204811D0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6ImzmfQ.jpg",
+            "name": "Moxie:masoudxyz-fc",
+            "symbol": "Moxie:masoudxyz-fc"
         }
     ],
     "version": {
