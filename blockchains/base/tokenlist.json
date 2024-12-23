@@ -1703,6 +1703,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreia5y2buujwikczt72kutor7ojyxgmbxtpjkiudtjct4n5p2om4feq",
             "name": "Moxie:adheryanprm-fc",
             "symbol": "Moxie:adheryanprm-fc"
+        },
+        {
+            "address": "0xda75d14F62a135579F56D47813740220Bd63b7f1",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
+            "name": "Moxie:suprax100-fc",
+            "symbol": "Moxie:suprax100-fc"
         }
     ],
     "version": {
