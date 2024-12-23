@@ -1633,6 +1633,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08afa2bb-4abb-4bfe-17d6-6512dff3b700/rectcrop3",
             "name": "Moxie:boxod-fc",
             "symbol": "Moxie:boxod-fc"
+        },
+        {
+            "address": "0x2DF491220B223B6093f5C9D261795f74a4724E1F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a519b713-0221-4d26-ef02-ab909ee2f700/original",
+            "name": "Moxie:bvdaniel-fc",
+            "symbol": "Moxie:bvdaniel-fc"
         }
     ],
     "version": {
