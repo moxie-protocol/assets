@@ -1542,6 +1542,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1845764786857918465/ODj9vUrD.jpg",
             "name": "Moxie:Michben7-x",
             "symbol": "Moxie:Michben7-x"
+        },
+        {
+            "address": "0xFf81127dc917065042fC4AC831cE246Ff5286202",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92fca344-7517-49b2-4e85-6b8bd113d900/original",
+            "name": "Moxie:somar-fc",
+            "symbol": "Moxie:somar-fc"
         }
     ],
     "version": {
