@@ -1423,6 +1423,13 @@
             "logoURI": "https://ipfs.algonode.xyz/ipfs/QmPkgv5dE5Y5UwKxVHro1EGf17zVV4zEi5LXsBp4hxnk6S",
             "name": "Moxie:aldoonbase.base.eth-base",
             "symbol": "Moxie:aldoonbase.base.eth-base"
+        },
+        {
+            "address": "0xa17d20f2Ebd00340DeCd8F5f5F7a178cF5E7350a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pCiHunH.jpg",
+            "name": "Moxie:marygh-fc",
+            "symbol": "Moxie:marygh-fc"
         }
     ],
     "version": {
