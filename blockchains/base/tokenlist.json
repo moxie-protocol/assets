@@ -1584,6 +1584,13 @@
             "logoURI": "https://i.imgur.com/8srSBoW.jpg",
             "name": "Moxie:argentina-fc",
             "symbol": "Moxie:argentina-fc"
+        },
+        {
+            "address": "0xAb622e61a3a1207517cD4b5A3D99FdB39037cAdf",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:boubouMMzoo59-x",
+            "symbol": "Moxie:boubouMMzoo59-x"
         }
     ],
     "version": {
