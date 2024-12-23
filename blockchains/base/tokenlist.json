@@ -1647,6 +1647,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicwyasuoqwk22nayciyce7dz4pj73c7dwts66fvetsimo5urtaaqm",
             "name": "Moxie:irfanc7-fc",
             "symbol": "Moxie:irfanc7-fc"
+        },
+        {
+            "address": "0x864C4AaE37C633f1e5Ea81D1F942Eb0d942FcFB7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1547194950298787840/V0SMKRHj.jpg",
+            "name": "Moxie:RomaKurt49049-x",
+            "symbol": "Moxie:RomaKurt49049-x"
         }
     ],
     "version": {
