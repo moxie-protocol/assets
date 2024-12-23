@@ -1780,6 +1780,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1842454312401911808/aOBKP7xf.jpg",
             "name": "Moxie:xybecc-x",
             "symbol": "Moxie:xybecc-x"
+        },
+        {
+            "address": "0x8129C3F083A04aA822A53127509dF1455475f252",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6d592a6-5d8f-4c06-2f94-ef34388fce00/rectcrop3",
+            "name": "Moxie:venyok3d-fc",
+            "symbol": "Moxie:venyok3d-fc"
         }
     ],
     "version": {
