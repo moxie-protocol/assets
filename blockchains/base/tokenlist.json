@@ -1346,6 +1346,13 @@
             "logoURI": "https://i.imgur.com/KuaLyUi.jpg",
             "name": "Moxie:kulinam-fc",
             "symbol": "Moxie:kulinam-fc"
+        },
+        {
+            "address": "0x5646E1D1b0F966DcA878667B09B9BB525Dc4F3e9",
+            "decimals": 18,
+            "logoURI": "https://avatars.githubusercontent.com/u/39770659?v=4",
+            "name": "Moxie:itsbhatt-gt",
+            "symbol": "Moxie:itsbhatt-gt"
         }
     ],
     "version": {
