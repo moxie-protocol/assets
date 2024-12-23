@@ -1374,6 +1374,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e24bb1a-b85f-41e5-e29d-bddbb4bc7900/rectcrop3",
             "name": "Moxie:doldole-fc",
             "symbol": "Moxie:doldole-fc"
+        },
+        {
+            "address": "0x1DE673cBd7EaB4bfCAb99aAA2208514259951d53",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855978784169529344/BglG5kgu.jpg",
+            "name": "Moxie:InctubeTweets-x",
+            "symbol": "Moxie:InctubeTweets-x"
         }
     ],
     "version": {
