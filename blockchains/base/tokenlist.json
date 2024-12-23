@@ -1731,6 +1731,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7badd72a-b156-4df8-bf51-23a70bea5100/original",
             "name": "Moxie:kamtang-fc",
             "symbol": "Moxie:kamtang-fc"
+        },
+        {
+            "address": "0xa6934AC3698dC92242572436519F36d16FfDb8f5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870409373857775617/el6le8YD.jpg",
+            "name": "Moxie:renderjuice-x",
+            "symbol": "Moxie:renderjuice-x"
         }
     ],
     "version": {
