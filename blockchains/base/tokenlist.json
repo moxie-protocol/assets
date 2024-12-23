@@ -1472,6 +1472,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1831818199354007553/9CgM67YD.png",
             "name": "Moxie:Atlastiger31-x",
             "symbol": "Moxie:Atlastiger31-x"
+        },
+        {
+            "address": "0xc435d95e8D238e8f5370310f58465d92871Cc740",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861466933612142592/okXUnuSv.jpg",
+            "name": "Moxie:Jessy_Jeanne-x",
+            "symbol": "Moxie:Jessy_Jeanne-x"
         }
     ],
     "version": {
