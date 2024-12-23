@@ -1794,6 +1794,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1779251679671496704/YhWNTo7n.jpg",
             "name": "Moxie:1KickM97-x",
             "symbol": "Moxie:1KickM97-x"
+        },
+        {
+            "address": "0x016BE131dE0a974c75248714C050fd590F55181E",
+            "decimals": 18,
+            "logoURI": "https://drive.google.com/file/d/1CWI3v2M8OzPuxUYPrjkpFETZqmZG5T27/view?usp=drive_link",
+            "name": "Moxie:iliajr.base.eth-base",
+            "symbol": "Moxie:iliajr.base.eth-base"
         }
     ],
     "version": {
