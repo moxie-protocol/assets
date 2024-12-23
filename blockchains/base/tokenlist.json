@@ -1381,6 +1381,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1855978784169529344/BglG5kgu.jpg",
             "name": "Moxie:InctubeTweets-x",
             "symbol": "Moxie:InctubeTweets-x"
+        },
+        {
+            "address": "0x965137419775bD240Ba3A8805e4b5852F60DBaF2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832069913923440640/kGHJB0-m.jpg",
+            "name": "Moxie:PowerPasheur-x",
+            "symbol": "Moxie:PowerPasheur-x"
         }
     ],
     "version": {
