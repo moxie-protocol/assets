@@ -1668,6 +1668,13 @@
             "logoURI": "https://i.imgur.com/5yFRWBe.jpg",
             "name": "Moxie:haggrad-fc",
             "symbol": "Moxie:haggrad-fc"
+        },
+        {
+            "address": "0x1C981c9C826863589276c5af6cd16053CC7Cdbf2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1535080616118562817/57lb2Gr_.jpg",
+            "name": "Moxie:badutbadutmalam-x",
+            "symbol": "Moxie:badutbadutmalam-x"
         }
     ],
     "version": {
