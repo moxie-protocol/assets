@@ -1682,6 +1682,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1848801854941270016/Kj3PqEUa.jpg",
             "name": "Moxie:cryptomadn3s-x",
             "symbol": "Moxie:cryptomadn3s-x"
+        },
+        {
+            "address": "0x91c07bEbf69234848d8Dac4BCf8f539eDC1a3e74",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/963b8a0d-e613-40df-e7e1-99ac88782f00/rectcrop3",
+            "name": "Moxie:imzaz.eth-fc",
+            "symbol": "Moxie:imzaz.eth-fc"
         }
     ],
     "version": {
