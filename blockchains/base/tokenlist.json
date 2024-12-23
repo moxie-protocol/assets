@@ -1787,6 +1787,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6d592a6-5d8f-4c06-2f94-ef34388fce00/rectcrop3",
             "name": "Moxie:venyok3d-fc",
             "symbol": "Moxie:venyok3d-fc"
+        },
+        {
+            "address": "0xdeb2F674E74E159D5B5E01D4d1E865348357d324",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1779251679671496704/YhWNTo7n.jpg",
+            "name": "Moxie:1KickM97-x",
+            "symbol": "Moxie:1KickM97-x"
         }
     ],
     "version": {
