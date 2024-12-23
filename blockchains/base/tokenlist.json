@@ -1493,6 +1493,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1833997490997129216/WWug9V08.jpg",
             "name": "Moxie:Youriii39-x",
             "symbol": "Moxie:Youriii39-x"
+        },
+        {
+            "address": "0x002D132ae8E61C47504408fF1595385974f887cE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/742153ce-93a0-4aad-01dc-9911cbf9df00/rectcrop3",
+            "name": "Moxie:dogalife-fc",
+            "symbol": "Moxie:dogalife-fc"
         }
     ],
     "version": {
