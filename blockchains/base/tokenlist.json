@@ -1864,6 +1864,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870617742677868544/_5tB7mEl.jpg",
             "name": "Moxie:godcryptolife-x",
             "symbol": "Moxie:godcryptolife-x"
+        },
+        {
+            "address": "0xaf891b29543aCF428f9367D4D451c51F2CA2E995",
+            "decimals": 18,
+            "logoURI": "https://imgur.com/ENA7GtR",
+            "name": "Moxie:kiarash.base.eth-base",
+            "symbol": "Moxie:kiarash.base.eth-base"
         }
     ],
     "version": {
