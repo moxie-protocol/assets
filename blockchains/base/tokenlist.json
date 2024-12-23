@@ -1311,6 +1311,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce0cf469-b4fa-493d-4367-296e50ec7a00/rectcrop3",
             "name": "Moxie:ruvik-fc",
             "symbol": "Moxie:ruvik-fc"
+        },
+        {
+            "address": "0x026481f06A2e175341a0293BCb16F4cA8f866215",
+            "decimals": 18,
+            "logoURI": "https://prnt.sc/BZ8x8f6wYNoZ",
+            "name": "Moxie:slowpok.eth-ens",
+            "symbol": "Moxie:slowpok.eth-ens"
         }
     ],
     "version": {
