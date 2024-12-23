@@ -1640,6 +1640,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a519b713-0221-4d26-ef02-ab909ee2f700/original",
             "name": "Moxie:bvdaniel-fc",
             "symbol": "Moxie:bvdaniel-fc"
+        },
+        {
+            "address": "0x8acf125c52Ff055df37A84CcfAd1A2B37DCDAF8f",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicwyasuoqwk22nayciyce7dz4pj73c7dwts66fvetsimo5urtaaqm",
+            "name": "Moxie:irfanc7-fc",
+            "symbol": "Moxie:irfanc7-fc"
         }
     ],
     "version": {
