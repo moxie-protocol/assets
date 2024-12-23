@@ -1724,6 +1724,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d5faa27-a242-4254-0a98-8aa3a098c900/rectcrop3",
             "name": "Moxie:dimasapn-fc",
             "symbol": "Moxie:dimasapn-fc"
+        },
+        {
+            "address": "0xcD8Ea976d532D11C0c70dB170c513d466AfA47Af",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7badd72a-b156-4df8-bf51-23a70bea5100/original",
+            "name": "Moxie:kamtang-fc",
+            "symbol": "Moxie:kamtang-fc"
         }
     ],
     "version": {
