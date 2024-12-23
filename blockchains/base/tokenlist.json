@@ -1332,6 +1332,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1844834883857768448/_GBp_OFO.jpg",
             "name": "Moxie:CarquetE-x",
             "symbol": "Moxie:CarquetE-x"
+        },
+        {
+            "address": "0xa5B526b7b830AfA0C7A64071e56bbC42B3ffb4B1",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "i-d0-care",
+            "symbol": "fid:875987"
         }
     ],
     "version": {
