@@ -1563,6 +1563,13 @@
             "logoURI": null,
             "name": "nedakalan",
             "symbol": "fid:503711"
+        },
+        {
+            "address": "0xA24FBE1EA23E85dfD75112b08f44CFd45390F913",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "minakh",
+            "symbol": "fid:329170"
         }
     ],
     "version": {
