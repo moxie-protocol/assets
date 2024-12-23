@@ -1507,6 +1507,13 @@
             "logoURI": "https://x.com/AkterPiasha/photo",
             "name": "Moxie:maria22.eth-ens",
             "symbol": "Moxie:maria22.eth-ens"
+        },
+        {
+            "address": "0x1EeB0AcE1a54567d21F38f86f9005a0B4059753B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/C2r9Blc.jpg",
+            "name": "Moxie:0xmrcrypto-fc",
+            "symbol": "Moxie:0xmrcrypto-fc"
         }
     ],
     "version": {
