@@ -1451,6 +1451,13 @@
             "logoURI": "https://i.imgur.com/JAi2tcV.jpg",
             "name": "Moxie:sebastianw.eth-fc",
             "symbol": "Moxie:sebastianw.eth-fc"
+        },
+        {
+            "address": "0x2FB34dF88429185C13F93953F58009E5024E6e97",
+            "decimals": 18,
+            "logoURI": "https://media.tenor.com/QfGygZZvwhAAAAAe/gomi-gomi-dog.png",
+            "name": "Moxie:Arkowne-gt",
+            "symbol": "Moxie:Arkowne-gt"
         }
     ],
     "version": {
