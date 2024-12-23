@@ -1752,6 +1752,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a3ac8a2-6931-46cf-e97e-07e82baf7b00/rectcrop3",
             "name": "Moxie:rudy09-fc",
             "symbol": "Moxie:rudy09-fc"
+        },
+        {
+            "address": "0x6e5895911b76D492DF898A93D8C72469CC81bC2F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/450af3cb-bcb2-42ae-e1f8-536f91d18100/rectcrop3",
+            "name": "Moxie:19milimeters-fc",
+            "symbol": "Moxie:19milimeters-fc"
         }
     ],
     "version": {
