@@ -1766,6 +1766,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8e522fa-1970-44ce-baa4-a94503397700/rectcrop3",
             "name": "Moxie:marcinho-eth-fc",
             "symbol": "Moxie:marcinho-eth-fc"
+        },
+        {
+            "address": "0xF3f961E84004AC1CE1AF38D1A705c73aa0cb41A1",
+            "decimals": 18,
+            "logoURI": "https://ibb.co.com/7bHvG2D",
+            "name": "Moxie:yatanet3000.base.eth-base",
+            "symbol": "Moxie:yatanet3000.base.eth-base"
         }
     ],
     "version": {
