@@ -1521,6 +1521,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7f58921-dd7b-4c78-7fff-2b41e3a9d000/original",
             "name": "Moxie:seeimagery-fc",
             "symbol": "Moxie:seeimagery-fc"
+        },
+        {
+            "address": "0x6492241C8a5A26947d55A6A09608537295Dc7C34",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1850972393067454464/HsFDFsgf.jpg",
+            "name": "Moxie:crypto_chomeur-x",
+            "symbol": "Moxie:crypto_chomeur-x"
         }
     ],
     "version": {
