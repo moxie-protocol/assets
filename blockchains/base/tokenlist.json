@@ -1808,6 +1808,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870690273195704321/QZZYTYRX.jpg",
             "name": "Moxie:0xAltsome-x",
             "symbol": "Moxie:0xAltsome-x"
+        },
+        {
+            "address": "0xAd42Cb36471FC84b78478517eE28Faa445dfDB3a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1779196949041688576/IHtEH1Cb.jpg",
+            "name": "Moxie:YsrNova3-x",
+            "symbol": "Moxie:YsrNova3-x"
         }
     ],
     "version": {
