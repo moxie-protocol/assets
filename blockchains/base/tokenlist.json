@@ -1843,6 +1843,13 @@
             "logoURI": "https://i.imgur.com/3x8wO9z.jpg",
             "name": "Moxie:andk0108-fc",
             "symbol": "Moxie:andk0108-fc"
+        },
+        {
+            "address": "0x40E2634A4e319EB029bAbbB44B993425e2682929",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848897597584334848/bYdd6hj2.jpg",
+            "name": "Moxie:Pacesoircherie-x",
+            "symbol": "Moxie:Pacesoircherie-x"
         }
     ],
     "version": {
