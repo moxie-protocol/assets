@@ -1605,6 +1605,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6bf9358-4200-425e-7f1b-1ddc29d43f00/rectcrop3",
             "name": "Moxie:gundai-fc",
             "symbol": "Moxie:gundai-fc"
+        },
+        {
+            "address": "0x5671588625b8eAd5e6bA54F6E28c365F485358E1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89f865f5-fe1a-44fa-5a19-86c83e5c3d00/rectcrop3",
+            "name": "Moxie:reninci-fc",
+            "symbol": "Moxie:reninci-fc"
         }
     ],
     "version": {
