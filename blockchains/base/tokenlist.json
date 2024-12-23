@@ -1339,6 +1339,13 @@
             "logoURI": null,
             "name": "i-d0-care",
             "symbol": "fid:875987"
+        },
+        {
+            "address": "0x12d8078A6a707C20A765fdBc2E41093731AAbaFF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KuaLyUi.jpg",
+            "name": "Moxie:kulinam-fc",
+            "symbol": "Moxie:kulinam-fc"
         }
     ],
     "version": {
