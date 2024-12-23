@@ -1598,6 +1598,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1664739744989814784/GCrsFLUL.jpg",
             "name": "Moxie:DefiDevrel-x",
             "symbol": "Moxie:DefiDevrel-x"
+        },
+        {
+            "address": "0x6a36279dA4dAc0442AD4C8d80deDD2487415a1fD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6bf9358-4200-425e-7f1b-1ddc29d43f00/rectcrop3",
+            "name": "Moxie:gundai-fc",
+            "symbol": "Moxie:gundai-fc"
         }
     ],
     "version": {
