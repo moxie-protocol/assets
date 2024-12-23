@@ -1360,6 +1360,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihig3a73xceyffkjgs6wvx3rvtbehspgsbeqjzle4ytd5iue74u24/1764",
             "name": "Moxie:rudeboy-fc",
             "symbol": "Moxie:rudeboy-fc"
+        },
+        {
+            "address": "0xE2Dd74a19DfC0406402E7a4bC070216bF5079729",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dea594f5-4a58-4b72-7095-e30228900400/original",
+            "name": "Moxie:paypaleth.eth-fc",
+            "symbol": "Moxie:paypaleth.eth-fc"
         }
     ],
     "version": {
