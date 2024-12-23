@@ -1612,6 +1612,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89f865f5-fe1a-44fa-5a19-86c83e5c3d00/rectcrop3",
             "name": "Moxie:reninci-fc",
             "symbol": "Moxie:reninci-fc"
+        },
+        {
+            "address": "0x977E2d3513eC8711Ad8a6637501C035a5FEFBbaC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/l05UviF.jpg",
+            "name": "Moxie:malpiezegwit-fc",
+            "symbol": "Moxie:malpiezegwit-fc"
         }
     ],
     "version": {
