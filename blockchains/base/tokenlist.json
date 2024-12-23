@@ -1710,6 +1710,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
             "name": "Moxie:suprax100-fc",
             "symbol": "Moxie:suprax100-fc"
+        },
+        {
+            "address": "0xb7781cE90046871e587E3DDDC2A343aDA659a8dd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65221516-d1a2-42ba-7605-ebcba6ea7900/original",
+            "name": "Moxie:0xclanker.eth-fc",
+            "symbol": "Moxie:0xclanker.eth-fc"
         }
     ],
     "version": {
