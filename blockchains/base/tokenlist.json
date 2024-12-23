@@ -1318,6 +1318,13 @@
             "logoURI": "https://prnt.sc/BZ8x8f6wYNoZ",
             "name": "Moxie:slowpok.eth-ens",
             "symbol": "Moxie:slowpok.eth-ens"
+        },
+        {
+            "address": "0xe91E5ba75F0665FE0A4Ab91354FAFb7b82e98ebA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/p6WT0PJ.jpg",
+            "name": "Moxie:alirahimy1992-fc",
+            "symbol": "Moxie:alirahimy1992-fc"
         }
     ],
     "version": {
