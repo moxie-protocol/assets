@@ -1626,6 +1626,13 @@
             "logoURI": "https://arweave.net/rAB28EDZMo-l31nQMLJGjQ7g3q8mQXtaYUNXfBFOui0/",
             "name": "Moxie:agung303-fc",
             "symbol": "Moxie:agung303-fc"
+        },
+        {
+            "address": "0xB7523eA1B73375d8b79b1d6f1a90714e5baa4D40",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08afa2bb-4abb-4bfe-17d6-6512dff3b700/rectcrop3",
+            "name": "Moxie:boxod-fc",
+            "symbol": "Moxie:boxod-fc"
         }
     ],
     "version": {
