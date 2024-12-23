@@ -1283,6 +1283,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc45ed4d-5d7b-4ad0-c414-28994871e800/original",
             "name": "Moxie:ngmi-fc",
             "symbol": "Moxie:ngmi-fc"
+        },
+        {
+            "address": "0xf0dCE272C35cAFE547A337a2f5Ca0409254786Df",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855695526244581376/iLD8FL0y.jpg",
+            "name": "Moxie:ypkv7v4y9q-x",
+            "symbol": "Moxie:ypkv7v4y9q-x"
         }
     ],
     "version": {
