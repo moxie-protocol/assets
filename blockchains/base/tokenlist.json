@@ -1619,6 +1619,13 @@
             "logoURI": "https://i.imgur.com/l05UviF.jpg",
             "name": "Moxie:malpiezegwit-fc",
             "symbol": "Moxie:malpiezegwit-fc"
+        },
+        {
+            "address": "0x2a016357e2C3B590e27587bFB63353F59a9164B3",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/rAB28EDZMo-l31nQMLJGjQ7g3q8mQXtaYUNXfBFOui0/",
+            "name": "Moxie:agung303-fc",
+            "symbol": "Moxie:agung303-fc"
         }
     ],
     "version": {
