@@ -1759,6 +1759,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/450af3cb-bcb2-42ae-e1f8-536f91d18100/rectcrop3",
             "name": "Moxie:19milimeters-fc",
             "symbol": "Moxie:19milimeters-fc"
+        },
+        {
+            "address": "0xF874D9770d03Ee2FbA58a24F82409A0BE18D7A7F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8e522fa-1970-44ce-baa4-a94503397700/rectcrop3",
+            "name": "Moxie:marcinho-eth-fc",
+            "symbol": "Moxie:marcinho-eth-fc"
         }
     ],
     "version": {
