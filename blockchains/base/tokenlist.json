@@ -1661,6 +1661,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiespdhzq2ufpodm27vb7kd4q6azlipn4g3aq36joa6nd7zp6j4iji/706.jpeg",
             "name": "Moxie:yusrilsm-fc",
             "symbol": "Moxie:yusrilsm-fc"
+        },
+        {
+            "address": "0x34302aDC75F36861B313cFE14ad40E66C7F65978",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5yFRWBe.jpg",
+            "name": "Moxie:haggrad-fc",
+            "symbol": "Moxie:haggrad-fc"
         }
     ],
     "version": {
