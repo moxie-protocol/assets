@@ -1689,6 +1689,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/963b8a0d-e613-40df-e7e1-99ac88782f00/rectcrop3",
             "name": "Moxie:imzaz.eth-fc",
             "symbol": "Moxie:imzaz.eth-fc"
+        },
+        {
+            "address": "0x7E239C2A89640B586ccfe1d49a6202b08164F68F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867636626178158592/U9seD07S.jpg",
+            "name": "Moxie:SepuhCommunity-x",
+            "symbol": "Moxie:SepuhCommunity-x"
         }
     ],
     "version": {
