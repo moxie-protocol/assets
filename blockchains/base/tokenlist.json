@@ -1871,6 +1871,13 @@
             "logoURI": "https://imgur.com/ENA7GtR",
             "name": "Moxie:kiarash.base.eth-base",
             "symbol": "Moxie:kiarash.base.eth-base"
+        },
+        {
+            "address": "0x229F9Ec6cB36eAFe5F680662945F50143a1b83bD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/x5Zv1tZ.jpg",
+            "name": "Moxie:crypto-david-fc",
+            "symbol": "Moxie:crypto-david-fc"
         }
     ],
     "version": {
