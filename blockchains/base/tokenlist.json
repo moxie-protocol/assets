@@ -1570,6 +1570,13 @@
             "logoURI": null,
             "name": "minakh",
             "symbol": "fid:329170"
+        },
+        {
+            "address": "0x3CB39B651A38CE3AB26d7470eF63D14bEf5dA6e7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/TuKAooY.jpg",
+            "name": "Moxie:pampster-fc",
+            "symbol": "Moxie:pampster-fc"
         }
     ],
     "version": {
