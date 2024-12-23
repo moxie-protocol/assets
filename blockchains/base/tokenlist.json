@@ -1479,6 +1479,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861466933612142592/okXUnuSv.jpg",
             "name": "Moxie:Jessy_Jeanne-x",
             "symbol": "Moxie:Jessy_Jeanne-x"
+        },
+        {
+            "address": "0xb7bBD46FAE390C286FcB8cC31d2B16256111630d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1807712075478654977/6N6iYqoN.jpg",
+            "name": "Moxie:OpiUnivers-x",
+            "symbol": "Moxie:OpiUnivers-x"
         }
     ],
     "version": {
