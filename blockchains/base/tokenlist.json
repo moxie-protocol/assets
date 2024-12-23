@@ -1514,6 +1514,13 @@
             "logoURI": "https://i.imgur.com/C2r9Blc.jpg",
             "name": "Moxie:0xmrcrypto-fc",
             "symbol": "Moxie:0xmrcrypto-fc"
+        },
+        {
+            "address": "0xdE1b15C1Cc90F5D57580F02276F78E8FeC11Ea25",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7f58921-dd7b-4c78-7fff-2b41e3a9d000/original",
+            "name": "Moxie:seeimagery-fc",
+            "symbol": "Moxie:seeimagery-fc"
         }
     ],
     "version": {
