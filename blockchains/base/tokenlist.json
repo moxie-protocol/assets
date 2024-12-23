@@ -1276,6 +1276,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1492526752014299137/bMNk0wLH.jpg",
             "name": "Moxie:engrJojufet-x",
             "symbol": "Moxie:engrJojufet-x"
+        },
+        {
+            "address": "0x9299fD8C5c27a7F3AFf47F1CBE696725981265Ef",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc45ed4d-5d7b-4ad0-c414-28994871e800/original",
+            "name": "Moxie:ngmi-fc",
+            "symbol": "Moxie:ngmi-fc"
         }
     ],
     "version": {
