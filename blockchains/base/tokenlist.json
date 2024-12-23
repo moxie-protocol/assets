@@ -1878,6 +1878,13 @@
             "logoURI": "https://i.imgur.com/x5Zv1tZ.jpg",
             "name": "Moxie:crypto-david-fc",
             "symbol": "Moxie:crypto-david-fc"
+        },
+        {
+            "address": "0x5C4EF611BF85805ba46669f4D3fC2Bf6907BB468",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4148812e-6395-43ed-2ff1-9c3cf3d87200/original",
+            "name": "Moxie:agimwho-fc",
+            "symbol": "Moxie:agimwho-fc"
         }
     ],
     "version": {
