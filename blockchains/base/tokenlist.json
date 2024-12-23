@@ -1654,6 +1654,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1547194950298787840/V0SMKRHj.jpg",
             "name": "Moxie:RomaKurt49049-x",
             "symbol": "Moxie:RomaKurt49049-x"
+        },
+        {
+            "address": "0xEEC028e227C1A5Ee1569f59ED4394205b54e9167",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiespdhzq2ufpodm27vb7kd4q6azlipn4g3aq36joa6nd7zp6j4iji/706.jpeg",
+            "name": "Moxie:yusrilsm-fc",
+            "symbol": "Moxie:yusrilsm-fc"
         }
     ],
     "version": {
