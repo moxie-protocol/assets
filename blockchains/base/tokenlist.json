@@ -1892,6 +1892,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1071476847857197056/lZnzOW1Q.jpg",
             "name": "Moxie:marulerwindo11-x",
             "symbol": "Moxie:marulerwindo11-x"
+        },
+        {
+            "address": "0xdA56ab605ECFBBA97FB64Ba6Bd63bC9895fe6c44",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/38AQmtR.jpg",
+            "name": "Moxie:tanyasergeeva-fc",
+            "symbol": "Moxie:tanyasergeeva-fc"
         }
     ],
     "version": {
