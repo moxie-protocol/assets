@@ -1801,6 +1801,13 @@
             "logoURI": "https://drive.google.com/file/d/1CWI3v2M8OzPuxUYPrjkpFETZqmZG5T27/view?usp=drive_link",
             "name": "Moxie:iliajr.base.eth-base",
             "symbol": "Moxie:iliajr.base.eth-base"
+        },
+        {
+            "address": "0x38eA79d8D4B9A33660bDACbE14C1F75B1900A743",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870690273195704321/QZZYTYRX.jpg",
+            "name": "Moxie:0xAltsome-x",
+            "symbol": "Moxie:0xAltsome-x"
         }
     ],
     "version": {
