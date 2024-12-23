@@ -1829,6 +1829,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/206a424f-0e0e-41cd-fb78-944cbc1aa400/original",
             "name": "Moxie:spirosdpsycho-fc",
             "symbol": "Moxie:spirosdpsycho-fc"
+        },
+        {
+            "address": "0x7b909B095d7b5b38893A7C0159399453bcDaD7c7",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihx3kppfwheeg4tglnhtw7egtwn6uu6zd3sseyyxfgipxra5dzyhq",
+            "name": "Moxie:matzae-fc",
+            "symbol": "Moxie:matzae-fc"
         }
     ],
     "version": {
