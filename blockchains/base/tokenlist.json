@@ -1591,6 +1591,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:boubouMMzoo59-x",
             "symbol": "Moxie:boubouMMzoo59-x"
+        },
+        {
+            "address": "0x1c625a547962D24602dA95F053870e4E206DB8c7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1664739744989814784/GCrsFLUL.jpg",
+            "name": "Moxie:DefiDevrel-x",
+            "symbol": "Moxie:DefiDevrel-x"
         }
     ],
     "version": {
