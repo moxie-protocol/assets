@@ -1437,6 +1437,13 @@
             "logoURI": "https://i.imgur.com/6WVSXwB.jpg",
             "name": "Moxie:akzhol.eth-fc",
             "symbol": "Moxie:akzhol.eth-fc"
+        },
+        {
+            "address": "0x15f71c7A9262449Fb93ac165206038F74432Ddf3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868603514324201472/UIeBUUz0.jpg",
+            "name": "Moxie:loutch3-x",
+            "symbol": "Moxie:loutch3-x"
         }
     ],
     "version": {
