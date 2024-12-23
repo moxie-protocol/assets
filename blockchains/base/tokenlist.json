@@ -1675,6 +1675,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1535080616118562817/57lb2Gr_.jpg",
             "name": "Moxie:badutbadutmalam-x",
             "symbol": "Moxie:badutbadutmalam-x"
+        },
+        {
+            "address": "0x517170284CEf6579c8Ec27033FC9bDF4F3794a7a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848801854941270016/Kj3PqEUa.jpg",
+            "name": "Moxie:cryptomadn3s-x",
+            "symbol": "Moxie:cryptomadn3s-x"
         }
     ],
     "version": {
