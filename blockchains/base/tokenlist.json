@@ -1556,6 +1556,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70c0ca26-34a1-454d-bd53-f405a91db500/original",
             "name": "Moxie:431500-fc",
             "symbol": "Moxie:431500-fc"
+        },
+        {
+            "address": "0x52b74AF4561FEd7B9861309EfA8d26CaC6089C1b",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nedakalan",
+            "symbol": "fid:503711"
         }
     ],
     "version": {
