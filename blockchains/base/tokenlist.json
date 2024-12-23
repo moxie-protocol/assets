@@ -1395,6 +1395,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1853799878301716480/hShldTCv.jpg",
             "name": "Moxie:take_profit_bar-x",
             "symbol": "Moxie:take_profit_bar-x"
+        },
+        {
+            "address": "0x69D579d3AB4c312AF7CD5b856Ed908c93f48f54c",
+            "decimals": 18,
+            "logoURI": "https://www.google.com/imgres?q=picofile\u0026imgurl=http%3A%2F%2Fs8.picofile.com%2Ffile%2F8346382884%2FWireless.jpg\u0026imgrefurl=http%3A%2F%2Fastakrayan.ir%2F%25D8%25AA%25D9%2588%25D8%25A7%25D9%2586-%25D8%25B3%25DB%258C%25DA%25AF%25D9%2586%25D8%25A7%25D9%2584-%25D8%25B1%25D8%25A7%25D8%25AF%25DB%258C%25D9%2588%25DB%258C%25DB%258C%2F\u0026docid=6SUU_GGoipIX4M\u0026tbnid=a5tf1tpgqNpH9M\u0026vet=12ahUKEwjM5qrRzb2KAxUXg_0HHTDMDAkQM3oECF4QAA..i\u0026w=3000\u0026h=2400\u0026hcb=2\u0026ved=2ahUKEwjM5qrRzb2KAxUXg_0HHTDMDAkQM3oECF4QAA",
+            "name": "Moxie:razani.eth-ens",
+            "symbol": "Moxie:razani.eth-ens"
         }
     ],
     "version": {
