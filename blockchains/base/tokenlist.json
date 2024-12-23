@@ -1717,6 +1717,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65221516-d1a2-42ba-7605-ebcba6ea7900/original",
             "name": "Moxie:0xclanker.eth-fc",
             "symbol": "Moxie:0xclanker.eth-fc"
+        },
+        {
+            "address": "0x72fE702F3B833652D0E8c2509505204F94204CEF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d5faa27-a242-4254-0a98-8aa3a098c900/rectcrop3",
+            "name": "Moxie:dimasapn-fc",
+            "symbol": "Moxie:dimasapn-fc"
         }
     ],
     "version": {
