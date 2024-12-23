@@ -1773,6 +1773,13 @@
             "logoURI": "https://ibb.co.com/7bHvG2D",
             "name": "Moxie:yatanet3000.base.eth-base",
             "symbol": "Moxie:yatanet3000.base.eth-base"
+        },
+        {
+            "address": "0x4d16506800AD6b70d08373999f27D0bb1176A165",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1842454312401911808/aOBKP7xf.jpg",
+            "name": "Moxie:xybecc-x",
+            "symbol": "Moxie:xybecc-x"
         }
     ],
     "version": {
