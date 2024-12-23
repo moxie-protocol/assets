@@ -1535,6 +1535,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1706530740588953600/2dvJKVlL.jpg",
             "name": "Moxie:mortespiral-x",
             "symbol": "Moxie:mortespiral-x"
+        },
+        {
+            "address": "0xd609D2b255B070777225C2DA298dfAf67B4C939F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1845764786857918465/ODj9vUrD.jpg",
+            "name": "Moxie:Michben7-x",
+            "symbol": "Moxie:Michben7-x"
         }
     ],
     "version": {
