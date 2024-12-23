@@ -1815,6 +1815,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1779196949041688576/IHtEH1Cb.jpg",
             "name": "Moxie:YsrNova3-x",
             "symbol": "Moxie:YsrNova3-x"
+        },
+        {
+            "address": "0x59354E01776fbA10FcAae70fA01FbF0755701605",
+            "decimals": 18,
+            "logoURI": "https://euc.li/dashabood.eth",
+            "name": "Moxie:dashabood.eth-ens",
+            "symbol": "Moxie:dashabood.eth-ens"
         }
     ],
     "version": {
