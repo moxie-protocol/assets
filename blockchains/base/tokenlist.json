@@ -1577,6 +1577,13 @@
             "logoURI": "https://i.imgur.com/TuKAooY.jpg",
             "name": "Moxie:pampster-fc",
             "symbol": "Moxie:pampster-fc"
+        },
+        {
+            "address": "0xf9bAa84e404Aa7278a5302C59d28D75f7D0B9609",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8srSBoW.jpg",
+            "name": "Moxie:argentina-fc",
+            "symbol": "Moxie:argentina-fc"
         }
     ],
     "version": {
