@@ -1549,6 +1549,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92fca344-7517-49b2-4e85-6b8bd113d900/original",
             "name": "Moxie:somar-fc",
             "symbol": "Moxie:somar-fc"
+        },
+        {
+            "address": "0xd657700f7C31CE76cafF0a86e094CED642Ed131E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70c0ca26-34a1-454d-bd53-f405a91db500/original",
+            "name": "Moxie:431500-fc",
+            "symbol": "Moxie:431500-fc"
         }
     ],
     "version": {
