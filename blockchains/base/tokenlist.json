@@ -1304,6 +1304,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a246af3-a3cf-4314-9d94-d35dd19a1800/rectcrop3",
             "name": "Moxie:bas83-fc",
             "symbol": "Moxie:bas83-fc"
+        },
+        {
+            "address": "0x3a57738DE0463d428d6AB94f618CDE3D71096E1C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce0cf469-b4fa-493d-4367-296e50ec7a00/rectcrop3",
+            "name": "Moxie:ruvik-fc",
+            "symbol": "Moxie:ruvik-fc"
         }
     ],
     "version": {
