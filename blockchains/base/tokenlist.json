@@ -2767,6 +2767,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3cbbee4e-eda0-41f6-1b1a-17739bd6e100/rectcrop3",
             "name": "Moxie:tobt-fc",
             "symbol": "Moxie:tobt-fc"
+        },
+        {
+            "address": "0x2B45cA9Da1Bc3b3BfCFCC08C2F20f5c04f52237b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a8df6c59-08c6-4dac-92c0-0748c6cb1700/rectcrop3",
+            "name": "Moxie:anointing-fc",
+            "symbol": "Moxie:anointing-fc"
         }
     ],
     "version": {
