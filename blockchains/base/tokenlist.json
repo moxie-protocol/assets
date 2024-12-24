@@ -1941,6 +1941,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a97af3fb-f6a2-4a36-26c0-723751e7e400/rectcrop3",
             "name": "Moxie:haschwalth-fc",
             "symbol": "Moxie:haschwalth-fc"
+        },
+        {
+            "address": "0x6be22c70BE0073376645eae69c4d85AbABA3aC97",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMin8FGKC_uxAg3A4bEYGFwDV377lboD7yuw\u0026s",
+            "name": "Moxie:dostam.base.eth-base",
+            "symbol": "Moxie:dostam.base.eth-base"
         }
     ],
     "version": {
