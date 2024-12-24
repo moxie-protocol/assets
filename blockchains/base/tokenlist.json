@@ -2011,6 +2011,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1811999681800441856/bbYugva_.jpg",
             "name": "Moxie:your_yekin-x",
             "symbol": "Moxie:your_yekin-x"
+        },
+        {
+            "address": "0x95ecD9450D46017a4D0Ee8981AaFb48FCE838b67",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OpxKBc9.jpg",
+            "name": "Moxie:mousemad17-fc",
+            "symbol": "Moxie:mousemad17-fc"
         }
     ],
     "version": {
