@@ -2739,6 +2739,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeih6wj6hcsouerpph45divbp3bbpdwqbx35aucn44jc6yzz3gckzba",
             "name": "Moxie:awesome1-fc",
             "symbol": "Moxie:awesome1-fc"
+        },
+        {
+            "address": "0xe820Ea734fCC14dBB0b29536B2F646d99b7471D6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/g4iQ0bIzMZrjFMgjAnSGfw/28a41b5a-61a7-4b29-8fbc-cfb616095200/public",
+            "name": "Moxie:fendik92-fc",
+            "symbol": "Moxie:fendik92-fc"
         }
     ],
     "version": {
