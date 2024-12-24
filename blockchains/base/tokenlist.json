@@ -2396,6 +2396,13 @@
             "logoURI": "https://i.imgur.com/IlQL4eb.jpg",
             "name": "Moxie:hato-fc",
             "symbol": "Moxie:hato-fc"
+        },
+        {
+            "address": "0x3aF72BF1cFBe485c2D18DF4e9202DE0EC4bA9708",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a63ce03f-06d1-4188-d9d1-c660f2235300/original",
+            "name": "Moxie:wwwojti-fc",
+            "symbol": "Moxie:wwwojti-fc"
         }
     ],
     "version": {
