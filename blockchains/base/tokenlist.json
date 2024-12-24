@@ -2669,6 +2669,13 @@
             "logoURI": null,
             "name": "liorazephyr03",
             "symbol": "fid:864251"
+        },
+        {
+            "address": "0x11B53fcbe6B2E94B2A266C91832C54D869E7ff86",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1796239716020359169/xiP2234T.jpg",
+            "name": "Moxie:ATmala_xxx-x",
+            "symbol": "Moxie:ATmala_xxx-x"
         }
     ],
     "version": {
