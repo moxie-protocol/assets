@@ -2228,6 +2228,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1810562619952312320/_Q4yvXJ_.jpg",
             "name": "Moxie:DawidZych498321-x",
             "symbol": "Moxie:DawidZych498321-x"
+        },
+        {
+            "address": "0xffa61e532d7c1063dec8148ae0A19517B9016edE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31293c0b-7a4f-4497-0001-ea8e6ddccf00/rectcrop3",
+            "name": "Moxie:zak-degen-fc",
+            "symbol": "Moxie:zak-degen-fc"
         }
     ],
     "version": {
