@@ -2557,6 +2557,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:acemopnmtx4022-x",
             "symbol": "Moxie:acemopnmtx4022-x"
+        },
+        {
+            "address": "0x424a254F7C05d7D3DE7d46E3bC254cE4E59DEfAe",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1851912364297216000/j1EG3abE.jpg",
+            "name": "Moxie:crane_tyre58653-x",
+            "symbol": "Moxie:crane_tyre58653-x"
         }
     ],
     "version": {
