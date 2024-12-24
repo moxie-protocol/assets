@@ -1983,6 +1983,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1600180242731393024/bk9iU0zS.jpg",
             "name": "Moxie:_TomHoward-x",
             "symbol": "Moxie:_TomHoward-x"
+        },
+        {
+            "address": "0x2EeeAf3ff41B77D421746de66D9f0e740665e334",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/msA69hS.jpg",
+            "name": "Moxie:aduky-fc",
+            "symbol": "Moxie:aduky-fc"
         }
     ],
     "version": {
