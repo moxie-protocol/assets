@@ -2837,6 +2837,13 @@
             "logoURI": "https://i.imgur.com/qjxk5yl.jpg",
             "name": "Moxie:antonlogvinov-fc",
             "symbol": "Moxie:antonlogvinov-fc"
+        },
+        {
+            "address": "0xDAf0957F4A9e839B5EE5B27Fe437BDa51d8ae102",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fc2ede3-7cce-40e4-6aa5-7796d5f93600/rectcrop3",
+            "name": "Moxie:mundi22.eth-ens",
+            "symbol": "Moxie:mundi22.eth-ens"
         }
     ],
     "version": {
