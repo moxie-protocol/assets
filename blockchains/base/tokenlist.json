@@ -2277,6 +2277,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b46d8458-2d5a-4d59-fab6-a7c8cd0f7300/original",
             "name": "Moxie:jennypham-fc",
             "symbol": "Moxie:jennypham-fc"
+        },
+        {
+            "address": "0x3aBB4EEB7A9e8f3C83A2E273215B73d92F10be8B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41e2ef1f-597a-4a09-0943-ac15c95f0d00/original",
+            "name": "Moxie:aley-fc",
+            "symbol": "Moxie:aley-fc"
         }
     ],
     "version": {
