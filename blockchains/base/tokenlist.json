@@ -2088,6 +2088,13 @@
             "logoURI": "https://ibb.co.com/WgVbrpt",
             "name": "Moxie:zhaeynnnnn.base.eth-base",
             "symbol": "Moxie:zhaeynnnnn.base.eth-base"
+        },
+        {
+            "address": "0x0C49c90302384e1C44996067FD5EEF93FEd9413c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b876b164-51d1-47ab-bebd-42c872376200/original",
+            "name": "Moxie:zedtrickster-fc",
+            "symbol": "Moxie:zedtrickster-fc"
         }
     ],
     "version": {
