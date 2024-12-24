@@ -2382,6 +2382,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1839531147061252096/aiD5161N.jpg",
             "name": "Moxie:cryptohunter_0x-x",
             "symbol": "Moxie:cryptohunter_0x-x"
+        },
+        {
+            "address": "0x9BE41fE301882B15089d8151bB07Df433B5c484d",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gcs/files/0a976ed4a3340ebfb04f6923e232a093.png?w=500\u0026auto=format",
+            "name": "Moxie:sirfemnuel-fc",
+            "symbol": "Moxie:sirfemnuel-fc"
         }
     ],
     "version": {
