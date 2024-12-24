@@ -2487,6 +2487,13 @@
             "logoURI": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
             "name": "Moxie:hogginhedges.base.eth-base",
             "symbol": "Moxie:hogginhedges.base.eth-base"
+        },
+        {
+            "address": "0x10572d31ed9322B00Be32c8A289358bBFA774E50",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41a8495a-b017-4360-0fec-8f5efefc5600/rectcrop3",
+            "name": "Moxie:orzechvw-fc",
+            "symbol": "Moxie:orzechvw-fc"
         }
     ],
     "version": {
