@@ -2256,6 +2256,13 @@
             "logoURI": "https://i.imgur.com/CpEtFeV.jpg",
             "name": "Moxie:dahoodolab-fc",
             "symbol": "Moxie:dahoodolab-fc"
+        },
+        {
+            "address": "0xEBd96fE8173A84892Df8cD364ea3D6FA4381D377",
+            "decimals": 18,
+            "logoURI": "https://ens.xyz/noblepeter2000.eth",
+            "name": "Moxie:noblepeter2000.eth-ens",
+            "symbol": "Moxie:noblepeter2000.eth-ens"
         }
     ],
     "version": {
