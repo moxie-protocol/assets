@@ -2347,6 +2347,13 @@
             "logoURI": "https://images.app.goo.gl/dQTYdRxQZTNf3M1i9",
             "name": "Moxie:arclyn.base.eth-base",
             "symbol": "Moxie:arclyn.base.eth-base"
+        },
+        {
+            "address": "0xCEA8706a5F74dE14436747750fc0Cfa583289C4a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1858846775555018753/3t2jezWP.jpg",
+            "name": "Moxie:Richard0246810-x",
+            "symbol": "Moxie:Richard0246810-x"
         }
     ],
     "version": {
