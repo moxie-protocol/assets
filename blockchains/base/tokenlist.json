@@ -2074,6 +2074,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868691089667866628/URV_bQ37.jpg",
             "name": "Moxie:lvl_max-x",
             "symbol": "Moxie:lvl_max-x"
+        },
+        {
+            "address": "0x447468aeAa7936E8068c47D9bCC29bB3E758C130",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1649819327418302467/x4snjAZq.jpg",
+            "name": "Moxie:aidinboy619-x",
+            "symbol": "Moxie:aidinboy619-x"
         }
     ],
     "version": {
