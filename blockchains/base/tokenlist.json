@@ -2823,6 +2823,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/280afcb5-eef4-469b-b6ad-279c3e3f3000/rectcrop3",
             "name": "Moxie:masseldae-fc",
             "symbol": "Moxie:masseldae-fc"
+        },
+        {
+            "address": "0x9f7649c347edCE9b7C984Fb26CfA041E9fAC8b0d",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibgakpo7tway736saxpbghoa6c5gefepa2huqcwi5mq4ly5lrj6qq",
+            "name": "Moxie:pakwo-fc",
+            "symbol": "Moxie:pakwo-fc"
         }
     ],
     "version": {
