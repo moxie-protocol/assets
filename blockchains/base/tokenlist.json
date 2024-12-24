@@ -2137,6 +2137,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6330d93d-c45d-4566-72d3-c1a82913ac00/original",
             "name": "Moxie:halkanova-fc",
             "symbol": "Moxie:halkanova-fc"
+        },
+        {
+            "address": "0xBB1bAEb8ec377607BE44FfE8F2601761cD95A768",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c6030ac-cf0f-4341-5f81-eb96f3138000/rectcrop3",
+            "name": "Moxie:eazee-fc",
+            "symbol": "Moxie:eazee-fc"
         }
     ],
     "version": {
