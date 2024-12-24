@@ -2585,6 +2585,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:annaj9e3re50767-x",
             "symbol": "Moxie:annaj9e3re50767-x"
+        },
+        {
+            "address": "0x0b77a4593E53bc500b6c74e8e8F566C78ccE716d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74d06813-c0d9-49ce-8dd9-d69bd49f7900/rectcrop3",
+            "name": "Moxie:elirosales-fc",
+            "symbol": "Moxie:elirosales-fc"
         }
     ],
     "version": {
