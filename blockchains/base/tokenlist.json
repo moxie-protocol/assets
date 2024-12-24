@@ -2599,6 +2599,13 @@
             "logoURI": "https://i.imgur.com/mv3DwBA.jpg",
             "name": "Moxie:bwest-fc",
             "symbol": "Moxie:bwest-fc"
+        },
+        {
+            "address": "0xf8015Dcb6e44B6Ff3B1625E325E8B94A63e7C110",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1785627719826649088/Wfo5bFsb.jpg",
+            "name": "Moxie:crypto_9x-x",
+            "symbol": "Moxie:crypto_9x-x"
         }
     ],
     "version": {
