@@ -2515,6 +2515,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/285467c3-168b-4218-e717-f93ceb6c3c00/original",
             "name": "Moxie:mjk1oto-fc",
             "symbol": "Moxie:mjk1oto-fc"
+        },
+        {
+            "address": "0x936778F9d28b4F2BD01962d32A640a05E931Ee09",
+            "decimals": 18,
+            "logoURI": "https://image.cdn2.seaart.ai/2023-09-28/18416936489598981/674ae7e1d807d107321cc79d2136f471209a0e7d_high.webp",
+            "name": "Moxie:huckaduck.base.eth-base",
+            "symbol": "Moxie:huckaduck.base.eth-base"
         }
     ],
     "version": {
