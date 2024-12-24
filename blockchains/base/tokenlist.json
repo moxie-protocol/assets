@@ -2879,6 +2879,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866894042786648064/wK89dsgj.jpg",
             "name": "Moxie:Genesis_X66-x",
             "symbol": "Moxie:Genesis_X66-x"
+        },
+        {
+            "address": "0x7a3c32b6e9556A75cE391f30A7575C7a9C9D95c0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1cfeefb-7702-4f33-7115-59247cf86e00/rectcrop3",
+            "name": "Moxie:kudoswins-fc",
+            "symbol": "Moxie:kudoswins-fc"
         }
     ],
     "version": {
