@@ -2200,6 +2200,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c60ad72a-0950-40b3-6826-d383ff6e9c00/rectcrop3",
             "name": "Moxie:asian-fc",
             "symbol": "Moxie:asian-fc"
+        },
+        {
+            "address": "0x22e66bd1d217D7b0b868f127Aa09e4305cB5AeED",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/264f6501-191a-455f-a3d5-141e31bb7500/rectcrop3",
+            "name": "Moxie:!279434-fc",
+            "symbol": "Moxie:!279434-fc"
         }
     ],
     "version": {
