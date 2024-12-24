@@ -2221,6 +2221,13 @@
             "logoURI": "https://www.facebook.com/IMGWorldwide/",
             "name": "Moxie:mubi1323.base.eth-base",
             "symbol": "Moxie:mubi1323.base.eth-base"
+        },
+        {
+            "address": "0xf026F3b9820736F476c20cb04172668Fd9C47dff",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1810562619952312320/_Q4yvXJ_.jpg",
+            "name": "Moxie:DawidZych498321-x",
+            "symbol": "Moxie:DawidZych498321-x"
         }
     ],
     "version": {
