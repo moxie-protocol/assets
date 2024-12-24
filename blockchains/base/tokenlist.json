@@ -2004,6 +2004,13 @@
             "logoURI": "https://i.imgur.com/PfMRKI7.jpg",
             "name": "Moxie:horlami-fc",
             "symbol": "Moxie:horlami-fc"
+        },
+        {
+            "address": "0x47Cca09817e7ef779A17EF7f7f21DC764DD8Fe42",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1811999681800441856/bbYugva_.jpg",
+            "name": "Moxie:your_yekin-x",
+            "symbol": "Moxie:your_yekin-x"
         }
     ],
     "version": {
