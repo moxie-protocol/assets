@@ -2893,6 +2893,13 @@
             "logoURI": "https://i.imgur.com/SheHUIa.jpg",
             "name": "Moxie:nitrofranek-fc",
             "symbol": "Moxie:nitrofranek-fc"
+        },
+        {
+            "address": "0xd4D0cA459010A9e648474C0d0c27dE934fc489E1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bYAeZla.jpg",
+            "name": "Moxie:btxz-fc",
+            "symbol": "Moxie:btxz-fc"
         }
     ],
     "version": {
