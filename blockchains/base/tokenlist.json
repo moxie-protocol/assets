@@ -2564,6 +2564,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851912364297216000/j1EG3abE.jpg",
             "name": "Moxie:crane_tyre58653-x",
             "symbol": "Moxie:crane_tyre58653-x"
+        },
+        {
+            "address": "0x77eA7582a7584657d0e39c06725ee7D4a7740B5F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0ba984c-1df8-42ff-2d97-6b453ee74f00/rectcrop3",
+            "name": "Moxie:stein30-fc",
+            "symbol": "Moxie:stein30-fc"
         }
     ],
     "version": {
