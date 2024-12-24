@@ -2046,6 +2046,13 @@
             "logoURI": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1940340/8a6bf2dfc491be809c2fccf61f297d6f98ac049d.gif",
             "name": "Moxie:deagleops.eth-ens",
             "symbol": "Moxie:deagleops.eth-ens"
+        },
+        {
+            "address": "0xc2cE04793504967214cD2C138bFbfF4f921547DB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1840620797985243136/w1ZWvwvZ.jpg",
+            "name": "Moxie:gm_leoblock-x",
+            "symbol": "Moxie:gm_leoblock-x"
         }
     ],
     "version": {
