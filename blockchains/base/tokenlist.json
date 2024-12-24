@@ -2473,6 +2473,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkJigufyq00dk5hZq_acK0ix6Gq5LMj59Kg\u0026s",
             "name": "Moxie:regalaurum.base.eth-base",
             "symbol": "Moxie:regalaurum.base.eth-base"
+        },
+        {
+            "address": "0xB2179bB6b800a35ca30C8A369598111BF04469bD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8cce2a24-9bd7-4a9e-9ec5-54fddb0fce00/rectcrop3",
+            "name": "Moxie:wisnia-fc",
+            "symbol": "Moxie:wisnia-fc"
         }
     ],
     "version": {
