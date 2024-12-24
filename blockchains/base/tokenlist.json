@@ -2431,6 +2431,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9586b97e-a2cc-467d-45a2-c69f8cb5ae00/original",
             "name": "Moxie:henryfar-fc",
             "symbol": "Moxie:henryfar-fc"
+        },
+        {
+            "address": "0x6ADd1450743f043aBcD17f9d460aB184E21716B1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af507637-6185-45a9-54b2-b0c5af598000/original",
+            "name": "Moxie:krzchula-fc",
+            "symbol": "Moxie:krzchula-fc"
         }
     ],
     "version": {
