@@ -2326,6 +2326,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e038ffae-b416-4551-5e64-6e20a9eccc00/rectcrop3",
             "name": "Moxie:invisible05-fc",
             "symbol": "Moxie:invisible05-fc"
+        },
+        {
+            "address": "0x074bEA51F5F7082914c770754DEfE7C6EcF0fF21",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SZC0jZI.jpg",
+            "name": "Moxie:dworus-fc",
+            "symbol": "Moxie:dworus-fc"
         }
     ],
     "version": {
