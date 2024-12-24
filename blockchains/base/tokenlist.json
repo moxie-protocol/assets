@@ -2522,6 +2522,13 @@
             "logoURI": "https://image.cdn2.seaart.ai/2023-09-28/18416936489598981/674ae7e1d807d107321cc79d2136f471209a0e7d_high.webp",
             "name": "Moxie:huckaduck.base.eth-base",
             "symbol": "Moxie:huckaduck.base.eth-base"
+        },
+        {
+            "address": "0x6f5ECf19e3c880a6B315BC648A7883cfE6694d8A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/nyLYpee.jpg",
+            "name": "Moxie:marion3611-fc",
+            "symbol": "Moxie:marion3611-fc"
         }
     ],
     "version": {
