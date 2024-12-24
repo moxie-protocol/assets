@@ -2193,6 +2193,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75588404-d653-4e32-3265-9edcb1184a00/rectcrop3",
             "name": "Moxie:artemy-fc",
             "symbol": "Moxie:artemy-fc"
+        },
+        {
+            "address": "0xfd1a48a0f649084775f5b0cd5B3d22920c52fA39",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c60ad72a-0950-40b3-6826-d383ff6e9c00/rectcrop3",
+            "name": "Moxie:asian-fc",
+            "symbol": "Moxie:asian-fc"
         }
     ],
     "version": {
