@@ -2312,6 +2312,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebf4bee5-05f4-424d-4788-ecaf5eaa4700/rectcrop3",
             "name": "Moxie:mrhappyp-fc",
             "symbol": "Moxie:mrhappyp-fc"
+        },
+        {
+            "address": "0x68306E8A96CC4873155c6429Ae5000c99d5F838c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1672887691283660800/apUpFjpc.jpg",
+            "name": "Moxie:bashorunedward-x",
+            "symbol": "Moxie:bashorunedward-x"
         }
     ],
     "version": {
