@@ -2641,6 +2641,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f38dbefa-f867-4540-1875-340d141ad900/rectcrop3",
             "name": "Moxie:s-kayy-fc",
             "symbol": "Moxie:s-kayy-fc"
+        },
+        {
+            "address": "0x07838edC83f95a561f6c3e37CCB22736DF655dFD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868209135822458880/bqLFLMmF.jpg",
+            "name": "Moxie:laurent2919-x",
+            "symbol": "Moxie:laurent2919-x"
         }
     ],
     "version": {
