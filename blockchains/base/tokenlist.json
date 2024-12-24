@@ -2158,6 +2158,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1800538406583156736/G5l8xHGi_400x400.jpg",
             "name": "Moxie:malstreetcat.eth-ens",
             "symbol": "Moxie:malstreetcat.eth-ens"
+        },
+        {
+            "address": "0x2FF3347C7Ce73f77c60242D7A52915f68222502f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b31376ac-4374-4160-dccc-a56187c9e500/rectcrop3",
+            "name": "Moxie:jaylawals-fc",
+            "symbol": "Moxie:jaylawals-fc"
         }
     ],
     "version": {
