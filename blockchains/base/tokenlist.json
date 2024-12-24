@@ -2606,6 +2606,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1785627719826649088/Wfo5bFsb.jpg",
             "name": "Moxie:crypto_9x-x",
             "symbol": "Moxie:crypto_9x-x"
+        },
+        {
+            "address": "0x28F9795b1E20f915Fabb042E569e54D9B90406FF",
+            "decimals": 18,
+            "logoURI": "https://ivory-reluctant-dragon-744.mypinata.cloud/ipfs/bafkreia7rm55oak4qwku65ixyxvscfukvin2eg22b6mz6jef722mf53fou",
+            "name": "Moxie:userbox.base.eth-base",
+            "symbol": "Moxie:userbox.base.eth-base"
         }
     ],
     "version": {
