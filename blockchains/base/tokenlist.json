@@ -2830,6 +2830,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibgakpo7tway736saxpbghoa6c5gefepa2huqcwi5mq4ly5lrj6qq",
             "name": "Moxie:pakwo-fc",
             "symbol": "Moxie:pakwo-fc"
+        },
+        {
+            "address": "0x749F0e2303789b505FB4a0664D586b199A3e912C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qjxk5yl.jpg",
+            "name": "Moxie:antonlogvinov-fc",
+            "symbol": "Moxie:antonlogvinov-fc"
         }
     ],
     "version": {
