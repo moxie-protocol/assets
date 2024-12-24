@@ -2424,6 +2424,13 @@
             "logoURI": "https://i.imgur.com/xIUybPU.jpg",
             "name": "Moxie:donfoye-fc",
             "symbol": "Moxie:donfoye-fc"
+        },
+        {
+            "address": "0x57Ef8b734eF244A1157Df5D9F76421BD36041644",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9586b97e-a2cc-467d-45a2-c69f8cb5ae00/original",
+            "name": "Moxie:henryfar-fc",
+            "symbol": "Moxie:henryfar-fc"
         }
     ],
     "version": {
