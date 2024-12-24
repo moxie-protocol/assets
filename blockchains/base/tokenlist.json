@@ -2172,6 +2172,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiaaar73sn5uk6wamppgfgalec6vfqyk3rr35argnueu5ogk6ystx4/1182",
             "name": "Moxie:rinboyfr-fc",
             "symbol": "Moxie:rinboyfr-fc"
+        },
+        {
+            "address": "0xbb53512dc0f26E6947CeCbC1a528C340002a62f7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FbA4lNQ.jpg",
+            "name": "Moxie:peroo-fc",
+            "symbol": "Moxie:peroo-fc"
         }
     ],
     "version": {
