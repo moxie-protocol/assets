@@ -2067,6 +2067,13 @@
             "logoURI": "https://i.imgur.com/u85tCsa.jpg",
             "name": "Moxie:aida-fc",
             "symbol": "Moxie:aida-fc"
+        },
+        {
+            "address": "0x9fB45Fe42D98d9b45ddF2b1F0a9D618b6a876508",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868691089667866628/URV_bQ37.jpg",
+            "name": "Moxie:lvl_max-x",
+            "symbol": "Moxie:lvl_max-x"
         }
     ],
     "version": {
