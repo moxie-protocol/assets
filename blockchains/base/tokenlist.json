@@ -2697,6 +2697,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8405fdaa-a06f-40a1-0d30-7a35225db000/rectcrop3",
             "name": "Moxie:bangxen-fc",
             "symbol": "Moxie:bangxen-fc"
+        },
+        {
+            "address": "0x86C94F8e2a01fB3dae82B9eedBA7D013aCE786f8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5rBaP6b.jpg",
+            "name": "Moxie:apresiko-fc",
+            "symbol": "Moxie:apresiko-fc"
         }
     ],
     "version": {
