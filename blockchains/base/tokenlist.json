@@ -2704,6 +2704,13 @@
             "logoURI": "https://i.imgur.com/5rBaP6b.jpg",
             "name": "Moxie:apresiko-fc",
             "symbol": "Moxie:apresiko-fc"
+        },
+        {
+            "address": "0xf5257D4aB10A5D11faCAf39F8b052BA31cB6Ae7F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1749031699504091136/l_8GpjMd.jpg",
+            "name": "Moxie:BOBOCOVIDSOROS-x",
+            "symbol": "Moxie:BOBOCOVIDSOROS-x"
         }
     ],
     "version": {
