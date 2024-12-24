@@ -2410,6 +2410,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fe37281-830e-426b-5f28-328e57b4ef00/rectcrop3",
             "name": "Moxie:pezik-fc",
             "symbol": "Moxie:pezik-fc"
+        },
+        {
+            "address": "0x3e2E2F9e642602793Be86EC206912Cb0ce746346",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d53efd4f-15d5-460f-6687-98b46568e700/original",
+            "name": "Moxie:kryptonite86-fc",
+            "symbol": "Moxie:kryptonite86-fc"
         }
     ],
     "version": {
