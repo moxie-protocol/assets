@@ -2781,6 +2781,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/628a3270-ff34-4ad6-d8c1-c78631b10900/rectcrop3",
             "name": "Moxie:azzad-fc",
             "symbol": "Moxie:azzad-fc"
+        },
+        {
+            "address": "0xaF2065d7a55A945A915209D7aa7F6eAAA71dEc35",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BcnSA5P.jpg",
+            "name": "Moxie:olamicheal7-fc",
+            "symbol": "Moxie:olamicheal7-fc"
         }
     ],
     "version": {
