@@ -2613,6 +2613,13 @@
             "logoURI": "https://ivory-reluctant-dragon-744.mypinata.cloud/ipfs/bafkreia7rm55oak4qwku65ixyxvscfukvin2eg22b6mz6jef722mf53fou",
             "name": "Moxie:userbox.base.eth-base",
             "symbol": "Moxie:userbox.base.eth-base"
+        },
+        {
+            "address": "0x2e26B46D09fdcB2991091F8c28AD29E30452E720",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0ce8709-5bd7-4bc5-6cad-f454f8047500/rectcrop3",
+            "name": "Moxie:huepham-fc",
+            "symbol": "Moxie:huepham-fc"
         }
     ],
     "version": {
