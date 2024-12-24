@@ -2690,6 +2690,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1793308250026250241/TjQA2orX.jpg",
             "name": "Moxie:CryptoSport0-x",
             "symbol": "Moxie:CryptoSport0-x"
+        },
+        {
+            "address": "0xA99988EdfFdf1db01995F2eD2B7b701563D1e6d0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8405fdaa-a06f-40a1-0d30-7a35225db000/rectcrop3",
+            "name": "Moxie:bangxen-fc",
+            "symbol": "Moxie:bangxen-fc"
         }
     ],
     "version": {
