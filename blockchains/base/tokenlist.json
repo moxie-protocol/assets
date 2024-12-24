@@ -2459,6 +2459,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851501296374689792/Cb8V_4PQ.jpg",
             "name": "Moxie:Asenuga4-x",
             "symbol": "Moxie:Asenuga4-x"
+        },
+        {
+            "address": "0xffc8b1163953D967Fa313B5b0e2B484aC95F1f5F",
+            "decimals": 18,
+            "logoURI": "https://i.pinimg.com/originals/2a/f5/3d/2af53d8f1be483dd0e05b7b18142c33c.jpg",
+            "name": "Moxie:btc-100.eth-ens",
+            "symbol": "Moxie:btc-100.eth-ens"
         }
     ],
     "version": {
