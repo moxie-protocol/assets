@@ -2718,6 +2718,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd46ed46-4208-427f-c6d3-8cabab802100/rectcrop3",
             "name": "Moxie:coson-fc",
             "symbol": "Moxie:coson-fc"
+        },
+        {
+            "address": "0xCc57D146AE7662E82763671235E7e1516ccFaaaa",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba1db341-8d3c-47e5-021f-aa21843f0200/original",
+            "name": "Moxie:ndesip.base.eth-base",
+            "symbol": "Moxie:ndesip.base.eth-base"
         }
     ],
     "version": {
