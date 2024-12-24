@@ -1906,6 +1906,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1639382392132517888/RPNsVF0w.jpg",
             "name": "Moxie:niknezhadreza84-x",
             "symbol": "Moxie:niknezhadreza84-x"
+        },
+        {
+            "address": "0x9766e2AE1659Db1Ff096E86d3c9d029803B99029",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1596817996932055041/oyL0Nsme.jpg",
+            "name": "Moxie:kiarashsoltani2-x",
+            "symbol": "Moxie:kiarashsoltani2-x"
         }
     ],
     "version": {
