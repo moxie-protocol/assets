@@ -2774,6 +2774,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a8df6c59-08c6-4dac-92c0-0748c6cb1700/rectcrop3",
             "name": "Moxie:anointing-fc",
             "symbol": "Moxie:anointing-fc"
+        },
+        {
+            "address": "0xf2aCD0205FAf059608E9E9cD6C2842036d865B9c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/628a3270-ff34-4ad6-d8c1-c78631b10900/rectcrop3",
+            "name": "Moxie:azzad-fc",
+            "symbol": "Moxie:azzad-fc"
         }
     ],
     "version": {
