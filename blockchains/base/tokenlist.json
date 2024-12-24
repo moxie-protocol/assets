@@ -2417,6 +2417,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d53efd4f-15d5-460f-6687-98b46568e700/original",
             "name": "Moxie:kryptonite86-fc",
             "symbol": "Moxie:kryptonite86-fc"
+        },
+        {
+            "address": "0x23C9CC0188EC05580144ee79671D40A2b0e9978a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xIUybPU.jpg",
+            "name": "Moxie:donfoye-fc",
+            "symbol": "Moxie:donfoye-fc"
         }
     ],
     "version": {
