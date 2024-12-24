@@ -2501,6 +2501,13 @@
             "logoURI": "https://lqaqj2vpoib2pdkkcpb3ywhpquk5tlteya4mhnkuswparhhld2sq.arweave.net/XAEE6q9yA6eNShPDvFjvhRXZrmTAOMO1VJWeCJzrHqU/",
             "name": "Moxie:sicknature-fc",
             "symbol": "Moxie:sicknature-fc"
+        },
+        {
+            "address": "0x0cd3D3FE7C7801680f6cF6DC9B7F6e439e579458",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1527601818104102914/yKJYnPqb.jpg",
+            "name": "Moxie:olshansky-x",
+            "symbol": "Moxie:olshansky-x"
         }
     ],
     "version": {
