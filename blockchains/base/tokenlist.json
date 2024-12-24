@@ -2249,6 +2249,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiekrrydnv4pviwmpcsultscufxrstqu6slprlj7otp7qxkar6rry4",
             "name": "Moxie:nftits00-fc",
             "symbol": "Moxie:nftits00-fc"
+        },
+        {
+            "address": "0x573e53238C8719CAc4ca4718d0067FCF2a3A46f5",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/CpEtFeV.jpg",
+            "name": "Moxie:dahoodolab-fc",
+            "symbol": "Moxie:dahoodolab-fc"
         }
     ],
     "version": {
