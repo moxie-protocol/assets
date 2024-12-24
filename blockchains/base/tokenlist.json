@@ -2102,6 +2102,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867794295128043520/QC4tvIGM.jpg",
             "name": "Moxie:trailstar18-x",
             "symbol": "Moxie:trailstar18-x"
+        },
+        {
+            "address": "0xb059ccE444C443b1a2D91f5dc8BF5d7B3A1de7e2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4cc42b6-cbef-42b5-f7ed-7bbfc775a100/rectcrop3",
+            "name": "Moxie:veryilham-fc",
+            "symbol": "Moxie:veryilham-fc"
         }
     ],
     "version": {
