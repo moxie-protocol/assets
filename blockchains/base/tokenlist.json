@@ -2032,6 +2032,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1785644998077132800/mvlBPCRB.jpg",
             "name": "Moxie:MyMonte4-x",
             "symbol": "Moxie:MyMonte4-x"
+        },
+        {
+            "address": "0xAF11dF97052CC4548c7fF28d93d217c7C14c2e7E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1804330131940380672/7S3dB03B.jpg",
+            "name": "Moxie:saokkei-x",
+            "symbol": "Moxie:saokkei-x"
         }
     ],
     "version": {
