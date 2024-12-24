@@ -2858,6 +2858,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1860765964666597377/shRGu1z2.jpg",
             "name": "Moxie:sbahlevel-x",
             "symbol": "Moxie:sbahlevel-x"
+        },
+        {
+            "address": "0xF382Cb6D5b595d765D59dB40BAcfe0B0576af92a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "kamellialahijani",
+            "symbol": "fid:585913"
         }
     ],
     "version": {
