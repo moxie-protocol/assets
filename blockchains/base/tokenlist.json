@@ -2340,6 +2340,13 @@
             "logoURI": "https://ibb.co/zxt0V74",
             "name": "Moxie:zkfchain.eth-ens",
             "symbol": "Moxie:zkfchain.eth-ens"
+        },
+        {
+            "address": "0x83A87b818E88eB2635bAC9DA29c8A061b034F988",
+            "decimals": 18,
+            "logoURI": "https://images.app.goo.gl/dQTYdRxQZTNf3M1i9",
+            "name": "Moxie:arclyn.base.eth-base",
+            "symbol": "Moxie:arclyn.base.eth-base"
         }
     ],
     "version": {
