@@ -2179,6 +2179,13 @@
             "logoURI": "https://i.imgur.com/FbA4lNQ.jpg",
             "name": "Moxie:peroo-fc",
             "symbol": "Moxie:peroo-fc"
+        },
+        {
+            "address": "0x5b1E0eB4B5EaCB65a8c4b46E79Fd492479fe69ED",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869944957739642880/ZV_8JHJr.jpg",
+            "name": "Moxie:DKing1119-x",
+            "symbol": "Moxie:DKing1119-x"
         }
     ],
     "version": {
