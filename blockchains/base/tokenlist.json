@@ -2676,6 +2676,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1796239716020359169/xiP2234T.jpg",
             "name": "Moxie:ATmala_xxx-x",
             "symbol": "Moxie:ATmala_xxx-x"
+        },
+        {
+            "address": "0xDCedcaB9abE994bCf407B3fB49299966d7AcF057",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1865130018713571328/ehHHzCK8.jpg",
+            "name": "Moxie:MikolajTomczakX-x",
+            "symbol": "Moxie:MikolajTomczakX-x"
         }
     ],
     "version": {
