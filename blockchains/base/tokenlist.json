@@ -2298,6 +2298,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifcmuwosmj2jargkh7gjit7icucca6jd754zo54djobua4m2ldp24",
             "name": "Moxie:tuneezi-fc",
             "symbol": "Moxie:tuneezi-fc"
+        },
+        {
+            "address": "0x7DeFd69C9b388cEb62180ccb095525682c66a828",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1089237189370753025/XfdNFMZH.jpg",
+            "name": "Moxie:apoukan-x",
+            "symbol": "Moxie:apoukan-x"
         }
     ],
     "version": {
