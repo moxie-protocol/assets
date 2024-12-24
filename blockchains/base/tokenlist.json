@@ -2543,6 +2543,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94224dbe-6dad-44c6-41a7-2e5d61545100/rectcrop3",
             "name": "Moxie:malpoli-fc",
             "symbol": "Moxie:malpoli-fc"
+        },
+        {
+            "address": "0xa42DB6A16bE6E454b55ca3b496Dc19Dbc8CC91d1",
+            "decimals": 18,
+            "logoURI": "https://i.pinimg.com/originals/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg",
+            "name": "Moxie:oscarhorney33-gt",
+            "symbol": "Moxie:oscarhorney33-gt"
         }
     ],
     "version": {
