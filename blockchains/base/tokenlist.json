@@ -2550,6 +2550,13 @@
             "logoURI": "https://i.pinimg.com/originals/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg",
             "name": "Moxie:oscarhorney33-gt",
             "symbol": "Moxie:oscarhorney33-gt"
+        },
+        {
+            "address": "0xA64611af16faa85b269D4bA7a6C68A5A9F75ea95",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:acemopnmtx4022-x",
+            "symbol": "Moxie:acemopnmtx4022-x"
         }
     ],
     "version": {
