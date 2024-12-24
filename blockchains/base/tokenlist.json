@@ -2319,6 +2319,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1672887691283660800/apUpFjpc.jpg",
             "name": "Moxie:bashorunedward-x",
             "symbol": "Moxie:bashorunedward-x"
+        },
+        {
+            "address": "0x45d22516C994Ab5914cBB42EE04A86954dEA3a7e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e038ffae-b416-4551-5e64-6e20a9eccc00/rectcrop3",
+            "name": "Moxie:invisible05-fc",
+            "symbol": "Moxie:invisible05-fc"
         }
     ],
     "version": {
