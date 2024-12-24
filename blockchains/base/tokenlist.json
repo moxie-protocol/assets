@@ -2872,6 +2872,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866875393191354368/ZFoiiPHh.jpg",
             "name": "Moxie:khoya_laziz-x",
             "symbol": "Moxie:khoya_laziz-x"
+        },
+        {
+            "address": "0x0E8d5bC00e3d030229E834b311D04D21FB5F04c5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866894042786648064/wK89dsgj.jpg",
+            "name": "Moxie:Genesis_X66-x",
+            "symbol": "Moxie:Genesis_X66-x"
         }
     ],
     "version": {
