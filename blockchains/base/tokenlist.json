@@ -2655,6 +2655,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfa6c057-caa0-4573-f93f-ac9323cba000/rectcrop3",
             "name": "Moxie:denride-fc",
             "symbol": "Moxie:denride-fc"
+        },
+        {
+            "address": "0x890A37D2b725416621c5B6926457bEcb8a7F83Da",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/4JbHtmr/super-katapult.png",
+            "name": "Moxie:glacierguard.base.eth-base",
+            "symbol": "Moxie:glacierguard.base.eth-base"
         }
     ],
     "version": {
