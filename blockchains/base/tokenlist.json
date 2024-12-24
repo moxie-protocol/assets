@@ -2620,6 +2620,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0ce8709-5bd7-4bc5-6cad-f454f8047500/rectcrop3",
             "name": "Moxie:huepham-fc",
             "symbol": "Moxie:huepham-fc"
+        },
+        {
+            "address": "0x20d3EDFA1897Eed1B31338fb25CbC2a25E19A6A2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/490jOYT.jpg",
+            "name": "Moxie:babakrypto-fc",
+            "symbol": "Moxie:babakrypto-fc"
         }
     ],
     "version": {
