@@ -2648,6 +2648,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868209135822458880/bqLFLMmF.jpg",
             "name": "Moxie:laurent2919-x",
             "symbol": "Moxie:laurent2919-x"
+        },
+        {
+            "address": "0x8e94AC8f36560b268768F2A258D06aAa0fd11Ae4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfa6c057-caa0-4573-f93f-ac9323cba000/rectcrop3",
+            "name": "Moxie:denride-fc",
+            "symbol": "Moxie:denride-fc"
         }
     ],
     "version": {
