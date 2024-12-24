@@ -2445,6 +2445,13 @@
             "logoURI": "https://ih1.redbubble.net/image.2413654421.7188/fposter,small,wall_texture,square_product,600x600.jpg",
             "name": "Moxie:lemonek22.base.eth-base",
             "symbol": "Moxie:lemonek22.base.eth-base"
+        },
+        {
+            "address": "0x390a8C5D2242e383E3dA3A0A8Fcd62003951ab4F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1782449115281891328/zTIQGCZ1.jpg",
+            "name": "Moxie:CryptoTechAi-x",
+            "symbol": "Moxie:CryptoTechAi-x"
         }
     ],
     "version": {
