@@ -2711,6 +2711,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1749031699504091136/l_8GpjMd.jpg",
             "name": "Moxie:BOBOCOVIDSOROS-x",
             "symbol": "Moxie:BOBOCOVIDSOROS-x"
+        },
+        {
+            "address": "0x31b6d745e5452CE5c7B2C2A0b635009411ed31F7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd46ed46-4208-427f-c6d3-8cabab802100/rectcrop3",
+            "name": "Moxie:coson-fc",
+            "symbol": "Moxie:coson-fc"
         }
     ],
     "version": {
