@@ -2095,6 +2095,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b876b164-51d1-47ab-bebd-42c872376200/original",
             "name": "Moxie:zedtrickster-fc",
             "symbol": "Moxie:zedtrickster-fc"
+        },
+        {
+            "address": "0x660215c5979C3DfdbF99BFC7dB10473DD0d1151F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867794295128043520/QC4tvIGM.jpg",
+            "name": "Moxie:trailstar18-x",
+            "symbol": "Moxie:trailstar18-x"
         }
     ],
     "version": {
