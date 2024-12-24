@@ -2760,6 +2760,13 @@
             "logoURI": "https://i.imgur.com/cEVcowR.jpg",
             "name": "Moxie:ayugaps-fc",
             "symbol": "Moxie:ayugaps-fc"
+        },
+        {
+            "address": "0x402694F7964A80534d7069CA3bce0aD55BAD9268",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3cbbee4e-eda0-41f6-1b1a-17739bd6e100/rectcrop3",
+            "name": "Moxie:tobt-fc",
+            "symbol": "Moxie:tobt-fc"
         }
     ],
     "version": {
