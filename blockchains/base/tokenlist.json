@@ -2144,6 +2144,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c6030ac-cf0f-4341-5f81-eb96f3138000/rectcrop3",
             "name": "Moxie:eazee-fc",
             "symbol": "Moxie:eazee-fc"
+        },
+        {
+            "address": "0x999E3e90960858dA3Db266E0f6f1114bFBcf06b4",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmeEo8sFfMPJLerCCTYfeweLzFMsf1JcwpvQ79owM21AE8/7ZNJ.gif",
+            "name": "Moxie:icebit-fc",
+            "symbol": "Moxie:icebit-fc"
         }
     ],
     "version": {
