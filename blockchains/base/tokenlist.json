@@ -2732,6 +2732,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1723095303186767872/Qpyauz7m.jpg",
             "name": "Moxie:Enny098-x",
             "symbol": "Moxie:Enny098-x"
+        },
+        {
+            "address": "0x4E2EffDd9d97379c69779A6C31Fc40c7fEec99A7",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeih6wj6hcsouerpph45divbp3bbpdwqbx35aucn44jc6yzz3gckzba",
+            "name": "Moxie:awesome1-fc",
+            "symbol": "Moxie:awesome1-fc"
         }
     ],
     "version": {
