@@ -2886,6 +2886,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1cfeefb-7702-4f33-7115-59247cf86e00/rectcrop3",
             "name": "Moxie:kudoswins-fc",
             "symbol": "Moxie:kudoswins-fc"
+        },
+        {
+            "address": "0xfA83Ac1a14FED9DD341D733d34c9241496a32bc7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SheHUIa.jpg",
+            "name": "Moxie:nitrofranek-fc",
+            "symbol": "Moxie:nitrofranek-fc"
         }
     ],
     "version": {
