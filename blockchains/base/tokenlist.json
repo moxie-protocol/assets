@@ -1990,6 +1990,13 @@
             "logoURI": "https://i.imgur.com/msA69hS.jpg",
             "name": "Moxie:aduky-fc",
             "symbol": "Moxie:aduky-fc"
+        },
+        {
+            "address": "0x089FecD6F605559A8Ce67bFC5214be85aDDFA222",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/cfCT9PK.jpg",
+            "name": "Moxie:olamus5-fc",
+            "symbol": "Moxie:olamus5-fc"
         }
     ],
     "version": {
