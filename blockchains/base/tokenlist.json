@@ -2816,6 +2816,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef745a08-948e-4fdf-15bb-3761d7ae2c00/rectcrop3",
             "name": "Moxie:mercury60-fc",
             "symbol": "Moxie:mercury60-fc"
+        },
+        {
+            "address": "0x3c4B6CD233b031c89117382372C6E3D4372DE68f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/280afcb5-eef4-469b-b6ad-279c3e3f3000/rectcrop3",
+            "name": "Moxie:masseldae-fc",
+            "symbol": "Moxie:masseldae-fc"
         }
     ],
     "version": {
