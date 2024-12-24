@@ -2809,6 +2809,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be95beb7-92a2-4937-1015-ca0a67c17e00/original",
             "name": "Moxie:esi-fc",
             "symbol": "Moxie:esi-fc"
+        },
+        {
+            "address": "0x0941027A7D98dD8FaFcaBF74AA61D2E0EC25E965",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef745a08-948e-4fdf-15bb-3761d7ae2c00/rectcrop3",
+            "name": "Moxie:mercury60-fc",
+            "symbol": "Moxie:mercury60-fc"
         }
     ],
     "version": {
