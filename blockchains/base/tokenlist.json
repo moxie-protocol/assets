@@ -2130,6 +2130,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1848645596460290048/IgUpRJ_A.jpg",
             "name": "Moxie:Ihsan64568539-x",
             "symbol": "Moxie:Ihsan64568539-x"
+        },
+        {
+            "address": "0xD0252C651114Ee8D29b94364BF715b0EA0bBcC7A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6330d93d-c45d-4566-72d3-c1a82913ac00/original",
+            "name": "Moxie:halkanova-fc",
+            "symbol": "Moxie:halkanova-fc"
         }
     ],
     "version": {
