@@ -2214,6 +2214,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e08d9fa2-24fd-4e22-5eb3-99291054b700/rectcrop3",
             "name": "Moxie:kayzzy3-fc",
             "symbol": "Moxie:kayzzy3-fc"
+        },
+        {
+            "address": "0xfA9E51C02d4F231e324Ba334D5c64B2538C9a2C6",
+            "decimals": 18,
+            "logoURI": "https://www.facebook.com/IMGWorldwide/",
+            "name": "Moxie:mubi1323.base.eth-base",
+            "symbol": "Moxie:mubi1323.base.eth-base"
         }
     ],
     "version": {
