@@ -2305,6 +2305,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1089237189370753025/XfdNFMZH.jpg",
             "name": "Moxie:apoukan-x",
             "symbol": "Moxie:apoukan-x"
+        },
+        {
+            "address": "0xFe2Db13ef9CA5e7F888c0032AE26778a75ABb1c0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebf4bee5-05f4-424d-4788-ecaf5eaa4700/rectcrop3",
+            "name": "Moxie:mrhappyp-fc",
+            "symbol": "Moxie:mrhappyp-fc"
         }
     ],
     "version": {
