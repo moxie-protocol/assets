@@ -1969,6 +1969,13 @@
             "logoURI": "https://i.imgur.com/XQvL8OP.jpg",
             "name": "Moxie:azippy-fc",
             "symbol": "Moxie:azippy-fc"
+        },
+        {
+            "address": "0xB4AFe98de0449ff0861216E4B876AF80cfF3e3a6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35356ec9-d8ea-4514-5169-435efe1e4000/original",
+            "name": "Moxie:jeanpepit0-fc",
+            "symbol": "Moxie:jeanpepit0-fc"
         }
     ],
     "version": {
