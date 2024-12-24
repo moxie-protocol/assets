@@ -1934,6 +1934,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d316036-7448-40d9-49b3-ab8a46875200/original",
             "name": "Moxie:masonlucas-fc",
             "symbol": "Moxie:masonlucas-fc"
+        },
+        {
+            "address": "0x022f7aCc14d0A68496Dd1E307189288b21d9059D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a97af3fb-f6a2-4a36-26c0-723751e7e400/rectcrop3",
+            "name": "Moxie:haschwalth-fc",
+            "symbol": "Moxie:haschwalth-fc"
         }
     ],
     "version": {
