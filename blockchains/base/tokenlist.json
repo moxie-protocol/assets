@@ -1920,6 +1920,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1596816624321019906/p_4F8S2L.jpg",
             "name": "Moxie:BizarHasani-x",
             "symbol": "Moxie:BizarHasani-x"
+        },
+        {
+            "address": "0x749f10FaA2C621487fb03f624a8480126d5478e9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/448266241216491520/f7KQ2lU9.jpeg",
+            "name": "Moxie:G_Weedo420-x",
+            "symbol": "Moxie:G_Weedo420-x"
         }
     ],
     "version": {
