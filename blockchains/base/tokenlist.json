@@ -2508,6 +2508,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1527601818104102914/yKJYnPqb.jpg",
             "name": "Moxie:olshansky-x",
             "symbol": "Moxie:olshansky-x"
+        },
+        {
+            "address": "0xb8b93aB2C69807b6e800Af559e5d2DeE20e2527c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/285467c3-168b-4218-e717-f93ceb6c3c00/original",
+            "name": "Moxie:mjk1oto-fc",
+            "symbol": "Moxie:mjk1oto-fc"
         }
     ],
     "version": {
