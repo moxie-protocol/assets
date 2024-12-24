@@ -2662,6 +2662,13 @@
             "logoURI": "https://i.ibb.co/4JbHtmr/super-katapult.png",
             "name": "Moxie:glacierguard.base.eth-base",
             "symbol": "Moxie:glacierguard.base.eth-base"
+        },
+        {
+            "address": "0x8185594015a452119EaB817e48d6B5F47b6Ba06C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "liorazephyr03",
+            "symbol": "fid:864251"
         }
     ],
     "version": {
