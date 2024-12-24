@@ -2753,6 +2753,13 @@
             "logoURI": "https://i.imgur.com/tImxC3a.jpg",
             "name": "Moxie:daveconect-fc",
             "symbol": "Moxie:daveconect-fc"
+        },
+        {
+            "address": "0x1209baB71BbE554ab03847e0d3087fd753047D80",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/cEVcowR.jpg",
+            "name": "Moxie:ayugaps-fc",
+            "symbol": "Moxie:ayugaps-fc"
         }
     ],
     "version": {
