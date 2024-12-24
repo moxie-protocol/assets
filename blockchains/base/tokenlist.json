@@ -2284,6 +2284,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41e2ef1f-597a-4a09-0943-ac15c95f0d00/original",
             "name": "Moxie:aley-fc",
             "symbol": "Moxie:aley-fc"
+        },
+        {
+            "address": "0x5E2bf55BfbE29762153899eB86Ab6D323A22CDF4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1721202706138755072/fa5rInbv.jpg",
+            "name": "Moxie:B_stacks2-x",
+            "symbol": "Moxie:B_stacks2-x"
         }
     ],
     "version": {
