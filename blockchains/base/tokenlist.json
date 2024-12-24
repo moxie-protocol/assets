@@ -1976,6 +1976,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35356ec9-d8ea-4514-5169-435efe1e4000/original",
             "name": "Moxie:jeanpepit0-fc",
             "symbol": "Moxie:jeanpepit0-fc"
+        },
+        {
+            "address": "0xd7dEFc04742f95f9aED06Ec805B60FB48836e8c2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1600180242731393024/bk9iU0zS.jpg",
+            "name": "Moxie:_TomHoward-x",
+            "symbol": "Moxie:_TomHoward-x"
         }
     ],
     "version": {
