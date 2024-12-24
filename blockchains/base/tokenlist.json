@@ -2235,6 +2235,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31293c0b-7a4f-4497-0001-ea8e6ddccf00/rectcrop3",
             "name": "Moxie:zak-degen-fc",
             "symbol": "Moxie:zak-degen-fc"
+        },
+        {
+            "address": "0xd2Aef6a5F11F5BbA1EBA5E204F68a62a28048DA2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47d8c1c2-5b15-4928-f295-75317f526600/rectcrop3",
+            "name": "Moxie:cuanmax-fc",
+            "symbol": "Moxie:cuanmax-fc"
         }
     ],
     "version": {
