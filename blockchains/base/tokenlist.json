@@ -2788,6 +2788,13 @@
             "logoURI": "https://i.imgur.com/BcnSA5P.jpg",
             "name": "Moxie:olamicheal7-fc",
             "symbol": "Moxie:olamicheal7-fc"
+        },
+        {
+            "address": "0x0E2Fb99888e79D8883024518CC80CCDA6a8A689b",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicmzi2j7oxkqs5ytdlodi2wkke5nlfkgpxolksb2562gjvb6o4ohi",
+            "name": "Moxie:burakxm8-fc",
+            "symbol": "Moxie:burakxm8-fc"
         }
     ],
     "version": {
