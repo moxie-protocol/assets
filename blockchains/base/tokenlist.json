@@ -1948,6 +1948,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMin8FGKC_uxAg3A4bEYGFwDV377lboD7yuw\u0026s",
             "name": "Moxie:dostam.base.eth-base",
             "symbol": "Moxie:dostam.base.eth-base"
+        },
+        {
+            "address": "0xDBad9791EEaC1c1797Aa9274646b92370628Bf0F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1597862246989721600/uk072vqU.jpg",
+            "name": "Moxie:AldyFtFanny-x",
+            "symbol": "Moxie:AldyFtFanny-x"
         }
     ],
     "version": {
