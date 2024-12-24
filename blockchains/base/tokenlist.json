@@ -1997,6 +1997,13 @@
             "logoURI": "https://i.imgur.com/cfCT9PK.jpg",
             "name": "Moxie:olamus5-fc",
             "symbol": "Moxie:olamus5-fc"
+        },
+        {
+            "address": "0xadf87A67e8cf3a433f5722eE29B3C7DEc78a7453",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PfMRKI7.jpg",
+            "name": "Moxie:horlami-fc",
+            "symbol": "Moxie:horlami-fc"
         }
     ],
     "version": {
