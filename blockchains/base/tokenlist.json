@@ -2592,6 +2592,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74d06813-c0d9-49ce-8dd9-d69bd49f7900/rectcrop3",
             "name": "Moxie:elirosales-fc",
             "symbol": "Moxie:elirosales-fc"
+        },
+        {
+            "address": "0x2F09dCe7aEc1b6b1F8ea34B1987BDBd9AF2c44F6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/mv3DwBA.jpg",
+            "name": "Moxie:bwest-fc",
+            "symbol": "Moxie:bwest-fc"
         }
     ],
     "version": {
