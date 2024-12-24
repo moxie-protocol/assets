@@ -2109,6 +2109,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4cc42b6-cbef-42b5-f7ed-7bbfc775a100/rectcrop3",
             "name": "Moxie:veryilham-fc",
             "symbol": "Moxie:veryilham-fc"
+        },
+        {
+            "address": "0x16fc607f27d87610295acF29A334667b415136a0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1824060456199127040/3dlwgY3L.jpg",
+            "name": "Moxie:Cayden_and_Nico-x",
+            "symbol": "Moxie:Cayden_and_Nico-x"
         }
     ],
     "version": {
