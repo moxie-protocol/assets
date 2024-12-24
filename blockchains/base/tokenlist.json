@@ -2795,6 +2795,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicmzi2j7oxkqs5ytdlodi2wkke5nlfkgpxolksb2562gjvb6o4ohi",
             "name": "Moxie:burakxm8-fc",
             "symbol": "Moxie:burakxm8-fc"
+        },
+        {
+            "address": "0xF50eDc4Ea6eAEC960f8444b23001b8F7Ba85F0B4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gY0pgKq.jpg",
+            "name": "Moxie:doflaint-fc",
+            "symbol": "Moxie:doflaint-fc"
         }
     ],
     "version": {
