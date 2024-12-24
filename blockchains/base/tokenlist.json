@@ -2536,6 +2536,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:JohnHarrel64337-x",
             "symbol": "Moxie:JohnHarrel64337-x"
+        },
+        {
+            "address": "0x21933e22304BC8633cAa7652bdd3b041D886F74C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94224dbe-6dad-44c6-41a7-2e5d61545100/rectcrop3",
+            "name": "Moxie:malpoli-fc",
+            "symbol": "Moxie:malpoli-fc"
         }
     ],
     "version": {
