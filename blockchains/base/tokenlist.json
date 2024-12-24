@@ -1927,6 +1927,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/448266241216491520/f7KQ2lU9.jpeg",
             "name": "Moxie:G_Weedo420-x",
             "symbol": "Moxie:G_Weedo420-x"
+        },
+        {
+            "address": "0xeb4863434851B7820Da5e23E1c20a6975b5c83F2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d316036-7448-40d9-49b3-ab8a46875200/original",
+            "name": "Moxie:masonlucas-fc",
+            "symbol": "Moxie:masonlucas-fc"
         }
     ],
     "version": {
