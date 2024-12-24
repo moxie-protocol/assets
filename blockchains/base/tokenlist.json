@@ -2291,6 +2291,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1721202706138755072/fa5rInbv.jpg",
             "name": "Moxie:B_stacks2-x",
             "symbol": "Moxie:B_stacks2-x"
+        },
+        {
+            "address": "0x549864c6669cdA7CCA1C05a9240cC0f9ee71633b",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifcmuwosmj2jargkh7gjit7icucca6jd754zo54djobua4m2ldp24",
+            "name": "Moxie:tuneezi-fc",
+            "symbol": "Moxie:tuneezi-fc"
         }
     ],
     "version": {
