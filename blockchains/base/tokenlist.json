@@ -2354,6 +2354,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1858846775555018753/3t2jezWP.jpg",
             "name": "Moxie:Richard0246810-x",
             "symbol": "Moxie:Richard0246810-x"
+        },
+        {
+            "address": "0x63082aA2E8C2303faa76C2EAD5a8Ccb91DbeC87d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1423575967088455681/Xd74HxsG.jpg",
+            "name": "Moxie:norkusik95-x",
+            "symbol": "Moxie:norkusik95-x"
         }
     ],
     "version": {
