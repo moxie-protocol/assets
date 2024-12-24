@@ -2851,6 +2851,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9cfdffd8-43df-4585-271d-fc42460f4d00/original",
             "name": "Moxie:kryptozbiq-fc",
             "symbol": "Moxie:kryptozbiq-fc"
+        },
+        {
+            "address": "0x4691a92D963e60c13Aa402e436c14D761bd2F783",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1860765964666597377/shRGu1z2.jpg",
+            "name": "Moxie:sbahlevel-x",
+            "symbol": "Moxie:sbahlevel-x"
         }
     ],
     "version": {
