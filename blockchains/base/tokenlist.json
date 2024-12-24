@@ -2270,6 +2270,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04997c60-1104-4c91-5d7a-cdc1ffc6ff00/rectcrop3",
             "name": "Moxie:ehizdiamond5-fc",
             "symbol": "Moxie:ehizdiamond5-fc"
+        },
+        {
+            "address": "0xc86c6A264A94849fC5a196249d9E81a89c03a60E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b46d8458-2d5a-4d59-fab6-a7c8cd0f7300/original",
+            "name": "Moxie:jennypham-fc",
+            "symbol": "Moxie:jennypham-fc"
         }
     ],
     "version": {
