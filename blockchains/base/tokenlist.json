@@ -2053,6 +2053,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1840620797985243136/w1ZWvwvZ.jpg",
             "name": "Moxie:gm_leoblock-x",
             "symbol": "Moxie:gm_leoblock-x"
+        },
+        {
+            "address": "0x136C5b939B381F30D59812AeFc9c237334882969",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16d09a00-391f-429f-bc3d-27e2426a4e00/original",
+            "name": "Moxie:dansim0133-fc",
+            "symbol": "Moxie:dansim0133-fc"
         }
     ],
     "version": {
