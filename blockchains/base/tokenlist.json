@@ -2634,6 +2634,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1855645685606932480/FgJPXAer.jpg",
             "name": "Moxie:0xaryz-x",
             "symbol": "Moxie:0xaryz-x"
+        },
+        {
+            "address": "0xCDCCc2EBA31bA2BAFb5C0fC168bdC7bA076764ff",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f38dbefa-f867-4540-1875-340d141ad900/rectcrop3",
+            "name": "Moxie:s-kayy-fc",
+            "symbol": "Moxie:s-kayy-fc"
         }
     ],
     "version": {
