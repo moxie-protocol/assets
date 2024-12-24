@@ -2627,6 +2627,13 @@
             "logoURI": "https://i.imgur.com/490jOYT.jpg",
             "name": "Moxie:babakrypto-fc",
             "symbol": "Moxie:babakrypto-fc"
+        },
+        {
+            "address": "0x28D288F9891D76e0731e373Fad763D432045B748",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855645685606932480/FgJPXAer.jpg",
+            "name": "Moxie:0xaryz-x",
+            "symbol": "Moxie:0xaryz-x"
         }
     ],
     "version": {
