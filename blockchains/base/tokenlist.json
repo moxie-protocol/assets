@@ -2480,6 +2480,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8cce2a24-9bd7-4a9e-9ec5-54fddb0fce00/rectcrop3",
             "name": "Moxie:wisnia-fc",
             "symbol": "Moxie:wisnia-fc"
+        },
+        {
+            "address": "0x643006F20c662bD8e7603f4a2b5a37d14e62978c",
+            "decimals": 18,
+            "logoURI": "https://www.imgonline.com.ua/examples/bee-on-daisy.jpg",
+            "name": "Moxie:hogginhedges.base.eth-base",
+            "symbol": "Moxie:hogginhedges.base.eth-base"
         }
     ],
     "version": {
