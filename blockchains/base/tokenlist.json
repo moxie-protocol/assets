@@ -2263,6 +2263,13 @@
             "logoURI": "https://ens.xyz/noblepeter2000.eth",
             "name": "Moxie:noblepeter2000.eth-ens",
             "symbol": "Moxie:noblepeter2000.eth-ens"
+        },
+        {
+            "address": "0x4bc70E14348F8c6b6DdE770597837aE530b7c7d9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04997c60-1104-4c91-5d7a-cdc1ffc6ff00/rectcrop3",
+            "name": "Moxie:ehizdiamond5-fc",
+            "symbol": "Moxie:ehizdiamond5-fc"
         }
     ],
     "version": {
