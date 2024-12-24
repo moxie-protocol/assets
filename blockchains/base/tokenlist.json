@@ -2333,6 +2333,13 @@
             "logoURI": "https://i.imgur.com/SZC0jZI.jpg",
             "name": "Moxie:dworus-fc",
             "symbol": "Moxie:dworus-fc"
+        },
+        {
+            "address": "0xaB847C072fd80aBCda632D1D041827c233838007",
+            "decimals": 18,
+            "logoURI": "https://ibb.co/zxt0V74",
+            "name": "Moxie:zkfchain.eth-ens",
+            "symbol": "Moxie:zkfchain.eth-ens"
         }
     ],
     "version": {
