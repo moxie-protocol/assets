@@ -2494,6 +2494,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41a8495a-b017-4360-0fec-8f5efefc5600/rectcrop3",
             "name": "Moxie:orzechvw-fc",
             "symbol": "Moxie:orzechvw-fc"
+        },
+        {
+            "address": "0x17A066548889Eb1d98E3F753D311951EBC4a4208",
+            "decimals": 18,
+            "logoURI": "https://lqaqj2vpoib2pdkkcpb3ywhpquk5tlteya4mhnkuswparhhld2sq.arweave.net/XAEE6q9yA6eNShPDvFjvhRXZrmTAOMO1VJWeCJzrHqU/",
+            "name": "Moxie:sicknature-fc",
+            "symbol": "Moxie:sicknature-fc"
         }
     ],
     "version": {
