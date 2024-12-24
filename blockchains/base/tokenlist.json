@@ -2242,6 +2242,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47d8c1c2-5b15-4928-f295-75317f526600/rectcrop3",
             "name": "Moxie:cuanmax-fc",
             "symbol": "Moxie:cuanmax-fc"
+        },
+        {
+            "address": "0x74F634E70FF83B4240B9b6697AE2cbF218417160",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiekrrydnv4pviwmpcsultscufxrstqu6slprlj7otp7qxkar6rry4",
+            "name": "Moxie:nftits00-fc",
+            "symbol": "Moxie:nftits00-fc"
         }
     ],
     "version": {
