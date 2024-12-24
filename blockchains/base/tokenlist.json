@@ -2375,6 +2375,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b5d70b5-b7a2-4222-6316-bc73eddf8b00/rectcrop3",
             "name": "Moxie:eazyblinkz-fc",
             "symbol": "Moxie:eazyblinkz-fc"
+        },
+        {
+            "address": "0x3B0Cc45A20196E48fB6bc3f3994c278b1d269Bb2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1839531147061252096/aiD5161N.jpg",
+            "name": "Moxie:cryptohunter_0x-x",
+            "symbol": "Moxie:cryptohunter_0x-x"
         }
     ],
     "version": {
