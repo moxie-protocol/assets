@@ -2865,6 +2865,13 @@
             "logoURI": null,
             "name": "kamellialahijani",
             "symbol": "fid:585913"
+        },
+        {
+            "address": "0x7cF9dF659078D72cF253315703a4889C6EF974fB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866875393191354368/ZFoiiPHh.jpg",
+            "name": "Moxie:khoya_laziz-x",
+            "symbol": "Moxie:khoya_laziz-x"
         }
     ],
     "version": {
