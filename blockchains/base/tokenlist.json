@@ -2746,6 +2746,13 @@
             "logoURI": "https://imagedelivery.net/g4iQ0bIzMZrjFMgjAnSGfw/28a41b5a-61a7-4b29-8fbc-cfb616095200/public",
             "name": "Moxie:fendik92-fc",
             "symbol": "Moxie:fendik92-fc"
+        },
+        {
+            "address": "0x9a08077547B873fB88fF950630c3C14aCE646EaD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tImxC3a.jpg",
+            "name": "Moxie:daveconect-fc",
+            "symbol": "Moxie:daveconect-fc"
         }
     ],
     "version": {
