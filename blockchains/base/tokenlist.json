@@ -2466,6 +2466,13 @@
             "logoURI": "https://i.pinimg.com/originals/2a/f5/3d/2af53d8f1be483dd0e05b7b18142c33c.jpg",
             "name": "Moxie:btc-100.eth-ens",
             "symbol": "Moxie:btc-100.eth-ens"
+        },
+        {
+            "address": "0x830e001E20a9D836c27560453642a69bA8e19e51",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkJigufyq00dk5hZq_acK0ix6Gq5LMj59Kg\u0026s",
+            "name": "Moxie:regalaurum.base.eth-base",
+            "symbol": "Moxie:regalaurum.base.eth-base"
         }
     ],
     "version": {
