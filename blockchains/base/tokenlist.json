@@ -2207,6 +2207,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/264f6501-191a-455f-a3d5-141e31bb7500/rectcrop3",
             "name": "Moxie:!279434-fc",
             "symbol": "Moxie:!279434-fc"
+        },
+        {
+            "address": "0xd9Ff2011581e6977CbE5C533b3f99B3B8b724DB1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e08d9fa2-24fd-4e22-5eb3-99291054b700/rectcrop3",
+            "name": "Moxie:kayzzy3-fc",
+            "symbol": "Moxie:kayzzy3-fc"
         }
     ],
     "version": {
