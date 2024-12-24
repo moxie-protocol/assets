@@ -2165,6 +2165,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b31376ac-4374-4160-dccc-a56187c9e500/rectcrop3",
             "name": "Moxie:jaylawals-fc",
             "symbol": "Moxie:jaylawals-fc"
+        },
+        {
+            "address": "0x35A74965600215D0aaa7f7e8481D2e7036818674",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiaaar73sn5uk6wamppgfgalec6vfqyk3rr35argnueu5ogk6ystx4/1182",
+            "name": "Moxie:rinboyfr-fc",
+            "symbol": "Moxie:rinboyfr-fc"
         }
     ],
     "version": {
