@@ -2802,6 +2802,13 @@
             "logoURI": "https://i.imgur.com/gY0pgKq.jpg",
             "name": "Moxie:doflaint-fc",
             "symbol": "Moxie:doflaint-fc"
+        },
+        {
+            "address": "0x87c58DE0D253370982E29781982208942A899bB0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be95beb7-92a2-4937-1015-ca0a67c17e00/original",
+            "name": "Moxie:esi-fc",
+            "symbol": "Moxie:esi-fc"
         }
     ],
     "version": {
