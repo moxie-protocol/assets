@@ -1962,6 +1962,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1852305562542694401/hjL9np4x.jpg",
             "name": "Moxie:Dougy_buller-x",
             "symbol": "Moxie:Dougy_buller-x"
+        },
+        {
+            "address": "0x370C5d94Be37c2a51E2ac0645F28Fde8860Ec8fC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/XQvL8OP.jpg",
+            "name": "Moxie:azippy-fc",
+            "symbol": "Moxie:azippy-fc"
         }
     ],
     "version": {
