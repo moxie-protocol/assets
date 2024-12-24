@@ -2389,6 +2389,13 @@
             "logoURI": "https://i.seadn.io/gcs/files/0a976ed4a3340ebfb04f6923e232a093.png?w=500\u0026auto=format",
             "name": "Moxie:sirfemnuel-fc",
             "symbol": "Moxie:sirfemnuel-fc"
+        },
+        {
+            "address": "0xb7914ac62595545080025E686b052BF8A8a6d63b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IlQL4eb.jpg",
+            "name": "Moxie:hato-fc",
+            "symbol": "Moxie:hato-fc"
         }
     ],
     "version": {
