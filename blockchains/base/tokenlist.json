@@ -2403,6 +2403,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a63ce03f-06d1-4188-d9d1-c660f2235300/original",
             "name": "Moxie:wwwojti-fc",
             "symbol": "Moxie:wwwojti-fc"
+        },
+        {
+            "address": "0x691A41FA7e67a0641C24e513b4FCf29Eb4d0Dc5e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fe37281-830e-426b-5f28-328e57b4ef00/rectcrop3",
+            "name": "Moxie:pezik-fc",
+            "symbol": "Moxie:pezik-fc"
         }
     ],
     "version": {
