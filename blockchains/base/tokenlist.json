@@ -3110,6 +3110,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868619158746812416/m9A4noG5.jpg",
             "name": "Moxie:breachill-x",
             "symbol": "Moxie:breachill-x"
+        },
+        {
+            "address": "0xB111c07DFc987E6f2711b730E0f471382B34669A",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "sq567",
+            "symbol": "fid:695163"
         }
     ],
     "version": {
