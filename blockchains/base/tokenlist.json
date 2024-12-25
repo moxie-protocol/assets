@@ -3320,6 +3320,13 @@
             "logoURI": null,
             "name": "dalresin",
             "symbol": "fid:422333"
+        },
+        {
+            "address": "0x64f2e5Bc0f918dcbB79d588984394D625423c962",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acdd2f4c-de3c-4100-2afd-3c05da74cd00/original",
+            "name": "Moxie:waszstary-fc",
+            "symbol": "Moxie:waszstary-fc"
         }
     ],
     "version": {
