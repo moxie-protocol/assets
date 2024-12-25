@@ -3271,6 +3271,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1504546416626176005/64a-e3ok.jpg",
             "name": "Moxie:LMag458-x",
             "symbol": "Moxie:LMag458-x"
+        },
+        {
+            "address": "0x02b00e6314Bc54C756058BFA4F22878eC4B4f1D7",
+            "decimals": 18,
+            "logoURI": "https://pngland.com/wp-content/uploads/2024/10/Stunning-Bird-of-Paradise-Flower-in-Vibrant-Colors-1152x1536.jpg",
+            "name": "Moxie:mjayy.base.eth-base",
+            "symbol": "Moxie:mjayy.base.eth-base"
         }
     ],
     "version": {
