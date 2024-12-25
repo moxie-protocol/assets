@@ -3145,6 +3145,13 @@
             "logoURI": "https://s8.uupload.ir/files/img_1272_hsup.jpeg",
             "name": "Moxie:ryzawm-fc",
             "symbol": "Moxie:ryzawm-fc"
+        },
+        {
+            "address": "0x389607C3208639c7CE59Cc045B39a5bA007dFCFA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4010ed4-72c1-47a5-420b-84196cdbc200/rectcrop3",
+            "name": "Moxie:festac-fc",
+            "symbol": "Moxie:festac-fc"
         }
     ],
     "version": {
