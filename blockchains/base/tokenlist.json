@@ -3334,6 +3334,13 @@
             "logoURI": "https://i.pinimg.com/736x/f0/04/c3/f004c3fdaa6eaf9abdb0f00a156157db.jpg",
             "name": "Moxie:nifton.base.eth-base",
             "symbol": "Moxie:nifton.base.eth-base"
+        },
+        {
+            "address": "0x2728010FE74D72f82Db2a222744cb95f3093962D",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PHkbebb.jpg",
+            "name": "Moxie:mkoczano-fc",
+            "symbol": "Moxie:mkoczano-fc"
         }
     ],
     "version": {
