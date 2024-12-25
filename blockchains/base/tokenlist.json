@@ -2963,6 +2963,13 @@
             "logoURI": "https://shorturl.at/y4NmV",
             "name": "Moxie:ikenna7.base.eth-base",
             "symbol": "Moxie:ikenna7.base.eth-base"
+        },
+        {
+            "address": "0x51f35BE03f97cF0FC99E26C886314266ACce6Ea4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1863244320125358080/IbN5qgjQ.jpg",
+            "name": "Moxie:LapyPillot-x",
+            "symbol": "Moxie:LapyPillot-x"
         }
     ],
     "version": {
