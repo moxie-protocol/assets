@@ -3341,6 +3341,13 @@
             "logoURI": "https://i.imgur.com/PHkbebb.jpg",
             "name": "Moxie:mkoczano-fc",
             "symbol": "Moxie:mkoczano-fc"
+        },
+        {
+            "address": "0x02c32AA3C5D2a10B12C08E2462Ee9bA2d1D063e2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1843760622506266624/y9JoYvzP.jpg",
+            "name": "Moxie:freshfunky75-x",
+            "symbol": "Moxie:freshfunky75-x"
         }
     ],
     "version": {
