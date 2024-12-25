@@ -2998,6 +2998,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/423fa68e-b766-43e2-fb28-aef40a439500/rectcrop3",
             "name": "Moxie:enyek.eth-fc",
             "symbol": "Moxie:enyek.eth-fc"
+        },
+        {
+            "address": "0x923d8378Aa9d339136ceb914CFa9D654687Df484",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46c93b71-8986-40cc-d835-ee4d55bd5400/original",
+            "name": "Moxie:galkanov-fc",
+            "symbol": "Moxie:galkanov-fc"
         }
     ],
     "version": {
