@@ -3222,6 +3222,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a11c5ac7-9511-46ee-7367-6534afcb3300/rectcrop3",
             "name": "Moxie:winter92-fc",
             "symbol": "Moxie:winter92-fc"
+        },
+        {
+            "address": "0x82cE7A30F88FdFDF9d33F53AA35c7fDE8Ba84498",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dmMgMLy.jpg",
+            "name": "Moxie:kapitan101-fc",
+            "symbol": "Moxie:kapitan101-fc"
         }
     ],
     "version": {
