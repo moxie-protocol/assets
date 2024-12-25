@@ -3299,6 +3299,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fba1cbbc-a3d5-4e9e-3247-9dc0a7359100/rectcrop3",
             "name": "Moxie:jemiludeen-fc",
             "symbol": "Moxie:jemiludeen-fc"
+        },
+        {
+            "address": "0x54D5911e979dB451e165EBf1D705104Cfa35345c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/356e5ecf-53a9-4aea-9b14-4f2e18148500/rectcrop3",
+            "name": "Moxie:defiloop-fc",
+            "symbol": "Moxie:defiloop-fc"
         }
     ],
     "version": {
