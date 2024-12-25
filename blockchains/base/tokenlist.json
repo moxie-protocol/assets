@@ -3061,6 +3061,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:pruitt_pie21161-x",
             "symbol": "Moxie:pruitt_pie21161-x"
+        },
+        {
+            "address": "0xCb4f2c40fCFEA44F75783fe4292276639C3D677B",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "alvarendra",
+            "symbol": "fid:870959"
         }
     ],
     "version": {
