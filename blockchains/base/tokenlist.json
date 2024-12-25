@@ -3285,6 +3285,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854917822754836480/pA6k6CHf.jpg",
             "name": "Moxie:PowerPapasheur-x",
             "symbol": "Moxie:PowerPapasheur-x"
+        },
+        {
+            "address": "0x7009b6c0b533949f35DbEa412A3253Bd5Ed5e54b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1514239626654875648/mbF1US4Y.jpg",
+            "name": "Moxie:steven__rea-x",
+            "symbol": "Moxie:steven__rea-x"
         }
     ],
     "version": {
