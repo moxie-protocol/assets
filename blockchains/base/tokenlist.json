@@ -2977,6 +2977,13 @@
             "logoURI": null,
             "name": "isquaremedia",
             "symbol": "fid:277078"
+        },
+        {
+            "address": "0xc22a272949817864b44d13a8713CA0CFE39c22e0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1851601434262835200/KUfA7jQI.jpg",
+            "name": "Moxie:danito_dnl27-x",
+            "symbol": "Moxie:danito_dnl27-x"
         }
     ],
     "version": {
