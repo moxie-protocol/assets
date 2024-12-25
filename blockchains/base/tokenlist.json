@@ -3131,6 +3131,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f17cb3b6-edab-4023-47d7-47637fd46a00/rectcrop3",
             "name": "Moxie:acegodsluv-fc",
             "symbol": "Moxie:acegodsluv-fc"
+        },
+        {
+            "address": "0x22F52C798c99BDA631F467750a13B1D34C345d76",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23cee7cf-8964-4cd6-8d8c-0ea123805500/original",
+            "name": "Moxie:chaoticdiffusion-fc",
+            "symbol": "Moxie:chaoticdiffusion-fc"
         }
     ],
     "version": {
