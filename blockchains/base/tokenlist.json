@@ -2935,6 +2935,13 @@
             "logoURI": "https://mlyoasgpptk8.i.optimole.com/cb:PSMF~43db5/w:auto/h:auto/q:mauto/f:avif/https://www.iris-france.org/wp-content/uploads/2024/11/Elon_Musk_Trump_Etats-Unis-e1732535462510.jpg",
             "name": "Moxie:insshv.base.eth-base",
             "symbol": "Moxie:insshv.base.eth-base"
+        },
+        {
+            "address": "0xf131b5f6D9a2F37B05f72a550527c92A3B79Ab1d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1823784853210341376/a9354NVA.jpg",
+            "name": "Moxie:getrich72834066-x",
+            "symbol": "Moxie:getrich72834066-x"
         }
     ],
     "version": {
