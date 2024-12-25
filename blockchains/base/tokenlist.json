@@ -3215,6 +3215,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5e37ad0-ae6f-4ee2-d38a-ec0d3238db00/rectcrop3",
             "name": "Moxie:mesomorphic-fc",
             "symbol": "Moxie:mesomorphic-fc"
+        },
+        {
+            "address": "0x3a97835D94C4183805469Dd956F75b70F863CbB6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a11c5ac7-9511-46ee-7367-6534afcb3300/rectcrop3",
+            "name": "Moxie:winter92-fc",
+            "symbol": "Moxie:winter92-fc"
         }
     ],
     "version": {
