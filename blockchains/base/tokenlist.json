@@ -3152,6 +3152,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4010ed4-72c1-47a5-420b-84196cdbc200/rectcrop3",
             "name": "Moxie:festac-fc",
             "symbol": "Moxie:festac-fc"
+        },
+        {
+            "address": "0x6e689F4462b3540Ba57482d9CbeE88956014bB39",
+            "decimals": 18,
+            "logoURI": "https://i.imageupload.app/4b0d37057563a211b7a5.jpeg",
+            "name": "Moxie:gondwana3452.base.eth-base",
+            "symbol": "Moxie:gondwana3452.base.eth-base"
         }
     ],
     "version": {
