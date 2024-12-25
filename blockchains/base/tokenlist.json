@@ -3264,6 +3264,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1723330913151369216/3tV7ddvP.jpg",
             "name": "Moxie:Loskelly21-x",
             "symbol": "Moxie:Loskelly21-x"
+        },
+        {
+            "address": "0x36D7A94AAAC350aB62FC80F7990Ae8f31Ed4fc56",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1504546416626176005/64a-e3ok.jpg",
+            "name": "Moxie:LMag458-x",
+            "symbol": "Moxie:LMag458-x"
         }
     ],
     "version": {
