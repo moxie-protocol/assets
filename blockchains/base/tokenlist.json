@@ -2970,6 +2970,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863244320125358080/IbN5qgjQ.jpg",
             "name": "Moxie:LapyPillot-x",
             "symbol": "Moxie:LapyPillot-x"
+        },
+        {
+            "address": "0x78b8F07749bE4DF9edc1cd8cE8DDfbF0a467f8Ba",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "isquaremedia",
+            "symbol": "fid:277078"
         }
     ],
     "version": {
