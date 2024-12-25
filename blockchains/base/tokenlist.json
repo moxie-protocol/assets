@@ -3019,6 +3019,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e05f2b45-0a4a-41e8-3a01-38587bbcaa00/rectcrop3",
             "name": "Moxie:hoky177-fc",
             "symbol": "Moxie:hoky177-fc"
+        },
+        {
+            "address": "0x100ec330A884C955880b227550Cc1238c6f9C3cd",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkJigufyq00dk5hZq_acK0ix6Gq5LMj59Kg\u0026s",
+            "name": "Moxie:82-ads-blur3.eth-ens",
+            "symbol": "Moxie:82-ads-blur3.eth-ens"
         }
     ],
     "version": {
