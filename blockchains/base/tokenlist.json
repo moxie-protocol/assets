@@ -3173,6 +3173,13 @@
             "logoURI": "https://i.imgur.com/5IfaukM.jpg",
             "name": "Moxie:kazani.eth-fc",
             "symbol": "Moxie:kazani.eth-fc"
+        },
+        {
+            "address": "0xE0F89FafCa06A9F8A7662C52f1b679160441405a",
+            "decimals": 18,
+            "logoURI": "https://img.freepik.com/premium-photo/mixed-nuts-image-with-variety-nut-textures_1036998-318100.jpg",
+            "name": "Moxie:dehossa.base.eth-base",
+            "symbol": "Moxie:dehossa.base.eth-base"
         }
     ],
     "version": {
