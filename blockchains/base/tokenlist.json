@@ -3250,6 +3250,13 @@
             "logoURI": "https://i.imgur.com/UZqL5YQ.jpg",
             "name": "Moxie:lonquan-fc",
             "symbol": "Moxie:lonquan-fc"
+        },
+        {
+            "address": "0xa0aa6EAe5949d209b06a2E21e4C45E0A10B3B22a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "amith",
+            "symbol": "fid:438841"
         }
     ],
     "version": {
