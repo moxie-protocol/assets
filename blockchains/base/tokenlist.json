@@ -2942,6 +2942,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1823784853210341376/a9354NVA.jpg",
             "name": "Moxie:getrich72834066-x",
             "symbol": "Moxie:getrich72834066-x"
+        },
+        {
+            "address": "0xcff50AEd8B3dCFeA0527c6AD5552d72A344121f3",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gcs/files/e7d49b5c2a6021ff1543a69cfa466719.jpg?w=500\u0026auto=format",
+            "name": "Moxie:jayce-fc",
+            "symbol": "Moxie:jayce-fc"
         }
     ],
     "version": {
