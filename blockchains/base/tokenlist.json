@@ -3327,6 +3327,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/acdd2f4c-de3c-4100-2afd-3c05da74cd00/original",
             "name": "Moxie:waszstary-fc",
             "symbol": "Moxie:waszstary-fc"
+        },
+        {
+            "address": "0x173538D8D05e81868D8Bd981611F44CB2D46a4eb",
+            "decimals": 18,
+            "logoURI": "https://i.pinimg.com/736x/f0/04/c3/f004c3fdaa6eaf9abdb0f00a156157db.jpg",
+            "name": "Moxie:nifton.base.eth-base",
+            "symbol": "Moxie:nifton.base.eth-base"
         }
     ],
     "version": {
