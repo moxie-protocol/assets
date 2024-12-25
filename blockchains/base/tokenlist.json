@@ -3243,6 +3243,13 @@
             "logoURI": null,
             "name": "ocid06",
             "symbol": "fid:908712"
+        },
+        {
+            "address": "0x3228030797b5256F018c06FE11424cd67074fA9A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UZqL5YQ.jpg",
+            "name": "Moxie:lonquan-fc",
+            "symbol": "Moxie:lonquan-fc"
         }
     ],
     "version": {
