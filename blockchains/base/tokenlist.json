@@ -3068,6 +3068,13 @@
             "logoURI": null,
             "name": "alvarendra",
             "symbol": "fid:870959"
+        },
+        {
+            "address": "0x9a059Af0397D2899bf4aF4937a25e4Ca452Da9dA",
+            "decimals": 18,
+            "logoURI": "https://4g-inter.net/image/cache/catalog/goods/ai/3d/lion1-500x500.jpg",
+            "name": "Moxie:foxcatcher.base.eth-base",
+            "symbol": "Moxie:foxcatcher.base.eth-base"
         }
     ],
     "version": {
