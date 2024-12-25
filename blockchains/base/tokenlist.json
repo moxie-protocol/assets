@@ -3292,6 +3292,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1514239626654875648/mbF1US4Y.jpg",
             "name": "Moxie:steven__rea-x",
             "symbol": "Moxie:steven__rea-x"
+        },
+        {
+            "address": "0x2b255576847a42c779CF8b8f75B1193021472b50",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fba1cbbc-a3d5-4e9e-3247-9dc0a7359100/rectcrop3",
+            "name": "Moxie:jemiludeen-fc",
+            "symbol": "Moxie:jemiludeen-fc"
         }
     ],
     "version": {
