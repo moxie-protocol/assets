@@ -3187,6 +3187,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843921090218754048/jNFn8QI7.jpg",
             "name": "Moxie:greg5.base.eth-base",
             "symbol": "Moxie:greg5.base.eth-base"
+        },
+        {
+            "address": "0x992BaF99f84c517f5D9Ca75010FE1876Df3809a5",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "psr",
+            "symbol": "fid:205525"
         }
     ],
     "version": {
