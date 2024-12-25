@@ -3180,6 +3180,13 @@
             "logoURI": "https://img.freepik.com/premium-photo/mixed-nuts-image-with-variety-nut-textures_1036998-318100.jpg",
             "name": "Moxie:dehossa.base.eth-base",
             "symbol": "Moxie:dehossa.base.eth-base"
+        },
+        {
+            "address": "0xCF9D14CDe60EeE0D5e1464896Efd4CcA0F66bE13",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1843921090218754048/jNFn8QI7.jpg",
+            "name": "Moxie:greg5.base.eth-base",
+            "symbol": "Moxie:greg5.base.eth-base"
         }
     ],
     "version": {
