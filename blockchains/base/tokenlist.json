@@ -2907,6 +2907,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c4a32cc-636e-4a22-be29-0ecce45d5d00/rectcrop3",
             "name": "Moxie:siman-fc",
             "symbol": "Moxie:siman-fc"
+        },
+        {
+            "address": "0x81d9DFea1De55b2a54D3BcFA79DD9862cA90bDbf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7478d9c-5f83-43c0-f773-e3812e91ee00/original",
+            "name": "Moxie:masooda-fc",
+            "symbol": "Moxie:masooda-fc"
         }
     ],
     "version": {
