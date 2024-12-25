@@ -2914,6 +2914,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7478d9c-5f83-43c0-f773-e3812e91ee00/original",
             "name": "Moxie:masooda-fc",
             "symbol": "Moxie:masooda-fc"
+        },
+        {
+            "address": "0xa350dF447E0d1F6EcD7EAd313c5B48152FDa5082",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1852060548562849796/kYUUxPpK.jpg",
+            "name": "Moxie:_madrane-x",
+            "symbol": "Moxie:_madrane-x"
         }
     ],
     "version": {
