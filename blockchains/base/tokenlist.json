@@ -3089,6 +3089,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1y5gT6Xw6-w8f9bapm8Vpfg7e0zzFh1txnw\u0026s",
             "name": "Moxie:deelusk6329978-gt",
             "symbol": "Moxie:deelusk6329978-gt"
+        },
+        {
+            "address": "0xaADaa67e0A2A0371335bF2d2fC77c27F59D0Be3B",
+            "decimals": 18,
+            "logoURI": "https://i.pinimg.com/236x/fa/29/70/fa2970783e3b6eb3aa95bdfffc384bce.jpg",
+            "name": "Moxie:alecmcclure1271674-gt",
+            "symbol": "Moxie:alecmcclure1271674-gt"
         }
     ],
     "version": {
