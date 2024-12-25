@@ -2984,6 +2984,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851601434262835200/KUfA7jQI.jpg",
             "name": "Moxie:danito_dnl27-x",
             "symbol": "Moxie:danito_dnl27-x"
+        },
+        {
+            "address": "0x6F2dB6f0F24a22Cf3827f61c2e418e2aCaBD325B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f166111a-30d0-4257-0047-9b2c2da02200/original",
+            "name": "Moxie:marcinmarian-fc",
+            "symbol": "Moxie:marcinmarian-fc"
         }
     ],
     "version": {
