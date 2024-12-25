@@ -2991,6 +2991,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f166111a-30d0-4257-0047-9b2c2da02200/original",
             "name": "Moxie:marcinmarian-fc",
             "symbol": "Moxie:marcinmarian-fc"
+        },
+        {
+            "address": "0x56e39d1D6D91f6068C8C9AE7A7061915458E601c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/423fa68e-b766-43e2-fb28-aef40a439500/rectcrop3",
+            "name": "Moxie:enyek.eth-fc",
+            "symbol": "Moxie:enyek.eth-fc"
         }
     ],
     "version": {
