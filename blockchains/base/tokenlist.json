@@ -3201,6 +3201,13 @@
             "logoURI": "https://scontent.fktw4-1.fna.fbcdn.net/v/t1.15752-9/449086993_398097023245169_6692651239430351589_n.jpg?_nc_cat=111\u0026ccb=1-7\u0026_nc_sid=9f807c\u0026_nc_ohc=UbuPFPDo2EcQ7kNvgE4P2k1\u0026_nc_zt=23\u0026_nc_ht=scontent.fktw4-1.fna\u0026oh=03_Q7cD1gGXIkXbH3e5R8YNrhnv92xOmsHgCcgBYqhZF7EV2qWUrA\u0026oe=679242C3",
             "name": "Moxie:marwid.base.eth-base",
             "symbol": "Moxie:marwid.base.eth-base"
+        },
+        {
+            "address": "0x4dC02431fa4BA713ebbde09ff6EbC7F71665A885",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6961361-09c4-460c-6042-7c808c0f1f00/rectcrop3",
+            "name": "Moxie:mhistapee-fc",
+            "symbol": "Moxie:mhistapee-fc"
         }
     ],
     "version": {
