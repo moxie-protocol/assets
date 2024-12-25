@@ -2928,6 +2928,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1653790070996967425/A1Sb-low.jpg",
             "name": "Moxie:akr_bnt-x",
             "symbol": "Moxie:akr_bnt-x"
+        },
+        {
+            "address": "0xc9bc7C9583cB76b3d3c85109F0f480C8B10A3B7E",
+            "decimals": 18,
+            "logoURI": "https://mlyoasgpptk8.i.optimole.com/cb:PSMF~43db5/w:auto/h:auto/q:mauto/f:avif/https://www.iris-france.org/wp-content/uploads/2024/11/Elon_Musk_Trump_Etats-Unis-e1732535462510.jpg",
+            "name": "Moxie:insshv.base.eth-base",
+            "symbol": "Moxie:insshv.base.eth-base"
         }
     ],
     "version": {
