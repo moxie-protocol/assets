@@ -3257,6 +3257,13 @@
             "logoURI": null,
             "name": "amith",
             "symbol": "fid:438841"
+        },
+        {
+            "address": "0x282884feCA9cCBe0bAA9F43a5C9F5ABbfF4E1463",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1723330913151369216/3tV7ddvP.jpg",
+            "name": "Moxie:Loskelly21-x",
+            "symbol": "Moxie:Loskelly21-x"
         }
     ],
     "version": {
