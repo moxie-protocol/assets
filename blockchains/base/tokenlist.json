@@ -3313,6 +3313,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0817324a-ecfa-44f0-beb8-fad1d9286700/rectcrop3",
             "name": "Moxie:cpunkft-fc",
             "symbol": "Moxie:cpunkft-fc"
+        },
+        {
+            "address": "0x36E2ddcb9F6E23000Da1d36DFB6b7Cc82d101343",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "dalresin",
+            "symbol": "fid:422333"
         }
     ],
     "version": {
