@@ -3208,6 +3208,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6961361-09c4-460c-6042-7c808c0f1f00/rectcrop3",
             "name": "Moxie:mhistapee-fc",
             "symbol": "Moxie:mhistapee-fc"
+        },
+        {
+            "address": "0x9644199304e244aaD4DefE02f9838B038EFB1B54",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5e37ad0-ae6f-4ee2-d38a-ec0d3238db00/rectcrop3",
+            "name": "Moxie:mesomorphic-fc",
+            "symbol": "Moxie:mesomorphic-fc"
         }
     ],
     "version": {
