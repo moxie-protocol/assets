@@ -3026,6 +3026,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkJigufyq00dk5hZq_acK0ix6Gq5LMj59Kg\u0026s",
             "name": "Moxie:82-ads-blur3.eth-ens",
             "symbol": "Moxie:82-ads-blur3.eth-ens"
+        },
+        {
+            "address": "0x44d7827448Cd76435C251469712efa1adbEc7E2e",
+            "decimals": 18,
+            "logoURI": "https://s3.stroi-news.ru/img/klassnie-kartinki-dlya-devochek-4.jpg",
+            "name": "Moxie:conniehamilton5-gt",
+            "symbol": "Moxie:conniehamilton5-gt"
         }
     ],
     "version": {
