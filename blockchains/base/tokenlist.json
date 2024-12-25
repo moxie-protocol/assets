@@ -3159,6 +3159,13 @@
             "logoURI": "https://i.imageupload.app/4b0d37057563a211b7a5.jpeg",
             "name": "Moxie:gondwana3452.base.eth-base",
             "symbol": "Moxie:gondwana3452.base.eth-base"
+        },
+        {
+            "address": "0x6F189A15164d4a4263c366CCB8CF7874124fEd82",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5ea4b42-98b3-4c5a-2d26-81692788a900/rectcrop3",
+            "name": "Moxie:bubumanuel-fc",
+            "symbol": "Moxie:bubumanuel-fc"
         }
     ],
     "version": {
