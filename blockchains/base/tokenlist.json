@@ -3236,6 +3236,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1841616037600755712/oXMAPLTS.jpg",
             "name": "Moxie:Web3KL-x",
             "symbol": "Moxie:Web3KL-x"
+        },
+        {
+            "address": "0x782599550683891c5C4b525413e71C00a425d90E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ocid06",
+            "symbol": "fid:908712"
         }
     ],
     "version": {
