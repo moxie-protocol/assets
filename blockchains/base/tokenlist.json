@@ -3117,6 +3117,13 @@
             "logoURI": null,
             "name": "sq567",
             "symbol": "fid:695163"
+        },
+        {
+            "address": "0xd5BA3422A0E35474F202132aE25Ef20C68492c25",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1743987175593484289/Sg_4JwUw.jpg",
+            "name": "Moxie:meruem_ag-x",
+            "symbol": "Moxie:meruem_ag-x"
         }
     ],
     "version": {
