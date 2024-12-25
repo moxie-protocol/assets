@@ -3306,6 +3306,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/356e5ecf-53a9-4aea-9b14-4f2e18148500/rectcrop3",
             "name": "Moxie:defiloop-fc",
             "symbol": "Moxie:defiloop-fc"
+        },
+        {
+            "address": "0x2e0E994B954095557AaBaE7D68Ae7E70367D74B3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0817324a-ecfa-44f0-beb8-fad1d9286700/rectcrop3",
+            "name": "Moxie:cpunkft-fc",
+            "symbol": "Moxie:cpunkft-fc"
         }
     ],
     "version": {
