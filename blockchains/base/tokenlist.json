@@ -2956,6 +2956,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c99c7ed6-09ec-4ab1-618f-0df9d7723100/rectcrop3",
             "name": "Moxie:dizzykz-fc",
             "symbol": "Moxie:dizzykz-fc"
+        },
+        {
+            "address": "0x579F69D45fC281e27737AC40f66B912a8b35Ba97",
+            "decimals": 18,
+            "logoURI": "https://shorturl.at/y4NmV",
+            "name": "Moxie:ikenna7.base.eth-base",
+            "symbol": "Moxie:ikenna7.base.eth-base"
         }
     ],
     "version": {
