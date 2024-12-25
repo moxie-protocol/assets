@@ -3075,6 +3075,13 @@
             "logoURI": "https://4g-inter.net/image/cache/catalog/goods/ai/3d/lion1-500x500.jpg",
             "name": "Moxie:foxcatcher.base.eth-base",
             "symbol": "Moxie:foxcatcher.base.eth-base"
+        },
+        {
+            "address": "0x32CCE6aE244c5bd5e1555d5271BEBF4B194D0359",
+            "decimals": 18,
+            "logoURI": "https://img.freepik.com/premium-photo/close-up-beautiful-blooming-flowersgenerative-ai_221128-24736.jpg?semt=ais_hybrid",
+            "name": "Moxie:jamestaylor8469487-gt",
+            "symbol": "Moxie:jamestaylor8469487-gt"
         }
     ],
     "version": {
