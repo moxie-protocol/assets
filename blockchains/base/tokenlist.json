@@ -3103,6 +3103,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1862084854440955904/JF3aJaQr.jpg",
             "name": "Moxie:averell67-x",
             "symbol": "Moxie:averell67-x"
+        },
+        {
+            "address": "0x03acB930C0b8848c157ae09D2362ef12E7E03847",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868619158746812416/m9A4noG5.jpg",
+            "name": "Moxie:breachill-x",
+            "symbol": "Moxie:breachill-x"
         }
     ],
     "version": {
