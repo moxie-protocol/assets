@@ -2949,6 +2949,13 @@
             "logoURI": "https://i.seadn.io/gcs/files/e7d49b5c2a6021ff1543a69cfa466719.jpg?w=500\u0026auto=format",
             "name": "Moxie:jayce-fc",
             "symbol": "Moxie:jayce-fc"
+        },
+        {
+            "address": "0x808f608b54283971fa6EFA2C89609ec10e908338",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c99c7ed6-09ec-4ab1-618f-0df9d7723100/rectcrop3",
+            "name": "Moxie:dizzykz-fc",
+            "symbol": "Moxie:dizzykz-fc"
         }
     ],
     "version": {
