@@ -3229,6 +3229,13 @@
             "logoURI": "https://i.imgur.com/dmMgMLy.jpg",
             "name": "Moxie:kapitan101-fc",
             "symbol": "Moxie:kapitan101-fc"
+        },
+        {
+            "address": "0x8437175B962F2460dBB393D1c4Ab98B77A71baf6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1841616037600755712/oXMAPLTS.jpg",
+            "name": "Moxie:Web3KL-x",
+            "symbol": "Moxie:Web3KL-x"
         }
     ],
     "version": {
