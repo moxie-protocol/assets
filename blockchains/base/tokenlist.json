@@ -3166,6 +3166,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5ea4b42-98b3-4c5a-2d26-81692788a900/rectcrop3",
             "name": "Moxie:bubumanuel-fc",
             "symbol": "Moxie:bubumanuel-fc"
+        },
+        {
+            "address": "0xD617ECBB822c5F637Bb4638362d681E7A9aEF477",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5IfaukM.jpg",
+            "name": "Moxie:kazani.eth-fc",
+            "symbol": "Moxie:kazani.eth-fc"
         }
     ],
     "version": {
