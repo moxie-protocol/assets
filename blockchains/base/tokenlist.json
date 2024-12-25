@@ -3054,6 +3054,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1839335750816645120/OMGKqX3C.jpg",
             "name": "Moxie:uxcqrcjgwz4082-x",
             "symbol": "Moxie:uxcqrcjgwz4082-x"
+        },
+        {
+            "address": "0x3c2d73d330f2CC2C2883454D6b8a4Ade6239123C",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:pruitt_pie21161-x",
+            "symbol": "Moxie:pruitt_pie21161-x"
         }
     ],
     "version": {
