@@ -3425,6 +3425,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0cd6dba-aa4e-4546-09ac-572e4efe0a00/rectcrop3",
             "name": "Moxie:veekie-fc",
             "symbol": "Moxie:veekie-fc"
+        },
+        {
+            "address": "0xD0FFd0278b66daeAB9ffDDa7965Da2E179581731",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1850907480764612608/0laRcuiY.jpg",
+            "name": "Moxie:Bench_Press97-x",
+            "symbol": "Moxie:Bench_Press97-x"
         }
     ],
     "version": {
