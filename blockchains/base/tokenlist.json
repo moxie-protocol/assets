@@ -3383,6 +3383,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1698338530546884608/O0c6fdqQ.png",
             "name": "Moxie:ndgtlft-x",
             "symbol": "Moxie:ndgtlft-x"
+        },
+        {
+            "address": "0x1752A59bDA0802D29EC37ae3D311C6170d4b9C0f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93640f5e-da7e-46f3-10f3-4b6ce44d1e00/original",
+            "name": "Moxie:moxiescout-fc",
+            "symbol": "Moxie:moxiescout-fc"
         }
     ],
     "version": {
