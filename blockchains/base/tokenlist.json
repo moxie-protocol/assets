@@ -3488,6 +3488,13 @@
             "logoURI": "https://i.imgur.com/0J0Pcgc.jpg",
             "name": "Moxie:apolojahan-fc",
             "symbol": "Moxie:apolojahan-fc"
+        },
+        {
+            "address": "0x76E4fD556E092EDa6Ee97aB48F6EA1b1a0B5Fe05",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870397669480480768/83sAE8AN.jpg",
+            "name": "Moxie:Chartmax48998-x",
+            "symbol": "Moxie:Chartmax48998-x"
         }
     ],
     "version": {
