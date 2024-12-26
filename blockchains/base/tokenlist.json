@@ -3691,6 +3691,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3150b4d3-87fc-4907-2ddb-1400ed4c2c00/rectcrop3",
             "name": "Moxie:namrufretep-fc",
             "symbol": "Moxie:namrufretep-fc"
+        },
+        {
+            "address": "0x76A9C67A1f8A2C9086FFdc1d227461b0eFc778F1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dea9abce-092f-4791-c652-425c5560e300/rectcrop3",
+            "name": "Moxie:90tun-fc",
+            "symbol": "Moxie:90tun-fc"
         }
     ],
     "version": {
