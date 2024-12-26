@@ -3565,6 +3565,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1357318014576771072/sWfzi3sG.jpg",
             "name": "Moxie:teimouri7-x",
             "symbol": "Moxie:teimouri7-x"
+        },
+        {
+            "address": "0x557C094474C67584A1977beaB1577bC8a1C35ef0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Aq6NWKq.jpg",
+            "name": "Moxie:skeeboo-fc",
+            "symbol": "Moxie:skeeboo-fc"
         }
     ],
     "version": {
