@@ -3460,6 +3460,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6462edd3-80ce-4579-1020-e7d8bf1d2600/original",
             "name": "Moxie:moxie-intern-fc",
             "symbol": "Moxie:moxie-intern-fc"
+        },
+        {
+            "address": "0x4928daA0A2271d0FB14B29CD18AfeE99D6A64941",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/98654b56-a43f-4160-f36b-5e6f38a43300/rectcrop3",
+            "name": "Moxie:mahyarmhs-fc",
+            "symbol": "Moxie:mahyarmhs-fc"
         }
     ],
     "version": {
