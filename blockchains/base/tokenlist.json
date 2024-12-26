@@ -3369,6 +3369,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce48ee34-67d8-4311-eb4a-0573d7f43f00/rectcrop3",
             "name": "Moxie:macbrother-fc",
             "symbol": "Moxie:macbrother-fc"
+        },
+        {
+            "address": "0x66A8d958ab51737c230Bdc5964eeaB3219FD7a5a",
+            "decimals": 18,
+            "logoURI": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+            "name": "Moxie:decayheat.base.eth-base",
+            "symbol": "Moxie:decayheat.base.eth-base"
         }
     ],
     "version": {
