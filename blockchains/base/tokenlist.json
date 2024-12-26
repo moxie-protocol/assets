@@ -3712,6 +3712,13 @@
             "logoURI": "https://i.postimg.cc/qRHZJKKQ/Validator-307.png",
             "name": "Moxie:zerf0.eth-ens",
             "symbol": "Moxie:zerf0.eth-ens"
+        },
+        {
+            "address": "0x0d6bdeBb41aE2BB3cc69AEC502Cfb3cDeE9793b7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44839e4e-29de-4854-47ad-646eab038400/original",
+            "name": "Moxie:22cerodos-fc",
+            "symbol": "Moxie:22cerodos-fc"
         }
     ],
     "version": {
