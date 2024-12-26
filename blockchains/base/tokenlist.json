@@ -3355,6 +3355,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62d7681c-bde0-4f3d-33b9-05f36d99ad00/rectcrop3",
             "name": "Moxie:notdevin.eth-fc",
             "symbol": "Moxie:notdevin.eth-fc"
+        },
+        {
+            "address": "0x8628D4293dA414e7eED7dCDCF481de4BE62333d1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868047222299930624/deFS3fB8.jpg",
+            "name": "Moxie:LisAtoshi_fr-x",
+            "symbol": "Moxie:LisAtoshi_fr-x"
         }
     ],
     "version": {
