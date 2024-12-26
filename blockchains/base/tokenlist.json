@@ -3453,6 +3453,13 @@
             "logoURI": "https://i.imgur.com/04QOhzF.jpg",
             "name": "Moxie:masoretami-fc",
             "symbol": "Moxie:masoretami-fc"
+        },
+        {
+            "address": "0x762404F1d305e8dFd722e86DeC8CDf5DDCD37Cf1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6462edd3-80ce-4579-1020-e7d8bf1d2600/original",
+            "name": "Moxie:moxie-intern-fc",
+            "symbol": "Moxie:moxie-intern-fc"
         }
     ],
     "version": {
