@@ -3649,6 +3649,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1824532322961530880/IPpK2zeT.jpg",
             "name": "Moxie:kokocodes-x",
             "symbol": "Moxie:kokocodes-x"
+        },
+        {
+            "address": "0x8c8F1190F8dD3a0045D41206215d5E346014c0c7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1715154244322660352/Owltr0Tc.jpg",
+            "name": "Moxie:seiryobase_eth-x",
+            "symbol": "Moxie:seiryobase_eth-x"
         }
     ],
     "version": {
