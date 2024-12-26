@@ -3446,6 +3446,13 @@
             "logoURI": "https://media.istockphoto.com/id/516146384/pl/wektor/herakles-na-bia%C5%82y.jpg?s=1024x1024\u0026w=is\u0026k=20\u0026c=54u6TdkaaiBJ7mFGaAGNSYUEt3kUlnz-4zKuwx1dKpU=",
             "name": "Moxie:heraklespl.base.eth-base",
             "symbol": "Moxie:heraklespl.base.eth-base"
+        },
+        {
+            "address": "0x0f89A2f47D84F8AF56330AB9c2Fd05e42ad5Df20",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/04QOhzF.jpg",
+            "name": "Moxie:masoretami-fc",
+            "symbol": "Moxie:masoretami-fc"
         }
     ],
     "version": {
