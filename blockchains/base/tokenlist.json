@@ -3467,6 +3467,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/98654b56-a43f-4160-f36b-5e6f38a43300/rectcrop3",
             "name": "Moxie:mahyarmhs-fc",
             "symbol": "Moxie:mahyarmhs-fc"
+        },
+        {
+            "address": "0xF4188331A8707F05EE1AeC39015aAad8Cd5859f6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a780f815-87e1-45f7-211b-4e77f2aaec00/rectcrop3",
+            "name": "Moxie:saelmo-fc",
+            "symbol": "Moxie:saelmo-fc"
         }
     ],
     "version": {
