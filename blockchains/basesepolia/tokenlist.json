@@ -156,6 +156,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1675826459967991808/JoHbMvvM.png",
             "name": "Moxie:IPeciura8387-x",
             "symbol": "Moxie:IPeciura8387-x"
+        },
+        {
+            "address": "0x7770E5a994fcAF388a9540712971682F8e938c90",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828574942881050624/9W8fMT2v.jpg",
+            "name": "Moxie:bhsk_3494-x",
+            "symbol": "Moxie:bhsk_3494-x"
         }
     ],
     "version": {
