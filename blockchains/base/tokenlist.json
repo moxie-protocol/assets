@@ -3600,6 +3600,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859378406057545728/r31u318W.jpg",
             "name": "Moxie:zorguy33-x",
             "symbol": "Moxie:zorguy33-x"
+        },
+        {
+            "address": "0xF4Aa6E70cfC6Af83Cf54B171335B2D2d2b0BA2Ba",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1815926041057144832/NkRkQibP.jpg",
+            "name": "Moxie:Bc1qYumeko-x",
+            "symbol": "Moxie:Bc1qYumeko-x"
         }
     ],
     "version": {
