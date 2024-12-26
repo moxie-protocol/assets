@@ -3537,6 +3537,13 @@
             "logoURI": null,
             "name": "/knives",
             "symbol": "cid:knives"
+        },
+        {
+            "address": "0xC5a3A9a7fb6647bD92d2d7301B5061e1ac33e0F0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/331ea93e-d9b8-43fe-05a8-83ec04996300/rectcrop3",
+            "name": "Moxie:web3gee-fc",
+            "symbol": "Moxie:web3gee-fc"
         }
     ],
     "version": {
