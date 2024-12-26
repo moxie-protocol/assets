@@ -3621,6 +3621,13 @@
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pont_Alexandre_Trois.jpg",
             "name": "Moxie:pacesoircherie.base.eth-base",
             "symbol": "Moxie:pacesoircherie.base.eth-base"
+        },
+        {
+            "address": "0x0Ad8f87A3c7BfeC5cfD50B4a8D95581B702DC19d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1575624982796836871/sRCg6iyG.jpg",
+            "name": "Moxie:luisotravez_eth-x",
+            "symbol": "Moxie:luisotravez_eth-x"
         }
     ],
     "version": {
