@@ -3558,6 +3558,13 @@
             "logoURI": null,
             "name": "shuvoh815",
             "symbol": "fid:391474"
+        },
+        {
+            "address": "0x68fa44a7466764ebD06Af3dAae8fF93B5E5b31f3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1357318014576771072/sWfzi3sG.jpg",
+            "name": "Moxie:teimouri7-x",
+            "symbol": "Moxie:teimouri7-x"
         }
     ],
     "version": {
