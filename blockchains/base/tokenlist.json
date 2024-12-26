@@ -3733,6 +3733,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4eb35a8b-edbe-451a-85cc-37bc4f6bf400/original",
             "name": "Moxie:cobsfar-fc",
             "symbol": "Moxie:cobsfar-fc"
+        },
+        {
+            "address": "0x9c210aC3bE0e8fbc84367EE55FC1DC785155Df59",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Ida53751568-x",
+            "symbol": "Moxie:Ida53751568-x"
         }
     ],
     "version": {
