@@ -3586,6 +3586,13 @@
             "logoURI": null,
             "name": "lucainvictus",
             "symbol": "fid:882169"
+        },
+        {
+            "address": "0xeFa3a6d263d04Daf9b00B9332B4930eAB75196B2",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "anonanon",
+            "symbol": "fid:882170"
         }
     ],
     "version": {
