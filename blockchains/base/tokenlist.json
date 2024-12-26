@@ -3502,6 +3502,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c4eb4bd-c580-491c-ebdd-3767373dd700/rectcrop3",
             "name": "Moxie:fels-fc",
             "symbol": "Moxie:fels-fc"
+        },
+        {
+            "address": "0xec4CC4C6C3acD58108E3F87767840CbD6201b0e7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/33oI7KY.jpg",
+            "name": "Moxie:somti52-fc",
+            "symbol": "Moxie:somti52-fc"
         }
     ],
     "version": {
