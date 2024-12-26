@@ -3509,6 +3509,13 @@
             "logoURI": "https://i.imgur.com/33oI7KY.jpg",
             "name": "Moxie:somti52-fc",
             "symbol": "Moxie:somti52-fc"
+        },
+        {
+            "address": "0x94D20939e0EB0c7930bec00Db72eceE5deB23E84",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/media/GftzN7sX0AABwIR?format=jpg\u0026name=medium",
+            "name": "Moxie:dogeplaymid.eth-ens",
+            "symbol": "Moxie:dogeplaymid.eth-ens"
         }
     ],
     "version": {
