@@ -3418,6 +3418,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4d1c725-017d-4f34-0122-7a3b46ef5200/original",
             "name": "Moxie:rpine.eth-fc",
             "symbol": "Moxie:rpine.eth-fc"
+        },
+        {
+            "address": "0x3C041f26c49378f670a024700D354F69B03723BE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0cd6dba-aa4e-4546-09ac-572e4efe0a00/rectcrop3",
+            "name": "Moxie:veekie-fc",
+            "symbol": "Moxie:veekie-fc"
         }
     ],
     "version": {
