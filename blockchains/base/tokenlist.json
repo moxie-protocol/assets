@@ -3684,6 +3684,13 @@
             "logoURI": null,
             "name": "parapek22",
             "symbol": "fid:920544"
+        },
+        {
+            "address": "0x2aD4B36423a2c7fDa06C62e58627257fAd030D9b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3150b4d3-87fc-4907-2ddb-1400ed4c2c00/rectcrop3",
+            "name": "Moxie:namrufretep-fc",
+            "symbol": "Moxie:namrufretep-fc"
         }
     ],
     "version": {
