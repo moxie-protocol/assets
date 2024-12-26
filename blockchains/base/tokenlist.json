@@ -3516,6 +3516,13 @@
             "logoURI": "https://pbs.twimg.com/media/GftzN7sX0AABwIR?format=jpg\u0026name=medium",
             "name": "Moxie:dogeplaymid.eth-ens",
             "symbol": "Moxie:dogeplaymid.eth-ens"
+        },
+        {
+            "address": "0xDDf8BFEfb1D1315ee73DaEA422889bEcEa64eE29",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1765284593547010048/opBXjqJC.jpg",
+            "name": "Moxie:ReineCalypso-x",
+            "symbol": "Moxie:ReineCalypso-x"
         }
     ],
     "version": {
