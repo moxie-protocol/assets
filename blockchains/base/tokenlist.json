@@ -3348,6 +3348,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843760622506266624/y9JoYvzP.jpg",
             "name": "Moxie:freshfunky75-x",
             "symbol": "Moxie:freshfunky75-x"
+        },
+        {
+            "address": "0x58E384F8f0b1Fe77f2352CcF7118204B938E0f4D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62d7681c-bde0-4f3d-33b9-05f36d99ad00/rectcrop3",
+            "name": "Moxie:notdevin.eth-fc",
+            "symbol": "Moxie:notdevin.eth-fc"
         }
     ],
     "version": {
