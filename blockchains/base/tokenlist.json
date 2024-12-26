@@ -3397,6 +3397,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868783674835054593/ns4i4vDn.jpg",
             "name": "Moxie:AGENTAI_ilias-x",
             "symbol": "Moxie:AGENTAI_ilias-x"
+        },
+        {
+            "address": "0x5Fa027edd33d69e818f54195d8B835CDB765CE57",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "visheh",
+            "symbol": "fid:458764"
         }
     ],
     "version": {
