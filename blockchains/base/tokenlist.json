@@ -3474,6 +3474,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a780f815-87e1-45f7-211b-4e77f2aaec00/rectcrop3",
             "name": "Moxie:saelmo-fc",
             "symbol": "Moxie:saelmo-fc"
+        },
+        {
+            "address": "0x90E5E779Dc79daC4C43f5a2b457f38Accc9B0a57",
+            "decimals": 18,
+            "logoURI": "https://media.tenor.com/UxY74nL3V4EAAAAM/hehe-cat-cute-hehe.gif",
+            "name": "Moxie:stracon.base.eth-base",
+            "symbol": "Moxie:stracon.base.eth-base"
         }
     ],
     "version": {
