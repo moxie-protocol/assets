@@ -3579,6 +3579,13 @@
             "logoURI": null,
             "name": "unconsciousness",
             "symbol": "fid:882172"
+        },
+        {
+            "address": "0x43D418E8ab72fC5dd1570185b3CeA2A58Cd256C9",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "lucainvictus",
+            "symbol": "fid:882169"
         }
     ],
     "version": {
