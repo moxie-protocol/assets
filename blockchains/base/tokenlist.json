@@ -3663,6 +3663,13 @@
             "logoURI": "https://i.imgur.com/YCg61D3.jpg",
             "name": "Moxie:avaaaaart-fc",
             "symbol": "Moxie:avaaaaart-fc"
+        },
+        {
+            "address": "0x80abCC259Cc99B637a9dd58293B8095588bb22c0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79c38964-631f-4c8f-b35c-6806c4fed200/original",
+            "name": "Moxie:liwlimuz-fc",
+            "symbol": "Moxie:liwlimuz-fc"
         }
     ],
     "version": {
