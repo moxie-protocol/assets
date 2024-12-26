@@ -3656,6 +3656,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1715154244322660352/Owltr0Tc.jpg",
             "name": "Moxie:seiryobase_eth-x",
             "symbol": "Moxie:seiryobase_eth-x"
+        },
+        {
+            "address": "0x4363D535b6b674a3ee4C92d3aCca210A3A3aC0ae",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YCg61D3.jpg",
+            "name": "Moxie:avaaaaart-fc",
+            "symbol": "Moxie:avaaaaart-fc"
         }
     ],
     "version": {
