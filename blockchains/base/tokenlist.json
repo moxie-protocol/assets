@@ -3551,6 +3551,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:tmpx67-x",
             "symbol": "Moxie:tmpx67-x"
+        },
+        {
+            "address": "0xE9c7d4a8Ae644233bDc9fBcFAb7137d71B4B97E5",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "shuvoh815",
+            "symbol": "fid:391474"
         }
     ],
     "version": {
