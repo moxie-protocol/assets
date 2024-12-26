@@ -3362,6 +3362,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868047222299930624/deFS3fB8.jpg",
             "name": "Moxie:LisAtoshi_fr-x",
             "symbol": "Moxie:LisAtoshi_fr-x"
+        },
+        {
+            "address": "0x6c8cB90409ddAD6E25243ce976acB2C22f3f519e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce48ee34-67d8-4311-eb4a-0573d7f43f00/rectcrop3",
+            "name": "Moxie:macbrother-fc",
+            "symbol": "Moxie:macbrother-fc"
         }
     ],
     "version": {
