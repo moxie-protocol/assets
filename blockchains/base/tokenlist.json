@@ -3698,6 +3698,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dea9abce-092f-4791-c652-425c5560e300/rectcrop3",
             "name": "Moxie:90tun-fc",
             "symbol": "Moxie:90tun-fc"
+        },
+        {
+            "address": "0x7400b67405835e954E3dF6486a36732FA7440319",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef8b6f18-855e-4791-0fd4-8c0ad641d200/rectcrop3",
+            "name": "Moxie:mehrak-fc",
+            "symbol": "Moxie:mehrak-fc"
         }
     ],
     "version": {
