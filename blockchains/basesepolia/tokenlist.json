@@ -170,6 +170,13 @@
             "logoURI": "https://www.hindustantimes.com/ht-img/img/2024/09/28/550x309/PTI05-10-2023-000236B-0_1683795702543_1727548783891.jpg",
             "name": "Moxie:bhaskarhocane-gt",
             "symbol": "Moxie:bhaskarhocane-gt"
+        },
+        {
+            "address": "0xfD24cA3Ea99f6BDBa78ED6A84A10efBc4c146b89",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828574942881050624/9W8fMT2v.jpg",
+            "name": "Moxie:bhsk_34941-x",
+            "symbol": "Moxie:bhsk_34941-x"
         }
     ],
     "version": {
