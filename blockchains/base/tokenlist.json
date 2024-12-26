@@ -3376,6 +3376,13 @@
             "logoURI": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
             "name": "Moxie:decayheat.base.eth-base",
             "symbol": "Moxie:decayheat.base.eth-base"
+        },
+        {
+            "address": "0xb8d27C323589B54Ff520205fFf3FF299B5294450",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1698338530546884608/O0c6fdqQ.png",
+            "name": "Moxie:ndgtlft-x",
+            "symbol": "Moxie:ndgtlft-x"
         }
     ],
     "version": {
