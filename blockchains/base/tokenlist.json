@@ -3495,6 +3495,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870397669480480768/83sAE8AN.jpg",
             "name": "Moxie:Chartmax48998-x",
             "symbol": "Moxie:Chartmax48998-x"
+        },
+        {
+            "address": "0x29B18162De857485b79BABF5274508D050aD6E28",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c4eb4bd-c580-491c-ebdd-3767373dd700/rectcrop3",
+            "name": "Moxie:fels-fc",
+            "symbol": "Moxie:fels-fc"
         }
     ],
     "version": {
