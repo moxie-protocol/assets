@@ -3572,6 +3572,13 @@
             "logoURI": "https://i.imgur.com/Aq6NWKq.jpg",
             "name": "Moxie:skeeboo-fc",
             "symbol": "Moxie:skeeboo-fc"
+        },
+        {
+            "address": "0xaf08964D5c9a1a35a59008a17e160640e3395394",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "unconsciousness",
+            "symbol": "fid:882172"
         }
     ],
     "version": {
