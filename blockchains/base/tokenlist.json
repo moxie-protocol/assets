@@ -3530,6 +3530,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ad73bc-fb9c-4a29-f04a-487bb3f06700/rectcrop3",
             "name": "Moxie:zoovie-fc",
             "symbol": "Moxie:zoovie-fc"
+        },
+        {
+            "address": "0x99E7DEa8C51aF62D886EC0525fe20524a2BD02E3",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/knives",
+            "symbol": "cid:knives"
         }
     ],
     "version": {
