@@ -3481,6 +3481,13 @@
             "logoURI": "https://media.tenor.com/UxY74nL3V4EAAAAM/hehe-cat-cute-hehe.gif",
             "name": "Moxie:stracon.base.eth-base",
             "symbol": "Moxie:stracon.base.eth-base"
+        },
+        {
+            "address": "0x397e2411d531aAb30dE35902FD2A3f99CedF6b43",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0J0Pcgc.jpg",
+            "name": "Moxie:apolojahan-fc",
+            "symbol": "Moxie:apolojahan-fc"
         }
     ],
     "version": {
