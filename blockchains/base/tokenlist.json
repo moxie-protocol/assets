@@ -3390,6 +3390,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93640f5e-da7e-46f3-10f3-4b6ce44d1e00/original",
             "name": "Moxie:moxiescout-fc",
             "symbol": "Moxie:moxiescout-fc"
+        },
+        {
+            "address": "0xCa0A36EE63003933005aC66435C0C35876c2eb69",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868783674835054593/ns4i4vDn.jpg",
+            "name": "Moxie:AGENTAI_ilias-x",
+            "symbol": "Moxie:AGENTAI_ilias-x"
         }
     ],
     "version": {
