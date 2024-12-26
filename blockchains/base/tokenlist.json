@@ -3432,6 +3432,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1850907480764612608/0laRcuiY.jpg",
             "name": "Moxie:Bench_Press97-x",
             "symbol": "Moxie:Bench_Press97-x"
+        },
+        {
+            "address": "0x43D5954D38303F8835f58A9693EC238797983AbF",
+            "decimals": 18,
+            "logoURI": "https://image.lexica.art/full_webp/eda64805-4bf6-4a1c-9e81-97d553494278",
+            "name": "Moxie:blazino.base.eth-base",
+            "symbol": "Moxie:blazino.base.eth-base"
         }
     ],
     "version": {
