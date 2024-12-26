@@ -3411,6 +3411,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1799756891737780224/5xUSbUaX.jpg",
             "name": "Moxie:PaniKczemna6-x",
             "symbol": "Moxie:PaniKczemna6-x"
+        },
+        {
+            "address": "0xd332E6Eac40237840a316af5C8CF87dC96B03498",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4d1c725-017d-4f34-0122-7a3b46ef5200/original",
+            "name": "Moxie:rpine.eth-fc",
+            "symbol": "Moxie:rpine.eth-fc"
         }
     ],
     "version": {
