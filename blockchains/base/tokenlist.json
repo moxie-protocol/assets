@@ -3670,6 +3670,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79c38964-631f-4c8f-b35c-6806c4fed200/original",
             "name": "Moxie:liwlimuz-fc",
             "symbol": "Moxie:liwlimuz-fc"
+        },
+        {
+            "address": "0xbDaDbf6519BC1f26Ab0228Ec55fBfd81dbafCcAc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca9a7d0b-9a82-41a8-c6bf-2ab2b2a61300/rectcrop3",
+            "name": "Moxie:trongnghiasky-fc",
+            "symbol": "Moxie:trongnghiasky-fc"
         }
     ],
     "version": {
