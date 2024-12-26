@@ -3705,6 +3705,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef8b6f18-855e-4791-0fd4-8c0ad641d200/rectcrop3",
             "name": "Moxie:mehrak-fc",
             "symbol": "Moxie:mehrak-fc"
+        },
+        {
+            "address": "0xE380B4F636433453C407C20dD5Fd8843DEdF7Be9",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/qRHZJKKQ/Validator-307.png",
+            "name": "Moxie:zerf0.eth-ens",
+            "symbol": "Moxie:zerf0.eth-ens"
         }
     ],
     "version": {
