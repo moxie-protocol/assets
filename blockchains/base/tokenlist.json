@@ -3614,6 +3614,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870262421861883904/dcYsK3Ld.jpg",
             "name": "Moxie:rav_xyz-x",
             "symbol": "Moxie:rav_xyz-x"
+        },
+        {
+            "address": "0xe6ffb050070b93c156cc0bee7f7bCf664f6762E9",
+            "decimals": 18,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pont_Alexandre_Trois.jpg",
+            "name": "Moxie:pacesoircherie.base.eth-base",
+            "symbol": "Moxie:pacesoircherie.base.eth-base"
         }
     ],
     "version": {
