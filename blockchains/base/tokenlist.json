@@ -3439,6 +3439,13 @@
             "logoURI": "https://image.lexica.art/full_webp/eda64805-4bf6-4a1c-9e81-97d553494278",
             "name": "Moxie:blazino.base.eth-base",
             "symbol": "Moxie:blazino.base.eth-base"
+        },
+        {
+            "address": "0x5bBeD4feA5F1E98703A0be93F85D96b29DA6A977",
+            "decimals": 18,
+            "logoURI": "https://media.istockphoto.com/id/516146384/pl/wektor/herakles-na-bia%C5%82y.jpg?s=1024x1024\u0026w=is\u0026k=20\u0026c=54u6TdkaaiBJ7mFGaAGNSYUEt3kUlnz-4zKuwx1dKpU=",
+            "name": "Moxie:heraklespl.base.eth-base",
+            "symbol": "Moxie:heraklespl.base.eth-base"
         }
     ],
     "version": {
