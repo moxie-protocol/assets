@@ -3726,6 +3726,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1840370897158574080/64KqllFd.png",
             "name": "Moxie:Arshia2001rich-x",
             "symbol": "Moxie:Arshia2001rich-x"
+        },
+        {
+            "address": "0x23ef224D0a8B4A2d03215F99Ef49609ad5D2C43E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4eb35a8b-edbe-451a-85cc-37bc4f6bf400/original",
+            "name": "Moxie:cobsfar-fc",
+            "symbol": "Moxie:cobsfar-fc"
         }
     ],
     "version": {
