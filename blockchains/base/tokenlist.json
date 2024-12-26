@@ -3593,6 +3593,13 @@
             "logoURI": null,
             "name": "anonanon",
             "symbol": "fid:882170"
+        },
+        {
+            "address": "0x904F4436609aa5c34BC11E49f5F887d628240064",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859378406057545728/r31u318W.jpg",
+            "name": "Moxie:zorguy33-x",
+            "symbol": "Moxie:zorguy33-x"
         }
     ],
     "version": {
