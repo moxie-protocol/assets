@@ -3523,6 +3523,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1765284593547010048/opBXjqJC.jpg",
             "name": "Moxie:ReineCalypso-x",
             "symbol": "Moxie:ReineCalypso-x"
+        },
+        {
+            "address": "0x6BAdc31EB1176961b62b7A101bc25ce295118F7A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ad73bc-fb9c-4a29-f04a-487bb3f06700/rectcrop3",
+            "name": "Moxie:zoovie-fc",
+            "symbol": "Moxie:zoovie-fc"
         }
     ],
     "version": {
