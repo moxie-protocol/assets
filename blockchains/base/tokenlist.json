@@ -3635,6 +3635,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864773658964803584/tGWlNLmk.jpg",
             "name": "Moxie:micahonchain-x",
             "symbol": "Moxie:micahonchain-x"
+        },
+        {
+            "address": "0x39A5E177eCA8Da07feACB6944Ad34C64F61a5E24",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867493895711473664/R_zNIr_d.jpg",
+            "name": "Moxie:Siidii16000-x",
+            "symbol": "Moxie:Siidii16000-x"
         }
     ],
     "version": {
