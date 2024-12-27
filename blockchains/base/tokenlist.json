@@ -4755,6 +4755,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiatogl3vsefleap6g4vle75ojzjltqzzh6pon3i4ty4ximjxi2mzy",
             "name": "Moxie:widhyast-fc",
             "symbol": "Moxie:widhyast-fc"
+        },
+        {
+            "address": "0xe1605D873E61E6559f78991e14AFaAe552e5aac3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1842048238590853120/MiL1-eja.jpg",
+            "name": "Moxie:debthemelon-x",
+            "symbol": "Moxie:debthemelon-x"
         }
     ],
     "version": {
