@@ -4447,6 +4447,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872702398147309568/tCkBiST2.jpg",
             "name": "Moxie:nus_art-x",
             "symbol": "Moxie:nus_art-x"
+        },
+        {
+            "address": "0x7d516b71fC62E6296B0D8525815F5eB487526c83",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dyu7AG3.jpg",
+            "name": "Moxie:saeedtk-fc",
+            "symbol": "Moxie:saeedtk-fc"
         }
     ],
     "version": {
