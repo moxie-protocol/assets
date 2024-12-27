@@ -3901,6 +3901,13 @@
             "logoURI": null,
             "name": "zzaya",
             "symbol": "fid:508425"
+        },
+        {
+            "address": "0x2258C47A9237fac37e3234FA87839568E3eD5bb0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccfb8383-7360-4f06-f53a-a39e3548e500/rectcrop3",
+            "name": "Moxie:mutu-fc",
+            "symbol": "Moxie:mutu-fc"
         }
     ],
     "version": {
