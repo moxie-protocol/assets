@@ -3908,6 +3908,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccfb8383-7360-4f06-f53a-a39e3548e500/rectcrop3",
             "name": "Moxie:mutu-fc",
             "symbol": "Moxie:mutu-fc"
+        },
+        {
+            "address": "0xe67be15E5666c420ea339108CB4a2f7C25D934bF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1b5898a-e690-4cc6-a2a6-fd6c4fd84b00/rectcrop3",
+            "name": "Moxie:qcxint-fc",
+            "symbol": "Moxie:qcxint-fc"
         }
     ],
     "version": {
