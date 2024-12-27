@@ -4503,6 +4503,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67becc18-1c91-406d-7c8c-13a4e29fc100/rectcrop3",
             "name": "Moxie:ricodwinugraha-fc",
             "symbol": "Moxie:ricodwinugraha-fc"
+        },
+        {
+            "address": "0xa3Aa87a8F9f23A22ecebcb38e7C135F09836E5eC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ug2T0BJ.jpg",
+            "name": "Moxie:mekismekdon-fc",
+            "symbol": "Moxie:mekismekdon-fc"
         }
     ],
     "version": {
