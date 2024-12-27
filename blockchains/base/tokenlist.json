@@ -4538,6 +4538,13 @@
             "logoURI": "https://i.imgur.com/rpfRfSz.jpg",
             "name": "Moxie:hans277-fc",
             "symbol": "Moxie:hans277-fc"
+        },
+        {
+            "address": "0x2808dD190D66178331e47F3eE80c72A2B687CaD9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1756442939222609920/86MKtUnR.jpg",
+            "name": "Moxie:ohsennase91-x",
+            "symbol": "Moxie:ohsennase91-x"
         }
     ],
     "version": {
