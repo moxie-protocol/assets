@@ -4510,6 +4510,13 @@
             "logoURI": "https://i.imgur.com/ug2T0BJ.jpg",
             "name": "Moxie:mekismekdon-fc",
             "symbol": "Moxie:mekismekdon-fc"
+        },
+        {
+            "address": "0x4C8062bE1e2400B192E46B6A35D0873B3A555a6e",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmYDwBjzm5ZPBMKisDCxfbdxEgpvkQWyAvk2FBchgqcdLi",
+            "name": "Moxie:kaskarra-fc",
+            "symbol": "Moxie:kaskarra-fc"
         }
     ],
     "version": {
