@@ -4573,6 +4573,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854170829791338496/pROsTKXI.jpg",
             "name": "Moxie:Entheos041-x",
             "symbol": "Moxie:Entheos041-x"
+        },
+        {
+            "address": "0x2f0A6eAdFdaC51b5Bf52265d7011495f58174858",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d956809-de46-4790-f3fc-7d3e1fa41000/original",
+            "name": "Moxie:crownless-fc",
+            "symbol": "Moxie:crownless-fc"
         }
     ],
     "version": {
