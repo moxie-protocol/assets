@@ -3922,6 +3922,13 @@
             "logoURI": null,
             "name": "orange2024",
             "symbol": "fid:529314"
+        },
+        {
+            "address": "0xab0eEbb7768Be59C0eafA36d0EC1A03FA083b100",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/W1EeWnu.jpg",
+            "name": "Moxie:syamsudin21-fc",
+            "symbol": "Moxie:syamsudin21-fc"
         }
     ],
     "version": {
