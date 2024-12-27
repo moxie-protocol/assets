@@ -4293,6 +4293,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1822372204031410176/UaWAFC03.jpg",
             "name": "Moxie:wanakry-x",
             "symbol": "Moxie:wanakry-x"
+        },
+        {
+            "address": "0x22932141A8404807F76A515079E7e277a7A435a8",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigpd2yxyvblftshhghokk7atl5jkxzxtdifsbjl7xm77pgxqatxdi",
+            "name": "Moxie:sayaah93-fc",
+            "symbol": "Moxie:sayaah93-fc"
         }
     ],
     "version": {
