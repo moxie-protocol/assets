@@ -3894,6 +3894,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1668916626597761024/pjRtPKIE.jpg",
             "name": "Moxie:maskedrider_hat-x",
             "symbol": "Moxie:maskedrider_hat-x"
+        },
+        {
+            "address": "0x3468971647842D41883424b4c5563302C37BBd1f",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "zzaya",
+            "symbol": "fid:508425"
         }
     ],
     "version": {
