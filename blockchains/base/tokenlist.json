@@ -4398,6 +4398,13 @@
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/L%C3%A9onGambetta.jpg/1024px-L%C3%A9onGambetta.jpg",
             "name": "Moxie:cryptoleonnl.eth-ens",
             "symbol": "Moxie:cryptoleonnl.eth-ens"
+        },
+        {
+            "address": "0xDED7Dac968fDe3d6dB6657a34aE7f27bA823d527",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:bobasode123-x",
+            "symbol": "Moxie:bobasode123-x"
         }
     ],
     "version": {
