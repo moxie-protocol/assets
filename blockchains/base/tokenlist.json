@@ -3824,6 +3824,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/orange.jpg",
             "name": "Moxie:iyey-fc",
             "symbol": "Moxie:iyey-fc"
+        },
+        {
+            "address": "0x6b39D7F4277f2e5eF0EE8B480BA44cBb1C63e342",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "impactbot",
+            "symbol": "fid:388571"
         }
     ],
     "version": {
