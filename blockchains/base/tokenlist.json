@@ -4783,6 +4783,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bd02e3-ea66-41ac-366e-e5305d28b800/rectcrop3",
             "name": "Moxie:mdnoru-fc",
             "symbol": "Moxie:mdnoru-fc"
+        },
+        {
+            "address": "0x753534CdB2f48d2a34F16E4e6C700bDdFeF8dC97",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0142c7f6-c0b3-4ae2-d4f4-d36c8f37ad00/rectcrop3",
+            "name": "Moxie:shanto1234-fc",
+            "symbol": "Moxie:shanto1234-fc"
         }
     ],
     "version": {
