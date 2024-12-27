@@ -4734,6 +4734,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7af136f2-c9cc-4c6c-23dd-c8fd0e3b4800/original",
             "name": "Moxie:yoshida-fc",
             "symbol": "Moxie:yoshida-fc"
+        },
+        {
+            "address": "0xE84E4d7a8C3D86A9Ae9386A29319Bb71879E1953",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/vLAfOr57iivacUYkI1i27u0U_DN36Ph9WV3RqUxHin8/",
+            "name": "Moxie:skizzi-fc",
+            "symbol": "Moxie:skizzi-fc"
         }
     ],
     "version": {
