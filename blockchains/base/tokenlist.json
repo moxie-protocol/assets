@@ -4426,6 +4426,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c052ef9-ae34-464b-2fc3-374b01930b00/rectcrop3",
             "name": "Moxie:zeosilva.eth-fc",
             "symbol": "Moxie:zeosilva.eth-fc"
+        },
+        {
+            "address": "0xef5Fb12cbe9Ff6E425f094C385d00f49f719b23C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e6fdb10-7668-4217-7918-db464b686600/rectcrop3",
+            "name": "Moxie:mdleonhossain-fc",
+            "symbol": "Moxie:mdleonhossain-fc"
         }
     ],
     "version": {
