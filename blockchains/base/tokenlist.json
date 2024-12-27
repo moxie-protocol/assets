@@ -3950,6 +3950,13 @@
             "logoURI": "https://i.imgur.com/kwQSeoS.jpg",
             "name": "Moxie:adenf-fc",
             "symbol": "Moxie:adenf-fc"
+        },
+        {
+            "address": "0xee0e01407c421B153f90D06c36b47b32A2B7D941",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/aPzyTid.gif",
+            "name": "Moxie:abdul48608417-fc",
+            "symbol": "Moxie:abdul48608417-fc"
         }
     ],
     "version": {
