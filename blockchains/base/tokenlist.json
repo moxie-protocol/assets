@@ -4069,6 +4069,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c8d7b15-5b12-4e9f-764b-ea42ac6f5500/rectcrop3",
             "name": "Moxie:askila-fc",
             "symbol": "Moxie:askila-fc"
+        },
+        {
+            "address": "0x88cCFB800E8cfeB022C1865e0b537b4260f6e780",
+            "decimals": 18,
+            "logoURI": "https://r.resimlink.com/-C_lNB.jpeg",
+            "name": "Moxie:sercoin.eth-ens",
+            "symbol": "Moxie:sercoin.eth-ens"
         }
     ],
     "version": {
