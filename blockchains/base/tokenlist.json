@@ -4230,6 +4230,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc2d8ad0-0e13-4fa1-1f9c-ee40178d7900/rectcrop3",
             "name": "Moxie:robt-fc",
             "symbol": "Moxie:robt-fc"
+        },
+        {
+            "address": "0x9b578cf39E5920F2F3F8A552EdC7ef8438985d04",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RUVn1MQ.jpg",
+            "name": "Moxie:lmbomns-fc",
+            "symbol": "Moxie:lmbomns-fc"
         }
     ],
     "version": {
