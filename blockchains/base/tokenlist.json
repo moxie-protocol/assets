@@ -3943,6 +3943,13 @@
             "logoURI": "https://i.imgur.com/AEG8xQW.jpg",
             "name": "Moxie:exodus-exodud-fc",
             "symbol": "Moxie:exodus-exodud-fc"
+        },
+        {
+            "address": "0x1D4A97B30b3966551ae3E37528e91D4E302c98B9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/kwQSeoS.jpg",
+            "name": "Moxie:adenf-fc",
+            "symbol": "Moxie:adenf-fc"
         }
     ],
     "version": {
