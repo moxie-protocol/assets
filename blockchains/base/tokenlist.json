@@ -4237,6 +4237,13 @@
             "logoURI": "https://i.imgur.com/RUVn1MQ.jpg",
             "name": "Moxie:lmbomns-fc",
             "symbol": "Moxie:lmbomns-fc"
+        },
+        {
+            "address": "0xeCb46113460E40061C197BAD8505A370010D1B16",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/696455d1-34f7-4b28-ce8a-b18bdea9bb00/rectcrop3",
+            "name": "Moxie:ssj6go-fc",
+            "symbol": "Moxie:ssj6go-fc"
         }
     ],
     "version": {
