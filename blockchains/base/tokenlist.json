@@ -4636,6 +4636,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1853305485749006336/IIaFKzy9.jpg",
             "name": "Moxie:siriuz71-x",
             "symbol": "Moxie:siriuz71-x"
+        },
+        {
+            "address": "0xA20B906dE9863e03982a5f1F6f8c62adc286797a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/y8lIti9.jpg",
+            "name": "Moxie:safiudinzz-fc",
+            "symbol": "Moxie:safiudinzz-fc"
         }
     ],
     "version": {
