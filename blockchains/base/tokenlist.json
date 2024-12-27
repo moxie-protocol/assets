@@ -4020,6 +4020,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10202cce-047d-4619-2e4f-e7d34cb3db00/original",
             "name": "Moxie:pwiththeone-fc",
             "symbol": "Moxie:pwiththeone-fc"
+        },
+        {
+            "address": "0x1e520299E4d02019662e868523F923A038a106b3",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQri7c8_yVsAWmf_ZjlU_R9_NH5ql1a9Yyb1A\u0026s",
+            "name": "Moxie:plankton.base.eth-base",
+            "symbol": "Moxie:plankton.base.eth-base"
         }
     ],
     "version": {
