@@ -4013,6 +4013,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1389423038374895616/v2VO0yQE.jpg",
             "name": "Moxie:malesliat1CLONE-x",
             "symbol": "Moxie:malesliat1CLONE-x"
+        },
+        {
+            "address": "0x71ff16d61900aef8e875d8b2c0bD8fE9f91B8bA7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10202cce-047d-4619-2e4f-e7d34cb3db00/original",
+            "name": "Moxie:pwiththeone-fc",
+            "symbol": "Moxie:pwiththeone-fc"
         }
     ],
     "version": {
