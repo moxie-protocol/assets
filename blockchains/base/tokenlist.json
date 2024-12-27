@@ -4643,6 +4643,13 @@
             "logoURI": "https://i.imgur.com/y8lIti9.jpg",
             "name": "Moxie:safiudinzz-fc",
             "symbol": "Moxie:safiudinzz-fc"
+        },
+        {
+            "address": "0x36B2a1a93612e0AC0634FCebDe0d39d44D28a781",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SS0PysX.jpg",
+            "name": "Moxie:zennm-fc",
+            "symbol": "Moxie:zennm-fc"
         }
     ],
     "version": {
