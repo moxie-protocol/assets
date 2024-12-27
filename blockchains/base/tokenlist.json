@@ -4713,6 +4713,13 @@
             "logoURI": "https://i.imgur.com/1lZgBm2.jpg",
             "name": "Moxie:sheff-fc",
             "symbol": "Moxie:sheff-fc"
+        },
+        {
+            "address": "0xa82C3b6217b83A6DeC8f34AcAA0eFbCCD3a2050D",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nadillaazhary",
+            "symbol": "fid:892577"
         }
     ],
     "version": {
