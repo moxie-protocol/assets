@@ -3992,6 +3992,13 @@
             "logoURI": "https://i.imgur.com/yqIEQzJ.jpg",
             "name": "Moxie:lukaa-fc",
             "symbol": "Moxie:lukaa-fc"
+        },
+        {
+            "address": "0x8bb7515485a4075c9a57d1ff51De239E9fbAE4e6",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mhpark",
+            "symbol": "fid:404848"
         }
     ],
     "version": {
