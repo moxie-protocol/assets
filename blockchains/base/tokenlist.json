@@ -4363,6 +4363,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/782c74ef-6caf-4837-ae3f-812ad1055d00/rectcrop3",
             "name": "Moxie:hustletrees-fc",
             "symbol": "Moxie:hustletrees-fc"
+        },
+        {
+            "address": "0x32D68550fFA00F290FDa5A383e66FA03BA582Dd6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe517bc9-2edc-49fc-aca1-400a3a426600/rectcrop3",
+            "name": "Moxie:igoryokmor-fc",
+            "symbol": "Moxie:igoryokmor-fc"
         }
     ],
     "version": {
