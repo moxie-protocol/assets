@@ -4272,6 +4272,13 @@
             "logoURI": "https://i.imgur.com/Q3f7yFa.jpg",
             "name": "Moxie:mohsenr-fc",
             "symbol": "Moxie:mohsenr-fc"
+        },
+        {
+            "address": "0xa496D735858fB1FAb0d51a13b8Aa9Bf5bF73D86F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff0b2f6c-4de5-4e05-ccea-4a6901626a00/original",
+            "name": "Moxie:mmddghn-fc",
+            "symbol": "Moxie:mmddghn-fc"
         }
     ],
     "version": {
