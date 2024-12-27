@@ -3754,6 +3754,13 @@
             "logoURI": "https://i.imgur.com/PqamAAP.jpg",
             "name": "Moxie:bosdaoes-fc",
             "symbol": "Moxie:bosdaoes-fc"
+        },
+        {
+            "address": "0x92Ca4c47175720B7632d0E3174D7ee53E53992C5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1707781274209824768/F071IcqH.jpg",
+            "name": "Moxie:AnisBennanika-x",
+            "symbol": "Moxie:AnisBennanika-x"
         }
     ],
     "version": {
