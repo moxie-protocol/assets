@@ -4034,6 +4034,13 @@
             "logoURI": "https://arweave.net/YT5bGaiMhrhKrNyd0XkQQVbcCfJPG_j1Vwj4ovy_pB8/",
             "name": "Moxie:sixtineezz-fc",
             "symbol": "Moxie:sixtineezz-fc"
+        },
+        {
+            "address": "0x3F9f240D19AE6AC365D4957d917481B0E0AB5b74",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RlHjNoS.jpg",
+            "name": "Moxie:thape11-fc",
+            "symbol": "Moxie:thape11-fc"
         }
     ],
     "version": {
