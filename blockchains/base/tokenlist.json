@@ -4776,6 +4776,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1813986230172020736/DkPHyOb3.jpg",
             "name": "Moxie:0xchyntya-x",
             "symbol": "Moxie:0xchyntya-x"
+        },
+        {
+            "address": "0x7aEBf27c706516eC27eCd2d78076Ef01DE694697",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72bd02e3-ea66-41ac-366e-e5305d28b800/rectcrop3",
+            "name": "Moxie:mdnoru-fc",
+            "symbol": "Moxie:mdnoru-fc"
         }
     ],
     "version": {
