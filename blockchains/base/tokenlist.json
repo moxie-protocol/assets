@@ -4125,6 +4125,13 @@
             "logoURI": null,
             "name": "akins",
             "symbol": "fid:434955"
+        },
+        {
+            "address": "0xe249526baBFaBBB8c3C9339b6b04aD0A4AA2fb6E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b59bbec-06e5-4418-db74-e74d1d1c4900/rectcrop3",
+            "name": "Moxie:nemagnat-fc",
+            "symbol": "Moxie:nemagnat-fc"
         }
     ],
     "version": {
