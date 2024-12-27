@@ -4083,6 +4083,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8b7d915-468d-4382-57c3-f693b024cc00/rectcrop3",
             "name": "Moxie:0xcety-fc",
             "symbol": "Moxie:0xcety-fc"
+        },
+        {
+            "address": "0x8A903c97CE3DA71E3E21058449d248c64766a9ac",
+            "decimals": 18,
+            "logoURI": "https://i0.wp.com/media-news.com.ua/wp-content/uploads/2019/05/Mr_robot_final.jpg?ssl=1",
+            "name": "Moxie:invmediasem.base.eth-base",
+            "symbol": "Moxie:invmediasem.base.eth-base"
         }
     ],
     "version": {
