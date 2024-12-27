@@ -3957,6 +3957,13 @@
             "logoURI": "https://i.imgur.com/aPzyTid.gif",
             "name": "Moxie:abdul48608417-fc",
             "symbol": "Moxie:abdul48608417-fc"
+        },
+        {
+            "address": "0x4e5B4bfDEEA6Ed44231342bf11CBDC30a562e2AC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66ca5d88-07b9-4b75-7439-19d032cb4500/original",
+            "name": "Moxie:hellopay-fc",
+            "symbol": "Moxie:hellopay-fc"
         }
     ],
     "version": {
