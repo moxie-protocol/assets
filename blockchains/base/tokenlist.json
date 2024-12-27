@@ -3985,6 +3985,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1754651338582188032/-jjrXRom.jpg",
             "name": "Moxie:Arbgiang-x",
             "symbol": "Moxie:Arbgiang-x"
+        },
+        {
+            "address": "0xA7153681790F6B6AcA366AF8b9E43Cc4Cf0Ded26",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/yqIEQzJ.jpg",
+            "name": "Moxie:lukaa-fc",
+            "symbol": "Moxie:lukaa-fc"
         }
     ],
     "version": {
