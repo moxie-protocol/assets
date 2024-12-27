@@ -3747,6 +3747,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1433550662923546644/hRFtO89R.jpg",
             "name": "Moxie:crypto_futur-x",
             "symbol": "Moxie:crypto_futur-x"
+        },
+        {
+            "address": "0x980749e883C61003718efd60a0D853Fd7a0c5Eb8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PqamAAP.jpg",
+            "name": "Moxie:bosdaoes-fc",
+            "symbol": "Moxie:bosdaoes-fc"
         }
     ],
     "version": {
