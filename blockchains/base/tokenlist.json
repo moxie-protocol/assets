@@ -3831,6 +3831,13 @@
             "logoURI": null,
             "name": "impactbot",
             "symbol": "fid:388571"
+        },
+        {
+            "address": "0xD54db91cBa7e077A4050b747F7A2007C99A5Acd7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea584f0c-002f-4861-6728-35d4abaee100/rectcrop3",
+            "name": "Moxie:ebrahim5363-fc",
+            "symbol": "Moxie:ebrahim5363-fc"
         }
     ],
     "version": {
