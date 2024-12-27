@@ -3852,6 +3852,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1679779313930113025/8AJLvDET.jpg",
             "name": "Moxie:nayyara69-x",
             "symbol": "Moxie:nayyara69-x"
+        },
+        {
+            "address": "0x6C66b88206658fe29eC480B3e3fF4e8889343529",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "lalaland83",
+            "symbol": "fid:401784"
         }
     ],
     "version": {
