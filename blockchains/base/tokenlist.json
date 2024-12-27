@@ -3775,6 +3775,13 @@
             "logoURI": null,
             "name": "vunhuhoangphu",
             "symbol": "fid:882783"
+        },
+        {
+            "address": "0xf85236c25307e8966cE92C8C3C2e70f763f48693",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1863599421017178112/ahtqzFh_.jpg",
+            "name": "Moxie:pixahead-x",
+            "symbol": "Moxie:pixahead-x"
         }
     ],
     "version": {
