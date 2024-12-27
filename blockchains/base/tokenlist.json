@@ -4678,6 +4678,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d33c018-8e49-4968-2b42-ef7fc21d6300/original",
             "name": "Moxie:0xhinata-fc",
             "symbol": "Moxie:0xhinata-fc"
+        },
+        {
+            "address": "0x27E0C371A12DFE575a2Ec37aA30E22dd091Ef64D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1755839977173188609/xhG3c_x4.jpg",
+            "name": "Moxie:adamaircry-x",
+            "symbol": "Moxie:adamaircry-x"
         }
     ],
     "version": {
