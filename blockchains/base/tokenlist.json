@@ -3929,6 +3929,13 @@
             "logoURI": "https://i.imgur.com/W1EeWnu.jpg",
             "name": "Moxie:syamsudin21-fc",
             "symbol": "Moxie:syamsudin21-fc"
+        },
+        {
+            "address": "0xC80f28E38660d55c6405294ecf7E42E22033C6DE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c8efad7-ac9e-46c8-e501-0a80e8761e00/rectcrop3",
+            "name": "Moxie:ssshiro-fc",
+            "symbol": "Moxie:ssshiro-fc"
         }
     ],
     "version": {
