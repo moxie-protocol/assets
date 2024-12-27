@@ -4790,6 +4790,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0142c7f6-c0b3-4ae2-d4f4-d36c8f37ad00/rectcrop3",
             "name": "Moxie:shanto1234-fc",
             "symbol": "Moxie:shanto1234-fc"
+        },
+        {
+            "address": "0xa79F836Aef682eA4d3920308dC8392ceF7B6f176",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PebBIkC.jpg",
+            "name": "Moxie:kangfahri-fc",
+            "symbol": "Moxie:kangfahri-fc"
         }
     ],
     "version": {
