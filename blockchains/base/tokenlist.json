@@ -4153,6 +4153,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca4b293f-b6a6-493c-dde8-9cf8c77a6600/rectcrop3",
             "name": "Moxie:jion-fc",
             "symbol": "Moxie:jion-fc"
+        },
+        {
+            "address": "0xd773d51d87eb08BC2BbDB5205F62b506b083ABeA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WscaH7v.jpg",
+            "name": "Moxie:onigashima0120-fc",
+            "symbol": "Moxie:onigashima0120-fc"
         }
     ],
     "version": {
