@@ -3838,6 +3838,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea584f0c-002f-4861-6728-35d4abaee100/rectcrop3",
             "name": "Moxie:ebrahim5363-fc",
             "symbol": "Moxie:ebrahim5363-fc"
+        },
+        {
+            "address": "0x513f47Da64D256DDaC16b3f7722A04A5B84361d3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MeXKz1T.jpg",
+            "name": "Moxie:maceth-fc",
+            "symbol": "Moxie:maceth-fc"
         }
     ],
     "version": {
