@@ -4524,6 +4524,13 @@
             "logoURI": "https://media.istockphoto.com/id/491380029/fr/photo/tour-eiffel-en-noir-et-blanc-se-dessinent-sur-blanc.jpg?s=1024x1024\u0026w=is\u0026k=20\u0026c=x27Pb9pDRy6Zee5XAiMCseGjQDUKJGbesbRbxmxSNJs=",
             "name": "Moxie:maroc.base.eth-base",
             "symbol": "Moxie:maroc.base.eth-base"
+        },
+        {
+            "address": "0x9Ee21Bc0d9bFFdBc63FD569efCFCB0C5D2227EF1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1692264093552631810/0pkhlTVg.jpg",
+            "name": "Moxie:andryandrii-x",
+            "symbol": "Moxie:andryandrii-x"
         }
     ],
     "version": {
