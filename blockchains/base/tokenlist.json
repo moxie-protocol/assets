@@ -3915,6 +3915,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1b5898a-e690-4cc6-a2a6-fd6c4fd84b00/rectcrop3",
             "name": "Moxie:qcxint-fc",
             "symbol": "Moxie:qcxint-fc"
+        },
+        {
+            "address": "0x827969c1BFdeA979a064D1227F4A0aeE49127A00",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "orange2024",
+            "symbol": "fid:529314"
         }
     ],
     "version": {
