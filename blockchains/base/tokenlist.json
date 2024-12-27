@@ -4531,6 +4531,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1692264093552631810/0pkhlTVg.jpg",
             "name": "Moxie:andryandrii-x",
             "symbol": "Moxie:andryandrii-x"
+        },
+        {
+            "address": "0x8d410acD3F0CDDD0520737dC6Be04F2Dd661ce2F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rpfRfSz.jpg",
+            "name": "Moxie:hans277-fc",
+            "symbol": "Moxie:hans277-fc"
         }
     ],
     "version": {
