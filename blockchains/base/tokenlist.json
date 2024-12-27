@@ -4027,6 +4027,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQri7c8_yVsAWmf_ZjlU_R9_NH5ql1a9Yyb1A\u0026s",
             "name": "Moxie:plankton.base.eth-base",
             "symbol": "Moxie:plankton.base.eth-base"
+        },
+        {
+            "address": "0x329E7Eb1C42b5f653628C4d0BC727Bb9D5843E08",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/YT5bGaiMhrhKrNyd0XkQQVbcCfJPG_j1Vwj4ovy_pB8/",
+            "name": "Moxie:sixtineezz-fc",
+            "symbol": "Moxie:sixtineezz-fc"
         }
     ],
     "version": {
