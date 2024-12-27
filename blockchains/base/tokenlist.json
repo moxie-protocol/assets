@@ -4223,6 +4223,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/469a4771-4928-45ce-bb31-e5f2ee89eb00/original",
             "name": "Moxie:khope-fc",
             "symbol": "Moxie:khope-fc"
+        },
+        {
+            "address": "0x360d222302659e81f663D428a652f02c98d4b60c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc2d8ad0-0e13-4fa1-1f9c-ee40178d7900/rectcrop3",
+            "name": "Moxie:robt-fc",
+            "symbol": "Moxie:robt-fc"
         }
     ],
     "version": {
