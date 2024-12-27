@@ -3873,6 +3873,13 @@
             "logoURI": null,
             "name": "batmanishere",
             "symbol": "fid:788461"
+        },
+        {
+            "address": "0x44891395060D675d567Aa2B8AA216D3b8Bfb0A34",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1834504667033911297/aQ_cxyDB.jpg",
+            "name": "Moxie:AjaWinoto-x",
+            "symbol": "Moxie:AjaWinoto-x"
         }
     ],
     "version": {
