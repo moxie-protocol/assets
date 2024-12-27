@@ -3803,6 +3803,13 @@
             "logoURI": "https://i.imgur.com/vxLRCJy.jpg",
             "name": "Moxie:norbertouno-fc",
             "symbol": "Moxie:norbertouno-fc"
+        },
+        {
+            "address": "0x894BB6827922b23ba1Fa4B2ccDC23b3A4Aa9dd1c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1698409606635266048/aktC51DV_400x400.png",
+            "name": "Moxie:iiccii.base.eth-base",
+            "symbol": "Moxie:iiccii.base.eth-base"
         }
     ],
     "version": {
