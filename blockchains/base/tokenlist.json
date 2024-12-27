@@ -4461,6 +4461,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1850712642589274112/Pp_17SXj.jpg",
             "name": "Moxie:danijens3nxxx-x",
             "symbol": "Moxie:danijens3nxxx-x"
+        },
+        {
+            "address": "0x158eFA4f2cD4439f1Af16c22D72b65D4AB6CdD90",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmS52QMg5s2LDAdYE3shoEaw2CbeXNPPmoSvdSPZHf6F2U/4082.png",
+            "name": "Moxie:dbachtiar-fc",
+            "symbol": "Moxie:dbachtiar-fc"
         }
     ],
     "version": {
