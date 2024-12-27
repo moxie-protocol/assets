@@ -4650,6 +4650,13 @@
             "logoURI": "https://i.imgur.com/SS0PysX.jpg",
             "name": "Moxie:zennm-fc",
             "symbol": "Moxie:zennm-fc"
+        },
+        {
+            "address": "0x378A58FE4B5a737D1533f5D97CfB9b07743c00EF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/548be4a0-05d4-4328-75ee-45a0ca6a9300/original",
+            "name": "Moxie:asmodeus-fc",
+            "symbol": "Moxie:asmodeus-fc"
         }
     ],
     "version": {
