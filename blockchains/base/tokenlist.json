@@ -4825,6 +4825,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1cb93157-5115-4190-ce7b-07cd91661900/rectcrop3",
             "name": "Moxie:curateghost-fc",
             "symbol": "Moxie:curateghost-fc"
+        },
+        {
+            "address": "0x17FbBFb63b38598C43f7e61Cb524fC4E437448aa",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eWXhNvu.jpg",
+            "name": "Moxie:dof-fc",
+            "symbol": "Moxie:dof-fc"
         }
     ],
     "version": {
