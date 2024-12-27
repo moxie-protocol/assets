@@ -3810,6 +3810,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1698409606635266048/aktC51DV_400x400.png",
             "name": "Moxie:iiccii.base.eth-base",
             "symbol": "Moxie:iiccii.base.eth-base"
+        },
+        {
+            "address": "0x3ac7626810D996681dDC049d89D04b9086B2F444",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5b1f573-2904-4bd1-93d3-5a8a90dd3800/rectcrop3",
+            "name": "Moxie:rifai26-fc",
+            "symbol": "Moxie:rifai26-fc"
         }
     ],
     "version": {
