@@ -3768,6 +3768,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1802981788522094592/ztRYxQ9T.jpg",
             "name": "Moxie:tomykite-x",
             "symbol": "Moxie:tomykite-x"
+        },
+        {
+            "address": "0xc0Cc57F81d5c9700A84Ef32499b0C0042b25415B",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "vunhuhoangphu",
+            "symbol": "fid:882783"
         }
     ],
     "version": {
