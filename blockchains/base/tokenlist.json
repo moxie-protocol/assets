@@ -4384,6 +4384,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/950d5653-22f6-47cd-b97d-6e62a3041b00/original",
             "name": "Moxie:frozenxaris-fc",
             "symbol": "Moxie:frozenxaris-fc"
+        },
+        {
+            "address": "0xC79c8c009A00fEBf16e65041a061AeE1866359C1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1769894150777012224/w3VjxqJi.jpg",
+            "name": "Moxie:ThebearKim-x",
+            "symbol": "Moxie:ThebearKim-x"
         }
     ],
     "version": {
