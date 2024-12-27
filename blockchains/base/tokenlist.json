@@ -4356,6 +4356,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c46864d-47c6-4736-707c-4f0f07561400/original",
             "name": "Moxie:crypt3k.eth-fc",
             "symbol": "Moxie:crypt3k.eth-fc"
+        },
+        {
+            "address": "0x1415Ca7d7Ac384095E2591eC58bDFD311c8e651E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/782c74ef-6caf-4837-ae3f-812ad1055d00/rectcrop3",
+            "name": "Moxie:hustletrees-fc",
+            "symbol": "Moxie:hustletrees-fc"
         }
     ],
     "version": {
