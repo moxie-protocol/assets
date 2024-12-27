@@ -4349,6 +4349,13 @@
             "logoURI": null,
             "name": "pose",
             "symbol": "fid:514329"
+        },
+        {
+            "address": "0xdE5ceF095E7016CF2EBAc2fE68f5ba3F048626C7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c46864d-47c6-4736-707c-4f0f07561400/original",
+            "name": "Moxie:crypt3k.eth-fc",
+            "symbol": "Moxie:crypt3k.eth-fc"
         }
     ],
     "version": {
