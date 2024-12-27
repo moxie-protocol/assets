@@ -4090,6 +4090,13 @@
             "logoURI": "https://i0.wp.com/media-news.com.ua/wp-content/uploads/2019/05/Mr_robot_final.jpg?ssl=1",
             "name": "Moxie:invmediasem.base.eth-base",
             "symbol": "Moxie:invmediasem.base.eth-base"
+        },
+        {
+            "address": "0x80e955E5C72Eb88abB2D7A96c77c59f0e31fC1c3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1841606793333776384/_D12HKdr.jpg",
+            "name": "Moxie:Wadty_-x",
+            "symbol": "Moxie:Wadty_-x"
         }
     ],
     "version": {
