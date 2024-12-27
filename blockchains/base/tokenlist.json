@@ -4601,6 +4601,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af7afe8e-d798-4612-baef-9ba7246c9a00/rectcrop3",
             "name": "Moxie:frentazzy-fc",
             "symbol": "Moxie:frentazzy-fc"
+        },
+        {
+            "address": "0xfF76B228A31a979fcD63e96F5c1515dCf52bF095",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854641518692200456/UIOMxin4.jpg",
+            "name": "Moxie:SylvainOddou-x",
+            "symbol": "Moxie:SylvainOddou-x"
         }
     ],
     "version": {
