@@ -4811,6 +4811,13 @@
             "logoURI": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/06/Mr-Bean.jpg?q=50\u0026fit=crop\u0026w=1140\u0026h=\u0026dpr=1.5",
             "name": "Moxie:kettu.base.eth-base",
             "symbol": "Moxie:kettu.base.eth-base"
+        },
+        {
+            "address": "0x8C0517B5DBEDbc818ecDEcaa534c8b01A5a35DA7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66ea3329-75b9-4ba3-77da-0c63f7dc8400/rectcrop3",
+            "name": "Moxie:heroblazethree-fc",
+            "symbol": "Moxie:heroblazethree-fc"
         }
     ],
     "version": {
