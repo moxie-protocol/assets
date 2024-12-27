@@ -4566,6 +4566,13 @@
             "logoURI": "https://i.imgur.com/rSHQV6g.gif",
             "name": "Moxie:agoy22-fc",
             "symbol": "Moxie:agoy22-fc"
+        },
+        {
+            "address": "0x570FaEf98bC6F5297A9bce61C188Da27fA476361",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854170829791338496/pROsTKXI.jpg",
+            "name": "Moxie:Entheos041-x",
+            "symbol": "Moxie:Entheos041-x"
         }
     ],
     "version": {
