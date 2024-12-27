@@ -4748,6 +4748,13 @@
             "logoURI": "https://i.imgur.com/DAabD0P.jpg",
             "name": "Moxie:hayalikrktr-fc",
             "symbol": "Moxie:hayalikrktr-fc"
+        },
+        {
+            "address": "0xbD6A4D9096E70418205085ac20257b4f8cE02B29",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiatogl3vsefleap6g4vle75ojzjltqzzh6pon3i4ty4ximjxi2mzy",
+            "name": "Moxie:widhyast-fc",
+            "symbol": "Moxie:widhyast-fc"
         }
     ],
     "version": {
