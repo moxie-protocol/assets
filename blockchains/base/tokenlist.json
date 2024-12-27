@@ -3789,6 +3789,13 @@
             "logoURI": "https://i.imgur.com/lLEEyxH.jpg",
             "name": "Moxie:warpcastalannowa-fc",
             "symbol": "Moxie:warpcastalannowa-fc"
+        },
+        {
+            "address": "0x127877BE10d4F41e5eB53ED430eE0ab8a1bD0Db7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5cc4e0e3-bbac-44c9-e274-82830c19c300/rectcrop3",
+            "name": "Moxie:fatkhurrozy-fc",
+            "symbol": "Moxie:fatkhurrozy-fc"
         }
     ],
     "version": {
