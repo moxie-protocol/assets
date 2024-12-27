@@ -4335,6 +4335,13 @@
             "logoURI": "https://i.imgur.com/oaqwZ8i.jpg",
             "name": "Moxie:avneesh-fc",
             "symbol": "Moxie:avneesh-fc"
+        },
+        {
+            "address": "0x98fA55cCC1B51B38668515Cf2915D28007863196",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xE7gxpv.jpg",
+            "name": "Moxie:rattana90-fc",
+            "symbol": "Moxie:rattana90-fc"
         }
     ],
     "version": {
