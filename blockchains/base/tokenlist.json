@@ -4307,6 +4307,13 @@
             "logoURI": null,
             "name": "loyalmee",
             "symbol": "fid:428395"
+        },
+        {
+            "address": "0x806f0D4631064292AbE01E5AEFe9C467160A5264",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1478923342832881667/QIhhwP6o.jpg",
+            "name": "Moxie:RegularGuysNFT-x",
+            "symbol": "Moxie:RegularGuysNFT-x"
         }
     ],
     "version": {
