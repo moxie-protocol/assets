@@ -4475,6 +4475,13 @@
             "logoURI": "https://i.imgur.com/UOUm9H3.jpg",
             "name": "Moxie:precursor-fc",
             "symbol": "Moxie:precursor-fc"
+        },
+        {
+            "address": "0x0d899977DDC50Aabdbb3E650b918e5c0c4eE96B5",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+            "name": "Moxie:hugolas-fc",
+            "symbol": "Moxie:hugolas-fc"
         }
     ],
     "version": {
