@@ -4342,6 +4342,13 @@
             "logoURI": "https://i.imgur.com/xE7gxpv.jpg",
             "name": "Moxie:rattana90-fc",
             "symbol": "Moxie:rattana90-fc"
+        },
+        {
+            "address": "0xF0eB62314a9DA12d7c47DE0eDb65CAf60a828026",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "pose",
+            "symbol": "fid:514329"
         }
     ],
     "version": {
