@@ -3999,6 +3999,13 @@
             "logoURI": null,
             "name": "mhpark",
             "symbol": "fid:404848"
+        },
+        {
+            "address": "0x7cE975D34DE4d1f44494D5a0C6339C5eFa35e49D",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "suakim",
+            "symbol": "fid:503146"
         }
     ],
     "version": {
