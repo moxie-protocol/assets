@@ -4160,6 +4160,13 @@
             "logoURI": "https://i.imgur.com/WscaH7v.jpg",
             "name": "Moxie:onigashima0120-fc",
             "symbol": "Moxie:onigashima0120-fc"
+        },
+        {
+            "address": "0x19291F005D804E61c5E82570D2793945F12834C5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1755991564067753984/_3PhIbSP.jpg",
+            "name": "Moxie:KerajAdrag-x",
+            "symbol": "Moxie:KerajAdrag-x"
         }
     ],
     "version": {
