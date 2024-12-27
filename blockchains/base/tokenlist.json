@@ -4657,6 +4657,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/548be4a0-05d4-4328-75ee-45a0ca6a9300/original",
             "name": "Moxie:asmodeus-fc",
             "symbol": "Moxie:asmodeus-fc"
+        },
+        {
+            "address": "0x8ABa12eDc9CBB3DE726224FC7b3Bb9A2cF5cfB22",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/b0Wszty.jpg",
+            "name": "Moxie:rilief-fc",
+            "symbol": "Moxie:rilief-fc"
         }
     ],
     "version": {
