@@ -3936,6 +3936,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c8efad7-ac9e-46c8-e501-0a80e8761e00/rectcrop3",
             "name": "Moxie:ssshiro-fc",
             "symbol": "Moxie:ssshiro-fc"
+        },
+        {
+            "address": "0xfa5F7233a17591e4F141ee2e394C9b7559cD0725",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/AEG8xQW.jpg",
+            "name": "Moxie:exodus-exodud-fc",
+            "symbol": "Moxie:exodus-exodud-fc"
         }
     ],
     "version": {
