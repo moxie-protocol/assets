@@ -4496,6 +4496,13 @@
             "logoURI": "https://i.imgur.com/UBSqZUK.jpg",
             "name": "Moxie:zyjlepiej-fc",
             "symbol": "Moxie:zyjlepiej-fc"
+        },
+        {
+            "address": "0x665194f82Ae4435636326C4B99CEEe9286aa1a0A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67becc18-1c91-406d-7c8c-13a4e29fc100/rectcrop3",
+            "name": "Moxie:ricodwinugraha-fc",
+            "symbol": "Moxie:ricodwinugraha-fc"
         }
     ],
     "version": {
