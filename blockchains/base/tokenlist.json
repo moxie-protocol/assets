@@ -3964,6 +3964,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66ca5d88-07b9-4b75-7439-19d032cb4500/original",
             "name": "Moxie:hellopay-fc",
             "symbol": "Moxie:hellopay-fc"
+        },
+        {
+            "address": "0xAEcBE75830b95f509A76a3862Faa3DAF4C8A628b",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/GqMvfVJVEO1tGV-qph0dfSNdtTJOBWJ0OiNPHaf_LfI/",
+            "name": "Moxie:dreez93-fc",
+            "symbol": "Moxie:dreez93-fc"
         }
     ],
     "version": {
