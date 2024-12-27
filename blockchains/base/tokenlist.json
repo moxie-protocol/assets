@@ -4111,6 +4111,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcae983e-1d00-45d9-9620-57edc3695900/original",
             "name": "Moxie:shanto1996-fc",
             "symbol": "Moxie:shanto1996-fc"
+        },
+        {
+            "address": "0x9069933Ac3898ACd8Cc9013E16626699084798e9",
+            "decimals": 18,
+            "logoURI": "https://p765cpbvm0.execute-api.eu-central-1.amazonaws.com/p1/renderer/Minteeble/chain/base/collection/6e0b39a5-8569-4e67-b330-d352593c9629/image/5703.png",
+            "name": "Moxie:hanma-fc",
+            "symbol": "Moxie:hanma-fc"
         }
     ],
     "version": {
