@@ -4615,6 +4615,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/830835c1-7959-433f-2fc5-d91217311900/original",
             "name": "Moxie:saddope.eth-fc",
             "symbol": "Moxie:saddope.eth-fc"
+        },
+        {
+            "address": "0xC589556db15D241A100eAc75103F791FF84b2a7F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2ef338c-61da-4a8d-a1f5-ebfbc9665500/rectcrop3",
+            "name": "Moxie:mhdirhm-fc",
+            "symbol": "Moxie:mhdirhm-fc"
         }
     ],
     "version": {
