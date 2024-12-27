@@ -4517,6 +4517,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmYDwBjzm5ZPBMKisDCxfbdxEgpvkQWyAvk2FBchgqcdLi",
             "name": "Moxie:kaskarra-fc",
             "symbol": "Moxie:kaskarra-fc"
+        },
+        {
+            "address": "0xAFB3Cc892edEE487B71D2F080725422425890145",
+            "decimals": 18,
+            "logoURI": "https://media.istockphoto.com/id/491380029/fr/photo/tour-eiffel-en-noir-et-blanc-se-dessinent-sur-blanc.jpg?s=1024x1024\u0026w=is\u0026k=20\u0026c=x27Pb9pDRy6Zee5XAiMCseGjQDUKJGbesbRbxmxSNJs=",
+            "name": "Moxie:maroc.base.eth-base",
+            "symbol": "Moxie:maroc.base.eth-base"
         }
     ],
     "version": {
