@@ -4188,6 +4188,13 @@
             "logoURI": null,
             "name": "chaoticmateria",
             "symbol": "fid:390896"
+        },
+        {
+            "address": "0xF769832fa34eA1F2fEA5Ae497098Acb32E9C3415",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1bb68204-588a-4197-fe8a-4e750d6cb200/rectcrop3",
+            "name": "Moxie:mdruhulamin-fc",
+            "symbol": "Moxie:mdruhulamin-fc"
         }
     ],
     "version": {
