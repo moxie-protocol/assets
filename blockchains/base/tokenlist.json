@@ -4769,6 +4769,13 @@
             "logoURI": "https://assets.coingecko.com/coins/images/24119/large/bro-256.png?1646384412",
             "name": "Moxie:maskarpon-fc",
             "symbol": "Moxie:maskarpon-fc"
+        },
+        {
+            "address": "0xD739320a7068aAe56D414d21f5AB60A47D380A36",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1813986230172020736/DkPHyOb3.jpg",
+            "name": "Moxie:0xchyntya-x",
+            "symbol": "Moxie:0xchyntya-x"
         }
     ],
     "version": {
