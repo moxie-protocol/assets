@@ -4286,6 +4286,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36eee31c-ea7a-449f-7ef1-6366cb78b300/rectcrop3",
             "name": "Moxie:lizky-fc",
             "symbol": "Moxie:lizky-fc"
+        },
+        {
+            "address": "0x8C8Aeec9CeA6D35998F24d2B838b3a50D72EEbe9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1822372204031410176/UaWAFC03.jpg",
+            "name": "Moxie:wanakry-x",
+            "symbol": "Moxie:wanakry-x"
         }
     ],
     "version": {
