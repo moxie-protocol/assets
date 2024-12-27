@@ -4818,6 +4818,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66ea3329-75b9-4ba3-77da-0c63f7dc8400/rectcrop3",
             "name": "Moxie:heroblazethree-fc",
             "symbol": "Moxie:heroblazethree-fc"
+        },
+        {
+            "address": "0x19f842176243D0afaFeB78113487Cf7b846Ed4A1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1cb93157-5115-4190-ce7b-07cd91661900/rectcrop3",
+            "name": "Moxie:curateghost-fc",
+            "symbol": "Moxie:curateghost-fc"
         }
     ],
     "version": {
