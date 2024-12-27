@@ -4580,6 +4580,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d956809-de46-4790-f3fc-7d3e1fa41000/original",
             "name": "Moxie:crownless-fc",
             "symbol": "Moxie:crownless-fc"
+        },
+        {
+            "address": "0x4D2010a864609AC0919C3d0fe5b1d04829907780",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a0882066-084f-4c7a-e654-4d946441b200/rectcrop3",
+            "name": "Moxie:viz-fc",
+            "symbol": "Moxie:viz-fc"
         }
     ],
     "version": {
