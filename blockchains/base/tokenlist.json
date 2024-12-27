@@ -4405,6 +4405,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:bobasode123-x",
             "symbol": "Moxie:bobasode123-x"
+        },
+        {
+            "address": "0xE367E12324E85fFAb46f3b9aAe9E07553Ea270Db",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92bfa549-a28a-406f-c3ec-4cc416e35c00/original",
+            "name": "Moxie:yesboryes-fc",
+            "symbol": "Moxie:yesboryes-fc"
         }
     ],
     "version": {
