@@ -4118,6 +4118,13 @@
             "logoURI": "https://p765cpbvm0.execute-api.eu-central-1.amazonaws.com/p1/renderer/Minteeble/chain/base/collection/6e0b39a5-8569-4e67-b330-d352593c9629/image/5703.png",
             "name": "Moxie:hanma-fc",
             "symbol": "Moxie:hanma-fc"
+        },
+        {
+            "address": "0xB16aE478D7665b8DAa91f4cb3823800Ef59B7781",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "akins",
+            "symbol": "fid:434955"
         }
     ],
     "version": {
