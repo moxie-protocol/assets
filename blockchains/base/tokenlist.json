@@ -3866,6 +3866,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0519c02e-5d8b-42df-b855-0f58c6de4d00/original",
             "name": "Moxie:cryptolover2485.eth-fc",
             "symbol": "Moxie:cryptolover2485.eth-fc"
+        },
+        {
+            "address": "0xec0c7bc5191841A3CA7dB899FAd2043bB8Bfa779",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "batmanishere",
+            "symbol": "fid:788461"
         }
     ],
     "version": {
