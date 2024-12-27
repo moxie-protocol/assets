@@ -4041,6 +4041,13 @@
             "logoURI": "https://i.imgur.com/RlHjNoS.jpg",
             "name": "Moxie:thape11-fc",
             "symbol": "Moxie:thape11-fc"
+        },
+        {
+            "address": "0x8D6080617bC008B88736bA6b8158B042d63F9a8A",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/cIautkGyEvtuVVdoXLjkI6whg0er2qaxssO9lrhtM-6RfUD5PDSHDwwPqCGjas0YbebJcknwU0Uj8h6Le2KVNMJywOZo5sI18U-82A?auto=format\u0026dpr=1\u0026w=2048",
+            "name": "Moxie:0xredact.base.eth-base",
+            "symbol": "Moxie:0xredact.base.eth-base"
         }
     ],
     "version": {
