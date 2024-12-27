@@ -3978,6 +3978,13 @@
             "logoURI": "https://i.imgur.com/GS1bN3z.jpg",
             "name": "Moxie:proty-fc",
             "symbol": "Moxie:proty-fc"
+        },
+        {
+            "address": "0xdB768F0cb9617384FBb1cFDFA2157470961Fc70A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1754651338582188032/-jjrXRom.jpg",
+            "name": "Moxie:Arbgiang-x",
+            "symbol": "Moxie:Arbgiang-x"
         }
     ],
     "version": {
