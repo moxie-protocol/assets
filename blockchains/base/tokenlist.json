@@ -4440,6 +4440,13 @@
             "logoURI": "https://ibb.co/5rLP9fF",
             "name": "Moxie:zygo23.base.eth-base",
             "symbol": "Moxie:zygo23.base.eth-base"
+        },
+        {
+            "address": "0xE4ac50eED39Fc8827eC59a4A98219bce307C859F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872702398147309568/tCkBiST2.jpg",
+            "name": "Moxie:nus_art-x",
+            "symbol": "Moxie:nus_art-x"
         }
     ],
     "version": {
