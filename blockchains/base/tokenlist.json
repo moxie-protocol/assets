@@ -4545,6 +4545,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1756442939222609920/86MKtUnR.jpg",
             "name": "Moxie:ohsennase91-x",
             "symbol": "Moxie:ohsennase91-x"
+        },
+        {
+            "address": "0x7176Ca26bc6762DE8b6685BE99Ea9a3CE40861e4",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/LXy1mtvH/images.jpg",
+            "name": "Moxie:binancesmartchain.base.eth-base",
+            "symbol": "Moxie:binancesmartchain.base.eth-base"
         }
     ],
     "version": {
