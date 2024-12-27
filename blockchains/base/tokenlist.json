@@ -4727,6 +4727,13 @@
             "logoURI": "https://i.imgur.com/XBYiWCF.jpg",
             "name": "Moxie:fly666-fc",
             "symbol": "Moxie:fly666-fc"
+        },
+        {
+            "address": "0x0351f25452De4b70FC5D90A29299F41467600e5C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7af136f2-c9cc-4c6c-23dd-c8fd0e3b4800/original",
+            "name": "Moxie:yoshida-fc",
+            "symbol": "Moxie:yoshida-fc"
         }
     ],
     "version": {
