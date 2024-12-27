@@ -4552,6 +4552,13 @@
             "logoURI": "https://i.postimg.cc/LXy1mtvH/images.jpg",
             "name": "Moxie:binancesmartchain.base.eth-base",
             "symbol": "Moxie:binancesmartchain.base.eth-base"
+        },
+        {
+            "address": "0x6766F823185d80846957adE2290294a56C16dCD4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79af5221-8b6e-4829-1ba1-1c37d158a500/rectcrop3",
+            "name": "Moxie:meta-dev-fc",
+            "symbol": "Moxie:meta-dev-fc"
         }
     ],
     "version": {
