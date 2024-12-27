@@ -4006,6 +4006,13 @@
             "logoURI": null,
             "name": "suakim",
             "symbol": "fid:503146"
+        },
+        {
+            "address": "0xB612FBcDb466a3DaB53870E828304c0C7cAd2df5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1389423038374895616/v2VO0yQE.jpg",
+            "name": "Moxie:malesliat1CLONE-x",
+            "symbol": "Moxie:malesliat1CLONE-x"
         }
     ],
     "version": {
