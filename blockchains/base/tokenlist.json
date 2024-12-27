@@ -3845,6 +3845,13 @@
             "logoURI": "https://i.imgur.com/MeXKz1T.jpg",
             "name": "Moxie:maceth-fc",
             "symbol": "Moxie:maceth-fc"
+        },
+        {
+            "address": "0x94d62d427e4Ac060Ba6bE4b26e615Eb61038600b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1679779313930113025/8AJLvDET.jpg",
+            "name": "Moxie:nayyara69-x",
+            "symbol": "Moxie:nayyara69-x"
         }
     ],
     "version": {
