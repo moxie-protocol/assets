@@ -3817,6 +3817,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5b1f573-2904-4bd1-93d3-5a8a90dd3800/rectcrop3",
             "name": "Moxie:rifai26-fc",
             "symbol": "Moxie:rifai26-fc"
+        },
+        {
+            "address": "0x6C81D8dACb77196dA24A9de50488bb8C69825a36",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/orange.jpg",
+            "name": "Moxie:iyey-fc",
+            "symbol": "Moxie:iyey-fc"
         }
     ],
     "version": {
