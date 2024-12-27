@@ -4489,6 +4489,13 @@
             "logoURI": "https://r.resimlink.com/qW4vaHygf2.jpg",
             "name": "Moxie:gamebase.base.eth-base",
             "symbol": "Moxie:gamebase.base.eth-base"
+        },
+        {
+            "address": "0xA59a1E6A5d7b34Ae220B1BeA5f31aBC544a2b555",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UBSqZUK.jpg",
+            "name": "Moxie:zyjlepiej-fc",
+            "symbol": "Moxie:zyjlepiej-fc"
         }
     ],
     "version": {
