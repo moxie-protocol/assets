@@ -4104,6 +4104,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e0ff95c-d07a-4537-ea7c-9441b910df00/original",
             "name": "Moxie:mycandies.eth-fc",
             "symbol": "Moxie:mycandies.eth-fc"
+        },
+        {
+            "address": "0x7671ef8Cb278d5fAEF7AaF38f7AEf5C2f9Df8554",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcae983e-1d00-45d9-9620-57edc3695900/original",
+            "name": "Moxie:shanto1996-fc",
+            "symbol": "Moxie:shanto1996-fc"
         }
     ],
     "version": {
