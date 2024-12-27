@@ -4377,6 +4377,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1839345171072446464/RVMW8zm7.jpg",
             "name": "Moxie:3131mateo-x",
             "symbol": "Moxie:3131mateo-x"
+        },
+        {
+            "address": "0x37552fd77e605b92c0B5e043B7fDFe9BA5c5D999",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/950d5653-22f6-47cd-b97d-6e62a3041b00/original",
+            "name": "Moxie:frozenxaris-fc",
+            "symbol": "Moxie:frozenxaris-fc"
         }
     ],
     "version": {
