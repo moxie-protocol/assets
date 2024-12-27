@@ -4594,6 +4594,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/852e4dd1-51f2-4e3e-157b-9003eda8cb00/original",
             "name": "Moxie:gumilang88-fc",
             "symbol": "Moxie:gumilang88-fc"
+        },
+        {
+            "address": "0x945FF3051dA0696CB60b09eC3dCefc7e6171E269",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af7afe8e-d798-4612-baef-9ba7246c9a00/rectcrop3",
+            "name": "Moxie:frentazzy-fc",
+            "symbol": "Moxie:frentazzy-fc"
         }
     ],
     "version": {
