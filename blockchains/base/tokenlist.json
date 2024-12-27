@@ -4482,6 +4482,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:hugolas-fc",
             "symbol": "Moxie:hugolas-fc"
+        },
+        {
+            "address": "0x5211Bc51a52B063359ac7deb60C48170b4C52E62",
+            "decimals": 18,
+            "logoURI": "https://r.resimlink.com/qW4vaHygf2.jpg",
+            "name": "Moxie:gamebase.base.eth-base",
+            "symbol": "Moxie:gamebase.base.eth-base"
         }
     ],
     "version": {
