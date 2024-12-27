@@ -4076,6 +4076,13 @@
             "logoURI": "https://r.resimlink.com/-C_lNB.jpeg",
             "name": "Moxie:sercoin.eth-ens",
             "symbol": "Moxie:sercoin.eth-ens"
+        },
+        {
+            "address": "0xA7caAe7a422adb3e7FCB70897f489C22bA2e3A95",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8b7d915-468d-4382-57c3-f693b024cc00/rectcrop3",
+            "name": "Moxie:0xcety-fc",
+            "symbol": "Moxie:0xcety-fc"
         }
     ],
     "version": {
