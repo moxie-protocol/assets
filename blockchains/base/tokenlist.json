@@ -4174,6 +4174,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad3f9ee6-d3a5-45fb-66a4-63451b5bcd00/rectcrop3",
             "name": "Moxie:edwardsm-fc",
             "symbol": "Moxie:edwardsm-fc"
+        },
+        {
+            "address": "0x8663E803EaBA2af044456B74874f4097D8d24F50",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/525e8989-461b-46a4-b9d4-a862e2af7e00/original",
+            "name": "Moxie:nikbaruch-fc",
+            "symbol": "Moxie:nikbaruch-fc"
         }
     ],
     "version": {
