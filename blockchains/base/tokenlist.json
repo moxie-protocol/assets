@@ -4622,6 +4622,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2ef338c-61da-4a8d-a1f5-ebfbc9665500/rectcrop3",
             "name": "Moxie:mhdirhm-fc",
             "symbol": "Moxie:mhdirhm-fc"
+        },
+        {
+            "address": "0xf7398e800CDc36659559EDBB6836a78Ae49Ba77c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/P86BKPZ.jpg",
+            "name": "Moxie:rizkravh-fc",
+            "symbol": "Moxie:rizkravh-fc"
         }
     ],
     "version": {
