@@ -3782,6 +3782,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863599421017178112/ahtqzFh_.jpg",
             "name": "Moxie:pixahead-x",
             "symbol": "Moxie:pixahead-x"
+        },
+        {
+            "address": "0x005e7780c02f47D997078D4682cd0b6437D6Dc1f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lLEEyxH.jpg",
+            "name": "Moxie:warpcastalannowa-fc",
+            "symbol": "Moxie:warpcastalannowa-fc"
         }
     ],
     "version": {
