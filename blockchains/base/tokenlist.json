@@ -4314,6 +4314,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1478923342832881667/QIhhwP6o.jpg",
             "name": "Moxie:RegularGuysNFT-x",
             "symbol": "Moxie:RegularGuysNFT-x"
+        },
+        {
+            "address": "0xa7B5AE658Cc3A249644160717c3c0A32b8647682",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857211609531166721/h3l-zRox.jpg",
+            "name": "Moxie:CrypTom_YT-x",
+            "symbol": "Moxie:CrypTom_YT-x"
         }
     ],
     "version": {
