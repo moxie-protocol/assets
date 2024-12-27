@@ -4062,6 +4062,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1747510177933455360/wQtL_uAC.png",
             "name": "Moxie:nagajjang35-x",
             "symbol": "Moxie:nagajjang35-x"
+        },
+        {
+            "address": "0x5Bbcb251fF1E7dB4FAef3A95253493D5419159cC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c8d7b15-5b12-4e9f-764b-ea42ac6f5500/rectcrop3",
+            "name": "Moxie:askila-fc",
+            "symbol": "Moxie:askila-fc"
         }
     ],
     "version": {
