@@ -4741,6 +4741,13 @@
             "logoURI": "https://arweave.net/vLAfOr57iivacUYkI1i27u0U_DN36Ph9WV3RqUxHin8/",
             "name": "Moxie:skizzi-fc",
             "symbol": "Moxie:skizzi-fc"
+        },
+        {
+            "address": "0x5c25C3225a487395b11ba7b1bCdc2181059823a3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DAabD0P.jpg",
+            "name": "Moxie:hayalikrktr-fc",
+            "symbol": "Moxie:hayalikrktr-fc"
         }
     ],
     "version": {
