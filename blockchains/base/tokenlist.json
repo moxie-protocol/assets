@@ -4587,6 +4587,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a0882066-084f-4c7a-e654-4d946441b200/rectcrop3",
             "name": "Moxie:viz-fc",
             "symbol": "Moxie:viz-fc"
+        },
+        {
+            "address": "0x9d35Ab9E2F2E8efdFD90f69e1517CCFe3D850a75",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/852e4dd1-51f2-4e3e-157b-9003eda8cb00/original",
+            "name": "Moxie:gumilang88-fc",
+            "symbol": "Moxie:gumilang88-fc"
         }
     ],
     "version": {
