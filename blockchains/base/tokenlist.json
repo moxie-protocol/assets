@@ -4279,6 +4279,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff0b2f6c-4de5-4e05-ccea-4a6901626a00/original",
             "name": "Moxie:mmddghn-fc",
             "symbol": "Moxie:mmddghn-fc"
+        },
+        {
+            "address": "0x6cDEc49EB481755C3fC2C2b8ED54f9315Fac5e7F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36eee31c-ea7a-449f-7ef1-6366cb78b300/rectcrop3",
+            "name": "Moxie:lizky-fc",
+            "symbol": "Moxie:lizky-fc"
         }
     ],
     "version": {
