@@ -4146,6 +4146,13 @@
             "logoURI": "https://zynecoin.io/wp-content/uploads/2023/01/Picture-S1-2048x1445.png",
             "name": "Moxie:zynecoin.base.eth-base",
             "symbol": "Moxie:zynecoin.base.eth-base"
+        },
+        {
+            "address": "0xce6eB978451B14012f3E650105C2aC88b9aB4b61",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca4b293f-b6a6-493c-dde8-9cf8c77a6600/rectcrop3",
+            "name": "Moxie:jion-fc",
+            "symbol": "Moxie:jion-fc"
         }
     ],
     "version": {
