@@ -4321,6 +4321,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857211609531166721/h3l-zRox.jpg",
             "name": "Moxie:CrypTom_YT-x",
             "symbol": "Moxie:CrypTom_YT-x"
+        },
+        {
+            "address": "0x9E1FD55dB9B151543A829cD47261431009d6E1De",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lRJS2Yr.jpg",
+            "name": "Moxie:ab4life-fc",
+            "symbol": "Moxie:ab4life-fc"
         }
     ],
     "version": {
