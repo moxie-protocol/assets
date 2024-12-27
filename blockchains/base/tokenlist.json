@@ -4216,6 +4216,13 @@
             "logoURI": "https://i.imgur.com/0cAx2zp.jpg",
             "name": "Moxie:dethnis-fc",
             "symbol": "Moxie:dethnis-fc"
+        },
+        {
+            "address": "0x692B3F55EEC6Df021dC57C478EAE2B19804AbB42",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/469a4771-4928-45ce-bb31-e5f2ee89eb00/original",
+            "name": "Moxie:khope-fc",
+            "symbol": "Moxie:khope-fc"
         }
     ],
     "version": {
