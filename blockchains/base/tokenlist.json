@@ -3761,6 +3761,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1707781274209824768/F071IcqH.jpg",
             "name": "Moxie:AnisBennanika-x",
             "symbol": "Moxie:AnisBennanika-x"
+        },
+        {
+            "address": "0xdB63ac7289471153062F3dd93534141861Fd8724",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1802981788522094592/ztRYxQ9T.jpg",
+            "name": "Moxie:tomykite-x",
+            "symbol": "Moxie:tomykite-x"
         }
     ],
     "version": {
