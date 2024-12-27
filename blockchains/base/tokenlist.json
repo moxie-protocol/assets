@@ -4419,6 +4419,13 @@
             "logoURI": "https://i.imgur.com/BEP56A9.png",
             "name": "Moxie:itsmadoya-fc",
             "symbol": "Moxie:itsmadoya-fc"
+        },
+        {
+            "address": "0xD2731D0D0d2744B3A7C55b12236E6D96aD8c4fc7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c052ef9-ae34-464b-2fc3-374b01930b00/rectcrop3",
+            "name": "Moxie:zeosilva.eth-fc",
+            "symbol": "Moxie:zeosilva.eth-fc"
         }
     ],
     "version": {
