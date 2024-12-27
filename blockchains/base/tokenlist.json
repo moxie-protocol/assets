@@ -4608,6 +4608,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854641518692200456/UIOMxin4.jpg",
             "name": "Moxie:SylvainOddou-x",
             "symbol": "Moxie:SylvainOddou-x"
+        },
+        {
+            "address": "0xBdbF97361DE546F3Ddaabc037676c315cf9C88Ac",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/830835c1-7959-433f-2fc5-d91217311900/original",
+            "name": "Moxie:saddope.eth-fc",
+            "symbol": "Moxie:saddope.eth-fc"
         }
     ],
     "version": {
