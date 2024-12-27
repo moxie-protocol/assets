@@ -4048,6 +4048,13 @@
             "logoURI": "https://i.seadn.io/gae/cIautkGyEvtuVVdoXLjkI6whg0er2qaxssO9lrhtM-6RfUD5PDSHDwwPqCGjas0YbebJcknwU0Uj8h6Le2KVNMJywOZo5sI18U-82A?auto=format\u0026dpr=1\u0026w=2048",
             "name": "Moxie:0xredact.base.eth-base",
             "symbol": "Moxie:0xredact.base.eth-base"
+        },
+        {
+            "address": "0xEB1E841220965D7aD05cfdEdC97c17F3Ca5FA61B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1580079018455748609/XRTFELC4.jpg",
+            "name": "Moxie:SilentAgnt-x",
+            "symbol": "Moxie:SilentAgnt-x"
         }
     ],
     "version": {
