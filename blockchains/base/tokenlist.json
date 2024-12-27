@@ -4692,6 +4692,13 @@
             "logoURI": "https://media-hosting.imagekit.io//db1e66b90ab845b5/1000159293.jpg?Expires=1735509412\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=LWVjer7-vdOQ35J09BMr2tTB-sDHtkSmDtdQXZcd3AcTHENjk9SMV~fJ3pvya4gB0j-5p0eS~UBInwc~gYXgh~T707mR05oYK-Cs5s1rB0ztinyQ~68O02Dd1rtErPgDAV911w5E18ch3BqD96DmRluaFmZOogTOWdDVzmzO2o3yrWCNOsGB6JxvTnQGBtxu3ae-wBWkEeVx2fqfLmuqVSVE5jaJJiPJ2~PL-5C9OaKbVFMf0kARLj0zUv~21yIzFhr59RLQJzAYGHM5F6-IHzPm3w~nluq9BNJ4QnOZw-vQY60s99jKxuA-Kpaj8Ya3oWG3DFRD5yXey-0P-IWInw__",
             "name": "Moxie:binancevitalik.base.eth-base",
             "symbol": "Moxie:binancevitalik.base.eth-base"
+        },
+        {
+            "address": "0x0b6647268069E5b14b4B2892026842F296e4b9f9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f46adf87-4000-4651-44af-48166641d300/rectcrop3",
+            "name": "Moxie:itildoe-fc",
+            "symbol": "Moxie:itildoe-fc"
         }
     ],
     "version": {
