@@ -4265,6 +4265,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1518587633173204992/7DFJiP-9.jpg",
             "name": "Moxie:From100k_to_0-x",
             "symbol": "Moxie:From100k_to_0-x"
+        },
+        {
+            "address": "0xC799909b0f3Cf52E6c6e14E2Df3369ec0F1C7A77",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Q3f7yFa.jpg",
+            "name": "Moxie:mohsenr-fc",
+            "symbol": "Moxie:mohsenr-fc"
         }
     ],
     "version": {
