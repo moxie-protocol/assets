@@ -3796,6 +3796,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5cc4e0e3-bbac-44c9-e274-82830c19c300/rectcrop3",
             "name": "Moxie:fatkhurrozy-fc",
             "symbol": "Moxie:fatkhurrozy-fc"
+        },
+        {
+            "address": "0x5c200d2740871806170F36aDD9f39096c8048285",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vxLRCJy.jpg",
+            "name": "Moxie:norbertouno-fc",
+            "symbol": "Moxie:norbertouno-fc"
         }
     ],
     "version": {
