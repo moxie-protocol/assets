@@ -4468,6 +4468,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmS52QMg5s2LDAdYE3shoEaw2CbeXNPPmoSvdSPZHf6F2U/4082.png",
             "name": "Moxie:dbachtiar-fc",
             "symbol": "Moxie:dbachtiar-fc"
+        },
+        {
+            "address": "0x52f64bC448880E0Bd243afCf6c6F35734883c019",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UOUm9H3.jpg",
+            "name": "Moxie:precursor-fc",
+            "symbol": "Moxie:precursor-fc"
         }
     ],
     "version": {
