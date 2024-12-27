@@ -4797,6 +4797,13 @@
             "logoURI": "https://i.imgur.com/PebBIkC.jpg",
             "name": "Moxie:kangfahri-fc",
             "symbol": "Moxie:kangfahri-fc"
+        },
+        {
+            "address": "0x512F8d4B63F931cB1Eca1b40aEca39Eb6028d332",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1725541181508202496/9oKq92b7.jpg",
+            "name": "Moxie:angots666-x",
+            "symbol": "Moxie:angots666-x"
         }
     ],
     "version": {
