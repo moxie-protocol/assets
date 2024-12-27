@@ -4629,6 +4629,13 @@
             "logoURI": "https://i.imgur.com/P86BKPZ.jpg",
             "name": "Moxie:rizkravh-fc",
             "symbol": "Moxie:rizkravh-fc"
+        },
+        {
+            "address": "0x64A6CC412a646B017C62CA78Bd42e01a065439D6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1853305485749006336/IIaFKzy9.jpg",
+            "name": "Moxie:siriuz71-x",
+            "symbol": "Moxie:siriuz71-x"
         }
     ],
     "version": {
