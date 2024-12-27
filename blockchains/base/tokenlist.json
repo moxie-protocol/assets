@@ -3971,6 +3971,13 @@
             "logoURI": "https://arweave.net/GqMvfVJVEO1tGV-qph0dfSNdtTJOBWJ0OiNPHaf_LfI/",
             "name": "Moxie:dreez93-fc",
             "symbol": "Moxie:dreez93-fc"
+        },
+        {
+            "address": "0xe37858778cb83114606DeB30131d522fBD1f29B9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GS1bN3z.jpg",
+            "name": "Moxie:proty-fc",
+            "symbol": "Moxie:proty-fc"
         }
     ],
     "version": {
