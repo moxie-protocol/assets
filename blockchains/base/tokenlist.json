@@ -4258,6 +4258,13 @@
             "logoURI": "https://arweave.net/8NGQh67zLDEtbPSZi1vofpNwI8HAW5KKmbx5qi-naLk/",
             "name": "Moxie:peymandrop-fc",
             "symbol": "Moxie:peymandrop-fc"
+        },
+        {
+            "address": "0x5DeB060dC4c89fb71BfEf7cfa1959435b325E8A2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1518587633173204992/7DFJiP-9.jpg",
+            "name": "Moxie:From100k_to_0-x",
+            "symbol": "Moxie:From100k_to_0-x"
         }
     ],
     "version": {
