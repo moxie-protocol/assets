@@ -4804,6 +4804,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1725541181508202496/9oKq92b7.jpg",
             "name": "Moxie:angots666-x",
             "symbol": "Moxie:angots666-x"
+        },
+        {
+            "address": "0x90D2a1b4FEf231bF81aA66C59705e14b6b164b84",
+            "decimals": 18,
+            "logoURI": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/06/Mr-Bean.jpg?q=50\u0026fit=crop\u0026w=1140\u0026h=\u0026dpr=1.5",
+            "name": "Moxie:kettu.base.eth-base",
+            "symbol": "Moxie:kettu.base.eth-base"
         }
     ],
     "version": {
