@@ -4055,6 +4055,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1580079018455748609/XRTFELC4.jpg",
             "name": "Moxie:SilentAgnt-x",
             "symbol": "Moxie:SilentAgnt-x"
+        },
+        {
+            "address": "0x3d9Aa11DB9C4C84CB56e98118eEAf3540D135db6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1747510177933455360/wQtL_uAC.png",
+            "name": "Moxie:nagajjang35-x",
+            "symbol": "Moxie:nagajjang35-x"
         }
     ],
     "version": {
