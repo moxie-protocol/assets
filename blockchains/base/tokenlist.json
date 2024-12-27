@@ -4706,6 +4706,13 @@
             "logoURI": "https://i.imgur.com/zhXowaz.jpg",
             "name": "Moxie:barbekyu-fc",
             "symbol": "Moxie:barbekyu-fc"
+        },
+        {
+            "address": "0xE4C6065bB15f29E8BA9E9D9719ffF56B1498C368",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1lZgBm2.jpg",
+            "name": "Moxie:sheff-fc",
+            "symbol": "Moxie:sheff-fc"
         }
     ],
     "version": {
