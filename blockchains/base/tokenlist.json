@@ -4251,6 +4251,13 @@
             "logoURI": "https://ideogram.ai/assets/image/lossless/response/49R1-pJIRSGZInLAROvN8g",
             "name": "Moxie:vidateleboss.base.eth-base",
             "symbol": "Moxie:vidateleboss.base.eth-base"
+        },
+        {
+            "address": "0x8B0487e86bE62a2dCDE087a76c8AfA6065EB4cF4",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/8NGQh67zLDEtbPSZi1vofpNwI8HAW5KKmbx5qi-naLk/",
+            "name": "Moxie:peymandrop-fc",
+            "symbol": "Moxie:peymandrop-fc"
         }
     ],
     "version": {
