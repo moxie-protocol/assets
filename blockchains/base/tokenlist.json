@@ -4664,6 +4664,13 @@
             "logoURI": "https://i.imgur.com/b0Wszty.jpg",
             "name": "Moxie:rilief-fc",
             "symbol": "Moxie:rilief-fc"
+        },
+        {
+            "address": "0xA7CC94DCA78a554974E4B7Ce54A940CE34CFB77A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/media/Gfp6HDeXoAAj2rV?format=jpg\u0026name=medium",
+            "name": "Moxie:werts.eth-ens",
+            "symbol": "Moxie:werts.eth-ens"
         }
     ],
     "version": {
