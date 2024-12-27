@@ -4132,6 +4132,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b59bbec-06e5-4418-db74-e74d1d1c4900/rectcrop3",
             "name": "Moxie:nemagnat-fc",
             "symbol": "Moxie:nemagnat-fc"
+        },
+        {
+            "address": "0xB60462e91b38D4ffB321f19e803399bE878ead05",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/78d7c69d-cf97-46a1-4d15-3d56c5343c00/rectcrop3",
+            "name": "Moxie:fshmnd-fc",
+            "symbol": "Moxie:fshmnd-fc"
         }
     ],
     "version": {
