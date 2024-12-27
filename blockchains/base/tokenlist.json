@@ -4699,6 +4699,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f46adf87-4000-4651-44af-48166641d300/rectcrop3",
             "name": "Moxie:itildoe-fc",
             "symbol": "Moxie:itildoe-fc"
+        },
+        {
+            "address": "0xA037a334E738f6431e53653c512Cb1388f111979",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/zhXowaz.jpg",
+            "name": "Moxie:barbekyu-fc",
+            "symbol": "Moxie:barbekyu-fc"
         }
     ],
     "version": {
