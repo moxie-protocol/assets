@@ -4671,6 +4671,13 @@
             "logoURI": "https://pbs.twimg.com/media/Gfp6HDeXoAAj2rV?format=jpg\u0026name=medium",
             "name": "Moxie:werts.eth-ens",
             "symbol": "Moxie:werts.eth-ens"
+        },
+        {
+            "address": "0x308c083256c0Fd92B4E3FF142775cFbe49D3969C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d33c018-8e49-4968-2b42-ef7fc21d6300/original",
+            "name": "Moxie:0xhinata-fc",
+            "symbol": "Moxie:0xhinata-fc"
         }
     ],
     "version": {
