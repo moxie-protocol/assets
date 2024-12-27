@@ -4097,6 +4097,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1841606793333776384/_D12HKdr.jpg",
             "name": "Moxie:Wadty_-x",
             "symbol": "Moxie:Wadty_-x"
+        },
+        {
+            "address": "0x09c93515A13E08a597BFC5911EF9f3B6e9f6656c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e0ff95c-d07a-4537-ea7c-9441b910df00/original",
+            "name": "Moxie:mycandies.eth-fc",
+            "symbol": "Moxie:mycandies.eth-fc"
         }
     ],
     "version": {
