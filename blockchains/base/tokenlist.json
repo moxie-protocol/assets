@@ -6687,6 +6687,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25269966-43cc-413e-e0b3-e8e02fd82f00/rectcrop3",
             "name": "Moxie:athens-fc",
             "symbol": "Moxie:athens-fc"
+        },
+        {
+            "address": "0x6C5f6B363F34862eBf7e14fD9de40586a7473D35",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d8e5c4c-5d48-40d1-9430-72061a54be00/rectcrop3",
+            "name": "Moxie:metha-fc",
+            "symbol": "Moxie:metha-fc"
         }
     ],
     "version": {
