@@ -6771,6 +6771,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1173576867216932865/_sWpL9Gb.jpg",
             "name": "Moxie:sansukehiroshi-x",
             "symbol": "Moxie:sansukehiroshi-x"
+        },
+        {
+            "address": "0xc959B900f659C95f2f2Dd7118B0796507f13E572",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tVicOBV.jpg",
+            "name": "Moxie:bangdisa-fc",
+            "symbol": "Moxie:bangdisa-fc"
         }
     ],
     "version": {
