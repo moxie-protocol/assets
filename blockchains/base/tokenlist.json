@@ -5952,6 +5952,13 @@
             "logoURI": "https://i.imgur.com/rdoYKbG.jpg",
             "name": "Moxie:mong-fc",
             "symbol": "Moxie:mong-fc"
+        },
+        {
+            "address": "0x814A0E101e6b388975e43f56c76f5014E681d2D6",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifwqs6jlpv4gby45aa3awmr3tjypd5p24fr5a37ptf2tixmobgica",
+            "name": "Moxie:maspin.eth-ens",
+            "symbol": "Moxie:maspin.eth-ens"
         }
     ],
     "version": {
