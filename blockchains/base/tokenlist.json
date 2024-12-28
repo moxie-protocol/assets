@@ -6694,6 +6694,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d8e5c4c-5d48-40d1-9430-72061a54be00/rectcrop3",
             "name": "Moxie:metha-fc",
             "symbol": "Moxie:metha-fc"
+        },
+        {
+            "address": "0x86d9Be992fD4B7f2632Ba284fa89aF6462f92275",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855765574741069824/d6nsWSF2.jpg",
+            "name": "Moxie:kanwarmali7-x",
+            "symbol": "Moxie:kanwarmali7-x"
         }
     ],
     "version": {
