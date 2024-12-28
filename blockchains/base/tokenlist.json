@@ -6498,6 +6498,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868707773988716545/9BD4DO3N.png",
             "name": "Moxie:DoyokSenpai-x",
             "symbol": "Moxie:DoyokSenpai-x"
+        },
+        {
+            "address": "0xE0ca87c95C05044Cb50906DD9f082cCdACF7412A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pGC4NwF.jpg",
+            "name": "Moxie:nohan-fc",
+            "symbol": "Moxie:nohan-fc"
         }
     ],
     "version": {
