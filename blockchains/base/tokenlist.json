@@ -5091,6 +5091,13 @@
             "logoURI": "https://i.imgur.com/8wVsyhG.jpeg",
             "name": "Moxie:yusuffs-fc",
             "symbol": "Moxie:yusuffs-fc"
+        },
+        {
+            "address": "0xEa2deFF1212744Cf67c59676f209Abe9Ef00151b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87b6bf2f-2cfe-448c-b504-09d3a2e7dc00/rectcrop3",
+            "name": "Moxie:fendyxcyber-fc",
+            "symbol": "Moxie:fendyxcyber-fc"
         }
     ],
     "version": {
