@@ -5945,6 +5945,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e345d9a-2195-4920-1693-92253a5fb700/rectcrop3",
             "name": "Moxie:itscryptoclock-fc",
             "symbol": "Moxie:itscryptoclock-fc"
+        },
+        {
+            "address": "0xBD42dcF0B21754DdD2f12aE54254972A0d49a7A6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rdoYKbG.jpg",
+            "name": "Moxie:mong-fc",
+            "symbol": "Moxie:mong-fc"
         }
     ],
     "version": {
