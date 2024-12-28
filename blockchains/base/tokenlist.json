@@ -5609,6 +5609,13 @@
             "logoURI": "https://i.imgur.com/IDTaBBU.jpg",
             "name": "Moxie:shahin7100-fc",
             "symbol": "Moxie:shahin7100-fc"
+        },
+        {
+            "address": "0x10CE03194805f117EA8A160C21af9D3745C3B8c3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YGKPr4q.jpg",
+            "name": "Moxie:airdropdaily.eth-fc",
+            "symbol": "Moxie:airdropdaily.eth-fc"
         }
     ],
     "version": {
