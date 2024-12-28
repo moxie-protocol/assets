@@ -5224,6 +5224,13 @@
             "logoURI": "https://i.imgur.com/Yoe5q6L.jpg",
             "name": "Moxie:qorygor-fc",
             "symbol": "Moxie:qorygor-fc"
+        },
+        {
+            "address": "0xFc3b4caf16C6e743dE0de6907cA44afE6Ede07B4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2VGbpxO.jpg",
+            "name": "Moxie:herza-fc",
+            "symbol": "Moxie:herza-fc"
         }
     ],
     "version": {
