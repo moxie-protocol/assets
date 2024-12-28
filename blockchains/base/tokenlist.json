@@ -4881,6 +4881,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1815456973233463296/LAnZzZjt.png",
             "name": "Moxie:finampost-x",
             "symbol": "Moxie:finampost-x"
+        },
+        {
+            "address": "0xD2f1DE490026dFF77c88e22b29A25DFE1734c088",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "gsruw",
+            "symbol": "fid:331203"
         }
     ],
     "version": {
