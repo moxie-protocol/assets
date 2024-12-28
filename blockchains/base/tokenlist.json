@@ -6015,6 +6015,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0d8b3cf-08c7-4e92-6de3-52e5657fb200/rectcrop3",
             "name": "Moxie:basesanta-fc",
             "symbol": "Moxie:basesanta-fc"
+        },
+        {
+            "address": "0xD4aA6209624Fe244646b58a9C50E30B17925c7af",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcea04d0-5918-497e-3144-a4a20dbe3700/rectcrop3",
+            "name": "Moxie:auzacrypto-fc",
+            "symbol": "Moxie:auzacrypto-fc"
         }
     ],
     "version": {
