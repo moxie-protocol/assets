@@ -4867,6 +4867,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e342e90e-b29c-46c8-2131-2ab20b9a1c00/rectcrop3",
             "name": "Moxie:jembut-ayam-fc",
             "symbol": "Moxie:jembut-ayam-fc"
+        },
+        {
+            "address": "0xc3B4Aa1335056eBEed139725750D984A12BDd743",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a187d0c-c2a9-4cfa-1742-1394422be600/original",
+            "name": "Moxie:npccrypto-fc",
+            "symbol": "Moxie:npccrypto-fc"
         }
     ],
     "version": {
