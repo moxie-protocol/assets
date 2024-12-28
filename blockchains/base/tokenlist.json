@@ -5399,6 +5399,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74d749c5-cea0-45d9-97ff-dd7ba1751200/rectcrop3",
             "name": "Moxie:mersavvip-fc",
             "symbol": "Moxie:mersavvip-fc"
+        },
+        {
+            "address": "0x3ACbD54DfE84C9C5FF865848a63952d91c803B86",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sKxa8hd.jpg",
+            "name": "Moxie:moussahoujeiry-fc",
+            "symbol": "Moxie:moussahoujeiry-fc"
         }
     ],
     "version": {
