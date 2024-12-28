@@ -5049,6 +5049,13 @@
             "logoURI": "https://i.imgur.com/HRew7jM.jpg",
             "name": "Moxie:huntcryp-fc",
             "symbol": "Moxie:huntcryp-fc"
+        },
+        {
+            "address": "0x8f638Bb20e552f87923a8d41df8981948C57657B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/yCvJVgb.jpg",
+            "name": "Moxie:eryuga-fc",
+            "symbol": "Moxie:eryuga-fc"
         }
     ],
     "version": {
