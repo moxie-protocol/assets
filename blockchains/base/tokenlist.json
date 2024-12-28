@@ -5385,6 +5385,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74b6e62b-5a2e-4f83-28ef-5cd0d837d200/rectcrop3",
             "name": "Moxie:diptawahyu27-fc",
             "symbol": "Moxie:diptawahyu27-fc"
+        },
+        {
+            "address": "0x897b8429aE2e46Cfc93e45642a4E4fd1A2c4A6b4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81f431fc-84c3-42f7-4980-18734d75b000/rectcrop3",
+            "name": "Moxie:donspablo-fc",
+            "symbol": "Moxie:donspablo-fc"
         }
     ],
     "version": {
