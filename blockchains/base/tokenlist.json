@@ -6316,6 +6316,13 @@
             "logoURI": "https://i.imgur.com/ql1qv3J.jpg",
             "name": "Moxie:jpdonk-fc",
             "symbol": "Moxie:jpdonk-fc"
+        },
+        {
+            "address": "0x429c80B8b5105982f9eed499DB2A38a0427d42cf",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hdKq3yh.jpg",
+            "name": "Moxie:uyekt-fc",
+            "symbol": "Moxie:uyekt-fc"
         }
     ],
     "version": {
