@@ -6190,6 +6190,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmUqKgg1rpssLzwewYvs6pgEC1H7o6bSrMH3td8efE1ep1/0",
             "name": "Moxie:burung-fc",
             "symbol": "Moxie:burung-fc"
+        },
+        {
+            "address": "0x9309CAC8741c2Dd4d4eB8bC7B3826633a31fbb8d",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/5T7miqKsA7_b5_iz893xSJe-lEQfxpmfSB7-dCS7k9g/",
+            "name": "Moxie:zestt-fc",
+            "symbol": "Moxie:zestt-fc"
         }
     ],
     "version": {
