@@ -6155,6 +6155,13 @@
             "logoURI": "https://i.imgur.com/u5nM4gp.jpg",
             "name": "Moxie:myzense.eth-fc",
             "symbol": "Moxie:myzense.eth-fc"
+        },
+        {
+            "address": "0x3Fe5C4B1F5356e5Ea01246f6fF937AAd5b2af9d3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fMTsewZ.jpg",
+            "name": "Moxie:khebotz-fc",
+            "symbol": "Moxie:khebotz-fc"
         }
     ],
     "version": {
