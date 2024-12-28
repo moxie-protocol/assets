@@ -4951,6 +4951,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6974063b-6d40-4b22-a84e-8599cbfe3a00/rectcrop3",
             "name": "Moxie:mehrzaad.eth-fc",
             "symbol": "Moxie:mehrzaad.eth-fc"
+        },
+        {
+            "address": "0x404ff05fBC315691093E5f29EF955ecd32e0E357",
+            "decimals": 18,
+            "logoURI": "https://uploadkon.ir/uploads/f95b28_24photo-2024-12-22-20-35-05.jpg",
+            "name": "Moxie:0xkeyvan.base.eth-base",
+            "symbol": "Moxie:0xkeyvan.base.eth-base"
         }
     ],
     "version": {
