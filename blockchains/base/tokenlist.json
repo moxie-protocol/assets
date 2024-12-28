@@ -7184,6 +7184,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c10483-294e-44ef-501c-f58ae0440400/rectcrop3",
             "name": "Moxie:0xabay-fc",
             "symbol": "Moxie:0xabay-fc"
+        },
+        {
+            "address": "0x32547d4141912d4D0818476FdA3A871378606349",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/Qmaz5axr8rKFJ9uzV6dWsSu8VhfDLfbsMzw5EaoXRoZA1w/based.png",
+            "name": "Moxie:ugik-fc",
+            "symbol": "Moxie:ugik-fc"
         }
     ],
     "version": {
