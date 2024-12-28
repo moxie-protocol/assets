@@ -5280,6 +5280,13 @@
             "logoURI": "https://i.imgur.com/0vgkqKY.gif",
             "name": "Moxie:nandar-fc",
             "symbol": "Moxie:nandar-fc"
+        },
+        {
+            "address": "0x7357220a77187BaFaAc5F8A8De4943BacB565C62",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80330485-db8c-46b4-f943-d093e9a0a600/rectcrop3",
+            "name": "Moxie:miya-fc",
+            "symbol": "Moxie:miya-fc"
         }
     ],
     "version": {
