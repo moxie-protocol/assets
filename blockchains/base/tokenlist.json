@@ -5588,6 +5588,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c224731-3a08-4df5-4c48-b801374c1c00/rectcrop3",
             "name": "Moxie:shellyriani-fc",
             "symbol": "Moxie:shellyriani-fc"
+        },
+        {
+            "address": "0x054B165F1d8D441B9FF2049F12A011f739095E64",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9IsUvG0.jpg",
+            "name": "Moxie:depri-fc",
+            "symbol": "Moxie:depri-fc"
         }
     ],
     "version": {
