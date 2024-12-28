@@ -5021,6 +5021,13 @@
             "logoURI": "https://i.imgur.com/TToZqr6.jpg",
             "name": "Moxie:werak88-fc",
             "symbol": "Moxie:werak88-fc"
+        },
+        {
+            "address": "0xFc3a798091054AA997C71034E1Ede532E728707a",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+            "name": "Moxie:meeko-fc",
+            "symbol": "Moxie:meeko-fc"
         }
     ],
     "version": {
