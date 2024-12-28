@@ -5504,6 +5504,13 @@
             "logoURI": "https://i.imgur.com/9K9U2EO.jpg",
             "name": "Moxie:lanrewajugabson-fc",
             "symbol": "Moxie:lanrewajugabson-fc"
+        },
+        {
+            "address": "0xa9BdE52DA2734380135506ca41505094aff0d5db",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4e63acb-8ef2-4fd8-b2e1-282fe420f200/rectcrop3",
+            "name": "Moxie:qdeuteri-fc",
+            "symbol": "Moxie:qdeuteri-fc"
         }
     ],
     "version": {
