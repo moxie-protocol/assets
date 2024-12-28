@@ -7240,6 +7240,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40e661d0-c8be-4beb-ddc5-70ea74b28700/rectcrop3",
             "name": "Moxie:galaxygrey-fc",
             "symbol": "Moxie:galaxygrey-fc"
+        },
+        {
+            "address": "0x5e060F16d056Da06D15405D2A6d554A3fe3DB513",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
+            "name": "Moxie:anasvee-fc",
+            "symbol": "Moxie:anasvee-fc"
         }
     ],
     "version": {
