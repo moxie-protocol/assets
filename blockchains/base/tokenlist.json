@@ -5371,6 +5371,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1605609848640397320/3k3W_kwi.jpg",
             "name": "Moxie:JunianWilman-x",
             "symbol": "Moxie:JunianWilman-x"
+        },
+        {
+            "address": "0xbaaFb5D52dc582cFb71F97bbcC9eCe2c8868615C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hyxiVp4.jpg",
+            "name": "Moxie:roki1277-fc",
+            "symbol": "Moxie:roki1277-fc"
         }
     ],
     "version": {
