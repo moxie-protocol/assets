@@ -5637,6 +5637,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b850a8de-5b72-40d3-e848-2bf8dd693b00/rectcrop3",
             "name": "Moxie:afmpradana-fc",
             "symbol": "Moxie:afmpradana-fc"
+        },
+        {
+            "address": "0x44759dA6fA0bd4Af531a1f50ABf5Ddc9abd199ff",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1KTmqx1.jpg",
+            "name": "Moxie:keyxdrop-fc",
+            "symbol": "Moxie:keyxdrop-fc"
         }
     ],
     "version": {
