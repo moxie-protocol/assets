@@ -5679,6 +5679,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1865816153572143104/N2GXauFC.jpg",
             "name": "Moxie:Luismillax-x",
             "symbol": "Moxie:Luismillax-x"
+        },
+        {
+            "address": "0x0943b61F83a72A342FD713C6480CC2513Da01A05",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/D6MUe09.jpg",
+            "name": "Moxie:tutut-fc",
+            "symbol": "Moxie:tutut-fc"
         }
     ],
     "version": {
