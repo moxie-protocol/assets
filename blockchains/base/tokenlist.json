@@ -6463,6 +6463,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854152373440319488/7QEKy-0n.png",
             "name": "Moxie:sajibckzpc-x",
             "symbol": "Moxie:sajibckzpc-x"
+        },
+        {
+            "address": "0x126Df607354879017c06FA5734f287c07F8d35D2",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "farooqaazad",
+            "symbol": "fid:437883"
         }
     ],
     "version": {
