@@ -6274,6 +6274,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1766081409423482880/nZEwGTZF.jpg",
             "name": "Moxie:lawelawe1221-x",
             "symbol": "Moxie:lawelawe1221-x"
+        },
+        {
+            "address": "0x21D00bA3d6cFD0FeB1ceA3EA7e9c17B98079b6d5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb959f44-78e4-4bb1-e679-855873758800/rectcrop3",
+            "name": "Moxie:ravs-fc",
+            "symbol": "Moxie:ravs-fc"
         }
     ],
     "version": {
