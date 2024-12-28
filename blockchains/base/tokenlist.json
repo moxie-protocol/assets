@@ -5721,6 +5721,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73c38360-fb86-4d50-6fdb-c42eca662000/original",
             "name": "Moxie:sudoni-fc",
             "symbol": "Moxie:sudoni-fc"
+        },
+        {
+            "address": "0x340986078a61FBF7C2567F4926c68564d8e4eB6E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/912bd992-a3ec-49e9-7b79-a09860f4eb00/rectcrop3",
+            "name": "Moxie:senz14-fc",
+            "symbol": "Moxie:senz14-fc"
         }
     ],
     "version": {
