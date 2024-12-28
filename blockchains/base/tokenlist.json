@@ -6806,6 +6806,13 @@
             "logoURI": null,
             "name": "yansdkk",
             "symbol": "fid:335161"
+        },
+        {
+            "address": "0xb6f916be931eDb27c4e2225013527eE6514b6884",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1f369f5-8381-43db-df9b-395b686b6200/rectcrop3",
+            "name": "Moxie:minubd25-fc",
+            "symbol": "Moxie:minubd25-fc"
         }
     ],
     "version": {
