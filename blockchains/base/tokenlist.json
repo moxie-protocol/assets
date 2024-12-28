@@ -6351,6 +6351,13 @@
             "logoURI": "https://i.imgur.com/8hM8jys.jpg",
             "name": "Moxie:arifms-fc",
             "symbol": "Moxie:arifms-fc"
+        },
+        {
+            "address": "0x1Ed4d317dd5fE485ABa46acB15acD72E543162Ef",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06a01f66-6f80-4ec0-1b33-4d40ad469000/rectcrop3",
+            "name": "Moxie:chrisseth-fc",
+            "symbol": "Moxie:chrisseth-fc"
         }
     ],
     "version": {
