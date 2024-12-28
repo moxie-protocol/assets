@@ -4993,6 +4993,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e74e530a-f11b-4e92-79e9-12bab9e31e00/rectcrop3",
             "name": "Moxie:mvreiha-fc",
             "symbol": "Moxie:mvreiha-fc"
+        },
+        {
+            "address": "0xac3eAf363dB9e82A13BD3F559BdA6D37308A8a1b",
+            "decimals": 18,
+            "logoURI": "https://impact.economist.com/ocean/images/whales-are-telling-us-a-story-from-the-deep-will-we-listen?f=auto\u0026w=1023",
+            "name": "Moxie:rifan0x.base.eth-base",
+            "symbol": "Moxie:rifan0x.base.eth-base"
         }
     ],
     "version": {
