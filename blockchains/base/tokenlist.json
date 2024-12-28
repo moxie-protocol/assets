@@ -5630,6 +5630,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/774283ae-029d-4362-335f-eb92dddfe900/rectcrop3",
             "name": "Moxie:aareka-fc",
             "symbol": "Moxie:aareka-fc"
+        },
+        {
+            "address": "0x467Ac8D5055e24734360C8763Caf1C3E0D09D7C8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b850a8de-5b72-40d3-e848-2bf8dd693b00/rectcrop3",
+            "name": "Moxie:afmpradana-fc",
+            "symbol": "Moxie:afmpradana-fc"
         }
     ],
     "version": {
