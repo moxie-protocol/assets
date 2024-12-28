@@ -7044,6 +7044,13 @@
             "logoURI": "https://i.postimg.cc/SQnbfQDh/kandinsky-download-1731256826652.png",
             "name": "Moxie:nftschka.eth-ens",
             "symbol": "Moxie:nftschka.eth-ens"
+        },
+        {
+            "address": "0xF630306aa1514e74d4111A9994E9Dcd587E102b5",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rXOXNOg.jpg",
+            "name": "Moxie:pexs-id-fc",
+            "symbol": "Moxie:pexs-id-fc"
         }
     ],
     "version": {
