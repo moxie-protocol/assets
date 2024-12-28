@@ -6883,6 +6883,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ae5a663-d6e7-436f-6acc-8de321334e00/original",
             "name": "Moxie:yantakushi-fc",
             "symbol": "Moxie:yantakushi-fc"
+        },
+        {
+            "address": "0xB42Ec8cCf6E8c0A2b5953FC15dc90D256AC03148",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8a07135-d622-45d5-1155-53e81fbebe00/original",
+            "name": "Moxie:kraken8.eth-fc",
+            "symbol": "Moxie:kraken8.eth-fc"
         }
     ],
     "version": {
