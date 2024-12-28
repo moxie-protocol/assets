@@ -6708,6 +6708,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1661056957594365952/vI9ICW0k.jpg",
             "name": "Moxie:token_pemburu-x",
             "symbol": "Moxie:token_pemburu-x"
+        },
+        {
+            "address": "0xfbDB6A41ce172384427C76E2e7363C3462b55302",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lw5bGbh.jpg",
+            "name": "Moxie:rbwfindx-fc",
+            "symbol": "Moxie:rbwfindx-fc"
         }
     ],
     "version": {
