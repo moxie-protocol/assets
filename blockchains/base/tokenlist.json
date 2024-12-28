@@ -6330,6 +6330,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cf6bf00d-2f90-4718-4096-a849b3bf8a00/rectcrop3",
             "name": "Moxie:bidard.eth-fc",
             "symbol": "Moxie:bidard.eth-fc"
+        },
+        {
+            "address": "0x2CF9EE9B927066b5fF5e86802F40Ba6283d9E3E9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/iML2Nse.jpg",
+            "name": "Moxie:imaddortmon-fc",
+            "symbol": "Moxie:imaddortmon-fc"
         }
     ],
     "version": {
