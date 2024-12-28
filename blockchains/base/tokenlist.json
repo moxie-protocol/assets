@@ -5105,6 +5105,13 @@
             "logoURI": "https://i.imgur.com/rYVlo1D.jpg",
             "name": "Moxie:ilhamfds-fc",
             "symbol": "Moxie:ilhamfds-fc"
+        },
+        {
+            "address": "0xAAAc01D043BF0c11307dC39e77348fa89ce4f4e2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/nUDZhMM.jpg",
+            "name": "Moxie:jainal02-fc",
+            "symbol": "Moxie:jainal02-fc"
         }
     ],
     "version": {
