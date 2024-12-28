@@ -6113,6 +6113,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5cc26b54-a336-4005-0a5f-d1f46e373600/rectcrop3",
             "name": "Moxie:andrecy-fc",
             "symbol": "Moxie:andrecy-fc"
+        },
+        {
+            "address": "0xb0a85c205228F7857810B4bb2DBBb71fdD725e37",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/063a99fe-61ae-48dd-afc4-c750ed9d1400/original",
+            "name": "Moxie:bransonchy-fc",
+            "symbol": "Moxie:bransonchy-fc"
         }
     ],
     "version": {
