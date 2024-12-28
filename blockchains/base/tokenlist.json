@@ -5497,6 +5497,13 @@
             "logoURI": "https://i.imgur.com/EDZd3TL.jpg",
             "name": "Moxie:zyprexh-fc",
             "symbol": "Moxie:zyprexh-fc"
+        },
+        {
+            "address": "0xAea414f731F491A2260ad8C445d9eDCca101eA74",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9K9U2EO.jpg",
+            "name": "Moxie:lanrewajugabson-fc",
+            "symbol": "Moxie:lanrewajugabson-fc"
         }
     ],
     "version": {
