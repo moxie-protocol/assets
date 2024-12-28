@@ -5770,6 +5770,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b8bb107-ffdd-4a01-8dcf-895db1af0c00/rectcrop3",
             "name": "Moxie:ashik7532-fc",
             "symbol": "Moxie:ashik7532-fc"
+        },
+        {
+            "address": "0x21D1bC5Eb2f22e1DCE69fABAdDbdd95b3CF2D216",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibwkceklyd6jjg7k6e46fpo2nzzv7ge2befxdwsm4d56ejqz6gasa",
+            "name": "Moxie:rayyan-fc",
+            "symbol": "Moxie:rayyan-fc"
         }
     ],
     "version": {
