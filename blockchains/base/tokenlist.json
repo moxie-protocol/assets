@@ -5210,6 +5210,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmVfquXuu4WQiCUhAhvmrqPgkknZgLfyHSrV4eCFMop9Z7/30db6672a9e13981e405da3523cdba43",
             "name": "Moxie:zhyhanz-fc",
             "symbol": "Moxie:zhyhanz-fc"
+        },
+        {
+            "address": "0xb88b81D3f950DbC3349F8CDc3066E6941Dfd7cE6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1hcI6n0.gif",
+            "name": "Moxie:muskzilla-fc",
+            "symbol": "Moxie:muskzilla-fc"
         }
     ],
     "version": {
