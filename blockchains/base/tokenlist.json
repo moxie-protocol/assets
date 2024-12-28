@@ -6008,6 +6008,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/378ea025-dece-437e-2e3c-e9a3af94eb00/rectcrop3",
             "name": "Moxie:rflotus-fc",
             "symbol": "Moxie:rflotus-fc"
+        },
+        {
+            "address": "0xB77E3d4bA38dd65551aA0fC0ad5E9AdBbC1A64A0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0d8b3cf-08c7-4e92-6de3-52e5657fb200/rectcrop3",
+            "name": "Moxie:basesanta-fc",
+            "symbol": "Moxie:basesanta-fc"
         }
     ],
     "version": {
