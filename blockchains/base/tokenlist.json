@@ -5378,6 +5378,13 @@
             "logoURI": "https://i.imgur.com/hyxiVp4.jpg",
             "name": "Moxie:roki1277-fc",
             "symbol": "Moxie:roki1277-fc"
+        },
+        {
+            "address": "0xaC339D3C3AEb28b2f99575555A1749006d40185C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74b6e62b-5a2e-4f83-28ef-5cd0d837d200/rectcrop3",
+            "name": "Moxie:diptawahyu27-fc",
+            "symbol": "Moxie:diptawahyu27-fc"
         }
     ],
     "version": {
