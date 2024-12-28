@@ -6792,6 +6792,13 @@
             "logoURI": null,
             "name": "aleksaaa",
             "symbol": "fid:923136"
+        },
+        {
+            "address": "0x186681aD7b841B7Ba75743eec64290C654c742f8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4c3af18-4aab-449a-c290-af255b911500/rectcrop3",
+            "name": "Moxie:xnode-fc",
+            "symbol": "Moxie:xnode-fc"
         }
     ],
     "version": {
