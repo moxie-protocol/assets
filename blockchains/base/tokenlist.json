@@ -6120,6 +6120,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/063a99fe-61ae-48dd-afc4-c750ed9d1400/original",
             "name": "Moxie:bransonchy-fc",
             "symbol": "Moxie:bransonchy-fc"
+        },
+        {
+            "address": "0x79c2f7947D9a24dBa00F5B1A3a5FeCcb8d28447D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1708034742619148288/YBtzR--E.jpg",
+            "name": "Moxie:crypticxx_xx-x",
+            "symbol": "Moxie:crypticxx_xx-x"
         }
     ],
     "version": {
