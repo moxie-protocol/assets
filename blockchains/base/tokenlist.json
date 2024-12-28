@@ -6554,6 +6554,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20386960-b26a-4ed3-9147-99a28a260200/rectcrop3",
             "name": "Moxie:tnrrmdhvn-fc",
             "symbol": "Moxie:tnrrmdhvn-fc"
+        },
+        {
+            "address": "0x6D68e59Be0aE938C3f36c0715DCA9A827D51cE6e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7d3f6be-ae25-48fb-0464-e2455b77c800/original",
+            "name": "Moxie:alpacas-fc",
+            "symbol": "Moxie:alpacas-fc"
         }
     ],
     "version": {
