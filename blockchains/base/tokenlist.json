@@ -6624,6 +6624,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b7e5735-9306-4e83-7550-a83d89c6e600/rectcrop3",
             "name": "Moxie:ellbie-fc",
             "symbol": "Moxie:ellbie-fc"
+        },
+        {
+            "address": "0x2D805357309B8083ACbBAeeFbE2D74faA63AeBE6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/h6fKkf5.jpg",
+            "name": "Moxie:muham77-fc",
+            "symbol": "Moxie:muham77-fc"
         }
     ],
     "version": {
