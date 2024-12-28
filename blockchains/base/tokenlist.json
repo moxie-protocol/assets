@@ -6610,6 +6610,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828241683357802499/AjCR-TCF.jpg",
             "name": "Moxie:eZDeXxX-x",
             "symbol": "Moxie:eZDeXxX-x"
+        },
+        {
+            "address": "0x1A6F2264E23f25e4bb177A9f2390F9bB721C3047",
+            "decimals": 18,
+            "logoURI": "https://blogger.googleusercontent.com/img/a/AVvXsEiSDe5tgJXgpJoSg4k7yyGpaayv1HkElDKU-tGlff6zsZr21-y0kXQNxqPXWvF-mj_yN-jSqNxZqAHZ74c-183O18nrdgF9_rO7MA88dTVQnWUP0OuTSCGoUW9LAQYAViOKCG44Kprv6z0Rdl0BMsLZ5CwiV48mzlzUpOkz6pLXjoJKbL7QoEbulmNwVxw=-d",
+            "name": "Moxie:akorrate.base.eth-base",
+            "symbol": "Moxie:akorrate.base.eth-base"
         }
     ],
     "version": {
