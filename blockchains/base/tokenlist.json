@@ -6393,6 +6393,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3f01cb8-74c1-4831-48c1-187adae0f100/original",
             "name": "Moxie:kiyuku-fc",
             "symbol": "Moxie:kiyuku-fc"
+        },
+        {
+            "address": "0xfd51b40d7E53B6c5a1580D1d2E3b4CF6045302dE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FNWUHKU.jpg",
+            "name": "Moxie:juncture-fc",
+            "symbol": "Moxie:juncture-fc"
         }
     ],
     "version": {
