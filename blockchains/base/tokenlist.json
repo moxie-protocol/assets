@@ -5462,6 +5462,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28b85389-3557-423c-90c3-233827744400/original",
             "name": "Moxie:takomaaa-fc",
             "symbol": "Moxie:takomaaa-fc"
+        },
+        {
+            "address": "0x06c16d919086231ca7770D9af784d7F6bF60A58A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe339971-f799-44c0-8d92-be10683a0600/original",
+            "name": "Moxie:bayrif-fc",
+            "symbol": "Moxie:bayrif-fc"
         }
     ],
     "version": {
