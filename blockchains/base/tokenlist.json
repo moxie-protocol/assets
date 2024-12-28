@@ -7247,6 +7247,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:anasvee-fc",
             "symbol": "Moxie:anasvee-fc"
+        },
+        {
+            "address": "0x56dbE51d38149ADD7027d47425F58f719Dd85C6E",
+            "decimals": 18,
+            "logoURI": "https://warpcast.com/avatar.png?t=1731347473127",
+            "name": "Moxie:zhiao-fc",
+            "symbol": "Moxie:zhiao-fc"
         }
     ],
     "version": {
