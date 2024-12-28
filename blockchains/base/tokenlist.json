@@ -6183,6 +6183,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f092ce69-26a9-40e8-01af-c6b258261d00/rectcrop3",
             "name": "Moxie:xasif-fc",
             "symbol": "Moxie:xasif-fc"
+        },
+        {
+            "address": "0x7A34578155d5Bd31F0c75A6600646F0eE310851A",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmUqKgg1rpssLzwewYvs6pgEC1H7o6bSrMH3td8efE1ep1/0",
+            "name": "Moxie:burung-fc",
+            "symbol": "Moxie:burung-fc"
         }
     ],
     "version": {
