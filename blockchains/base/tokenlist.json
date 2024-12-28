@@ -6309,6 +6309,13 @@
             "logoURI": "https://vrycj2oxfxfuelm6x3swhtzidjevaefognminvtexmea2e4oocva.arweave.net/rHAk6dcty0Itnr7lY88oGklQEK4zWIbWZLsIDROOcKo/",
             "name": "Moxie:rahmangledek-fc",
             "symbol": "Moxie:rahmangledek-fc"
+        },
+        {
+            "address": "0x36Bf42108Ca085735F1237f1736e60fCEc748Fe6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ql1qv3J.jpg",
+            "name": "Moxie:jpdonk-fc",
+            "symbol": "Moxie:jpdonk-fc"
         }
     ],
     "version": {
