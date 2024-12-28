@@ -6974,6 +6974,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/907a420d-9d94-400b-e7b0-aca8c9f23800/rectcrop3",
             "name": "Moxie:xiaoje-fc",
             "symbol": "Moxie:xiaoje-fc"
+        },
+        {
+            "address": "0x43cDa9cF091C53f489a8c0f9eCC2b54Dc8DBcC9f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d73418de-a956-4d4a-7abd-87b9ddc58900/rectcrop3",
+            "name": "Moxie:penuyul-fc",
+            "symbol": "Moxie:penuyul-fc"
         }
     ],
     "version": {
