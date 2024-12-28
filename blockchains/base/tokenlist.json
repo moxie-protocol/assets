@@ -5511,6 +5511,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4e63acb-8ef2-4fd8-b2e1-282fe420f200/rectcrop3",
             "name": "Moxie:qdeuteri-fc",
             "symbol": "Moxie:qdeuteri-fc"
+        },
+        {
+            "address": "0xd9a06115ab504bcA34fb0C1dDb13a64317356d06",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Cat38dt.jpg",
+            "name": "Moxie:boney-fc",
+            "symbol": "Moxie:boney-fc"
         }
     ],
     "version": {
