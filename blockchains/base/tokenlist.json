@@ -5315,6 +5315,13 @@
             "logoURI": "https://i.imgur.com/3O1uHxj.jpg",
             "name": "Moxie:pro777-fc",
             "symbol": "Moxie:pro777-fc"
+        },
+        {
+            "address": "0x99Cc62CbAcE9a65Df13901cd9b77E480cdeBBe46",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/g2mlBci.jpg",
+            "name": "Moxie:shevamus-fc",
+            "symbol": "Moxie:shevamus-fc"
         }
     ],
     "version": {
