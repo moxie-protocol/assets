@@ -6386,6 +6386,13 @@
             "logoURI": "https://gcdnb.pbrd.co/images/UXmDuNfNvP2W.jpg?o=1",
             "name": "Moxie:samdev.base.eth-base",
             "symbol": "Moxie:samdev.base.eth-base"
+        },
+        {
+            "address": "0x760Fba79713aBCd78D9ec6102b3E9E7669E0DB1C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3f01cb8-74c1-4831-48c1-187adae0f100/original",
+            "name": "Moxie:kiyuku-fc",
+            "symbol": "Moxie:kiyuku-fc"
         }
     ],
     "version": {
