@@ -6764,6 +6764,13 @@
             "logoURI": "https://i.imgur.com/QZRa96I.jpg",
             "name": "Moxie:kibeyy11-fc",
             "symbol": "Moxie:kibeyy11-fc"
+        },
+        {
+            "address": "0x5669aC33718592083eD11182b3e618E7D17024FE",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1173576867216932865/_sWpL9Gb.jpg",
+            "name": "Moxie:sansukehiroshi-x",
+            "symbol": "Moxie:sansukehiroshi-x"
         }
     ],
     "version": {
