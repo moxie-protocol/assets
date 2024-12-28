@@ -6449,6 +6449,13 @@
             "logoURI": "https://i.imgur.com/O3CEuDk.jpg",
             "name": "Moxie:oaxly-fc",
             "symbol": "Moxie:oaxly-fc"
+        },
+        {
+            "address": "0xA507A7FC7047A984fb8eE7ea27120684C3741331",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/763e37f8-c470-40dd-b1d2-50d6e99feb00/rectcrop3",
+            "name": "Moxie:rzm-fc",
+            "symbol": "Moxie:rzm-fc"
         }
     ],
     "version": {
