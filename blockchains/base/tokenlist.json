@@ -6736,6 +6736,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67346428-3ce5-4b9f-ccfc-62a2fb620700/rectcrop3",
             "name": "Moxie:gnc-fc",
             "symbol": "Moxie:gnc-fc"
+        },
+        {
+            "address": "0xca0C118132EEddfce55639708307C7F300bb8E83",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/s/raw/files/604abd02d537f8dc3138a069798c55f3.gif?auto=format\u0026dpr=1\u0026w=1200",
+            "name": "Moxie:gensleader-fc",
+            "symbol": "Moxie:gensleader-fc"
         }
     ],
     "version": {
