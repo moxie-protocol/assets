@@ -6414,6 +6414,13 @@
             "logoURI": "https://i.imgur.com/N1uerkf.jpg",
             "name": "Moxie:perfumevv-fc",
             "symbol": "Moxie:perfumevv-fc"
+        },
+        {
+            "address": "0x6851879712673BA4AbAf46a06F72C94A8b9628c5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867083422340112384/P74RaYZ8.jpg",
+            "name": "Moxie:ridwankuswara28-x",
+            "symbol": "Moxie:ridwankuswara28-x"
         }
     ],
     "version": {
