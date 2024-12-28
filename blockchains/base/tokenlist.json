@@ -5252,6 +5252,13 @@
             "logoURI": "https://i.imgur.com/iigxHVy.jpg",
             "name": "Moxie:avapage-fc",
             "symbol": "Moxie:avapage-fc"
+        },
+        {
+            "address": "0x406639ae5259dfe3E91178F43b98fd1025e0AFf4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864888454389338114/MowjJuE1.jpg",
+            "name": "Moxie:Viki_Web3-x",
+            "symbol": "Moxie:Viki_Web3-x"
         }
     ],
     "version": {
