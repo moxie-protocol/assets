@@ -5553,6 +5553,13 @@
             "logoURI": null,
             "name": "foreveryoung",
             "symbol": "fid:495438"
+        },
+        {
+            "address": "0xf37e01BC6dE111276Df0A97A7107181980D4d8Ec",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1862933716202389504/gOqO3nhS.jpg",
+            "name": "Moxie:beta73304878722-x",
+            "symbol": "Moxie:beta73304878722-x"
         }
     ],
     "version": {
