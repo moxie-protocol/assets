@@ -5231,6 +5231,13 @@
             "logoURI": "https://i.imgur.com/2VGbpxO.jpg",
             "name": "Moxie:herza-fc",
             "symbol": "Moxie:herza-fc"
+        },
+        {
+            "address": "0x88F1421Ca6316279f5e71506CAF9bd06E2e61772",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OM2a9zG.jpg",
+            "name": "Moxie:freedoms-fc",
+            "symbol": "Moxie:freedoms-fc"
         }
     ],
     "version": {
