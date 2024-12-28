@@ -5119,6 +5119,13 @@
             "logoURI": "https://i.imgur.com/GK7TSYu.jpg",
             "name": "Moxie:bitkingkong-fc",
             "symbol": "Moxie:bitkingkong-fc"
+        },
+        {
+            "address": "0xDF8AFE94bB23e8A9da08B10bD10597EeaCB503Dd",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1684616817929805824/-A4Li9b8.jpg",
+            "name": "Moxie:mauroicardus-x",
+            "symbol": "Moxie:mauroicardus-x"
         }
     ],
     "version": {
