@@ -5413,6 +5413,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870145254328066048/I4ZX1SsP.jpg",
             "name": "Moxie:YoutuberBi67977-x",
             "symbol": "Moxie:YoutuberBi67977-x"
+        },
+        {
+            "address": "0x1c3682cFAe5b2A7867A0cE7421a8900050801b17",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+            "name": "Moxie:lik9787-fc",
+            "symbol": "Moxie:lik9787-fc"
         }
     ],
     "version": {
