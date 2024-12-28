@@ -5294,6 +5294,13 @@
             "logoURI": "https://arweave.net/ia0Um4QPe89LBgTWHCKhA_pIfJ2lvE5PjoloFEhU7jM/",
             "name": "Moxie:alfinfauzy-fc",
             "symbol": "Moxie:alfinfauzy-fc"
+        },
+        {
+            "address": "0x895ecBA3b44A37777A6EDc4488e77061f492Ed04",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NOL7BzF.jpg",
+            "name": "Moxie:fsd-fc",
+            "symbol": "Moxie:fsd-fc"
         }
     ],
     "version": {
