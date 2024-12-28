@@ -7205,6 +7205,13 @@
             "logoURI": "https://i.imgur.com/WmuKqhO.jpg",
             "name": "Moxie:owl10-fc",
             "symbol": "Moxie:owl10-fc"
+        },
+        {
+            "address": "0xB3C6F31e02F55d3a6b29aA1059d5d5E198C915eA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fbc5c667-e61f-43c6-c851-eacecae0c400/rectcrop3",
+            "name": "Moxie:sandalson-fc",
+            "symbol": "Moxie:sandalson-fc"
         }
     ],
     "version": {
