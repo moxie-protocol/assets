@@ -6918,6 +6918,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e221e23-ac67-4cec-7370-421b69231600/rectcrop3",
             "name": "Moxie:aconx-fc",
             "symbol": "Moxie:aconx-fc"
+        },
+        {
+            "address": "0xC9D00cA3Df77aBf854ff2d06396C4Efb9271F947",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/545668234901331968/sFQ61l8e.jpeg",
+            "name": "Moxie:AnriNurariyandi-x",
+            "symbol": "Moxie:AnriNurariyandi-x"
         }
     ],
     "version": {
