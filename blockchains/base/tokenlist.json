@@ -7135,6 +7135,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1841339265307009024/qYAIYzrE.jpg",
             "name": "Moxie:stevanicuh-x",
             "symbol": "Moxie:stevanicuh-x"
+        },
+        {
+            "address": "0xE537F38d1Ec969f9fA7cf87c0E242Dd1D31A9920",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/j1ZPpcW.jpg",
+            "name": "Moxie:desol.eth-fc",
+            "symbol": "Moxie:desol.eth-fc"
         }
     ],
     "version": {
