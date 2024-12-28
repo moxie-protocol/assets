@@ -5357,6 +5357,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9bccd1f6-c7f7-4859-0829-94c62b1ef200/rectcrop3",
             "name": "Moxie:kbldst-fc",
             "symbol": "Moxie:kbldst-fc"
+        },
+        {
+            "address": "0x4d47Ec85de27927644E78650CDE4513F27Aa2862",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gNBTxy3.jpg",
+            "name": "Moxie:haikaljim9-fc",
+            "symbol": "Moxie:haikaljim9-fc"
         }
     ],
     "version": {
