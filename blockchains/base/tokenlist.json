@@ -7058,6 +7058,13 @@
             "logoURI": "https://toppng.com/public/uploads/preview/bursaspor-logo-png-1153601683222dsew0wed.png",
             "name": "Moxie:teksas.eth-ens",
             "symbol": "Moxie:teksas.eth-ens"
+        },
+        {
+            "address": "0x188d197273A618F9A6d66fd64a2a637f8a2f1c89",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1649871664598102016/rjdiGUFJ.jpg",
+            "name": "Moxie:Okshabae-x",
+            "symbol": "Moxie:Okshabae-x"
         }
     ],
     "version": {
