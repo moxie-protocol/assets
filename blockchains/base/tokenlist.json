@@ -5658,6 +5658,13 @@
             "logoURI": "https://i.imgur.com/xn1SUh3.gif",
             "name": "Moxie:yasin-fc",
             "symbol": "Moxie:yasin-fc"
+        },
+        {
+            "address": "0xF733b7488a4EFaa818B55d74919d34a9846E457a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94bce2a0-6756-4976-16e6-19c7c04f7e00/rectcrop3",
+            "name": "Moxie:zksaal-fc",
+            "symbol": "Moxie:zksaal-fc"
         }
     ],
     "version": {
