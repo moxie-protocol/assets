@@ -5042,6 +5042,13 @@
             "logoURI": "https://i.ibb.co.com/sKTycgs/5842668426-1728111543884.jpg",
             "name": "Moxie:eyangabiyasa.base.eth-base",
             "symbol": "Moxie:eyangabiyasa.base.eth-base"
+        },
+        {
+            "address": "0x333b3948fbEd0EA358Ca3FB4E06c728117bcC904",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HRew7jM.jpg",
+            "name": "Moxie:huntcryp-fc",
+            "symbol": "Moxie:huntcryp-fc"
         }
     ],
     "version": {
