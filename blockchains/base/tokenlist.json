@@ -5161,6 +5161,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d307630-6ce4-4fda-3402-ec4379d36200/rectcrop3",
             "name": "Moxie:cryptosz-fc",
             "symbol": "Moxie:cryptosz-fc"
+        },
+        {
+            "address": "0x82d4c4a8BE41c8465be4C1998245d11bf09555dB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/7ijbCwa.jpg",
+            "name": "Moxie:naylazahra-fc",
+            "symbol": "Moxie:naylazahra-fc"
         }
     ],
     "version": {
