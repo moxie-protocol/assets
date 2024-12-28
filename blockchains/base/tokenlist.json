@@ -6246,6 +6246,13 @@
             "logoURI": "https://i.imgur.com/56XlYJu.jpg",
             "name": "Moxie:am1rudd1n-fc",
             "symbol": "Moxie:am1rudd1n-fc"
+        },
+        {
+            "address": "0xc79A4cf559dF4c7C38C5b68fC5DBC0515ca2B2E2",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MOTEXmnoRI--mPIJCY-N1CCs0W5WZqc9AbZwr_sjzWnpVar-v3gkiD8f\u0026s=10",
+            "name": "Moxie:vew93.base.eth-base",
+            "symbol": "Moxie:vew93.base.eth-base"
         }
     ],
     "version": {
