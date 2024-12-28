@@ -6001,6 +6001,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1847108687170883587/0bRq4svn.png",
             "name": "Moxie:kuru80881-x",
             "symbol": "Moxie:kuru80881-x"
+        },
+        {
+            "address": "0x18d63396516E8F917ED11F6b8328088BE04ccb73",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/378ea025-dece-437e-2e3c-e9a3af94eb00/rectcrop3",
+            "name": "Moxie:rflotus-fc",
+            "symbol": "Moxie:rflotus-fc"
         }
     ],
     "version": {
