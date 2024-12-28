@@ -5917,6 +5917,13 @@
             "logoURI": "https://web.rupa.ai/wp-content/uploads/2023/06/1_GVS_a_profile_picture_of_Naruto_Uzumaki_the_determined_ninja_po_e8545972-37d4-4972-8158-dc06dfde330f.png",
             "name": "Moxie:voldesta-fc",
             "symbol": "Moxie:voldesta-fc"
+        },
+        {
+            "address": "0x683029dDEEc9f6388fa07fc9fDDeF8038f914681",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b221347a-46ab-4900-ec6d-72af6c613700/rectcrop3",
+            "name": "Moxie:holdrekt-fc",
+            "symbol": "Moxie:holdrekt-fc"
         }
     ],
     "version": {
