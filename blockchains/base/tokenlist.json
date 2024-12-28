@@ -7072,6 +7072,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72747697-6327-4038-b190-9d09aaeb7f00/rectcrop3",
             "name": "Moxie:phantomxxs-fc",
             "symbol": "Moxie:phantomxxs-fc"
+        },
+        {
+            "address": "0x418cf1FBc01b90B1771cE506f2bC05B507743d41",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79b3d59a-364b-46e2-e34f-711ddbf28500/rectcrop3",
+            "name": "Moxie:tebonk-fc",
+            "symbol": "Moxie:tebonk-fc"
         }
     ],
     "version": {
