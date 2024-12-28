@@ -5322,6 +5322,13 @@
             "logoURI": "https://i.imgur.com/g2mlBci.jpg",
             "name": "Moxie:shevamus-fc",
             "symbol": "Moxie:shevamus-fc"
+        },
+        {
+            "address": "0x722290025D10C50b5987e4eA32e4c049765F049B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/zH2DtEl.jpg",
+            "name": "Moxie:xabara-fc",
+            "symbol": "Moxie:xabara-fc"
         }
     ],
     "version": {
