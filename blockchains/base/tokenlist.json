@@ -5819,6 +5819,13 @@
             "logoURI": "https://i.imgur.com/fzUznad.jpg",
             "name": "Moxie:rakaputra-fc",
             "symbol": "Moxie:rakaputra-fc"
+        },
+        {
+            "address": "0x8Fe37E2Bc2B5132ea6566630e9d7dd7e9e55E795",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1833755639585378304/75oF-jBU.jpg",
+            "name": "Moxie:WhoNull14-x",
+            "symbol": "Moxie:WhoNull14-x"
         }
     ],
     "version": {
