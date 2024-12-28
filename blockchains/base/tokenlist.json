@@ -6337,6 +6337,13 @@
             "logoURI": "https://i.imgur.com/iML2Nse.jpg",
             "name": "Moxie:imaddortmon-fc",
             "symbol": "Moxie:imaddortmon-fc"
+        },
+        {
+            "address": "0xa55A53BBEC301932d9814538C3F93F3FC1D41c4C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fcaf0b8-5cd2-44f5-24a2-3ed473f22300/rectcrop3",
+            "name": "Moxie:dreamiyu-fc",
+            "symbol": "Moxie:dreamiyu-fc"
         }
     ],
     "version": {
