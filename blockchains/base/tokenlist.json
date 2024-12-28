@@ -5063,6 +5063,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/957dc19e-a511-42e6-cd2a-3e02e0421c00/rectcrop3",
             "name": "Moxie:zaxkingch-fc",
             "symbol": "Moxie:zaxkingch-fc"
+        },
+        {
+            "address": "0x48244CABBf9534A85ac3Bdbf29C4ecbAacec5662",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YRdzFjW.jpg",
+            "name": "Moxie:astaaa-fc",
+            "symbol": "Moxie:astaaa-fc"
         }
     ],
     "version": {
