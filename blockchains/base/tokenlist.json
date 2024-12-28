@@ -5728,6 +5728,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/912bd992-a3ec-49e9-7b79-a09860f4eb00/rectcrop3",
             "name": "Moxie:senz14-fc",
             "symbol": "Moxie:senz14-fc"
+        },
+        {
+            "address": "0x0E9e67f8d0Fe54707CCDF905B9beC64cEdA56f43",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jkqRx5U.jpg",
+            "name": "Moxie:ebolkece-fc",
+            "symbol": "Moxie:ebolkece-fc"
         }
     ],
     "version": {
