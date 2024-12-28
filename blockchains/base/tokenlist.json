@@ -5350,6 +5350,13 @@
             "logoURI": "https://i.imgur.com/xlatRAp.jpg",
             "name": "Moxie:ferdi-fc",
             "symbol": "Moxie:ferdi-fc"
+        },
+        {
+            "address": "0xbAe658dbC2Da6575AB5D5949065fC8e99BF060b5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9bccd1f6-c7f7-4859-0829-94c62b1ef200/rectcrop3",
+            "name": "Moxie:kbldst-fc",
+            "symbol": "Moxie:kbldst-fc"
         }
     ],
     "version": {
