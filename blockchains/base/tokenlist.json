@@ -6995,6 +6995,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6cf47d23-0df6-46ac-e09f-2d8005069f00/rectcrop3",
             "name": "Moxie:gimm-fc",
             "symbol": "Moxie:gimm-fc"
+        },
+        {
+            "address": "0x0BBcaB3029EA117d487261cD0431CA9A139FB7EB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1763160532645810176/dPVEYTOX.jpg",
+            "name": "Moxie:davod7562-x",
+            "symbol": "Moxie:davod7562-x"
         }
     ],
     "version": {
