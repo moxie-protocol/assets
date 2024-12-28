@@ -4965,6 +4965,13 @@
             "logoURI": "https://i.imgur.com/06cQ2gl.jpg",
             "name": "Moxie:yonthit-fc",
             "symbol": "Moxie:yonthit-fc"
+        },
+        {
+            "address": "0xDD6BB9e9Bb6a820f996104F0A048972DD4aDfe05",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1563537448163872770/mHX6-RJW.jpg",
+            "name": "Moxie:PsiikoDZ-x",
+            "symbol": "Moxie:PsiikoDZ-x"
         }
     ],
     "version": {
