@@ -6239,6 +6239,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65d6e3a3-d44d-4e3c-3392-a4b82093eb00/rectcrop3",
             "name": "Moxie:slashmoon-fc",
             "symbol": "Moxie:slashmoon-fc"
+        },
+        {
+            "address": "0x515f15cdb1cbC7e08211A65471F263506f0db407",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/56XlYJu.jpg",
+            "name": "Moxie:am1rudd1n-fc",
+            "symbol": "Moxie:am1rudd1n-fc"
         }
     ],
     "version": {
