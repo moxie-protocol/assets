@@ -6568,6 +6568,13 @@
             "logoURI": "https://i.imgur.com/BPJp8O0.jpg",
             "name": "Moxie:radifanr-fc",
             "symbol": "Moxie:radifanr-fc"
+        },
+        {
+            "address": "0xaAF7F23B436B075e05bb0CF8A0f001AB087DeDDF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a7babb4d-84be-416d-b7cf-61629af2ec00/rectcrop3",
+            "name": "Moxie:skybbullezz-fc",
+            "symbol": "Moxie:skybbullezz-fc"
         }
     ],
     "version": {
