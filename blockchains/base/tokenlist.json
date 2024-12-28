@@ -5140,6 +5140,13 @@
             "logoURI": "https://i.imgur.com/BdIwvx4.jpg",
             "name": "Moxie:omat-fc",
             "symbol": "Moxie:omat-fc"
+        },
+        {
+            "address": "0x8b0b8F076740A86F9896857459c9b0CeDe13FC92",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83a794b9-4261-4086-3f70-dbcb15d67b00/rectcrop3",
+            "name": "Moxie:buiductham-fc",
+            "symbol": "Moxie:buiductham-fc"
         }
     ],
     "version": {
