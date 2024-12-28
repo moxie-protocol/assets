@@ -5546,6 +5546,13 @@
             "logoURI": "https://i.imgur.com/UbdjFSA.jpg",
             "name": "Moxie:sabia-fc",
             "symbol": "Moxie:sabia-fc"
+        },
+        {
+            "address": "0x3D2F7399c8Be8e356E76C04550154cb4c4F1017c",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "foreveryoung",
+            "symbol": "fid:495438"
         }
     ],
     "version": {
