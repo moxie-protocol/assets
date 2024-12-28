@@ -6344,6 +6344,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fcaf0b8-5cd2-44f5-24a2-3ed473f22300/rectcrop3",
             "name": "Moxie:dreamiyu-fc",
             "symbol": "Moxie:dreamiyu-fc"
+        },
+        {
+            "address": "0x37F59a535d727fA0E9F6FDfDbA025Ad57fD6cF52",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8hM8jys.jpg",
+            "name": "Moxie:arifms-fc",
+            "symbol": "Moxie:arifms-fc"
         }
     ],
     "version": {
