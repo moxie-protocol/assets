@@ -5126,6 +5126,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1684616817929805824/-A4Li9b8.jpg",
             "name": "Moxie:mauroicardus-x",
             "symbol": "Moxie:mauroicardus-x"
+        },
+        {
+            "address": "0xBcF313C91202Bce6928DB829797045d4128d9e51",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34f80210-f301-4c8f-b2cb-9c632a28cb00/rectcrop3",
+            "name": "Moxie:dickyeth-fc",
+            "symbol": "Moxie:dickyeth-fc"
         }
     ],
     "version": {
