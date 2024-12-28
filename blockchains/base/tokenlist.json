@@ -5427,6 +5427,13 @@
             "logoURI": "https://cdn.discordapp.com/attachments/1018026687897808987/1322367938153549924/IMG_2108.png?ex=67709e9c\u0026is=676f4d1c\u0026hm=63be96723c69b61d49b63eb511531ad1a7ecbdf6a666aee64275b2ad0bf7f57c\u0026",
             "name": "Moxie:lazyllamadrama.eth-ens",
             "symbol": "Moxie:lazyllamadrama.eth-ens"
+        },
+        {
+            "address": "0xe690ef63a8bde88D1f76f6F2676fDbE5405519b4",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/Mnm7ekrsjaZbrYmWh1LHws-Gmt2TPIoCMXRk9Bjzknw/",
+            "name": "Moxie:kohnan26-fc",
+            "symbol": "Moxie:kohnan26-fc"
         }
     ],
     "version": {
