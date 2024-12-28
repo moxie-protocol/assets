@@ -4944,6 +4944,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5826b93-62b8-429b-a32b-2842b28e9400/rectcrop3",
             "name": "Moxie:xczbimskuy-fc",
             "symbol": "Moxie:xczbimskuy-fc"
+        },
+        {
+            "address": "0x2586B131fb98427130274Cd2fdBBf991AFe191Ac",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6974063b-6d40-4b22-a84e-8599cbfe3a00/rectcrop3",
+            "name": "Moxie:mehrzaad.eth-fc",
+            "symbol": "Moxie:mehrzaad.eth-fc"
         }
     ],
     "version": {
