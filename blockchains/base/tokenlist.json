@@ -5896,6 +5896,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a24491fe-a507-410d-2662-54e4a3c92600/rectcrop3",
             "name": "Moxie:ajidayubi-fc",
             "symbol": "Moxie:ajidayubi-fc"
+        },
+        {
+            "address": "0xcd104aA609cc9742082f3eb67806f5130D7081Ec",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac3559da-93f4-47a6-2656-b6ea8b695800/original",
+            "name": "Moxie:ahuyxyz-fc",
+            "symbol": "Moxie:ahuyxyz-fc"
         }
     ],
     "version": {
