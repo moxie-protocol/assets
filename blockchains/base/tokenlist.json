@@ -5434,6 +5434,13 @@
             "logoURI": "https://arweave.net/Mnm7ekrsjaZbrYmWh1LHws-Gmt2TPIoCMXRk9Bjzknw/",
             "name": "Moxie:kohnan26-fc",
             "symbol": "Moxie:kohnan26-fc"
+        },
+        {
+            "address": "0x910b17f00De096Dc86456d8150388aa55c51cA0E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861456963693092864/TEriluU1.jpg",
+            "name": "Moxie:kakilang97-x",
+            "symbol": "Moxie:kakilang97-x"
         }
     ],
     "version": {
