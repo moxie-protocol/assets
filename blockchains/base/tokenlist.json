@@ -6645,6 +6645,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/Qmdh5SWiW8eBFLDwmZKvmAHrGWZsaggEwPNYx7qNGKviP6",
             "name": "Moxie:drizz21-fc",
             "symbol": "Moxie:drizz21-fc"
+        },
+        {
+            "address": "0xcf2628A320056Fd7712B8c4dB07E482BfCd14F23",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873026857467297798/nhyrPoEI.jpg",
+            "name": "Moxie:Fauzan1325255-x",
+            "symbol": "Moxie:Fauzan1325255-x"
         }
     ],
     "version": {
