@@ -6946,6 +6946,13 @@
             "logoURI": "https://i.imgur.com/oHH1bS2.jpg",
             "name": "Moxie:sixcrz-fc",
             "symbol": "Moxie:sixcrz-fc"
+        },
+        {
+            "address": "0x6B8D90824F07ae0554dF86Ce981532e8C1D4154c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/458d832c-cbab-41c0-d377-954f378bf100/rectcrop3",
+            "name": "Moxie:meowkez-fc",
+            "symbol": "Moxie:meowkez-fc"
         }
     ],
     "version": {
