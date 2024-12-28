@@ -5567,6 +5567,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1619585921174892544/diXrVwb-.jpg",
             "name": "Moxie:kojey299-x",
             "symbol": "Moxie:kojey299-x"
+        },
+        {
+            "address": "0x81566BDCf11d15110b90A238bCDf488417c3D370",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1582727296355471362/m8AGqg3i.jpg",
+            "name": "Moxie:Fata53795470-x",
+            "symbol": "Moxie:Fata53795470-x"
         }
     ],
     "version": {
