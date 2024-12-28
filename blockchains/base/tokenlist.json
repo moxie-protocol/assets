@@ -6533,6 +6533,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d20be35-351c-428b-546b-c5afcea9fa00/original",
             "name": "Moxie:mint0133.eth-fc",
             "symbol": "Moxie:mint0133.eth-fc"
+        },
+        {
+            "address": "0xA9B8b6D02C1247Bd92BeAf00996b3895fAE0629B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OkaZV8p.jpg",
+            "name": "Moxie:reysyah-fc",
+            "symbol": "Moxie:reysyah-fc"
         }
     ],
     "version": {
