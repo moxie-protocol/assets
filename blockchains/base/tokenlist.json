@@ -5784,6 +5784,13 @@
             "logoURI": "https://i.imgur.com/rWrlhAP.jpg",
             "name": "Moxie:oneheart-fc",
             "symbol": "Moxie:oneheart-fc"
+        },
+        {
+            "address": "0x7c09C644238707b00bc696301395974B79f7c9A5",
+            "decimals": 18,
+            "logoURI": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2FyJeblHF.jpg",
+            "name": "Moxie:digitalexplorer.base.eth-base",
+            "symbol": "Moxie:digitalexplorer.base.eth-base"
         }
     ],
     "version": {
