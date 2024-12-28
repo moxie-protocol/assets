@@ -6407,6 +6407,13 @@
             "logoURI": "https://i.imgur.com/aoxy6Af.jpg",
             "name": "Moxie:kolinek-fc",
             "symbol": "Moxie:kolinek-fc"
+        },
+        {
+            "address": "0x473cFBB303d321C5D162b0233f24AE88c78dCF14",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/N1uerkf.jpg",
+            "name": "Moxie:perfumevv-fc",
+            "symbol": "Moxie:perfumevv-fc"
         }
     ],
     "version": {
