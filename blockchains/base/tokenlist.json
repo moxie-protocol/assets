@@ -6519,6 +6519,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb460759-4ee2-44fb-4e68-7947ee5c2100/rectcrop3",
             "name": "Moxie:omg58935-fc",
             "symbol": "Moxie:omg58935-fc"
+        },
+        {
+            "address": "0x0e14E0D350eef5dd755bf3B5AC5d7BFa5189eA88",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/TkpN3bn.jpg",
+            "name": "Moxie:ndieae-fc",
+            "symbol": "Moxie:ndieae-fc"
         }
     ],
     "version": {
