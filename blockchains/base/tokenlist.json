@@ -5329,6 +5329,13 @@
             "logoURI": "https://i.imgur.com/zH2DtEl.jpg",
             "name": "Moxie:xabara-fc",
             "symbol": "Moxie:xabara-fc"
+        },
+        {
+            "address": "0x3F1c1aFdCCc273F8579b40140d057Ee228E4Cd62",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1m15MmD.jpg",
+            "name": "Moxie:heriset5521-fc",
+            "symbol": "Moxie:heriset5521-fc"
         }
     ],
     "version": {
