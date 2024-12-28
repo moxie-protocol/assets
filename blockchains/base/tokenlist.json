@@ -5931,6 +5931,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiadgqpq5wwfelyjrw4ga3pugpycjiegikoigpv7np4qx7rnge3oke",
             "name": "Moxie:panam86-fc",
             "symbol": "Moxie:panam86-fc"
+        },
+        {
+            "address": "0xB3d12ED582B0190406612Dda184654cac1af0d37",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d7ae4c4-e9d2-46d6-7cbc-27fdbfa1f000/rectcrop3",
+            "name": "Moxie:alaskan-crab-fc",
+            "symbol": "Moxie:alaskan-crab-fc"
         }
     ],
     "version": {
