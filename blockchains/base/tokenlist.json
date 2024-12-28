@@ -7009,6 +7009,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1545081396917862400/Ri_25Vrf.png",
             "name": "Moxie:aryabima1994-x",
             "symbol": "Moxie:aryabima1994-x"
+        },
+        {
+            "address": "0x55020c4caB9a5bCe749C3e2Edb399a53415C1e75",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sYDRZiY.jpg",
+            "name": "Moxie:warvan-fc",
+            "symbol": "Moxie:warvan-fc"
         }
     ],
     "version": {
