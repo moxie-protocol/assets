@@ -6925,6 +6925,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/545668234901331968/sFQ61l8e.jpeg",
             "name": "Moxie:AnriNurariyandi-x",
             "symbol": "Moxie:AnriNurariyandi-x"
+        },
+        {
+            "address": "0xf46D6F1c61A7fC93C3fE3bc4AcE233F1479D0587",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1653816145080905729/LCGTp1eC.jpg",
+            "name": "Moxie:Lgundn-x",
+            "symbol": "Moxie:Lgundn-x"
         }
     ],
     "version": {
