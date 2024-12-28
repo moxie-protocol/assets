@@ -5364,6 +5364,13 @@
             "logoURI": "https://i.imgur.com/gNBTxy3.jpg",
             "name": "Moxie:haikaljim9-fc",
             "symbol": "Moxie:haikaljim9-fc"
+        },
+        {
+            "address": "0xF8d1586c30a617f752bc6a319209A4edAB044E71",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1605609848640397320/3k3W_kwi.jpg",
+            "name": "Moxie:JunianWilman-x",
+            "symbol": "Moxie:JunianWilman-x"
         }
     ],
     "version": {
