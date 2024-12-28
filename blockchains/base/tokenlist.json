@@ -6218,6 +6218,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1589214016597291008/WjRv4eGv.jpg",
             "name": "Moxie:tantosuryo52-x",
             "symbol": "Moxie:tantosuryo52-x"
+        },
+        {
+            "address": "0xfE82d5425613e12cfF9adbD814805eb0f7C1b869",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb916d48-2b8f-41e6-96bc-a43cc0679e00/rectcrop3",
+            "name": "Moxie:veit-fc",
+            "symbol": "Moxie:veit-fc"
         }
     ],
     "version": {
