@@ -6092,6 +6092,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1681407603690094604/Ue2ThV1J.jpg",
             "name": "Moxie:Joondekaa-x",
             "symbol": "Moxie:Joondekaa-x"
+        },
+        {
+            "address": "0x3669EEA3ccD2cFD22182B56956c3b2159C9d7f63",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870202376046686209/Fi4lD7ol.jpg",
+            "name": "Moxie:tommz44-x",
+            "symbol": "Moxie:tommz44-x"
         }
     ],
     "version": {
