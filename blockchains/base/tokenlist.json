@@ -6666,6 +6666,13 @@
             "logoURI": "https://i.imgur.com/uvMjhrB.jpg",
             "name": "Moxie:pemburucuan-fc",
             "symbol": "Moxie:pemburucuan-fc"
+        },
+        {
+            "address": "0xB7975A9f3880046f47F95991E76B592D08D91A6e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1629153744326893568/tLz4DJLt.jpg",
+            "name": "Moxie:gnktns-x",
+            "symbol": "Moxie:gnktns-x"
         }
     ],
     "version": {
