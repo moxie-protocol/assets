@@ -6099,6 +6099,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870202376046686209/Fi4lD7ol.jpg",
             "name": "Moxie:tommz44-x",
             "symbol": "Moxie:tommz44-x"
+        },
+        {
+            "address": "0x2526142C34822BdCD02F7231D99aD13cf95B1c25",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01b830f2-ec8b-408d-63ed-49ef45f32100/original",
+            "name": "Moxie:yzzztv-fc",
+            "symbol": "Moxie:yzzztv-fc"
         }
     ],
     "version": {
