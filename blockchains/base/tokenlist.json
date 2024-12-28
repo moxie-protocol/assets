@@ -5084,6 +5084,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/700821dc-7942-4971-e36a-b1c1c1422500/rectcrop3",
             "name": "Moxie:xcomm-fc",
             "symbol": "Moxie:xcomm-fc"
+        },
+        {
+            "address": "0xC51D90b10557606B062db3AEcB68CD748de10775",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8wVsyhG.jpeg",
+            "name": "Moxie:yusuffs-fc",
+            "symbol": "Moxie:yusuffs-fc"
         }
     ],
     "version": {
