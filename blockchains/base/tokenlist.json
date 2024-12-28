@@ -5392,6 +5392,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81f431fc-84c3-42f7-4980-18734d75b000/rectcrop3",
             "name": "Moxie:donspablo-fc",
             "symbol": "Moxie:donspablo-fc"
+        },
+        {
+            "address": "0x16969067aC16b9c254826F2872F6dDBDc5EdFaEf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/74d749c5-cea0-45d9-97ff-dd7ba1751200/rectcrop3",
+            "name": "Moxie:mersavvip-fc",
+            "symbol": "Moxie:mersavvip-fc"
         }
     ],
     "version": {
