@@ -5966,6 +5966,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89b265ec-a52f-4739-6661-838b7bbe2400/rectcrop3",
             "name": "Moxie:flokdeer-fc",
             "symbol": "Moxie:flokdeer-fc"
+        },
+        {
+            "address": "0x6798DE660221670688A0773A9B073b12032DAE1d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5eb7222c-146f-48f9-aacf-91e534a32c00/rectcrop3",
+            "name": "Moxie:icecrypto-fc",
+            "symbol": "Moxie:icecrypto-fc"
         }
     ],
     "version": {
