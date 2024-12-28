@@ -6365,6 +6365,13 @@
             "logoURI": "https://i.imgur.com/3dFsb0A.jpg",
             "name": "Moxie:maulana28-fc",
             "symbol": "Moxie:maulana28-fc"
+        },
+        {
+            "address": "0x41e785d939eA5989b459Ef142348371D94b99F11",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f0a72b6-55a1-4d8a-45a6-99fae646a500/original",
+            "name": "Moxie:zealous-fc",
+            "symbol": "Moxie:zealous-fc"
         }
     ],
     "version": {
