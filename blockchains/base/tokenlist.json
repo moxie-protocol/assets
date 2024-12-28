@@ -6043,6 +6043,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2cb55c9-3116-4559-6f94-1d0e5e263700/rectcrop3",
             "name": "Moxie:udinsoleh-fc",
             "symbol": "Moxie:udinsoleh-fc"
+        },
+        {
+            "address": "0x19c5a2383FeDBd6402E72448F17C177dC11F7e48",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d6855a2f-b03b-4c4c-6ee3-f02a3ffde100/rectcrop3",
+            "name": "Moxie:arfinakash88-fc",
+            "symbol": "Moxie:arfinakash88-fc"
         }
     ],
     "version": {
