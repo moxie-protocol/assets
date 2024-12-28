@@ -5182,6 +5182,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeif62lmbxnrzvzdbw62taogwflcqkxvdcrkytm4xfgvmefvgbvvqsq",
             "name": "Moxie:srekoone18-fc",
             "symbol": "Moxie:srekoone18-fc"
+        },
+        {
+            "address": "0x8ddFced797734aD9016FeC58Dd7037035d317e2f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1836481731559567360/KzUM8hBu.jpg",
+            "name": "Moxie:Nymphyss-x",
+            "symbol": "Moxie:Nymphyss-x"
         }
     ],
     "version": {
