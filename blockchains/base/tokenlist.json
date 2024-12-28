@@ -6617,6 +6617,13 @@
             "logoURI": "https://blogger.googleusercontent.com/img/a/AVvXsEiSDe5tgJXgpJoSg4k7yyGpaayv1HkElDKU-tGlff6zsZr21-y0kXQNxqPXWvF-mj_yN-jSqNxZqAHZ74c-183O18nrdgF9_rO7MA88dTVQnWUP0OuTSCGoUW9LAQYAViOKCG44Kprv6z0Rdl0BMsLZ5CwiV48mzlzUpOkz6pLXjoJKbL7QoEbulmNwVxw=-d",
             "name": "Moxie:akorrate.base.eth-base",
             "symbol": "Moxie:akorrate.base.eth-base"
+        },
+        {
+            "address": "0x888D77b7e1808602F95cb4D5f553Ba3962A6aDDE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b7e5735-9306-4e83-7550-a83d89c6e600/rectcrop3",
+            "name": "Moxie:ellbie-fc",
+            "symbol": "Moxie:ellbie-fc"
         }
     ],
     "version": {
