@@ -5959,6 +5959,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifwqs6jlpv4gby45aa3awmr3tjypd5p24fr5a37ptf2tixmobgica",
             "name": "Moxie:maspin.eth-ens",
             "symbol": "Moxie:maspin.eth-ens"
+        },
+        {
+            "address": "0x5e0a1545b4855aA8102dd059703993b4862e347B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89b265ec-a52f-4739-6661-838b7bbe2400/rectcrop3",
+            "name": "Moxie:flokdeer-fc",
+            "symbol": "Moxie:flokdeer-fc"
         }
     ],
     "version": {
