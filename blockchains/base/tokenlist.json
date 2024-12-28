@@ -5056,6 +5056,13 @@
             "logoURI": "https://i.imgur.com/yCvJVgb.jpg",
             "name": "Moxie:eryuga-fc",
             "symbol": "Moxie:eryuga-fc"
+        },
+        {
+            "address": "0x2A1f48416598bDdE6808199f1ae4304849f18Ef8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/957dc19e-a511-42e6-cd2a-3e02e0421c00/rectcrop3",
+            "name": "Moxie:zaxkingch-fc",
+            "symbol": "Moxie:zaxkingch-fc"
         }
     ],
     "version": {
