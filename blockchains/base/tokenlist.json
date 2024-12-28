@@ -7128,6 +7128,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd6179ec-01b4-4b2d-add1-53da62cd9700/rectcrop3",
             "name": "Moxie:0xarb-fc",
             "symbol": "Moxie:0xarb-fc"
+        },
+        {
+            "address": "0x8C0d1aCbe922DC795E450273A41765efE3349a08",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1841339265307009024/qYAIYzrE.jpg",
+            "name": "Moxie:stevanicuh-x",
+            "symbol": "Moxie:stevanicuh-x"
         }
     ],
     "version": {
