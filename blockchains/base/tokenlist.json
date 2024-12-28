@@ -7177,6 +7177,13 @@
             "logoURI": "https://i.imgur.com/QLGemU9.jpg",
             "name": "Moxie:bangzadu-fc",
             "symbol": "Moxie:bangzadu-fc"
+        },
+        {
+            "address": "0xff8fBAe2d779aa3E660F6DAC380eE9fB0868ab69",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05c10483-294e-44ef-501c-f58ae0440400/rectcrop3",
+            "name": "Moxie:0xabay-fc",
+            "symbol": "Moxie:0xabay-fc"
         }
     ],
     "version": {
