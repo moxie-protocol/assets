@@ -7142,6 +7142,13 @@
             "logoURI": "https://i.imgur.com/j1ZPpcW.jpg",
             "name": "Moxie:desol.eth-fc",
             "symbol": "Moxie:desol.eth-fc"
+        },
+        {
+            "address": "0x08c815d212c504b04330d3c3b81843A273a1F9e6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868554760477163520/B-w4UERz.jpg",
+            "name": "Moxie:davestra7-x",
+            "symbol": "Moxie:davestra7-x"
         }
     ],
     "version": {
