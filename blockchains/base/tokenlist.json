@@ -6561,6 +6561,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7d3f6be-ae25-48fb-0464-e2455b77c800/original",
             "name": "Moxie:alpacas-fc",
             "symbol": "Moxie:alpacas-fc"
+        },
+        {
+            "address": "0x7f0d320883388a7Bdad06b60C096cEC49e03A20d",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BPJp8O0.jpg",
+            "name": "Moxie:radifanr-fc",
+            "symbol": "Moxie:radifanr-fc"
         }
     ],
     "version": {
