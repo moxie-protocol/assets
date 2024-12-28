@@ -6897,6 +6897,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/540d7ba1-eaff-409a-9202-75e3e160c200/rectcrop3",
             "name": "Moxie:ulyana-fc",
             "symbol": "Moxie:ulyana-fc"
+        },
+        {
+            "address": "0x7CC7358Dc9AA3D1a2405a052824f90F57e29C7D2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf27c900-e2b7-4f8d-37fe-9c644dc48100/rectcrop3",
+            "name": "Moxie:matchaa-fc",
+            "symbol": "Moxie:matchaa-fc"
         }
     ],
     "version": {
