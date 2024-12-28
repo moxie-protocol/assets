@@ -6456,6 +6456,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/763e37f8-c470-40dd-b1d2-50d6e99feb00/rectcrop3",
             "name": "Moxie:rzm-fc",
             "symbol": "Moxie:rzm-fc"
+        },
+        {
+            "address": "0xD2A373e530Bb2474798eEfb3831c0D6dfcFAa200",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854152373440319488/7QEKy-0n.png",
+            "name": "Moxie:sajibckzpc-x",
+            "symbol": "Moxie:sajibckzpc-x"
         }
     ],
     "version": {
