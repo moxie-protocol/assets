@@ -7030,6 +7030,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2911634b-d5d7-47a9-7601-a43792585600/rectcrop3",
             "name": "Moxie:tuofatafat-fc",
             "symbol": "Moxie:tuofatafat-fc"
+        },
+        {
+            "address": "0x8ee5048123e5E0a6f2F3AFa18bB7Ca15AfFeD00C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8vCyL4j.gif",
+            "name": "Moxie:noctur.eth-fc",
+            "symbol": "Moxie:noctur.eth-fc"
         }
     ],
     "version": {
