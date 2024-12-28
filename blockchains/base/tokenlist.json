@@ -5112,6 +5112,13 @@
             "logoURI": "https://i.imgur.com/nUDZhMM.jpg",
             "name": "Moxie:jainal02-fc",
             "symbol": "Moxie:jainal02-fc"
+        },
+        {
+            "address": "0xaD04BaD7055Bbb5850F8CaDdbb8C4449b25b973B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GK7TSYu.jpg",
+            "name": "Moxie:bitkingkong-fc",
+            "symbol": "Moxie:bitkingkong-fc"
         }
     ],
     "version": {
