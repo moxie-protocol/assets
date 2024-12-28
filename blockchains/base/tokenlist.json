@@ -5525,6 +5525,13 @@
             "logoURI": "https://i.imgur.com/dVfk61E.jpg",
             "name": "Moxie:koyo-fc",
             "symbol": "Moxie:koyo-fc"
+        },
+        {
+            "address": "0xC89B5cbc742E59a62008eC82bC716726c79FA3B3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809325938792108032/cFxM1z18.jpg",
+            "name": "Moxie:FarizGobel-x",
+            "symbol": "Moxie:FarizGobel-x"
         }
     ],
     "version": {
