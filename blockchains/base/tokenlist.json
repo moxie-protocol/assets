@@ -5273,6 +5273,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866712783049654272/VlKFCkAs.jpg",
             "name": "Moxie:Zetaswap-x",
             "symbol": "Moxie:Zetaswap-x"
+        },
+        {
+            "address": "0xd0EC82EA2aa2F34984B9069C152E12792b7B514F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0vgkqKY.gif",
+            "name": "Moxie:nandar-fc",
+            "symbol": "Moxie:nandar-fc"
         }
     ],
     "version": {
