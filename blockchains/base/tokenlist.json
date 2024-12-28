@@ -6358,6 +6358,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06a01f66-6f80-4ec0-1b33-4d40ad469000/rectcrop3",
             "name": "Moxie:chrisseth-fc",
             "symbol": "Moxie:chrisseth-fc"
+        },
+        {
+            "address": "0xB8060835D78af20645d4e72d4EDd4d9A0F778bF3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3dFsb0A.jpg",
+            "name": "Moxie:maulana28-fc",
+            "symbol": "Moxie:maulana28-fc"
         }
     ],
     "version": {
