@@ -7149,6 +7149,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868554760477163520/B-w4UERz.jpg",
             "name": "Moxie:davestra7-x",
             "symbol": "Moxie:davestra7-x"
+        },
+        {
+            "address": "0x4f81B25406536295f650BdB484e574c80038Db02",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1771771294218166272/WIuPws_q.jpg",
+            "name": "Moxie:0xaluxyy-x",
+            "symbol": "Moxie:0xaluxyy-x"
         }
     ],
     "version": {
