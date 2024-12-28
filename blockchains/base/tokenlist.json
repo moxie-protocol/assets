@@ -6071,6 +6071,13 @@
             "logoURI": "https://i.imgur.com/DErsOuz.jpg",
             "name": "Moxie:frdfebs-fc",
             "symbol": "Moxie:frdfebs-fc"
+        },
+        {
+            "address": "0xbf7B12754340C382cE51A5Ed876b1c39bbC0Ac53",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/a2yfW2n.jpg",
+            "name": "Moxie:imamsf-fc",
+            "symbol": "Moxie:imamsf-fc"
         }
     ],
     "version": {
