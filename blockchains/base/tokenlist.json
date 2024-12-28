@@ -6603,6 +6603,13 @@
             "logoURI": "https://arweave.net/TkbKi64wdd-q3YkEumY8CMWHxCQsjtAlDaPs24h31Vk/",
             "name": "Moxie:cryptos88-fc",
             "symbol": "Moxie:cryptos88-fc"
+        },
+        {
+            "address": "0x7FE1eed9237356C4FA740F4aEC06c9f54855E950",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828241683357802499/AjCR-TCF.jpg",
+            "name": "Moxie:eZDeXxX-x",
+            "symbol": "Moxie:eZDeXxX-x"
         }
     ],
     "version": {
