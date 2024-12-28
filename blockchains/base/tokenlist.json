@@ -4986,6 +4986,13 @@
             "logoURI": "https://i.imgur.com/eqju3g2.gif",
             "name": "Moxie:bijidao-fc",
             "symbol": "Moxie:bijidao-fc"
+        },
+        {
+            "address": "0xb0f52974f2aCdB101827C89fF8ccBB7018137400",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e74e530a-f11b-4e92-79e9-12bab9e31e00/rectcrop3",
+            "name": "Moxie:mvreiha-fc",
+            "symbol": "Moxie:mvreiha-fc"
         }
     ],
     "version": {
