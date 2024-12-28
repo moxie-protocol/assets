@@ -4874,6 +4874,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a187d0c-c2a9-4cfa-1742-1394422be600/original",
             "name": "Moxie:npccrypto-fc",
             "symbol": "Moxie:npccrypto-fc"
+        },
+        {
+            "address": "0x1ffF4256938D286A877eFe69b35085Cc8DfFd1B8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1815456973233463296/LAnZzZjt.png",
+            "name": "Moxie:finampost-x",
+            "symbol": "Moxie:finampost-x"
         }
     ],
     "version": {
