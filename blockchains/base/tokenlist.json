@@ -5693,6 +5693,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db93df4d-c7ab-4e31-0b8d-506f9ee07500/rectcrop3",
             "name": "Moxie:venxict-fc",
             "symbol": "Moxie:venxict-fc"
+        },
+        {
+            "address": "0x9A1F131459B07195387A2313E99BADB456254bb0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/cYR436F.jpg",
+            "name": "Moxie:rektzy-fc",
+            "symbol": "Moxie:rektzy-fc"
         }
     ],
     "version": {
