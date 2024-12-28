@@ -5938,6 +5938,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d7ae4c4-e9d2-46d6-7cbc-27fdbfa1f000/rectcrop3",
             "name": "Moxie:alaskan-crab-fc",
             "symbol": "Moxie:alaskan-crab-fc"
+        },
+        {
+            "address": "0xaD8914586a6C29a93241E1d8e248438ED159e9Cc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e345d9a-2195-4920-1693-92253a5fb700/rectcrop3",
+            "name": "Moxie:itscryptoclock-fc",
+            "symbol": "Moxie:itscryptoclock-fc"
         }
     ],
     "version": {
