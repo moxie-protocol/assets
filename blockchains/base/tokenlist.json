@@ -7023,6 +7023,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcf546d1-4148-4276-d192-30868ab6f900/rectcrop3",
             "name": "Moxie:rachman165-fc",
             "symbol": "Moxie:rachman165-fc"
+        },
+        {
+            "address": "0x7C8c8F0a08CDD5FB367CB5015293b1842b37697E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2911634b-d5d7-47a9-7601-a43792585600/rectcrop3",
+            "name": "Moxie:tuofatafat-fc",
+            "symbol": "Moxie:tuofatafat-fc"
         }
     ],
     "version": {
