@@ -7051,6 +7051,13 @@
             "logoURI": "https://i.imgur.com/rXOXNOg.jpg",
             "name": "Moxie:pexs-id-fc",
             "symbol": "Moxie:pexs-id-fc"
+        },
+        {
+            "address": "0x7d290e61f083Ff88BE96A7eac23d19F0Dd35B980",
+            "decimals": 18,
+            "logoURI": "https://toppng.com/public/uploads/preview/bursaspor-logo-png-1153601683222dsew0wed.png",
+            "name": "Moxie:teksas.eth-ens",
+            "symbol": "Moxie:teksas.eth-ens"
         }
     ],
     "version": {
