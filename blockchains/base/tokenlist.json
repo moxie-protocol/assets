@@ -5028,6 +5028,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:meeko-fc",
             "symbol": "Moxie:meeko-fc"
+        },
+        {
+            "address": "0x4a36855fc2f20253661a4fB5aD6A2431bC72E272",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16dc2716-fac3-4558-be05-0199f3382500/rectcrop3",
+            "name": "Moxie:ardiandee-fc",
+            "symbol": "Moxie:ardiandee-fc"
         }
     ],
     "version": {
