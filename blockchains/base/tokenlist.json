@@ -6876,6 +6876,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45d345fd-955d-49cf-d479-b64f54ca3700/rectcrop3",
             "name": "Moxie:yans01-fc",
             "symbol": "Moxie:yans01-fc"
+        },
+        {
+            "address": "0x01DfbC8643a277819c6ED443c59d32A6955633A2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ae5a663-d6e7-436f-6acc-8de321334e00/original",
+            "name": "Moxie:yantakushi-fc",
+            "symbol": "Moxie:yantakushi-fc"
         }
     ],
     "version": {
