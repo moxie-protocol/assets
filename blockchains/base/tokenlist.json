@@ -5861,6 +5861,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef7b991f-2a31-4494-994e-f56317409000/rectcrop3",
             "name": "Moxie:rocksider-fc",
             "symbol": "Moxie:rocksider-fc"
+        },
+        {
+            "address": "0xd9a2919B522C82D4e051a38d2fe9C14375f24f56",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830666682940973056/PfdtUTKa.jpg",
+            "name": "Moxie:IbnuJuda54812-x",
+            "symbol": "Moxie:IbnuJuda54812-x"
         }
     ],
     "version": {
