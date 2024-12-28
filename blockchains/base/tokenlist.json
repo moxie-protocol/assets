@@ -5483,6 +5483,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c8d172c-fc06-47de-52d0-17ac3de14000/original",
             "name": "Moxie:jarullyzard-fc",
             "symbol": "Moxie:jarullyzard-fc"
+        },
+        {
+            "address": "0x446fb65786A1cC79dBA42031a05e66f7a57B0674",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8ec5d65-02c5-4511-09bb-831faf55ec00/rectcrop3",
+            "name": "Moxie:hildan-fc",
+            "symbol": "Moxie:hildan-fc"
         }
     ],
     "version": {
