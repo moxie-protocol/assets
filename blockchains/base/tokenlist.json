@@ -6148,6 +6148,13 @@
             "logoURI": null,
             "name": "samaart",
             "symbol": "fid:449654"
+        },
+        {
+            "address": "0x8FB120B976aDD8Dd519114a6b8f0C1c8c7A14740",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/u5nM4gp.jpg",
+            "name": "Moxie:myzense.eth-fc",
+            "symbol": "Moxie:myzense.eth-fc"
         }
     ],
     "version": {
