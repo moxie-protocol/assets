@@ -6869,6 +6869,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/affb14d9-3018-4f93-76f4-57110ec93300/rectcrop3",
             "name": "Moxie:trylucky-fc",
             "symbol": "Moxie:trylucky-fc"
+        },
+        {
+            "address": "0x7778B9387aC47412017cCB5e0eA1359E8cDBC327",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45d345fd-955d-49cf-d479-b64f54ca3700/rectcrop3",
+            "name": "Moxie:yans01-fc",
+            "symbol": "Moxie:yans01-fc"
         }
     ],
     "version": {
