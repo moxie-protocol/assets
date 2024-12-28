@@ -6421,6 +6421,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867083422340112384/P74RaYZ8.jpg",
             "name": "Moxie:ridwankuswara28-x",
             "symbol": "Moxie:ridwankuswara28-x"
+        },
+        {
+            "address": "0x0854C65a58aaA22BF30557431BcAEF2B9F968C94",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f4e1ef1a-1c72-4800-1586-2457c0c9d000/rectcrop3",
+            "name": "Moxie:chewbacc0.eth-fc",
+            "symbol": "Moxie:chewbacc0.eth-fc"
         }
     ],
     "version": {
