@@ -6225,6 +6225,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb916d48-2b8f-41e6-96bc-a43cc0679e00/rectcrop3",
             "name": "Moxie:veit-fc",
             "symbol": "Moxie:veit-fc"
+        },
+        {
+            "address": "0xde89b1BE278B0B8d8b4976fFCe87Ba02da3498Cf",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1745849948950941696/McncB2uP.jpg",
+            "name": "Moxie:Dagora202-x",
+            "symbol": "Moxie:Dagora202-x"
         }
     ],
     "version": {
