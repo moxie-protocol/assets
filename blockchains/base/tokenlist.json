@@ -5707,6 +5707,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20296183-11be-4c6b-5265-4839d54e7e00/rectcrop3",
             "name": "Moxie:kyle11-fc",
             "symbol": "Moxie:kyle11-fc"
+        },
+        {
+            "address": "0x2E83E93C238250205B9f59Ea3Ac3cB27F252f04f",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "rock890",
+            "symbol": "fid:518074"
         }
     ],
     "version": {
