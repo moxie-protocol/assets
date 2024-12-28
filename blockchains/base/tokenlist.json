@@ -5847,6 +5847,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9456951d-0bdf-4691-c2dc-e0596cc84800/original",
             "name": "Moxie:apengs-fc",
             "symbol": "Moxie:apengs-fc"
+        },
+        {
+            "address": "0xe05221Ac18BB8e5924E200e718ED2DF0beAA0B3B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55629986-071b-4c0e-0a63-d0bf5c279100/rectcrop3",
+            "name": "Moxie:ikranegara-fc",
+            "symbol": "Moxie:ikranegara-fc"
         }
     ],
     "version": {
