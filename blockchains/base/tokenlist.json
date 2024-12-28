@@ -6050,6 +6050,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d6855a2f-b03b-4c4c-6ee3-f02a3ffde100/rectcrop3",
             "name": "Moxie:arfinakash88-fc",
             "symbol": "Moxie:arfinakash88-fc"
+        },
+        {
+            "address": "0x90d18740783C2941860939C36011A57F22154889",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sZmXpOi.jpg",
+            "name": "Moxie:dils-fc",
+            "symbol": "Moxie:dils-fc"
         }
     ],
     "version": {
