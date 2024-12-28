@@ -5602,6 +5602,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02c0d26c-cdc6-4645-030d-735fcf835e00/rectcrop3",
             "name": "Moxie:nurulamin-fc",
             "symbol": "Moxie:nurulamin-fc"
+        },
+        {
+            "address": "0x8DB9d2C822f16108Df31C08E466FD1303A021E82",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IDTaBBU.jpg",
+            "name": "Moxie:shahin7100-fc",
+            "symbol": "Moxie:shahin7100-fc"
         }
     ],
     "version": {
