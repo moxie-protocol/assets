@@ -6512,6 +6512,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c322a446-ad03-45ff-8005-b439d0f7c100/original",
             "name": "Moxie:sibtechparts-fc",
             "symbol": "Moxie:sibtechparts-fc"
+        },
+        {
+            "address": "0xac00b727c620A9D1F17edb259c88329f5B239046",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb460759-4ee2-44fb-4e68-7947ee5c2100/rectcrop3",
+            "name": "Moxie:omg58935-fc",
+            "symbol": "Moxie:omg58935-fc"
         }
     ],
     "version": {
