@@ -6295,6 +6295,13 @@
             "logoURI": "https://static.wikia.nocookie.net/deathbattle/images/8/8f/Portrait.makima.png/revision/latest?cb=20240317044135",
             "name": "Moxie:rzkyunch.base.eth-base",
             "symbol": "Moxie:rzkyunch.base.eth-base"
+        },
+        {
+            "address": "0xf95f5C7c37D4cBff0fD22F23B25FE06d9dCbD1eC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/576ade57-dace-476d-7de3-aaa997373c00/original",
+            "name": "Moxie:alfyrev21-fc",
+            "symbol": "Moxie:alfyrev21-fc"
         }
     ],
     "version": {
