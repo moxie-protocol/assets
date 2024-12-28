@@ -4839,6 +4839,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1799379650524893184/nao70AhT.png",
             "name": "Moxie:Nevada1010-x",
             "symbol": "Moxie:Nevada1010-x"
+        },
+        {
+            "address": "0x36558cF5D4fe70569Eb52aB21a8cC46C4e624679",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14fa6e26-4a48-45d5-d1c4-4e30416d0800/rectcrop3",
+            "name": "Moxie:dhunss-fc",
+            "symbol": "Moxie:dhunss-fc"
         }
     ],
     "version": {
