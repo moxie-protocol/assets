@@ -6813,6 +6813,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1f369f5-8381-43db-df9b-395b686b6200/rectcrop3",
             "name": "Moxie:minubd25-fc",
             "symbol": "Moxie:minubd25-fc"
+        },
+        {
+            "address": "0xAd87AA62C153e45D01e048c98Bcfc1dc998B539E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21aa0448-bf1e-47ab-0b40-5fd874dfd300/rectcrop3",
+            "name": "Moxie:syrx-fc",
+            "symbol": "Moxie:syrx-fc"
         }
     ],
     "version": {
