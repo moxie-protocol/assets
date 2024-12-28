@@ -4895,6 +4895,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbkJsdhyNdpX8DQhgCws3GMrcAhGQoDz3nBMwqk2PkEt7",
             "name": "Moxie:webm659-fc",
             "symbol": "Moxie:webm659-fc"
+        },
+        {
+            "address": "0xca313BD131ECDfe645626BdB1C95B096698B6C7b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da445994-b1e8-478f-fc80-7ddaead06800/rectcrop3",
+            "name": "Moxie:quarto-fc",
+            "symbol": "Moxie:quarto-fc"
         }
     ],
     "version": {
