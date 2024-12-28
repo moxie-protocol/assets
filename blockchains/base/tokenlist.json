@@ -5448,6 +5448,13 @@
             "logoURI": "https://i.imgur.com/aCUsnpf.jpg",
             "name": "Moxie:lukybug-fc",
             "symbol": "Moxie:lukybug-fc"
+        },
+        {
+            "address": "0xa5b3CdF1f56AD66466CA4fA08539C03f59E8DFDc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad8d3d4b-7880-4837-ed72-c5a0aea10900/rectcrop3",
+            "name": "Moxie:niaxee-fc",
+            "symbol": "Moxie:niaxee-fc"
         }
     ],
     "version": {
