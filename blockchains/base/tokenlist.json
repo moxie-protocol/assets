@@ -7226,6 +7226,13 @@
             "logoURI": "https://zn7vdwrgk5xg36e6rxjthplftz4zypdrbibfbh2nhi3jbroalcdq.arweave.net/y39R2iZXbm34no3TM71lnnmcPHEKAlCfTTo2kMXAWIc/",
             "name": "Moxie:koplak8-fc",
             "symbol": "Moxie:koplak8-fc"
+        },
+        {
+            "address": "0x2CB5F9ca15414eE70D6713A391f728812242AAa7",
+            "decimals": 18,
+            "logoURI": "https://img.freepik.com/photos-gratuite/vue-du-monument-mondial-pour-celebrer-journee-du-patrimoine-mondial_23-2151297135.jpg?t=st=1735428634~exp=1735432234~hmac=d918bd59356c44a8d3e11c318ea21ed7a7b64fb82be7246c5fbad17a063be632\u0026w=1380",
+            "name": "Moxie:muraille2chibres.base.eth-base",
+            "symbol": "Moxie:muraille2chibres.base.eth-base"
         }
     ],
     "version": {
