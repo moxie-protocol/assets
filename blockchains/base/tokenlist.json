@@ -5098,6 +5098,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87b6bf2f-2cfe-448c-b504-09d3a2e7dc00/rectcrop3",
             "name": "Moxie:fendyxcyber-fc",
             "symbol": "Moxie:fendyxcyber-fc"
+        },
+        {
+            "address": "0xE348271627Fd8d2bcA86Cf933331E4F1107fC4bb",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rYVlo1D.jpg",
+            "name": "Moxie:ilhamfds-fc",
+            "symbol": "Moxie:ilhamfds-fc"
         }
     ],
     "version": {
