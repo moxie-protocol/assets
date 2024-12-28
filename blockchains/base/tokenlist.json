@@ -6260,6 +6260,13 @@
             "logoURI": "https://2eicvdl2tquwwemqxqpaq4afyemjqnzeuhq463pkc2tiga5mi25a.arweave.net/0RAqjXqcKWsRkLweCHAFwRiYNySh4c9t6hamgwOsRro/",
             "name": "Moxie:bangcode.eth-fc",
             "symbol": "Moxie:bangcode.eth-fc"
+        },
+        {
+            "address": "0xBBaE7F24E808c6Baf209e5861bA5379Ba17b8bFe",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/937898b7-10bd-4763-30c1-67ffd78bca00/rectcrop3",
+            "name": "Moxie:tuantamvan-fc",
+            "symbol": "Moxie:tuantamvan-fc"
         }
     ],
     "version": {
