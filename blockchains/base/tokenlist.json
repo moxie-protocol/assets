@@ -4909,6 +4909,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c179841b-26a4-4bc5-8846-8692f9c9c900/rectcrop3",
             "name": "Moxie:dedensarief93-fc",
             "symbol": "Moxie:dedensarief93-fc"
+        },
+        {
+            "address": "0xe6B563fdaf208D1D8389f824f22c1a6F21Eb012e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e7de9cd-5fdc-4a29-9e42-854130dab300/rectcrop3",
+            "name": "Moxie:mraxhar-fc",
+            "symbol": "Moxie:mraxhar-fc"
         }
     ],
     "version": {
