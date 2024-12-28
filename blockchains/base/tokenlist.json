@@ -6134,6 +6134,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a548305-a0f7-41de-782e-1bbadc5be100/rectcrop3",
             "name": "Moxie:corleone251-fc",
             "symbol": "Moxie:corleone251-fc"
+        },
+        {
+            "address": "0x81F9D73306D5e88fB4BeaEb478e74610FB79F551",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5SJ4Hv6.jpg",
+            "name": "Moxie:kebros-fc",
+            "symbol": "Moxie:kebros-fc"
         }
     ],
     "version": {
