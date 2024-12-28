@@ -6911,6 +6911,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1422113180201803779/5tHVbx_S.jpg",
             "name": "Moxie:harishverma99-x",
             "symbol": "Moxie:harishverma99-x"
+        },
+        {
+            "address": "0x55BBD86353F19bf6116B37715327674d2cfb5C1f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e221e23-ac67-4cec-7370-421b69231600/rectcrop3",
+            "name": "Moxie:aconx-fc",
+            "symbol": "Moxie:aconx-fc"
         }
     ],
     "version": {
