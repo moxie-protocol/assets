@@ -5987,6 +5987,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d05fa5c-9a71-4df7-42c9-0484c009dc00/original",
             "name": "Moxie:xhndi-fc",
             "symbol": "Moxie:xhndi-fc"
+        },
+        {
+            "address": "0x68a5eD9295aF323086548482366f7094A9c0fB89",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6766ac35-6ee2-4adc-1fb1-d4df6b80b300/rectcrop3",
+            "name": "Moxie:zamzami2193-fc",
+            "symbol": "Moxie:zamzami2193-fc"
         }
     ],
     "version": {
