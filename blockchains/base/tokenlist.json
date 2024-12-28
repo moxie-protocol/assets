@@ -4902,6 +4902,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da445994-b1e8-478f-fc80-7ddaead06800/rectcrop3",
             "name": "Moxie:quarto-fc",
             "symbol": "Moxie:quarto-fc"
+        },
+        {
+            "address": "0xD464C18c4b71081B8721203ce00C0825bF1fE0eD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c179841b-26a4-4bc5-8846-8692f9c9c900/rectcrop3",
+            "name": "Moxie:dedensarief93-fc",
+            "symbol": "Moxie:dedensarief93-fc"
         }
     ],
     "version": {
