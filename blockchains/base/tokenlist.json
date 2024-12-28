@@ -6064,6 +6064,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1736312379552501760/JeEsY4aZ.jpg",
             "name": "Moxie:Icykidd13-x",
             "symbol": "Moxie:Icykidd13-x"
+        },
+        {
+            "address": "0xf5Ff402a2725d9e32180deC9CDF9554d09655537",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DErsOuz.jpg",
+            "name": "Moxie:frdfebs-fc",
+            "symbol": "Moxie:frdfebs-fc"
         }
     ],
     "version": {
