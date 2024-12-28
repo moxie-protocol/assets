@@ -6169,6 +6169,13 @@
             "logoURI": "https://i.imgur.com/HleggDH.jpg",
             "name": "Moxie:anaksuara-fc",
             "symbol": "Moxie:anaksuara-fc"
+        },
+        {
+            "address": "0x05eFA508FcE0F1BcCB6B796E86A49A551D0DA421",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869347919301943297/SObIvgfl.jpg",
+            "name": "Moxie:BayuB89606-x",
+            "symbol": "Moxie:BayuB89606-x"
         }
     ],
     "version": {
