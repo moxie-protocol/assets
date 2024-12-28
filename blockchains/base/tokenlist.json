@@ -5259,6 +5259,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864888454389338114/MowjJuE1.jpg",
             "name": "Moxie:Viki_Web3-x",
             "symbol": "Moxie:Viki_Web3-x"
+        },
+        {
+            "address": "0xE9CDf3Add12f5D03eb1d73152C1C5dE0Cf95FF79",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/CKYrXVFp/images-14.jpg",
+            "name": "Moxie:vellz-fc",
+            "symbol": "Moxie:vellz-fc"
         }
     ],
     "version": {
