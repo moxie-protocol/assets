@@ -6547,6 +6547,13 @@
             "logoURI": "https://i.imgur.com/gRltIGx.jpg",
             "name": "Moxie:uangdroid-fc",
             "symbol": "Moxie:uangdroid-fc"
+        },
+        {
+            "address": "0xA8a5336E5DE982A0905709e9a6641fEC61990871",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20386960-b26a-4ed3-9147-99a28a260200/rectcrop3",
+            "name": "Moxie:tnrrmdhvn-fc",
+            "symbol": "Moxie:tnrrmdhvn-fc"
         }
     ],
     "version": {
