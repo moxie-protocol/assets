@@ -5742,6 +5742,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d77e4a4-236f-4b70-4586-3bc1e3f50000/original",
             "name": "Moxie:imehran.eth-fc",
             "symbol": "Moxie:imehran.eth-fc"
+        },
+        {
+            "address": "0x9823df0a589E37Dd772C936d6CEF5009afe3b8F4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1585546417325879296/UzjkOvZt.jpg",
+            "name": "Moxie:stroonghodl-x",
+            "symbol": "Moxie:stroonghodl-x"
         }
     ],
     "version": {
