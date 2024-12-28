@@ -5826,6 +5826,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1833755639585378304/75oF-jBU.jpg",
             "name": "Moxie:WhoNull14-x",
             "symbol": "Moxie:WhoNull14-x"
+        },
+        {
+            "address": "0x885048e27d18360A21961d462Cc0eD1d3722ff9D",
+            "decimals": 18,
+            "logoURI": "https://www.freepik.com/free-photos-vectors/scientist-dog-ai",
+            "name": "Moxie:koilaskair.base.eth-base",
+            "symbol": "Moxie:koilaskair.base.eth-base"
         }
     ],
     "version": {
