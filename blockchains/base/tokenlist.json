@@ -6638,6 +6638,13 @@
             "logoURI": "https://i.imgur.com/So8uIjL.jpg",
             "name": "Moxie:321199-fc",
             "symbol": "Moxie:321199-fc"
+        },
+        {
+            "address": "0xC1392993410211AdCB7c575EB96F073d7A5EE4d3",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/Qmdh5SWiW8eBFLDwmZKvmAHrGWZsaggEwPNYx7qNGKviP6",
+            "name": "Moxie:drizz21-fc",
+            "symbol": "Moxie:drizz21-fc"
         }
     ],
     "version": {
