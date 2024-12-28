@@ -6715,6 +6715,13 @@
             "logoURI": "https://i.imgur.com/lw5bGbh.jpg",
             "name": "Moxie:rbwfindx-fc",
             "symbol": "Moxie:rbwfindx-fc"
+        },
+        {
+            "address": "0xC053BaC18f8162281dE9bc8Cc57153686Bcfdb9d",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicd2ppfgzwoai5vcpb3fstnyibf227al7aqpqpwadou7im5xwdgwq/3995.png",
+            "name": "Moxie:zkboys-fc",
+            "symbol": "Moxie:zkboys-fc"
         }
     ],
     "version": {
