@@ -5798,6 +5798,13 @@
             "logoURI": "https://i.imgur.com/0Yn4dOk.jpg",
             "name": "Moxie:rullz993-fc",
             "symbol": "Moxie:rullz993-fc"
+        },
+        {
+            "address": "0xb6cb0Cd09FF508506154eF9f685092460d42C27f",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHLkilqMZ1tCyZvJN5DG3qD1_afMHSb4xHW20TG-RlixZIn0M78-mGOwh\u0026s=10",
+            "name": "Moxie:1111111111111.base.eth-base",
+            "symbol": "Moxie:1111111111111.base.eth-base"
         }
     ],
     "version": {
