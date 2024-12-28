@@ -6036,6 +6036,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0db32217-3196-4500-539c-4c777dfbf900/rectcrop3",
             "name": "Moxie:kevinsipalingair-fc",
             "symbol": "Moxie:kevinsipalingair-fc"
+        },
+        {
+            "address": "0xbe5b67781aDc83cCF1191275065034FD6F73F3Cd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2cb55c9-3116-4559-6f94-1d0e5e263700/rectcrop3",
+            "name": "Moxie:udinsoleh-fc",
+            "symbol": "Moxie:udinsoleh-fc"
         }
     ],
     "version": {
