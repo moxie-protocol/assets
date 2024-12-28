@@ -6197,6 +6197,13 @@
             "logoURI": "https://arweave.net/5T7miqKsA7_b5_iz893xSJe-lEQfxpmfSB7-dCS7k9g/",
             "name": "Moxie:zestt-fc",
             "symbol": "Moxie:zestt-fc"
+        },
+        {
+            "address": "0x5F231Ec7B914021afB6dc8f12C9BC5741Eaf35b7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6268583-1640-4a4a-e0e8-328d75bc4c00/rectcrop3",
+            "name": "Moxie:variiante-fc",
+            "symbol": "Moxie:variiante-fc"
         }
     ],
     "version": {
