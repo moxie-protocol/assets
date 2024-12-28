@@ -5924,6 +5924,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b221347a-46ab-4900-ec6d-72af6c613700/rectcrop3",
             "name": "Moxie:holdrekt-fc",
             "symbol": "Moxie:holdrekt-fc"
+        },
+        {
+            "address": "0x0A00145594e0D44b1c54feC75dF20343550A96e2",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiadgqpq5wwfelyjrw4ga3pugpycjiegikoigpv7np4qx7rnge3oke",
+            "name": "Moxie:panam86-fc",
+            "symbol": "Moxie:panam86-fc"
         }
     ],
     "version": {
