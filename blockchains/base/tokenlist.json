@@ -6953,6 +6953,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/458d832c-cbab-41c0-d377-954f378bf100/rectcrop3",
             "name": "Moxie:meowkez-fc",
             "symbol": "Moxie:meowkez-fc"
+        },
+        {
+            "address": "0xb670cC3a4248bD23173801CfF3b937b7ad3402B4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854106880517591040/_coF-Nfa.jpg",
+            "name": "Moxie:miaw_call-x",
+            "symbol": "Moxie:miaw_call-x"
         }
     ],
     "version": {
