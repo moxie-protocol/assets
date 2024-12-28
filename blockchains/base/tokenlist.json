@@ -4958,6 +4958,13 @@
             "logoURI": "https://uploadkon.ir/uploads/f95b28_24photo-2024-12-22-20-35-05.jpg",
             "name": "Moxie:0xkeyvan.base.eth-base",
             "symbol": "Moxie:0xkeyvan.base.eth-base"
+        },
+        {
+            "address": "0x8c7e1bFB3AAFeeaf5691e7B8969625fC9340551F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/06cQ2gl.jpg",
+            "name": "Moxie:yonthit-fc",
+            "symbol": "Moxie:yonthit-fc"
         }
     ],
     "version": {
