@@ -5077,6 +5077,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d158123-baec-4152-9ce9-a02cab348d00/original",
             "name": "Moxie:zankadaiguren-fc",
             "symbol": "Moxie:zankadaiguren-fc"
+        },
+        {
+            "address": "0xe1b73D26A3c03ebD8b9752834F1a3a80b1930bE2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/700821dc-7942-4971-e36a-b1c1c1422500/rectcrop3",
+            "name": "Moxie:xcomm-fc",
+            "symbol": "Moxie:xcomm-fc"
         }
     ],
     "version": {
