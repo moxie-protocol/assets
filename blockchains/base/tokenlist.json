@@ -5686,6 +5686,13 @@
             "logoURI": "https://i.imgur.com/D6MUe09.jpg",
             "name": "Moxie:tutut-fc",
             "symbol": "Moxie:tutut-fc"
+        },
+        {
+            "address": "0x77F23d2D113eE0C92dDE7480CE2D125661b8AaF7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db93df4d-c7ab-4e31-0b8d-506f9ee07500/rectcrop3",
+            "name": "Moxie:venxict-fc",
+            "symbol": "Moxie:venxict-fc"
         }
     ],
     "version": {
