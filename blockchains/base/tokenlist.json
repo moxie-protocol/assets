@@ -6582,6 +6582,13 @@
             "logoURI": "https://i.imgur.com/GNYemeC.jpg",
             "name": "Moxie:saif716-fc",
             "symbol": "Moxie:saif716-fc"
+        },
+        {
+            "address": "0x1fE73A87c8450B21Bddab3d427f620c6a575FF74",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pfYgaPb.jpg",
+            "name": "Moxie:roselia-fc",
+            "symbol": "Moxie:roselia-fc"
         }
     ],
     "version": {
