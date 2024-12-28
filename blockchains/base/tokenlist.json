@@ -5189,6 +5189,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1836481731559567360/KzUM8hBu.jpg",
             "name": "Moxie:Nymphyss-x",
             "symbol": "Moxie:Nymphyss-x"
+        },
+        {
+            "address": "0x317655c3fec9FA4F1626270514EAeF07f61390B1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805425730999996416/1l0veL7K.jpg",
+            "name": "Moxie:ryuzaki68688665-x",
+            "symbol": "Moxie:ryuzaki68688665-x"
         }
     ],
     "version": {
