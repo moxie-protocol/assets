@@ -6743,6 +6743,13 @@
             "logoURI": "https://i.seadn.io/s/raw/files/604abd02d537f8dc3138a069798c55f3.gif?auto=format\u0026dpr=1\u0026w=1200",
             "name": "Moxie:gensleader-fc",
             "symbol": "Moxie:gensleader-fc"
+        },
+        {
+            "address": "0x1e81FFe535690B525fc221757F50a14FED6F6302",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jDkBUYO.jpg",
+            "name": "Moxie:encek-fc",
+            "symbol": "Moxie:encek-fc"
         }
     ],
     "version": {
