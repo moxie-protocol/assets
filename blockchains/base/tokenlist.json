@@ -6442,6 +6442,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04e0a9f6-0e33-43f1-4365-dfe11c59fb00/rectcrop3",
             "name": "Moxie:pabblo-fc",
             "symbol": "Moxie:pabblo-fc"
+        },
+        {
+            "address": "0x2c21Ed469eBd4FDfa61Bcf10022e41c46eb10fBE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/O3CEuDk.jpg",
+            "name": "Moxie:oaxly-fc",
+            "symbol": "Moxie:oaxly-fc"
         }
     ],
     "version": {
