@@ -5672,6 +5672,13 @@
             "logoURI": null,
             "name": "owr",
             "symbol": "fid:471003"
+        },
+        {
+            "address": "0x3D83A6db8c0A6ec912a1025F8Fc55b1ebe43Cee1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1865816153572143104/N2GXauFC.jpg",
+            "name": "Moxie:Luismillax-x",
+            "symbol": "Moxie:Luismillax-x"
         }
     ],
     "version": {
