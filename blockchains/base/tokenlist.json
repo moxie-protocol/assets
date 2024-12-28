@@ -6505,6 +6505,13 @@
             "logoURI": "https://i.imgur.com/pGC4NwF.jpg",
             "name": "Moxie:nohan-fc",
             "symbol": "Moxie:nohan-fc"
+        },
+        {
+            "address": "0xe9b7b3462FE55299DaCFa4bFC47C994C19504F8b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c322a446-ad03-45ff-8005-b439d0f7c100/original",
+            "name": "Moxie:sibtechparts-fc",
+            "symbol": "Moxie:sibtechparts-fc"
         }
     ],
     "version": {
