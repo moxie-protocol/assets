@@ -5217,6 +5217,13 @@
             "logoURI": "https://i.imgur.com/1hcI6n0.gif",
             "name": "Moxie:muskzilla-fc",
             "symbol": "Moxie:muskzilla-fc"
+        },
+        {
+            "address": "0xcC235c98f620c4AFBb4849190fB8caC78E22aa58",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Yoe5q6L.jpg",
+            "name": "Moxie:qorygor-fc",
+            "symbol": "Moxie:qorygor-fc"
         }
     ],
     "version": {
