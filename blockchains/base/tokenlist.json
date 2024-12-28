@@ -6253,6 +6253,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MOTEXmnoRI--mPIJCY-N1CCs0W5WZqc9AbZwr_sjzWnpVar-v3gkiD8f\u0026s=10",
             "name": "Moxie:vew93.base.eth-base",
             "symbol": "Moxie:vew93.base.eth-base"
+        },
+        {
+            "address": "0x87BB688b6D9d02F5091DDf99C0605ABd490BDbEF",
+            "decimals": 18,
+            "logoURI": "https://2eicvdl2tquwwemqxqpaq4afyemjqnzeuhq463pkc2tiga5mi25a.arweave.net/0RAqjXqcKWsRkLweCHAFwRiYNySh4c9t6hamgwOsRro/",
+            "name": "Moxie:bangcode.eth-fc",
+            "symbol": "Moxie:bangcode.eth-fc"
         }
     ],
     "version": {
