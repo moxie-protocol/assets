@@ -5875,6 +5875,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c466da1-4f13-4d10-2111-f74bdbc0cc00/rectcrop3",
             "name": "Moxie:zhierz913-fc",
             "symbol": "Moxie:zhierz913-fc"
+        },
+        {
+            "address": "0x1928DDc78e9Bc139a8F50b331208600Cb8C9a185",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d48ed481-2d32-4ce5-5894-6b6f0c447b00/rectcrop3",
+            "name": "Moxie:rasidcros-fc",
+            "symbol": "Moxie:rasidcros-fc"
         }
     ],
     "version": {
