@@ -5518,6 +5518,13 @@
             "logoURI": "https://i.imgur.com/Cat38dt.jpg",
             "name": "Moxie:boney-fc",
             "symbol": "Moxie:boney-fc"
+        },
+        {
+            "address": "0x98c67C848c61783FD98b0C7Cb8A96dB44540F40F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dVfk61E.jpg",
+            "name": "Moxie:koyo-fc",
+            "symbol": "Moxie:koyo-fc"
         }
     ],
     "version": {
