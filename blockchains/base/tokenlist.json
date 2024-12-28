@@ -6106,6 +6106,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01b830f2-ec8b-408d-63ed-49ef45f32100/original",
             "name": "Moxie:yzzztv-fc",
             "symbol": "Moxie:yzzztv-fc"
+        },
+        {
+            "address": "0xd11F2a39A4CEE32F5aC45751d4b47AE2F02f03Ad",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5cc26b54-a336-4005-0a5f-d1f46e373600/rectcrop3",
+            "name": "Moxie:andrecy-fc",
+            "symbol": "Moxie:andrecy-fc"
         }
     ],
     "version": {
