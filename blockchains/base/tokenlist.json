@@ -7163,6 +7163,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1355278820929019908/AhLtRzA8.jpg",
             "name": "Moxie:baraliant18-x",
             "symbol": "Moxie:baraliant18-x"
+        },
+        {
+            "address": "0xED2d1896b472eCd55a08Bb750F186046283Ba708",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/75c92181-285a-46b2-4ac0-d88b9c755b00/rectcrop3",
+            "name": "Moxie:dailys-fc",
+            "symbol": "Moxie:dailys-fc"
         }
     ],
     "version": {
