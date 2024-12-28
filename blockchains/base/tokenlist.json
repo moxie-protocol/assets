@@ -6288,6 +6288,13 @@
             "logoURI": "https://i.imgur.com/ZxtU1kL.jpg",
             "name": "Moxie:soponyono-fc",
             "symbol": "Moxie:soponyono-fc"
+        },
+        {
+            "address": "0x0Bf4D498436d751C4FdBaA4CadD11B847E5F8631",
+            "decimals": 18,
+            "logoURI": "https://static.wikia.nocookie.net/deathbattle/images/8/8f/Portrait.makima.png/revision/latest?cb=20240317044135",
+            "name": "Moxie:rzkyunch.base.eth-base",
+            "symbol": "Moxie:rzkyunch.base.eth-base"
         }
     ],
     "version": {
