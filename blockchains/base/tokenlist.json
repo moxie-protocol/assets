@@ -6575,6 +6575,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a7babb4d-84be-416d-b7cf-61629af2ec00/rectcrop3",
             "name": "Moxie:skybbullezz-fc",
             "symbol": "Moxie:skybbullezz-fc"
+        },
+        {
+            "address": "0xA5e72821A93CFC9618AaE3F94E53A6426C3E82C6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GNYemeC.jpg",
+            "name": "Moxie:saif716-fc",
+            "symbol": "Moxie:saif716-fc"
         }
     ],
     "version": {
