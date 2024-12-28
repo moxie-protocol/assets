@@ -5644,6 +5644,13 @@
             "logoURI": "https://i.imgur.com/1KTmqx1.jpg",
             "name": "Moxie:keyxdrop-fc",
             "symbol": "Moxie:keyxdrop-fc"
+        },
+        {
+            "address": "0x5ed4D25d627c473fA00b7db6E71290a406cF7336",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e24f4746-1720-4fe6-c943-5b19e36cb000/original",
+            "name": "Moxie:crossline-fc",
+            "symbol": "Moxie:crossline-fc"
         }
     ],
     "version": {
