@@ -6435,6 +6435,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1801378470968107008/Bq_0P-Rc_400x400.jpg",
             "name": "Moxie:fromthefuture.base.eth-base",
             "symbol": "Moxie:fromthefuture.base.eth-base"
+        },
+        {
+            "address": "0x625b8337178e115D260af1025e3367932a723141",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04e0a9f6-0e33-43f1-4365-dfe11c59fb00/rectcrop3",
+            "name": "Moxie:pabblo-fc",
+            "symbol": "Moxie:pabblo-fc"
         }
     ],
     "version": {
