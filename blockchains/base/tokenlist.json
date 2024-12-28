@@ -6967,6 +6967,13 @@
             "logoURI": "https://i.imgur.com/tIoiIEr.gif",
             "name": "Moxie:astroross-fc",
             "symbol": "Moxie:astroross-fc"
+        },
+        {
+            "address": "0x1b3a674722E88993018B315eDf1b959B70436f09",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/907a420d-9d94-400b-e7b0-aca8c9f23800/rectcrop3",
+            "name": "Moxie:xiaoje-fc",
+            "symbol": "Moxie:xiaoje-fc"
         }
     ],
     "version": {
