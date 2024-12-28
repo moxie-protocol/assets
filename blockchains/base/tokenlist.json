@@ -6820,6 +6820,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21aa0448-bf1e-47ab-0b40-5fd874dfd300/rectcrop3",
             "name": "Moxie:syrx-fc",
             "symbol": "Moxie:syrx-fc"
+        },
+        {
+            "address": "0xE3fFA3F4cd0C6C358cBc4d4ED4e72bF0Ba873f48",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qJOWqI0.jpg",
+            "name": "Moxie:ugo740-fc",
+            "symbol": "Moxie:ugo740-fc"
         }
     ],
     "version": {
