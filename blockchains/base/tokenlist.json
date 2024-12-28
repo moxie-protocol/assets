@@ -6778,6 +6778,13 @@
             "logoURI": "https://i.imgur.com/tVicOBV.jpg",
             "name": "Moxie:bangdisa-fc",
             "symbol": "Moxie:bangdisa-fc"
+        },
+        {
+            "address": "0xAe9461362C8276186af07F05c017838b7eA48312",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/q8A3Q5K.jpg",
+            "name": "Moxie:tmr-fc",
+            "symbol": "Moxie:tmr-fc"
         }
     ],
     "version": {
