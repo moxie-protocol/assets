@@ -6827,6 +6827,13 @@
             "logoURI": "https://i.imgur.com/qJOWqI0.jpg",
             "name": "Moxie:ugo740-fc",
             "symbol": "Moxie:ugo740-fc"
+        },
+        {
+            "address": "0x618f728b1ec48121AdE0c3F66c9D93c4D031134C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "khee1000",
+            "symbol": "fid:518508"
         }
     ],
     "version": {
