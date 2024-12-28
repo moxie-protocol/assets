@@ -6862,6 +6862,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1759907712333410304/3MJO0t8T.jpg",
             "name": "Moxie:dayz_eth-x",
             "symbol": "Moxie:dayz_eth-x"
+        },
+        {
+            "address": "0x1590A8EE73fF4d30A8f46AC327f5e462e7eBf8D0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/affb14d9-3018-4f93-76f4-57110ec93300/rectcrop3",
+            "name": "Moxie:trylucky-fc",
+            "symbol": "Moxie:trylucky-fc"
         }
     ],
     "version": {
