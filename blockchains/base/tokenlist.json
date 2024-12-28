@@ -5777,6 +5777,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibwkceklyd6jjg7k6e46fpo2nzzv7ge2befxdwsm4d56ejqz6gasa",
             "name": "Moxie:rayyan-fc",
             "symbol": "Moxie:rayyan-fc"
+        },
+        {
+            "address": "0x08171D69cA2341F11451A41FA86f6d7Ed7d1AF05",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rWrlhAP.jpg",
+            "name": "Moxie:oneheart-fc",
+            "symbol": "Moxie:oneheart-fc"
         }
     ],
     "version": {
