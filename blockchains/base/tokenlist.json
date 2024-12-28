@@ -5665,6 +5665,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94bce2a0-6756-4976-16e6-19c7c04f7e00/rectcrop3",
             "name": "Moxie:zksaal-fc",
             "symbol": "Moxie:zksaal-fc"
+        },
+        {
+            "address": "0x323F3CD872A667B4f057Ddc85f5b0ce1e8A95547",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "owr",
+            "symbol": "fid:471003"
         }
     ],
     "version": {
