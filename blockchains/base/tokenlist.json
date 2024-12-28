@@ -5840,6 +5840,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2d826f5-0ef7-401b-6448-96955fd31800/original",
             "name": "Moxie:mdsaikat-fc",
             "symbol": "Moxie:mdsaikat-fc"
+        },
+        {
+            "address": "0x7A9482097128DF593Abf59CBE8e8631cE9eBaDC0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9456951d-0bdf-4691-c2dc-e0596cc84800/original",
+            "name": "Moxie:apengs-fc",
+            "symbol": "Moxie:apengs-fc"
         }
     ],
     "version": {
