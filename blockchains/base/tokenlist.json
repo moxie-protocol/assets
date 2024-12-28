@@ -5147,6 +5147,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83a794b9-4261-4086-3f70-dbcb15d67b00/rectcrop3",
             "name": "Moxie:buiductham-fc",
             "symbol": "Moxie:buiductham-fc"
+        },
+        {
+            "address": "0x2D4486DadD6813fDe66ddDC1C1efe2CC0Ea50Be4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e82200f-8e42-4987-7d2f-823ade30bf00/rectcrop3",
+            "name": "Moxie:ato19-fc",
+            "symbol": "Moxie:ato19-fc"
         }
     ],
     "version": {
