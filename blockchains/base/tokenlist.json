@@ -5805,6 +5805,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHLkilqMZ1tCyZvJN5DG3qD1_afMHSb4xHW20TG-RlixZIn0M78-mGOwh\u0026s=10",
             "name": "Moxie:1111111111111.base.eth-base",
             "symbol": "Moxie:1111111111111.base.eth-base"
+        },
+        {
+            "address": "0x9BC24d58f5Bd25c5E3322B48e7C24D7c3AB6A89C",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/green.jpg",
+            "name": "Moxie:bangjull-fc",
+            "symbol": "Moxie:bangjull-fc"
         }
     ],
     "version": {
