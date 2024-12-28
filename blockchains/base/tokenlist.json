@@ -6491,6 +6491,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1561719124195061760/4CpC0fVC.jpg",
             "name": "Moxie:indonich-x",
             "symbol": "Moxie:indonich-x"
+        },
+        {
+            "address": "0xc96F84F2280FEF2642030C9aAE16A39936bC14da",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868707773988716545/9BD4DO3N.png",
+            "name": "Moxie:DoyokSenpai-x",
+            "symbol": "Moxie:DoyokSenpai-x"
         }
     ],
     "version": {
