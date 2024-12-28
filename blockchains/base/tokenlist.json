@@ -6659,6 +6659,13 @@
             "logoURI": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?cs=srgb\u0026dl=pexels-sulimansallehi-1704488.jpg\u0026fm=jpg",
             "name": "Moxie:marchblood.base.eth-base",
             "symbol": "Moxie:marchblood.base.eth-base"
+        },
+        {
+            "address": "0x3D314Cb7DFeA11C0300c384b45bb4D03816F26e2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/uvMjhrB.jpg",
+            "name": "Moxie:pemburucuan-fc",
+            "symbol": "Moxie:pemburucuan-fc"
         }
     ],
     "version": {
