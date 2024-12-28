@@ -6673,6 +6673,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1629153744326893568/tLz4DJLt.jpg",
             "name": "Moxie:gnktns-x",
             "symbol": "Moxie:gnktns-x"
+        },
+        {
+            "address": "0xb488eD95f2ca9614AFC734587C1231b2C5Cc64A7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1757764666275860480/lFgLUnfi.png",
+            "name": "Moxie:BajankOke-x",
+            "symbol": "Moxie:BajankOke-x"
         }
     ],
     "version": {
