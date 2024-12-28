@@ -5308,6 +5308,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1599828521802960897/CB224ocG.jpg",
             "name": "Moxie:beqiongtians-x",
             "symbol": "Moxie:beqiongtians-x"
+        },
+        {
+            "address": "0x7A54FEE5533bD8E36C57059e3E1521ab2D6D5F59",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3O1uHxj.jpg",
+            "name": "Moxie:pro777-fc",
+            "symbol": "Moxie:pro777-fc"
         }
     ],
     "version": {
