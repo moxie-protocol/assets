@@ -6960,6 +6960,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854106880517591040/_coF-Nfa.jpg",
             "name": "Moxie:miaw_call-x",
             "symbol": "Moxie:miaw_call-x"
+        },
+        {
+            "address": "0xAdA84D489da7E3db3cdE64024CC7A569D2654a1b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tIoiIEr.gif",
+            "name": "Moxie:astroross-fc",
+            "symbol": "Moxie:astroross-fc"
         }
     ],
     "version": {
