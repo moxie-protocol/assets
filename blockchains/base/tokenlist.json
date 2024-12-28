@@ -6267,6 +6267,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/937898b7-10bd-4763-30c1-67ffd78bca00/rectcrop3",
             "name": "Moxie:tuantamvan-fc",
             "symbol": "Moxie:tuantamvan-fc"
+        },
+        {
+            "address": "0x6D826a24F9939C9beD8b7742d89DD30797bB0bbe",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1766081409423482880/nZEwGTZF.jpg",
+            "name": "Moxie:lawelawe1221-x",
+            "symbol": "Moxie:lawelawe1221-x"
         }
     ],
     "version": {
