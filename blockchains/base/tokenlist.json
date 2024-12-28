@@ -6848,6 +6848,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6747dd47-559d-4d60-0031-e521cce73400/rectcrop3",
             "name": "Moxie:lstile-fc",
             "symbol": "Moxie:lstile-fc"
+        },
+        {
+            "address": "0x4F1a8280cBf45540EB60aDf4bf6B62a03746FCC3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e979ff3-5c40-4bae-80e8-b682f5768900/rectcrop3",
+            "name": "Moxie:dimaslotus-fc",
+            "symbol": "Moxie:dimaslotus-fc"
         }
     ],
     "version": {
