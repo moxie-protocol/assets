@@ -6855,6 +6855,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e979ff3-5c40-4bae-80e8-b682f5768900/rectcrop3",
             "name": "Moxie:dimaslotus-fc",
             "symbol": "Moxie:dimaslotus-fc"
+        },
+        {
+            "address": "0x67197077d18A327d5a247e28fDBc30b2Fc4FE6ad",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1759907712333410304/3MJO0t8T.jpg",
+            "name": "Moxie:dayz_eth-x",
+            "symbol": "Moxie:dayz_eth-x"
         }
     ],
     "version": {
