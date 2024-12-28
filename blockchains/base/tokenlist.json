@@ -6176,6 +6176,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869347919301943297/SObIvgfl.jpg",
             "name": "Moxie:BayuB89606-x",
             "symbol": "Moxie:BayuB89606-x"
+        },
+        {
+            "address": "0x253Db2c1f2485d13ee1a55EfFEF692c36C8Ebd93",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f092ce69-26a9-40e8-01af-c6b258261d00/rectcrop3",
+            "name": "Moxie:xasif-fc",
+            "symbol": "Moxie:xasif-fc"
         }
     ],
     "version": {
