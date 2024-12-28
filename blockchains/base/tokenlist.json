@@ -6890,6 +6890,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8a07135-d622-45d5-1155-53e81fbebe00/original",
             "name": "Moxie:kraken8.eth-fc",
             "symbol": "Moxie:kraken8.eth-fc"
+        },
+        {
+            "address": "0xD9Bf6000E70D5DFc9Df312e6d34C59c984db9BE7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/540d7ba1-eaff-409a-9202-75e3e160c200/rectcrop3",
+            "name": "Moxie:ulyana-fc",
+            "symbol": "Moxie:ulyana-fc"
         }
     ],
     "version": {
