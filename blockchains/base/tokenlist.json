@@ -6127,6 +6127,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1708034742619148288/YBtzR--E.jpg",
             "name": "Moxie:crypticxx_xx-x",
             "symbol": "Moxie:crypticxx_xx-x"
+        },
+        {
+            "address": "0x4710dFB19fbE6AcbbA977F1Fd1B70829e955520a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a548305-a0f7-41de-782e-1bbadc5be100/rectcrop3",
+            "name": "Moxie:corleone251-fc",
+            "symbol": "Moxie:corleone251-fc"
         }
     ],
     "version": {
