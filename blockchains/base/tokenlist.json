@@ -7086,6 +7086,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64806680-f3ab-4e47-b1e3-ff4141673b00/rectcrop3",
             "name": "Moxie:02arena-fc",
             "symbol": "Moxie:02arena-fc"
+        },
+        {
+            "address": "0xddF9C98476970a4ef8269d396EeD05c565fd5676",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03eda820-2b86-446a-6bd8-76d201ea5200/rectcrop3",
+            "name": "Moxie:shintu5-fc",
+            "symbol": "Moxie:shintu5-fc"
         }
     ],
     "version": {
