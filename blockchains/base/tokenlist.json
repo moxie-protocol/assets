@@ -6596,6 +6596,13 @@
             "logoURI": "https://i.imgur.com/H4VA1LJ.jpg",
             "name": "Moxie:dery-fc",
             "symbol": "Moxie:dery-fc"
+        },
+        {
+            "address": "0x61db93C7A947eB880b63D2786Dd1c771c1bbfD7a",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/TkbKi64wdd-q3YkEumY8CMWHxCQsjtAlDaPs24h31Vk/",
+            "name": "Moxie:cryptos88-fc",
+            "symbol": "Moxie:cryptos88-fc"
         }
     ],
     "version": {
