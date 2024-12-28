@@ -7233,6 +7233,13 @@
             "logoURI": "https://img.freepik.com/photos-gratuite/vue-du-monument-mondial-pour-celebrer-journee-du-patrimoine-mondial_23-2151297135.jpg?t=st=1735428634~exp=1735432234~hmac=d918bd59356c44a8d3e11c318ea21ed7a7b64fb82be7246c5fbad17a063be632\u0026w=1380",
             "name": "Moxie:muraille2chibres.base.eth-base",
             "symbol": "Moxie:muraille2chibres.base.eth-base"
+        },
+        {
+            "address": "0x269266BaC56C4D3eE0925af7c3B50589D5b7DfDA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40e661d0-c8be-4beb-ddc5-70ea74b28700/rectcrop3",
+            "name": "Moxie:galaxygrey-fc",
+            "symbol": "Moxie:galaxygrey-fc"
         }
     ],
     "version": {
