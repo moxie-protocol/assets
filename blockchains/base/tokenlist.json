@@ -6204,6 +6204,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6268583-1640-4a4a-e0e8-328d75bc4c00/rectcrop3",
             "name": "Moxie:variiante-fc",
             "symbol": "Moxie:variiante-fc"
+        },
+        {
+            "address": "0x978E977c661703f57233ea33bFd8Fa647f2d4a3E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1xH6m67.jpg",
+            "name": "Moxie:shanice04-fc",
+            "symbol": "Moxie:shanice04-fc"
         }
     ],
     "version": {
