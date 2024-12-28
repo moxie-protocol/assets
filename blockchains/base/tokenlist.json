@@ -6680,6 +6680,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1757764666275860480/lFgLUnfi.png",
             "name": "Moxie:BajankOke-x",
             "symbol": "Moxie:BajankOke-x"
+        },
+        {
+            "address": "0x6A792B9F19d9Ca674e59F11cd96957ab81381c81",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25269966-43cc-413e-e0b3-e8e02fd82f00/rectcrop3",
+            "name": "Moxie:athens-fc",
+            "symbol": "Moxie:athens-fc"
         }
     ],
     "version": {
