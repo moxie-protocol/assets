@@ -5336,6 +5336,13 @@
             "logoURI": "https://i.imgur.com/1m15MmD.jpg",
             "name": "Moxie:heriset5521-fc",
             "symbol": "Moxie:heriset5521-fc"
+        },
+        {
+            "address": "0x937D6CAFA2DCDd92D9fe5c88aD429Ef9e8047c97",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tuTx9ZD.jpg",
+            "name": "Moxie:gks1-fc",
+            "symbol": "Moxie:gks1-fc"
         }
     ],
     "version": {
