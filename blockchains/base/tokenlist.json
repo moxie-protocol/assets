@@ -6750,6 +6750,13 @@
             "logoURI": "https://i.imgur.com/jDkBUYO.jpg",
             "name": "Moxie:encek-fc",
             "symbol": "Moxie:encek-fc"
+        },
+        {
+            "address": "0x319D117D2Ad4C81107ae453C3973c4528A4b9676",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1827841851111383040/V7sZBA2x.jpg",
+            "name": "Moxie:samaaza89-x",
+            "symbol": "Moxie:samaaza89-x"
         }
     ],
     "version": {
