@@ -6589,6 +6589,13 @@
             "logoURI": "https://i.imgur.com/pfYgaPb.jpg",
             "name": "Moxie:roselia-fc",
             "symbol": "Moxie:roselia-fc"
+        },
+        {
+            "address": "0xf7Da68693C0e8AB53967A3E65806DC6F132060CF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/H4VA1LJ.jpg",
+            "name": "Moxie:dery-fc",
+            "symbol": "Moxie:dery-fc"
         }
     ],
     "version": {
