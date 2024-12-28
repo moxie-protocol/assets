@@ -5175,6 +5175,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d6c9626-ba87-49fa-cdb3-d93783833500/rectcrop3",
             "name": "Moxie:dewaonly-fc",
             "symbol": "Moxie:dewaonly-fc"
+        },
+        {
+            "address": "0x617B77A88fEa12f509B9a1C652C62A518fa02465",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeif62lmbxnrzvzdbw62taogwflcqkxvdcrkytm4xfgvmefvgbvvqsq",
+            "name": "Moxie:srekoone18-fc",
+            "symbol": "Moxie:srekoone18-fc"
         }
     ],
     "version": {
