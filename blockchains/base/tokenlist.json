@@ -6372,6 +6372,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f0a72b6-55a1-4d8a-45a6-99fae646a500/original",
             "name": "Moxie:zealous-fc",
             "symbol": "Moxie:zealous-fc"
+        },
+        {
+            "address": "0xe16CB9cBE35B54D92a2CE9b5f5d4e57c85D3533A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jojpKVY.jpg",
+            "name": "Moxie:alrangga-fc",
+            "symbol": "Moxie:alrangga-fc"
         }
     ],
     "version": {
