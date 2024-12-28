@@ -7107,6 +7107,13 @@
             "logoURI": "https://i.imgur.com/WUfQL4B.jpg",
             "name": "Moxie:raselhossain-fc",
             "symbol": "Moxie:raselhossain-fc"
+        },
+        {
+            "address": "0x8854f5c7CF5F548719f5fd698bE2a76f59569388",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866728043626352640/pdWy0tua.jpg",
+            "name": "Moxie:venusrein_one-x",
+            "symbol": "Moxie:venusrein_one-x"
         }
     ],
     "version": {
