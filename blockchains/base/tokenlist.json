@@ -7100,6 +7100,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1799338119143313408/iExfK37S.jpg",
             "name": "Moxie:alfian_fau12229-x",
             "symbol": "Moxie:alfian_fau12229-x"
+        },
+        {
+            "address": "0x7939Cad233D58B5C1C2FB6B26Ca9CdcA64534929",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WUfQL4B.jpg",
+            "name": "Moxie:raselhossain-fc",
+            "symbol": "Moxie:raselhossain-fc"
         }
     ],
     "version": {
