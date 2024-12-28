@@ -5014,6 +5014,13 @@
             "logoURI": "https://i.imgur.com/jR9P7dB.jpg",
             "name": "Moxie:minister-fc",
             "symbol": "Moxie:minister-fc"
+        },
+        {
+            "address": "0xa81695202e41b72D9cbE309B52B5c5DBE006700F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/TToZqr6.jpg",
+            "name": "Moxie:werak88-fc",
+            "symbol": "Moxie:werak88-fc"
         }
     ],
     "version": {
