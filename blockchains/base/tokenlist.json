@@ -4979,6 +4979,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1640412043777036288/uuCxIo2E.jpg",
             "name": "Moxie:solikinipin1991-x",
             "symbol": "Moxie:solikinipin1991-x"
+        },
+        {
+            "address": "0xdD4802011C2dB532f63145983681eE49cd56AFc2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eqju3g2.gif",
+            "name": "Moxie:bijidao-fc",
+            "symbol": "Moxie:bijidao-fc"
         }
     ],
     "version": {
