@@ -5833,6 +5833,13 @@
             "logoURI": "https://www.freepik.com/free-photos-vectors/scientist-dog-ai",
             "name": "Moxie:koilaskair.base.eth-base",
             "symbol": "Moxie:koilaskair.base.eth-base"
+        },
+        {
+            "address": "0x1BE9f109fF5252F7a9E4fE7dB9b96DdaD1D02189",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2d826f5-0ef7-401b-6448-96955fd31800/original",
+            "name": "Moxie:mdsaikat-fc",
+            "symbol": "Moxie:mdsaikat-fc"
         }
     ],
     "version": {
