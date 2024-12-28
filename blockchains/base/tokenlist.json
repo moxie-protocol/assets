@@ -6022,6 +6022,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcea04d0-5918-497e-3144-a4a20dbe3700/rectcrop3",
             "name": "Moxie:auzacrypto-fc",
             "symbol": "Moxie:auzacrypto-fc"
+        },
+        {
+            "address": "0x5a2881A171d908EEf23B6aa7827c1DD7CdA7697D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1718882905278025728/uVVa586Q.jpg",
+            "name": "Moxie:bonuoha666-x",
+            "symbol": "Moxie:bonuoha666-x"
         }
     ],
     "version": {
