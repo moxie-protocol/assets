@@ -7198,6 +7198,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a388797f-af6c-468c-d6ed-e644516ef500/original",
             "name": "Moxie:pasangsurut-fc",
             "symbol": "Moxie:pasangsurut-fc"
+        },
+        {
+            "address": "0x8D77d5853976B43E2A4DDe60ed27336235c2953e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WmuKqhO.jpg",
+            "name": "Moxie:owl10-fc",
+            "symbol": "Moxie:owl10-fc"
         }
     ],
     "version": {
