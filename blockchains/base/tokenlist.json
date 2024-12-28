@@ -7212,6 +7212,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fbc5c667-e61f-43c6-c851-eacecae0c400/rectcrop3",
             "name": "Moxie:sandalson-fc",
             "symbol": "Moxie:sandalson-fc"
+        },
+        {
+            "address": "0xe10095643b585C62f09ff39b5897db3b9Bd79f51",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1597056695741861889/ZpPNCisY.jpg",
+            "name": "Moxie:Aqsalaja-x",
+            "symbol": "Moxie:Aqsalaja-x"
         }
     ],
     "version": {
