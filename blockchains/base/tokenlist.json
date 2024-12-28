@@ -5266,6 +5266,13 @@
             "logoURI": "https://i.postimg.cc/CKYrXVFp/images-14.jpg",
             "name": "Moxie:vellz-fc",
             "symbol": "Moxie:vellz-fc"
+        },
+        {
+            "address": "0x5720EcCe7507F87CAfe480ec8BaC2F0561FA2669",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866712783049654272/VlKFCkAs.jpg",
+            "name": "Moxie:Zetaswap-x",
+            "symbol": "Moxie:Zetaswap-x"
         }
     ],
     "version": {
