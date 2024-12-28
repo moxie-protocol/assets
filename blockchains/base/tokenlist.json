@@ -4860,6 +4860,13 @@
             "logoURI": "https://i.imgur.com/twAJeZI.jpg",
             "name": "Moxie:ibyw-fc",
             "symbol": "Moxie:ibyw-fc"
+        },
+        {
+            "address": "0xbaEbE661a67D143105833cE51509820405aE60BC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e342e90e-b29c-46c8-2131-2ab20b9a1c00/rectcrop3",
+            "name": "Moxie:jembut-ayam-fc",
+            "symbol": "Moxie:jembut-ayam-fc"
         }
     ],
     "version": {
