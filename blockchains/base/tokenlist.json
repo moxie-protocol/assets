@@ -5812,6 +5812,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/green.jpg",
             "name": "Moxie:bangjull-fc",
             "symbol": "Moxie:bangjull-fc"
+        },
+        {
+            "address": "0xbFA66322C8DE618E5DB8C7A1E28CAF53e5F163c3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fzUznad.jpg",
+            "name": "Moxie:rakaputra-fc",
+            "symbol": "Moxie:rakaputra-fc"
         }
     ],
     "version": {
