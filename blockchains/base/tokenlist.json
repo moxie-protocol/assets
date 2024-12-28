@@ -5714,6 +5714,13 @@
             "logoURI": null,
             "name": "rock890",
             "symbol": "fid:518074"
+        },
+        {
+            "address": "0x8A59FE68e6Ab1F93D13f9BEf7FeD5FE79Ff2c951",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73c38360-fb86-4d50-6fdb-c42eca662000/original",
+            "name": "Moxie:sudoni-fc",
+            "symbol": "Moxie:sudoni-fc"
         }
     ],
     "version": {
