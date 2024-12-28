@@ -5441,6 +5441,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861456963693092864/TEriluU1.jpg",
             "name": "Moxie:kakilang97-x",
             "symbol": "Moxie:kakilang97-x"
+        },
+        {
+            "address": "0x7246519193Ee0a4042A8787397c849d12eDa404E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/aCUsnpf.jpg",
+            "name": "Moxie:lukybug-fc",
+            "symbol": "Moxie:lukybug-fc"
         }
     ],
     "version": {
