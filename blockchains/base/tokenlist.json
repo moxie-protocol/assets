@@ -5994,6 +5994,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6766ac35-6ee2-4adc-1fb1-d4df6b80b300/rectcrop3",
             "name": "Moxie:zamzami2193-fc",
             "symbol": "Moxie:zamzami2193-fc"
+        },
+        {
+            "address": "0x515dFCb2234c35d4BB85457dBb0f1F131CC0dD4d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1847108687170883587/0bRq4svn.png",
+            "name": "Moxie:kuru80881-x",
+            "symbol": "Moxie:kuru80881-x"
         }
     ],
     "version": {
