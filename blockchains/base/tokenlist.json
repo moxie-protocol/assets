@@ -5035,6 +5035,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16dc2716-fac3-4558-be05-0199f3382500/rectcrop3",
             "name": "Moxie:ardiandee-fc",
             "symbol": "Moxie:ardiandee-fc"
+        },
+        {
+            "address": "0xac637BE43A8689106baac67a5A62779f08b17Cd3",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/sKTycgs/5842668426-1728111543884.jpg",
+            "name": "Moxie:eyangabiyasa.base.eth-base",
+            "symbol": "Moxie:eyangabiyasa.base.eth-base"
         }
     ],
     "version": {
