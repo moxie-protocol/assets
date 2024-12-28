@@ -6799,6 +6799,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4c3af18-4aab-449a-c290-af255b911500/rectcrop3",
             "name": "Moxie:xnode-fc",
             "symbol": "Moxie:xnode-fc"
+        },
+        {
+            "address": "0x12E895446DdBC27b42279f02B1fbEc0A5C4934a2",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "yansdkk",
+            "symbol": "fid:335161"
         }
     ],
     "version": {
