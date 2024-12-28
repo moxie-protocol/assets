@@ -4916,6 +4916,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e7de9cd-5fdc-4a29-9e42-854130dab300/rectcrop3",
             "name": "Moxie:mraxhar-fc",
             "symbol": "Moxie:mraxhar-fc"
+        },
+        {
+            "address": "0xeb2e7A0e7f01b362bD73f9F47a58C4Cd7549D17F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8f0396b-7a7c-4f0a-4fdb-6544cad4a000/rectcrop3",
+            "name": "Moxie:daarealman-fc",
+            "symbol": "Moxie:daarealman-fc"
         }
     ],
     "version": {
