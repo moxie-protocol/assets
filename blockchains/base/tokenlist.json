@@ -5238,6 +5238,13 @@
             "logoURI": "https://i.imgur.com/OM2a9zG.jpg",
             "name": "Moxie:freedoms-fc",
             "symbol": "Moxie:freedoms-fc"
+        },
+        {
+            "address": "0x5f3b8Fb1EeFc57346633d9Fe7388D56c8f9B0fce",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3bdedd0-da31-4544-15af-a15e3eaad300/rectcrop3",
+            "name": "Moxie:rajyousuf10-fc",
+            "symbol": "Moxie:rajyousuf10-fc"
         }
     ],
     "version": {
