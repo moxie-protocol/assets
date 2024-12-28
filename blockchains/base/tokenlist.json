@@ -6540,6 +6540,13 @@
             "logoURI": "https://i.imgur.com/OkaZV8p.jpg",
             "name": "Moxie:reysyah-fc",
             "symbol": "Moxie:reysyah-fc"
+        },
+        {
+            "address": "0xa7dA8cD35b444fD420c3062B77A1cCc11A069674",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gRltIGx.jpg",
+            "name": "Moxie:uangdroid-fc",
+            "symbol": "Moxie:uangdroid-fc"
         }
     ],
     "version": {
