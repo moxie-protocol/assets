@@ -5651,6 +5651,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e24f4746-1720-4fe6-c943-5b19e36cb000/original",
             "name": "Moxie:crossline-fc",
             "symbol": "Moxie:crossline-fc"
+        },
+        {
+            "address": "0x71505618f96D6C0B46a9A725E1696d8f5C9eF949",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xn1SUh3.gif",
+            "name": "Moxie:yasin-fc",
+            "symbol": "Moxie:yasin-fc"
         }
     ],
     "version": {
