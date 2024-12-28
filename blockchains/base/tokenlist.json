@@ -5476,6 +5476,13 @@
             "logoURI": "https://i.imgur.com/dee3IXm.jpg",
             "name": "Moxie:aidoge-fc",
             "symbol": "Moxie:aidoge-fc"
+        },
+        {
+            "address": "0x711Ae943A65AA87a4c06185D38cc7Ed45BD83648",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c8d172c-fc06-47de-52d0-17ac3de14000/original",
+            "name": "Moxie:jarullyzard-fc",
+            "symbol": "Moxie:jarullyzard-fc"
         }
     ],
     "version": {
