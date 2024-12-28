@@ -6988,6 +6988,13 @@
             "logoURI": "https://i.imgur.com/3vPRq0m.png",
             "name": "Moxie:earlyrole-fc",
             "symbol": "Moxie:earlyrole-fc"
+        },
+        {
+            "address": "0x505E591120d791DB1993F9404Af012bd58C274E4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6cf47d23-0df6-46ac-e09f-2d8005069f00/rectcrop3",
+            "name": "Moxie:gimm-fc",
+            "symbol": "Moxie:gimm-fc"
         }
     ],
     "version": {
