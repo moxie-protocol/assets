@@ -5287,6 +5287,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80330485-db8c-46b4-f943-d093e9a0a600/rectcrop3",
             "name": "Moxie:miya-fc",
             "symbol": "Moxie:miya-fc"
+        },
+        {
+            "address": "0x7F7D50F94c2dAD0Ca90aa3b77174715dB871E8f3",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/ia0Um4QPe89LBgTWHCKhA_pIfJ2lvE5PjoloFEhU7jM/",
+            "name": "Moxie:alfinfauzy-fc",
+            "symbol": "Moxie:alfinfauzy-fc"
         }
     ],
     "version": {
