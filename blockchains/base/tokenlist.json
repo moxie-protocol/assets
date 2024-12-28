@@ -6652,6 +6652,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873026857467297798/nhyrPoEI.jpg",
             "name": "Moxie:Fauzan1325255-x",
             "symbol": "Moxie:Fauzan1325255-x"
+        },
+        {
+            "address": "0xDbCA9f79936FEcaCd5522a873B15F0ED83996308",
+            "decimals": 18,
+            "logoURI": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?cs=srgb\u0026dl=pexels-sulimansallehi-1704488.jpg\u0026fm=jpg",
+            "name": "Moxie:marchblood.base.eth-base",
+            "symbol": "Moxie:marchblood.base.eth-base"
         }
     ],
     "version": {
