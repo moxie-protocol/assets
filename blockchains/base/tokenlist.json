@@ -5854,6 +5854,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55629986-071b-4c0e-0a63-d0bf5c279100/rectcrop3",
             "name": "Moxie:ikranegara-fc",
             "symbol": "Moxie:ikranegara-fc"
+        },
+        {
+            "address": "0xc5799059E929f3Fa9B0e1D85c6fbE9f22B8D511a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef7b991f-2a31-4494-994e-f56317409000/rectcrop3",
+            "name": "Moxie:rocksider-fc",
+            "symbol": "Moxie:rocksider-fc"
         }
     ],
     "version": {
