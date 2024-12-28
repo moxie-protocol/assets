@@ -6834,6 +6834,13 @@
             "logoURI": null,
             "name": "khee1000",
             "symbol": "fid:518508"
+        },
+        {
+            "address": "0x101c62b81E2D576342c8179eEb98C9Def7eE00A4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/L9CqKFq.jpg",
+            "name": "Moxie:dogol-fc",
+            "symbol": "Moxie:dogol-fc"
         }
     ],
     "version": {
