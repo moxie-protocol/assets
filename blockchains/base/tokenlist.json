@@ -6939,6 +6939,13 @@
             "logoURI": "https://i.imgur.com/CjLpUdd.jpg",
             "name": "Moxie:tbest-fc",
             "symbol": "Moxie:tbest-fc"
+        },
+        {
+            "address": "0xc10C5b3Ca5B90fBa8E8372FE057Ed068F9B31B87",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oHH1bS2.jpg",
+            "name": "Moxie:sixcrz-fc",
+            "symbol": "Moxie:sixcrz-fc"
         }
     ],
     "version": {
