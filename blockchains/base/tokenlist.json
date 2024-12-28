@@ -5581,6 +5581,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864494539861577728/BGuhnoHv.jpg",
             "name": "Moxie:Aculsky-x",
             "symbol": "Moxie:Aculsky-x"
+        },
+        {
+            "address": "0xB86C55D2c793aB58471Ff0F6f712235202119e60",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c224731-3a08-4df5-4c48-b801374c1c00/rectcrop3",
+            "name": "Moxie:shellyriani-fc",
+            "symbol": "Moxie:shellyriani-fc"
         }
     ],
     "version": {
