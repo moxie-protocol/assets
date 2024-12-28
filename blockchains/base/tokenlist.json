@@ -6078,6 +6078,13 @@
             "logoURI": "https://i.imgur.com/a2yfW2n.jpg",
             "name": "Moxie:imamsf-fc",
             "symbol": "Moxie:imamsf-fc"
+        },
+        {
+            "address": "0xfa9f97c6A1ea50a2cb3B01cf75D32a3A179dA80b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9b1b51ee-5ac9-4704-cf92-ef7f157a0900/rectcrop3",
+            "name": "Moxie:sulistiyani12-fc",
+            "symbol": "Moxie:sulistiyani12-fc"
         }
     ],
     "version": {
