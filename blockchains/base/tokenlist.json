@@ -5469,6 +5469,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe339971-f799-44c0-8d92-be10683a0600/original",
             "name": "Moxie:bayrif-fc",
             "symbol": "Moxie:bayrif-fc"
+        },
+        {
+            "address": "0xcB979B9b59D10b8d28b27Aed6d33cE9bcC405281",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dee3IXm.jpg",
+            "name": "Moxie:aidoge-fc",
+            "symbol": "Moxie:aidoge-fc"
         }
     ],
     "version": {
