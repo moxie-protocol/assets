@@ -6841,6 +6841,13 @@
             "logoURI": "https://i.imgur.com/L9CqKFq.jpg",
             "name": "Moxie:dogol-fc",
             "symbol": "Moxie:dogol-fc"
+        },
+        {
+            "address": "0x95197fd0A1215A656FdC518527947CCFbD50A5B0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6747dd47-559d-4d60-0031-e521cce73400/rectcrop3",
+            "name": "Moxie:lstile-fc",
+            "symbol": "Moxie:lstile-fc"
         }
     ],
     "version": {
