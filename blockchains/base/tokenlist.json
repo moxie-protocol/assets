@@ -6631,6 +6631,13 @@
             "logoURI": "https://i.imgur.com/h6fKkf5.jpg",
             "name": "Moxie:muham77-fc",
             "symbol": "Moxie:muham77-fc"
+        },
+        {
+            "address": "0x7b7187e058B65A3202d9f16b0E38458A8DC84aEE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/So8uIjL.jpg",
+            "name": "Moxie:321199-fc",
+            "symbol": "Moxie:321199-fc"
         }
     ],
     "version": {
