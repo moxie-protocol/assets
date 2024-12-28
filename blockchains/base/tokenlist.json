@@ -6722,6 +6722,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicd2ppfgzwoai5vcpb3fstnyibf227al7aqpqpwadou7im5xwdgwq/3995.png",
             "name": "Moxie:zkboys-fc",
             "symbol": "Moxie:zkboys-fc"
+        },
+        {
+            "address": "0xFb0767288F016132e61aFc54A0a174B29f9A08c8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ba3b436-0750-4996-2bd9-791a6f42ad00/original",
+            "name": "Moxie:kakha-fc",
+            "symbol": "Moxie:kakha-fc"
         }
     ],
     "version": {
