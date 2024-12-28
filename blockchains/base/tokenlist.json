@@ -6141,6 +6141,13 @@
             "logoURI": "https://i.imgur.com/5SJ4Hv6.jpg",
             "name": "Moxie:kebros-fc",
             "symbol": "Moxie:kebros-fc"
+        },
+        {
+            "address": "0x6b120C5E0802c30FbD61E0C3c5f9A7223E7932A7",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "samaart",
+            "symbol": "fid:449654"
         }
     ],
     "version": {
