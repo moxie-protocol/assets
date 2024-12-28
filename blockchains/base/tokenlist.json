@@ -6281,6 +6281,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb959f44-78e4-4bb1-e679-855873758800/rectcrop3",
             "name": "Moxie:ravs-fc",
             "symbol": "Moxie:ravs-fc"
+        },
+        {
+            "address": "0x8d3984719c175262ce73a8f6BE95DB988c8B375A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZxtU1kL.jpg",
+            "name": "Moxie:soponyono-fc",
+            "symbol": "Moxie:soponyono-fc"
         }
     ],
     "version": {
