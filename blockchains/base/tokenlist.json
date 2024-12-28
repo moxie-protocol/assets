@@ -6932,6 +6932,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1653816145080905729/LCGTp1eC.jpg",
             "name": "Moxie:Lgundn-x",
             "symbol": "Moxie:Lgundn-x"
+        },
+        {
+            "address": "0x78470E882b0687A5fF9831A21202acFD1598CC3a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/CjLpUdd.jpg",
+            "name": "Moxie:tbest-fc",
+            "symbol": "Moxie:tbest-fc"
         }
     ],
     "version": {
