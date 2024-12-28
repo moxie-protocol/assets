@@ -6400,6 +6400,13 @@
             "logoURI": "https://i.imgur.com/FNWUHKU.jpg",
             "name": "Moxie:juncture-fc",
             "symbol": "Moxie:juncture-fc"
+        },
+        {
+            "address": "0x043edAfD3039aA25E36698435200FDa302108Ba6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/aoxy6Af.jpg",
+            "name": "Moxie:kolinek-fc",
+            "symbol": "Moxie:kolinek-fc"
         }
     ],
     "version": {
