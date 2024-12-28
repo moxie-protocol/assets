@@ -5973,6 +5973,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5eb7222c-146f-48f9-aacf-91e534a32c00/rectcrop3",
             "name": "Moxie:icecrypto-fc",
             "symbol": "Moxie:icecrypto-fc"
+        },
+        {
+            "address": "0xE44a057f67c8977637dB6169Bb4F7912fC967Bbf",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qGt9uAK.jpg",
+            "name": "Moxie:bonux-fc",
+            "symbol": "Moxie:bonux-fc"
         }
     ],
     "version": {
