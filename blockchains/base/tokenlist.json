@@ -7037,6 +7037,13 @@
             "logoURI": "https://i.imgur.com/8vCyL4j.gif",
             "name": "Moxie:noctur.eth-fc",
             "symbol": "Moxie:noctur.eth-fc"
+        },
+        {
+            "address": "0x3ed763Dc1d2484C5f243aa6d1CA494DF21542Cc9",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/SQnbfQDh/kandinsky-download-1731256826652.png",
+            "name": "Moxie:nftschka.eth-ens",
+            "symbol": "Moxie:nftschka.eth-ens"
         }
     ],
     "version": {
