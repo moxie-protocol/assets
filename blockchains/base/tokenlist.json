@@ -5595,6 +5595,13 @@
             "logoURI": "https://i.imgur.com/9IsUvG0.jpg",
             "name": "Moxie:depri-fc",
             "symbol": "Moxie:depri-fc"
+        },
+        {
+            "address": "0x14404BDDF6EA2fFa853653C55F5137E6cd3FE4bF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02c0d26c-cdc6-4645-030d-735fcf835e00/rectcrop3",
+            "name": "Moxie:nurulamin-fc",
+            "symbol": "Moxie:nurulamin-fc"
         }
     ],
     "version": {
