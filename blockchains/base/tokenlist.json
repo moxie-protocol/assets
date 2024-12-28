@@ -5154,6 +5154,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e82200f-8e42-4987-7d2f-823ade30bf00/rectcrop3",
             "name": "Moxie:ato19-fc",
             "symbol": "Moxie:ato19-fc"
+        },
+        {
+            "address": "0x6D923CaFdC82ABf9E956cDE67491A4d0d431d228",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d307630-6ce4-4fda-3402-ec4379d36200/rectcrop3",
+            "name": "Moxie:cryptosz-fc",
+            "symbol": "Moxie:cryptosz-fc"
         }
     ],
     "version": {
