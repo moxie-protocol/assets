@@ -7016,6 +7016,13 @@
             "logoURI": "https://i.imgur.com/sYDRZiY.jpg",
             "name": "Moxie:warvan-fc",
             "symbol": "Moxie:warvan-fc"
+        },
+        {
+            "address": "0x51D02B50E65A6467eF8d70A17d46371392710664",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcf546d1-4148-4276-d192-30868ab6f900/rectcrop3",
+            "name": "Moxie:rachman165-fc",
+            "symbol": "Moxie:rachman165-fc"
         }
     ],
     "version": {
