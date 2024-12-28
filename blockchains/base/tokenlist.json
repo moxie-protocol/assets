@@ -4846,6 +4846,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/14fa6e26-4a48-45d5-d1c4-4e30416d0800/rectcrop3",
             "name": "Moxie:dhunss-fc",
             "symbol": "Moxie:dhunss-fc"
+        },
+        {
+            "address": "0x9C5Eb238A041aEb015E8B0A659ab51B0e574D9EE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1850f565-fec5-4d2e-5f8c-f673f8e59000/rectcrop3",
+            "name": "Moxie:resekibersama-fc",
+            "symbol": "Moxie:resekibersama-fc"
         }
     ],
     "version": {
