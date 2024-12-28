@@ -5007,6 +5007,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18ef19fa-346f-4d4b-6f75-3a3dd9812a00/rectcrop3",
             "name": "Moxie:moonkeyttm-fc",
             "symbol": "Moxie:moonkeyttm-fc"
+        },
+        {
+            "address": "0x374bf03347332Ed0cec940C1029c82fA7aC3bca0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jR9P7dB.jpg",
+            "name": "Moxie:minister-fc",
+            "symbol": "Moxie:minister-fc"
         }
     ],
     "version": {
