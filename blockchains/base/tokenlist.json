@@ -5490,6 +5490,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8ec5d65-02c5-4511-09bb-831faf55ec00/rectcrop3",
             "name": "Moxie:hildan-fc",
             "symbol": "Moxie:hildan-fc"
+        },
+        {
+            "address": "0x15fB290d8736F95AD728461863107BC08594F3c3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/EDZd3TL.jpg",
+            "name": "Moxie:zyprexh-fc",
+            "symbol": "Moxie:zyprexh-fc"
         }
     ],
     "version": {
