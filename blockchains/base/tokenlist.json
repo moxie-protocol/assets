@@ -5245,6 +5245,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3bdedd0-da31-4544-15af-a15e3eaad300/rectcrop3",
             "name": "Moxie:rajyousuf10-fc",
             "symbol": "Moxie:rajyousuf10-fc"
+        },
+        {
+            "address": "0xdf40F88602F841A88b354a7670324646f4030Ff3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/iigxHVy.jpg",
+            "name": "Moxie:avapage-fc",
+            "symbol": "Moxie:avapage-fc"
         }
     ],
     "version": {
