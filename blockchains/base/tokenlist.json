@@ -4937,6 +4937,13 @@
             "logoURI": "https://i.imgur.com/8UNXYp5.jpg",
             "name": "Moxie:kitong-fc",
             "symbol": "Moxie:kitong-fc"
+        },
+        {
+            "address": "0xfdfa294893095D6073D381062f10C39BbBA76957",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5826b93-62b8-429b-a32b-2842b28e9400/rectcrop3",
+            "name": "Moxie:xczbimskuy-fc",
+            "symbol": "Moxie:xczbimskuy-fc"
         }
     ],
     "version": {
