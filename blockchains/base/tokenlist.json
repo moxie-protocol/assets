@@ -5168,6 +5168,13 @@
             "logoURI": "https://i.imgur.com/7ijbCwa.jpg",
             "name": "Moxie:naylazahra-fc",
             "symbol": "Moxie:naylazahra-fc"
+        },
+        {
+            "address": "0x24C703Db7C17F9CB5172eda44a0A80853d7e48f1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d6c9626-ba87-49fa-cdb3-d93783833500/rectcrop3",
+            "name": "Moxie:dewaonly-fc",
+            "symbol": "Moxie:dewaonly-fc"
         }
     ],
     "version": {
