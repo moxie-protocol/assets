@@ -4923,6 +4923,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8f0396b-7a7c-4f0a-4fdb-6544cad4a000/rectcrop3",
             "name": "Moxie:daarealman-fc",
             "symbol": "Moxie:daarealman-fc"
+        },
+        {
+            "address": "0xb8F70bacd0B02a4564907A2Fa69A97F493d29C77",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/10vQ4mx/download-1.png",
+            "name": "Moxie:cnnid.base.eth-base",
+            "symbol": "Moxie:cnnid.base.eth-base"
         }
     ],
     "version": {
