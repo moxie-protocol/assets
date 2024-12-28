@@ -6470,6 +6470,13 @@
             "logoURI": null,
             "name": "farooqaazad",
             "symbol": "fid:437883"
+        },
+        {
+            "address": "0x121379B285e145DC21ffdc1e7Cb5388bD04a1D3E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872992362387079168/WBxRAcQs.jpg",
+            "name": "Moxie:tesdoet02-x",
+            "symbol": "Moxie:tesdoet02-x"
         }
     ],
     "version": {
