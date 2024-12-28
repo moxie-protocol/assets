@@ -6981,6 +6981,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d73418de-a956-4d4a-7abd-87b9ddc58900/rectcrop3",
             "name": "Moxie:penuyul-fc",
             "symbol": "Moxie:penuyul-fc"
+        },
+        {
+            "address": "0x6594e0D439Beb4544F9098345164184C7B2dD8F3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3vPRq0m.png",
+            "name": "Moxie:earlyrole-fc",
+            "symbol": "Moxie:earlyrole-fc"
         }
     ],
     "version": {
