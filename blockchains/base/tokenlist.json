@@ -5735,6 +5735,13 @@
             "logoURI": "https://i.imgur.com/jkqRx5U.jpg",
             "name": "Moxie:ebolkece-fc",
             "symbol": "Moxie:ebolkece-fc"
+        },
+        {
+            "address": "0xb69982C65A978B69965815968E79a0328B1bD690",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d77e4a4-236f-4b70-4586-3bc1e3f50000/original",
+            "name": "Moxie:imehran.eth-fc",
+            "symbol": "Moxie:imehran.eth-fc"
         }
     ],
     "version": {
