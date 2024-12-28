@@ -4930,6 +4930,13 @@
             "logoURI": "https://i.ibb.co.com/10vQ4mx/download-1.png",
             "name": "Moxie:cnnid.base.eth-base",
             "symbol": "Moxie:cnnid.base.eth-base"
+        },
+        {
+            "address": "0xCB0A906eBa74a4b75349B76cA97fD30D17f3E6C9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8UNXYp5.jpg",
+            "name": "Moxie:kitong-fc",
+            "symbol": "Moxie:kitong-fc"
         }
     ],
     "version": {
