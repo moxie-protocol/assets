@@ -6526,6 +6526,13 @@
             "logoURI": "https://i.imgur.com/TkpN3bn.jpg",
             "name": "Moxie:ndieae-fc",
             "symbol": "Moxie:ndieae-fc"
+        },
+        {
+            "address": "0x73bc03781f378982Cf1b1AFb0d052F9A68e719F9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d20be35-351c-428b-546b-c5afcea9fa00/original",
+            "name": "Moxie:mint0133.eth-fc",
+            "symbol": "Moxie:mint0133.eth-fc"
         }
     ],
     "version": {
