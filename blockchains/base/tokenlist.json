@@ -5903,6 +5903,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac3559da-93f4-47a6-2656-b6ea8b695800/original",
             "name": "Moxie:ahuyxyz-fc",
             "symbol": "Moxie:ahuyxyz-fc"
+        },
+        {
+            "address": "0x7ebd2916Ef58098903aa0B10ABdb164c3FeaeBfF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5VW8P10.jpg",
+            "name": "Moxie:zorel-fc",
+            "symbol": "Moxie:zorel-fc"
         }
     ],
     "version": {
