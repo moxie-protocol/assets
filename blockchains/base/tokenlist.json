@@ -5455,6 +5455,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad8d3d4b-7880-4837-ed72-c5a0aea10900/rectcrop3",
             "name": "Moxie:niaxee-fc",
             "symbol": "Moxie:niaxee-fc"
+        },
+        {
+            "address": "0x813a8f17E4980B05e2E8acDFDb34fc0F35C16511",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28b85389-3557-423c-90c3-233827744400/original",
+            "name": "Moxie:takomaaa-fc",
+            "symbol": "Moxie:takomaaa-fc"
         }
     ],
     "version": {
