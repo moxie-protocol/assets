@@ -5539,6 +5539,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16405fa5-b2ac-4e5a-63a0-5b85687acc00/rectcrop3",
             "name": "Moxie:karan1-fc",
             "symbol": "Moxie:karan1-fc"
+        },
+        {
+            "address": "0xCc982c8EbCa7f7fD158edb5424E4F58bbF07da5f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UbdjFSA.jpg",
+            "name": "Moxie:sabia-fc",
+            "symbol": "Moxie:sabia-fc"
         }
     ],
     "version": {
