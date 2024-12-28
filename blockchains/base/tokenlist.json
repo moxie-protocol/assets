@@ -4888,6 +4888,13 @@
             "logoURI": null,
             "name": "gsruw",
             "symbol": "fid:331203"
+        },
+        {
+            "address": "0x502919FAf73D8cB82BDdff11ffD984E332E1c119",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbkJsdhyNdpX8DQhgCws3GMrcAhGQoDz3nBMwqk2PkEt7",
+            "name": "Moxie:webm659-fc",
+            "symbol": "Moxie:webm659-fc"
         }
     ],
     "version": {
