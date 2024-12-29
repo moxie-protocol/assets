@@ -7716,6 +7716,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd9f4f12-654f-4145-e628-9a2558026500/rectcrop3",
             "name": "Moxie:cantplayairdrop-fc",
             "symbol": "Moxie:cantplayairdrop-fc"
+        },
+        {
+            "address": "0x93A6Fb191c29AF9B88cD305627DAE43CbCb928E3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b4981e00-cadb-4466-3d8f-bf2fdeba1b00/rectcrop3",
+            "name": "Moxie:onymaru777-fc",
+            "symbol": "Moxie:onymaru777-fc"
         }
     ],
     "version": {
