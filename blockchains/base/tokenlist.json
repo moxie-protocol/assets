@@ -8010,6 +8010,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859654339675160579/sTGdUqn3.jpg",
             "name": "Moxie:mattermos07-x",
             "symbol": "Moxie:mattermos07-x"
+        },
+        {
+            "address": "0x09fDdF0c163024052cfDc0c0Bf7C1F3de3956371",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1767886932267438080/oLBit_1B.jpg",
+            "name": "Moxie:CoinhntrJoe-x",
+            "symbol": "Moxie:CoinhntrJoe-x"
         }
     ],
     "version": {
