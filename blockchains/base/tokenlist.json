@@ -7366,6 +7366,13 @@
             "logoURI": "https://i.imgur.com/zKzkTQS.jpg",
             "name": "Moxie:ash666-fc",
             "symbol": "Moxie:ash666-fc"
+        },
+        {
+            "address": "0x12CD7275f5322F09F50b6523F257777684CE32C1",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTkLJidBEjKmWx4PLX7XjAdWB56URhwARJLLZ3Php54RM",
+            "name": "Moxie:vikkithewinner-fc",
+            "symbol": "Moxie:vikkithewinner-fc"
         }
     ],
     "version": {
