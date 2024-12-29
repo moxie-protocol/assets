@@ -7996,6 +7996,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c2806c-7343-4a00-e03b-7251d531de00/rectcrop3",
             "name": "Moxie:yogiyendri.eth-fc",
             "symbol": "Moxie:yogiyendri.eth-fc"
+        },
+        {
+            "address": "0xEEF2d1F3F69cBD810000D1B2D2848f0a3c00180b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YeApdjU.jpg",
+            "name": "Moxie:0xrahmatriadi-fc",
+            "symbol": "Moxie:0xrahmatriadi-fc"
         }
     ],
     "version": {
