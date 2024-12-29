@@ -7436,6 +7436,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4ffa2f9b-bae6-4045-7888-8ee0802e4300/rectcrop3",
             "name": "Moxie:kochengcomes-fc",
             "symbol": "Moxie:kochengcomes-fc"
+        },
+        {
+            "address": "0xF79857bDAeBAb953D628775bC3Ea46a383d7e1Ed",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e519c060-9c99-4646-26d4-57a90ed22e00/rectcrop3",
+            "name": "Moxie:shient-fc",
+            "symbol": "Moxie:shient-fc"
         }
     ],
     "version": {
