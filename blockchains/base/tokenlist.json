@@ -7317,6 +7317,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1700856482324164608/_Jj4mq2I.jpg",
             "name": "Moxie:agnia_khairul-x",
             "symbol": "Moxie:agnia_khairul-x"
+        },
+        {
+            "address": "0xd20bF5e6030350C7BB1FE63c80dC80daB62CC34d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1750369257442213888/TT9MfR0q.jpg",
+            "name": "Moxie:pramod19550-x",
+            "symbol": "Moxie:pramod19550-x"
         }
     ],
     "version": {
