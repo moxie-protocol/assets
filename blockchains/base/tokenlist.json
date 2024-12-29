@@ -7303,6 +7303,13 @@
             "logoURI": "https://cdn.galxe.com/galaxy/fahdwyu5eha2klendxexyw/f9a1a555-6f6a-40dc-88a4-651ae530037d.gif",
             "name": "Moxie:bangjackp-fc",
             "symbol": "Moxie:bangjackp-fc"
+        },
+        {
+            "address": "0x5D01cC85933161bAeff23786366A6eB8B175FB3E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1823556117722738688/_NHPWrTr_400x400.jpg",
+            "name": "Moxie:attarisamaris.base.eth-base",
+            "symbol": "Moxie:attarisamaris.base.eth-base"
         }
     ],
     "version": {
