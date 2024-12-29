@@ -7632,6 +7632,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1820820037026144257/kLMx2Bz4.jpg",
             "name": "Moxie:Xo20514605-x",
             "symbol": "Moxie:Xo20514605-x"
+        },
+        {
+            "address": "0x4Ded78aEeD286561A172F6A5053796D3d37E9cba",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1849295606323527680/LQ1eWsKZ.jpg",
+            "name": "Moxie:gastrek541050-x",
+            "symbol": "Moxie:gastrek541050-x"
         }
     ],
     "version": {
