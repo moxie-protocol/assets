@@ -7954,6 +7954,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1754067580212678656/AadG2hoD.jpg",
             "name": "Moxie:TYMEinc_-x",
             "symbol": "Moxie:TYMEinc_-x"
+        },
+        {
+            "address": "0xCd64712a7069492F37F609c59c9AeBA6C4450EB3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7111c8d0-630c-4a2c-27d5-fd805fba3d00/rectcrop3",
+            "name": "Moxie:arasfarcaster-fc",
+            "symbol": "Moxie:arasfarcaster-fc"
         }
     ],
     "version": {
