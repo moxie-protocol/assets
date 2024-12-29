@@ -8059,6 +8059,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870911764965240832/8shQDwhH.jpg",
             "name": "Moxie:trapsila372316-x",
             "symbol": "Moxie:trapsila372316-x"
+        },
+        {
+            "address": "0x130fB14302b9084c7857a56226d2B83FAc9Db5b4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WawZhPD.jpg",
+            "name": "Moxie:sasim-fc",
+            "symbol": "Moxie:sasim-fc"
         }
     ],
     "version": {
