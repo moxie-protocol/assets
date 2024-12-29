@@ -7604,6 +7604,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53171915-80b5-4a9c-efca-a7ebf8a98d00/rectcrop3",
             "name": "Moxie:thealidev-fc",
             "symbol": "Moxie:thealidev-fc"
+        },
+        {
+            "address": "0x36Ce6F173215457885Cb6196Df81Bb4Ba42908E8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d1368f5-3501-4bfa-7c73-e48ad9a28300/rectcrop3",
+            "name": "Moxie:angelzora-fc",
+            "symbol": "Moxie:angelzora-fc"
         }
     ],
     "version": {
