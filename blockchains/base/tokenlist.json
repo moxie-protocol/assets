@@ -7653,6 +7653,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe3ff0d9-9f83-4fdd-d89a-427ae9a16100/rectcrop3",
             "name": "Moxie:abnerrr-fc",
             "symbol": "Moxie:abnerrr-fc"
+        },
+        {
+            "address": "0x14a16A08b06EB7eecdEad621b882e21F7a49D296",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c2180a0-11db-49d0-e1b1-e6dc2bd3fa00/rectcrop3",
+            "name": "Moxie:tomahawk-fc",
+            "symbol": "Moxie:tomahawk-fc"
         }
     ],
     "version": {
