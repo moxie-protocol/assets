@@ -7758,6 +7758,13 @@
             "logoURI": "https://media.firefly.land/farcaster/238a3a32-fff6-4f1b-8bd4-eb6954670752.png",
             "name": "Moxie:wolupapat.eth-fc",
             "symbol": "Moxie:wolupapat.eth-fc"
+        },
+        {
+            "address": "0xBD16339901aAf11112E1Ea80E3B36Be80d801fC8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jwGi5Za.jpg",
+            "name": "Moxie:fauzin-fc",
+            "symbol": "Moxie:fauzin-fc"
         }
     ],
     "version": {
