@@ -7590,6 +7590,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d05273e-1bcc-4118-c1e5-49642faae800/original",
             "name": "Moxie:p0uet21-fc",
             "symbol": "Moxie:p0uet21-fc"
+        },
+        {
+            "address": "0x041C87c2AC47216a825E0F7e0795D4edf631DAED",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbvMaHFVehb5gPkdVEJDLyx7VoKHv37hHH71Ut9XZFazk/0",
+            "name": "Moxie:sandiputra-fc",
+            "symbol": "Moxie:sandiputra-fc"
         }
     ],
     "version": {
