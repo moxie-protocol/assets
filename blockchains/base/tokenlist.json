@@ -7387,6 +7387,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a77b0f13-333f-414e-e8e6-708203a87e00/original",
             "name": "Moxie:johnsmit-fc",
             "symbol": "Moxie:johnsmit-fc"
+        },
+        {
+            "address": "0xDe2D8e16f1b3935f866687B4cB7e88de80b5D3FD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Yp7imp9.jpg",
+            "name": "Moxie:rangnarog31-fc",
+            "symbol": "Moxie:rangnarog31-fc"
         }
     ],
     "version": {
