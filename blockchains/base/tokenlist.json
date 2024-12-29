@@ -7765,6 +7765,13 @@
             "logoURI": "https://i.imgur.com/jwGi5Za.jpg",
             "name": "Moxie:fauzin-fc",
             "symbol": "Moxie:fauzin-fc"
+        },
+        {
+            "address": "0x0A280b372e3B65b68635C3A3EB91C53450337f69",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "web33",
+            "symbol": "fid:924462"
         }
     ],
     "version": {
