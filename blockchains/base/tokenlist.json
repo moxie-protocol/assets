@@ -7702,6 +7702,13 @@
             "logoURI": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fzora.co%2Fapi%2Fog-image%2Fpost%2Fzora%3A0x397120dbc7879002196df5f3fe80b4afdab95ae1%2F8%3Fv%3D2%26crop%3Dsquare\u0026s=6107128bf263e9f178fe64a62e57745dc209147b5b4eb31cd77b5ab14fb4c25a",
             "name": "Moxie:antibolit.base.eth-base",
             "symbol": "Moxie:antibolit.base.eth-base"
+        },
+        {
+            "address": "0x27A1255B6625de5A3F05aeCa892779f3C3f87186",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/mQpiUQU.jpg",
+            "name": "Moxie:alanz-fc",
+            "symbol": "Moxie:alanz-fc"
         }
     ],
     "version": {
