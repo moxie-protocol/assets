@@ -7394,6 +7394,13 @@
             "logoURI": "https://i.imgur.com/Yp7imp9.jpg",
             "name": "Moxie:rangnarog31-fc",
             "symbol": "Moxie:rangnarog31-fc"
+        },
+        {
+            "address": "0x9355906409605a0033dC38A0a7f4694d498D1D57",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4w9mfkq.jpg",
+            "name": "Moxie:donny2704-fc",
+            "symbol": "Moxie:donny2704-fc"
         }
     ],
     "version": {
