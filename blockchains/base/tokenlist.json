@@ -7471,6 +7471,13 @@
             "logoURI": "https://i.imgur.com/DvUKDqr.jpg",
             "name": "Moxie:date-fc",
             "symbol": "Moxie:date-fc"
+        },
+        {
+            "address": "0xf26cF980E52E8BdF497c5256c2337372761Ef387",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1800279571356426240/g-nJw37M.jpg",
+            "name": "Moxie:xyk190-x",
+            "symbol": "Moxie:xyk190-x"
         }
     ],
     "version": {
