@@ -7513,6 +7513,13 @@
             "logoURI": "https://i.imgur.com/Ox8yIKo.jpg",
             "name": "Moxie:betha-fc",
             "symbol": "Moxie:betha-fc"
+        },
+        {
+            "address": "0x74BF14Fddbe0aBC2F6465BA206B653b60e08784c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859102115681234946/g45GOuCy.jpg",
+            "name": "Moxie:zenhbbe-x",
+            "symbol": "Moxie:zenhbbe-x"
         }
     ],
     "version": {
