@@ -7345,6 +7345,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0a8acf8-c75e-4375-a6c3-4481a105a600/rectcrop3",
             "name": "Moxie:sychonine-fc",
             "symbol": "Moxie:sychonine-fc"
+        },
+        {
+            "address": "0xA231058e6061187C4c499ec267104bDeCb6AB116",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Z0TXhJY.jpg",
+            "name": "Moxie:srsaif716-fc",
+            "symbol": "Moxie:srsaif716-fc"
         }
     ],
     "version": {
