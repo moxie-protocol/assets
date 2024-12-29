@@ -7730,6 +7730,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828268292605460480/AvJWsVxR.jpg",
             "name": "Moxie:gojosatoru5470-x",
             "symbol": "Moxie:gojosatoru5470-x"
+        },
+        {
+            "address": "0x4BA206921094610Acb5dEa5FD9b9727B720e4693",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1688902354022944769/wQ1GDX2u.jpg",
+            "name": "Moxie:rezaexit9-x",
+            "symbol": "Moxie:rezaexit9-x"
         }
     ],
     "version": {
