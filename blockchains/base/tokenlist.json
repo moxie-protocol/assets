@@ -7660,6 +7660,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c2180a0-11db-49d0-e1b1-e6dc2bd3fa00/rectcrop3",
             "name": "Moxie:tomahawk-fc",
             "symbol": "Moxie:tomahawk-fc"
+        },
+        {
+            "address": "0x05c8AE8E6D9137cA52DD9Ac24C57f6E44A87bAac",
+            "decimals": 18,
+            "logoURI": "https://fast.image.delivery/kwscmgi.jpg",
+            "name": "Moxie:zeosilva.eth-ens",
+            "symbol": "Moxie:zeosilva.eth-ens"
         }
     ],
     "version": {
