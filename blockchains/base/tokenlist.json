@@ -7527,6 +7527,13 @@
             "logoURI": "https://i.imgur.com/pVaK5Mj.jpg",
             "name": "Moxie:kuzumaart-fc",
             "symbol": "Moxie:kuzumaart-fc"
+        },
+        {
+            "address": "0x68C15A025853b5d92EF019a7F50B4D259d4e488C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5c1c0ef-fc53-4953-cb40-582632065500/original",
+            "name": "Moxie:depay88-fc",
+            "symbol": "Moxie:depay88-fc"
         }
     ],
     "version": {
