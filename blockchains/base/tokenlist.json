@@ -7751,6 +7751,13 @@
             "logoURI": "https://imgs.search.brave.com/E5gTnu3fIvW50m2uMNndMIvkO4DFky7M_ESuW03orAY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dGVzdC5kZS9maWxl/L2ltYWdlL2Y0LzEz/L2E3ZGFjYTAwLTQw/MTQtNDA5NC1hOTUx/LWQ3MTBjOWNjOGI0/NC13ZWIvNjEzMzUx/M19rcnlwdG93YWVo/cnVuZy1hMjAyNDA2/LmpwZw",
             "name": "Moxie:numboy.eth-ens",
             "symbol": "Moxie:numboy.eth-ens"
+        },
+        {
+            "address": "0x3696da0c0e85FDEd7d337BE2Bc99eB8e475fb62D",
+            "decimals": 18,
+            "logoURI": "https://media.firefly.land/farcaster/238a3a32-fff6-4f1b-8bd4-eb6954670752.png",
+            "name": "Moxie:wolupapat.eth-fc",
+            "symbol": "Moxie:wolupapat.eth-fc"
         }
     ],
     "version": {
