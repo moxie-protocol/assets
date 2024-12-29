@@ -7380,6 +7380,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:Febrikur102-x",
             "symbol": "Moxie:Febrikur102-x"
+        },
+        {
+            "address": "0x37BA3f3A8bD72BAa03e3397C97B1a669DDA75892",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a77b0f13-333f-414e-e8e6-708203a87e00/original",
+            "name": "Moxie:johnsmit-fc",
+            "symbol": "Moxie:johnsmit-fc"
         }
     ],
     "version": {
