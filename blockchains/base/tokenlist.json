@@ -7373,6 +7373,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTkLJidBEjKmWx4PLX7XjAdWB56URhwARJLLZ3Php54RM",
             "name": "Moxie:vikkithewinner-fc",
             "symbol": "Moxie:vikkithewinner-fc"
+        },
+        {
+            "address": "0xFA278ba329E7FDd67df922f8464ae566bf8EF2E7",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Febrikur102-x",
+            "symbol": "Moxie:Febrikur102-x"
         }
     ],
     "version": {
