@@ -7667,6 +7667,13 @@
             "logoURI": "https://fast.image.delivery/kwscmgi.jpg",
             "name": "Moxie:zeosilva.eth-ens",
             "symbol": "Moxie:zeosilva.eth-ens"
+        },
+        {
+            "address": "0x24797D591D32BACe0Ec48642EF1dff7F9Da51167",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8177c60c-06db-4a8b-19e9-c4caef611700/rectcrop3",
+            "name": "Moxie:iskandar121-fc",
+            "symbol": "Moxie:iskandar121-fc"
         }
     ],
     "version": {
