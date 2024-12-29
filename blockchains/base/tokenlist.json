@@ -8017,6 +8017,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1767886932267438080/oLBit_1B.jpg",
             "name": "Moxie:CoinhntrJoe-x",
             "symbol": "Moxie:CoinhntrJoe-x"
+        },
+        {
+            "address": "0xE2E5651396Fd4Bfc90cAeA495a72bfB2C98483C2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1843139497866735616/Q35Dy7B_.jpg",
+            "name": "Moxie:Mohamadrez35185-x",
+            "symbol": "Moxie:Mohamadrez35185-x"
         }
     ],
     "version": {
