@@ -7352,6 +7352,13 @@
             "logoURI": "https://i.imgur.com/Z0TXhJY.jpg",
             "name": "Moxie:srsaif716-fc",
             "symbol": "Moxie:srsaif716-fc"
+        },
+        {
+            "address": "0xe203feD5a11f06F22E3e0Ab344C8D68A6557aAE8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4cfd93b-d7d4-4b35-e60c-e08c3bcdef00/rectcrop3",
+            "name": "Moxie:kunyyuk-fc",
+            "symbol": "Moxie:kunyyuk-fc"
         }
     ],
     "version": {
