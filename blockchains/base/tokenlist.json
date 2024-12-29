@@ -7968,6 +7968,13 @@
             "logoURI": "https://i.imgur.com/FyaGCEo.jpg",
             "name": "Moxie:miu-fc",
             "symbol": "Moxie:miu-fc"
+        },
+        {
+            "address": "0xE4CF524866E29Eed7D3E5cB409Bd5279887634E9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848800075809439744/H8XzdDXI.jpg",
+            "name": "Moxie:EnModeTwittos-x",
+            "symbol": "Moxie:EnModeTwittos-x"
         }
     ],
     "version": {
