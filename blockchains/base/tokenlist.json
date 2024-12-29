@@ -7296,6 +7296,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17553354-fab0-4e82-652b-59bcd3cea300/rectcrop3",
             "name": "Moxie:nursubaika-fc",
             "symbol": "Moxie:nursubaika-fc"
+        },
+        {
+            "address": "0x688348AAA2e088964a08d882E862e068174e8f66",
+            "decimals": 18,
+            "logoURI": "https://cdn.galxe.com/galaxy/fahdwyu5eha2klendxexyw/f9a1a555-6f6a-40dc-88a4-651ae530037d.gif",
+            "name": "Moxie:bangjackp-fc",
+            "symbol": "Moxie:bangjackp-fc"
         }
     ],
     "version": {
