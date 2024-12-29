@@ -7688,6 +7688,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc957428-aafc-4493-b568-1b2a8b465f00/original",
             "name": "Moxie:alipazuki-fc",
             "symbol": "Moxie:alipazuki-fc"
+        },
+        {
+            "address": "0x8cDed92dD90D798A1b08bBB59632424F28D77F28",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/lLF_ZvT8LwTUdPq_JdwaVGydOIgL0XkTRH7xcMzM1IE/",
+            "name": "Moxie:eraa-fc",
+            "symbol": "Moxie:eraa-fc"
         }
     ],
     "version": {
