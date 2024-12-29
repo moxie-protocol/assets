@@ -7835,6 +7835,13 @@
             "logoURI": "https://i.imgur.com/2h8S8Im.jpg",
             "name": "Moxie:tazz-fc",
             "symbol": "Moxie:tazz-fc"
+        },
+        {
+            "address": "0x8e6876d0c99a5FBe70cb7922abcfE90CeBEa68bC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wRyWOvd.jpg",
+            "name": "Moxie:krishnaronaldo-fc",
+            "symbol": "Moxie:krishnaronaldo-fc"
         }
     ],
     "version": {
