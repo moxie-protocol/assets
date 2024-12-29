@@ -7646,6 +7646,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/001398bd-5170-4c15-01a9-c9dcd30b7400/rectcrop3",
             "name": "Moxie:zeazee-fc",
             "symbol": "Moxie:zeazee-fc"
+        },
+        {
+            "address": "0xf1B035718c87A247c703718397C60660fb1FB9dE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe3ff0d9-9f83-4fdd-d89a-427ae9a16100/rectcrop3",
+            "name": "Moxie:abnerrr-fc",
+            "symbol": "Moxie:abnerrr-fc"
         }
     ],
     "version": {
