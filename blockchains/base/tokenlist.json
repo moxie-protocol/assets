@@ -7576,6 +7576,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bb56f74-279d-49d0-1d93-4895eea3ff00/rectcrop3",
             "name": "Moxie:sukoden-fc",
             "symbol": "Moxie:sukoden-fc"
+        },
+        {
+            "address": "0x81E3a761C804AfAD1503A5dB884400CF7f71F12C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LRsA1hd.jpg",
+            "name": "Moxie:tutsya-fc",
+            "symbol": "Moxie:tutsya-fc"
         }
     ],
     "version": {
