@@ -7583,6 +7583,13 @@
             "logoURI": "https://i.imgur.com/LRsA1hd.jpg",
             "name": "Moxie:tutsya-fc",
             "symbol": "Moxie:tutsya-fc"
+        },
+        {
+            "address": "0xC42db1eD4e6A558c9F6abbC6Db789FBaA479C548",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d05273e-1bcc-4118-c1e5-49642faae800/original",
+            "name": "Moxie:p0uet21-fc",
+            "symbol": "Moxie:p0uet21-fc"
         }
     ],
     "version": {
