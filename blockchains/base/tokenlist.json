@@ -7499,6 +7499,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRyG2jieNfv423VfJX8VS1iGqEtMABS1GPEmxwvFaRP2f",
             "name": "Moxie:rboys16-fc",
             "symbol": "Moxie:rboys16-fc"
+        },
+        {
+            "address": "0x4E70C6C05ebDa5593a3D5a4E92d934A5317bCDe5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b855d8af-0f8d-4f10-f3c3-578aa94d4100/rectcrop3",
+            "name": "Moxie:retrob-fc",
+            "symbol": "Moxie:retrob-fc"
         }
     ],
     "version": {
