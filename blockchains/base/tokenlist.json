@@ -7800,6 +7800,13 @@
             "logoURI": "https://raw.seadn.io/files/1fd1c41d57c6bba941685aaf160460c0.svg",
             "name": "Moxie:imnothing-fc",
             "symbol": "Moxie:imnothing-fc"
+        },
+        {
+            "address": "0xf18CBdcfc96f0e757ef092A64B636a41416cB3D6",
+            "decimals": 18,
+            "logoURI": "https://raw.seadn.io/files/ced7fe288e65e3713a565d8330b3346a.svg",
+            "name": "Moxie:305331-fc",
+            "symbol": "Moxie:305331-fc"
         }
     ],
     "version": {
