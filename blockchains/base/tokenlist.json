@@ -7877,6 +7877,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1838427071250591744/fBF7dCjN.jpg",
             "name": "Moxie:mahdimif1-x",
             "symbol": "Moxie:mahdimif1-x"
+        },
+        {
+            "address": "0x2404d10ba9F70C9ade49F5FC2d2218dC005460d8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1764352301899415552/r7zWO8u9.jpg",
+            "name": "Moxie:Azizyyuz-x",
+            "symbol": "Moxie:Azizyyuz-x"
         }
     ],
     "version": {
