@@ -7464,6 +7464,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872565835090554880/rCTrK7gR.png",
             "name": "Moxie:jokeahh-x",
             "symbol": "Moxie:jokeahh-x"
+        },
+        {
+            "address": "0xFeBe9603101ea030b47A7f6fc129A7c104668125",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DvUKDqr.jpg",
+            "name": "Moxie:date-fc",
+            "symbol": "Moxie:date-fc"
         }
     ],
     "version": {
