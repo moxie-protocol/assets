@@ -7534,6 +7534,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5c1c0ef-fc53-4953-cb40-582632065500/original",
             "name": "Moxie:depay88-fc",
             "symbol": "Moxie:depay88-fc"
+        },
+        {
+            "address": "0xEB6bA1ffD631E9CeA0302cF6A456B135D6317234",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/TYTa29X.gif",
+            "name": "Moxie:zyzetye-fc",
+            "symbol": "Moxie:zyzetye-fc"
         }
     ],
     "version": {
