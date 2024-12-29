@@ -7961,6 +7961,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7111c8d0-630c-4a2c-27d5-fd805fba3d00/rectcrop3",
             "name": "Moxie:arasfarcaster-fc",
             "symbol": "Moxie:arasfarcaster-fc"
+        },
+        {
+            "address": "0x3479dCbDbdc607AA08BF3147A36D4509878443BA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FyaGCEo.jpg",
+            "name": "Moxie:miu-fc",
+            "symbol": "Moxie:miu-fc"
         }
     ],
     "version": {
