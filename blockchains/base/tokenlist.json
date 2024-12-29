@@ -7520,6 +7520,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859102115681234946/g45GOuCy.jpg",
             "name": "Moxie:zenhbbe-x",
             "symbol": "Moxie:zenhbbe-x"
+        },
+        {
+            "address": "0x90107a88BDA8230a425055C72fF6a0723F452944",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pVaK5Mj.jpg",
+            "name": "Moxie:kuzumaart-fc",
+            "symbol": "Moxie:kuzumaart-fc"
         }
     ],
     "version": {
