@@ -7744,6 +7744,13 @@
             "logoURI": "https://i.imgur.com/nDAZFAH.png",
             "name": "Moxie:oppabil-fc",
             "symbol": "Moxie:oppabil-fc"
+        },
+        {
+            "address": "0x8Cf384689CB405d9E6a7C92ADD35aC0AfF04e9C1",
+            "decimals": 18,
+            "logoURI": "https://imgs.search.brave.com/E5gTnu3fIvW50m2uMNndMIvkO4DFky7M_ESuW03orAY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dGVzdC5kZS9maWxl/L2ltYWdlL2Y0LzEz/L2E3ZGFjYTAwLTQw/MTQtNDA5NC1hOTUx/LWQ3MTBjOWNjOGI0/NC13ZWIvNjEzMzUx/M19rcnlwdG93YWVo/cnVuZy1hMjAyNDA2/LmpwZw",
+            "name": "Moxie:numboy.eth-ens",
+            "symbol": "Moxie:numboy.eth-ens"
         }
     ],
     "version": {
