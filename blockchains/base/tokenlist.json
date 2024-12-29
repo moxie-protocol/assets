@@ -7268,6 +7268,13 @@
             "logoURI": "https://i.imgur.com/SOKVdan.jpg",
             "name": "Moxie:kahiyang-fc",
             "symbol": "Moxie:kahiyang-fc"
+        },
+        {
+            "address": "0xf3292707Ce9e878F7EA7B2Ea326F39872Ffe3f31",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44baeaf9-2630-4351-3f0f-de99fe27e300/rectcrop3",
+            "name": "Moxie:rainasiraka-fc",
+            "symbol": "Moxie:rainasiraka-fc"
         }
     ],
     "version": {
