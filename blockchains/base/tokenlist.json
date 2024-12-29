@@ -8038,6 +8038,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1618549178572881920/4Zynvhxu.jpg",
             "name": "Moxie:cryptovilla7-x",
             "symbol": "Moxie:cryptovilla7-x"
+        },
+        {
+            "address": "0xE23722cFb8f66E537179fa79663f6e9cF58002D9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/252859fe-868d-4c47-bcc9-c41464923a00/rectcrop3",
+            "name": "Moxie:outverse-fc",
+            "symbol": "Moxie:outverse-fc"
         }
     ],
     "version": {
