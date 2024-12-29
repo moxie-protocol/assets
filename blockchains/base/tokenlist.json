@@ -7898,6 +7898,13 @@
             "logoURI": "https://arweave.net/jELkOID5ebkoHwDV2e0qDnYhtYai_vEKHdCu-ZEPAQ8/",
             "name": "Moxie:xtif-fc",
             "symbol": "Moxie:xtif-fc"
+        },
+        {
+            "address": "0x293D971aDd1C0A0f47D2E5601b3A5e117F6ACDb3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f803c1fe-8e8e-42df-381c-28187b33f400/rectcrop3",
+            "name": "Moxie:tommz44-fc",
+            "symbol": "Moxie:tommz44-fc"
         }
     ],
     "version": {
