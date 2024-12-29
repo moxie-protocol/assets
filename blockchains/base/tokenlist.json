@@ -7548,6 +7548,13 @@
             "logoURI": "https://arweave.net/a4sDofWMAqNoxpiNoJqj4ric0cA950N-5eNzYSflry8/",
             "name": "Moxie:dark0602-fc",
             "symbol": "Moxie:dark0602-fc"
+        },
+        {
+            "address": "0xFb06E384841C5Ae428b7323E4AD99f55082e6537",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1769024376484315136/ptS4zXTK.jpg",
+            "name": "Moxie:nonamesez-x",
+            "symbol": "Moxie:nonamesez-x"
         }
     ],
     "version": {
