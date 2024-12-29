@@ -7401,6 +7401,13 @@
             "logoURI": "https://i.imgur.com/4w9mfkq.jpg",
             "name": "Moxie:donny2704-fc",
             "symbol": "Moxie:donny2704-fc"
+        },
+        {
+            "address": "0x5921EF5007278d213bbC3612E2B7488d111F608d",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/zGdRj9E.jpg",
+            "name": "Moxie:tawangudud-fc",
+            "symbol": "Moxie:tawangudud-fc"
         }
     ],
     "version": {
