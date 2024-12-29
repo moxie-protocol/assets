@@ -7597,6 +7597,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbvMaHFVehb5gPkdVEJDLyx7VoKHv37hHH71Ut9XZFazk/0",
             "name": "Moxie:sandiputra-fc",
             "symbol": "Moxie:sandiputra-fc"
+        },
+        {
+            "address": "0xB5b2D0a506A0A9Dcf4c09BFbC70BefDfcD24F789",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53171915-80b5-4a9c-efca-a7ebf8a98d00/rectcrop3",
+            "name": "Moxie:thealidev-fc",
+            "symbol": "Moxie:thealidev-fc"
         }
     ],
     "version": {
