@@ -7793,6 +7793,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869878963268661248/Wq_5lc9w.png",
             "name": "Moxie:kunaykitty-x",
             "symbol": "Moxie:kunaykitty-x"
+        },
+        {
+            "address": "0x1047fbF28CD6A7a6cfA1B1E5cF86aD0840e5B80f",
+            "decimals": 18,
+            "logoURI": "https://raw.seadn.io/files/1fd1c41d57c6bba941685aaf160460c0.svg",
+            "name": "Moxie:imnothing-fc",
+            "symbol": "Moxie:imnothing-fc"
         }
     ],
     "version": {
