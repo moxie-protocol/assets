@@ -7275,6 +7275,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44baeaf9-2630-4351-3f0f-de99fe27e300/rectcrop3",
             "name": "Moxie:rainasiraka-fc",
             "symbol": "Moxie:rainasiraka-fc"
+        },
+        {
+            "address": "0xc435086990B0825D95182046EdAbDBcBA2BE4B63",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71b1377e-df7e-4ee0-9212-b49ed3f70200/rectcrop3",
+            "name": "Moxie:mesintempur-fc",
+            "symbol": "Moxie:mesintempur-fc"
         }
     ],
     "version": {
