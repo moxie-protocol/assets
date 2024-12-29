@@ -7450,6 +7450,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cee9eb30-3aa7-46d4-cec4-ef4fddbc5600/rectcrop3",
             "name": "Moxie:oseworld-fc",
             "symbol": "Moxie:oseworld-fc"
+        },
+        {
+            "address": "0x35FE87d800485ea33d5fDfC1BB47c0676364826A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832357174267248640/HbKoFu8n.jpg",
+            "name": "Moxie:0xkindasus-x",
+            "symbol": "Moxie:0xkindasus-x"
         }
     ],
     "version": {
