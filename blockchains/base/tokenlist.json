@@ -7856,6 +7856,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03adb0f7-1e01-4a37-ced5-d76598ed9a00/original",
             "name": "Moxie:tompenoz-fc",
             "symbol": "Moxie:tompenoz-fc"
+        },
+        {
+            "address": "0xef5B027Ae9b1B8868d625bc456ddf7B6de5314B6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6337f26-4d85-4add-7f4b-51edfa221400/original",
+            "name": "Moxie:lituania-fc",
+            "symbol": "Moxie:lituania-fc"
         }
     ],
     "version": {
