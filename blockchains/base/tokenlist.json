@@ -7618,6 +7618,13 @@
             "logoURI": null,
             "name": "abdulsallam",
             "symbol": "fid:511606"
+        },
+        {
+            "address": "0x8ca502752A365c59262Ecc0Ed08FFbd813D6E354",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1450347753566253056/ZWp2_SMz.jpg",
+            "name": "Moxie:Dity106-x",
+            "symbol": "Moxie:Dity106-x"
         }
     ],
     "version": {
