@@ -8003,6 +8003,13 @@
             "logoURI": "https://i.imgur.com/YeApdjU.jpg",
             "name": "Moxie:0xrahmatriadi-fc",
             "symbol": "Moxie:0xrahmatriadi-fc"
+        },
+        {
+            "address": "0x59111C2D90B47995b8D00517587144149dBB7281",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859654339675160579/sTGdUqn3.jpg",
+            "name": "Moxie:mattermos07-x",
+            "symbol": "Moxie:mattermos07-x"
         }
     ],
     "version": {
