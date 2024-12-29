@@ -7947,6 +7947,13 @@
             "logoURI": "https://arweave.net/AqExJMHR-yrOuecleVU7tel3zx7o8ygsR9GO5BuYprA/",
             "name": "Moxie:raularrafi-fc",
             "symbol": "Moxie:raularrafi-fc"
+        },
+        {
+            "address": "0xbD89a4e72Db9DCec0cbc0F524b2Bb027323AF86B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1754067580212678656/AadG2hoD.jpg",
+            "name": "Moxie:TYMEinc_-x",
+            "symbol": "Moxie:TYMEinc_-x"
         }
     ],
     "version": {
