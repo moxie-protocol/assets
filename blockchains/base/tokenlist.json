@@ -7779,6 +7779,13 @@
             "logoURI": "https://i.imgur.com/99NeCqW.jpg",
             "name": "Moxie:cecendy-fc",
             "symbol": "Moxie:cecendy-fc"
+        },
+        {
+            "address": "0x54949De4C6395Fe2Dfa830B6ddEBC40829aCe911",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830869862035357696/r1vt_nT5.jpg",
+            "name": "Moxie:0xAzin-x",
+            "symbol": "Moxie:0xAzin-x"
         }
     ],
     "version": {
