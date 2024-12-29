@@ -7485,6 +7485,13 @@
             "logoURI": "https://i.imgur.com/IAASQD9.png",
             "name": "Moxie:0x5758-fc",
             "symbol": "Moxie:0x5758-fc"
+        },
+        {
+            "address": "0xC0358016793EaCA3BC1477f849f46cD39E64BDEc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fb220f2-beec-4b52-c5f5-ee1f8dcd8c00/rectcrop3",
+            "name": "Moxie:388044-fc",
+            "symbol": "Moxie:388044-fc"
         }
     ],
     "version": {
