@@ -7828,6 +7828,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795031636180099072/Q8b_iMaG.jpg",
             "name": "Moxie:ebbanjunior-x",
             "symbol": "Moxie:ebbanjunior-x"
+        },
+        {
+            "address": "0x3b8D7a69Ebdc57712023302A7DeEf6f8CD2f19F6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2h8S8Im.jpg",
+            "name": "Moxie:tazz-fc",
+            "symbol": "Moxie:tazz-fc"
         }
     ],
     "version": {
