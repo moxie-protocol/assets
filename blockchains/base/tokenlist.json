@@ -7989,6 +7989,13 @@
             "logoURI": "https://i.imgur.com/1zLBvzq.jpg",
             "name": "Moxie:spywekuk-fc",
             "symbol": "Moxie:spywekuk-fc"
+        },
+        {
+            "address": "0x7066B7c6687C7a0fAE8d309f7C5010BB0BBB7968",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c2806c-7343-4a00-e03b-7251d531de00/rectcrop3",
+            "name": "Moxie:yogiyendri.eth-fc",
+            "symbol": "Moxie:yogiyendri.eth-fc"
         }
     ],
     "version": {
