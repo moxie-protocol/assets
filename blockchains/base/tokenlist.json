@@ -7408,6 +7408,13 @@
             "logoURI": "https://i.imgur.com/zGdRj9E.jpg",
             "name": "Moxie:tawangudud-fc",
             "symbol": "Moxie:tawangudud-fc"
+        },
+        {
+            "address": "0x573aFf0826b16b91b86224a79Ed663c400f0040C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7bbc7156-11ef-4b26-ebb1-da8af5de9200/rectcrop3",
+            "name": "Moxie:nanahoshii-fc",
+            "symbol": "Moxie:nanahoshii-fc"
         }
     ],
     "version": {
