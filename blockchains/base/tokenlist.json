@@ -7611,6 +7611,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d1368f5-3501-4bfa-7c73-e48ad9a28300/rectcrop3",
             "name": "Moxie:angelzora-fc",
             "symbol": "Moxie:angelzora-fc"
+        },
+        {
+            "address": "0x91A1B3980A68fe84D99fD074A8166087dea62573",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "abdulsallam",
+            "symbol": "fid:511606"
         }
     ],
     "version": {
