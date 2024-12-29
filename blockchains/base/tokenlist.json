@@ -7681,6 +7681,13 @@
             "logoURI": null,
             "name": "sgrekov",
             "symbol": "fid:527807"
+        },
+        {
+            "address": "0x770fdaaeB1b9193bE7f2bBFe76BFA49F4CC50183",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc957428-aafc-4493-b568-1b2a8b465f00/original",
+            "name": "Moxie:alipazuki-fc",
+            "symbol": "Moxie:alipazuki-fc"
         }
     ],
     "version": {
