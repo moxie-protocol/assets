@@ -7674,6 +7674,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8177c60c-06db-4a8b-19e9-c4caef611700/rectcrop3",
             "name": "Moxie:iskandar121-fc",
             "symbol": "Moxie:iskandar121-fc"
+        },
+        {
+            "address": "0x572848583E03A4FA6f7aF4eBC2e992B79E8E8331",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "sgrekov",
+            "symbol": "fid:527807"
         }
     ],
     "version": {
