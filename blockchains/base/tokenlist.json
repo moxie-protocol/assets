@@ -7338,6 +7338,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:sisakti112233-x",
             "symbol": "Moxie:sisakti112233-x"
+        },
+        {
+            "address": "0x67F6D846899f3D08D102A2E79785A00Aff2F989D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0a8acf8-c75e-4375-a6c3-4481a105a600/rectcrop3",
+            "name": "Moxie:sychonine-fc",
+            "symbol": "Moxie:sychonine-fc"
         }
     ],
     "version": {
