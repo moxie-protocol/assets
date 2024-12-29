@@ -7478,6 +7478,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1800279571356426240/g-nJw37M.jpg",
             "name": "Moxie:xyk190-x",
             "symbol": "Moxie:xyk190-x"
+        },
+        {
+            "address": "0x60be2Bba510B75B6Fdc4D37B4E5a21B3E9c80b7e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IAASQD9.png",
+            "name": "Moxie:0x5758-fc",
+            "symbol": "Moxie:0x5758-fc"
         }
     ],
     "version": {
