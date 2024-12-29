@@ -7443,6 +7443,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e519c060-9c99-4646-26d4-57a90ed22e00/rectcrop3",
             "name": "Moxie:shient-fc",
             "symbol": "Moxie:shient-fc"
+        },
+        {
+            "address": "0x6A68b049348b132B8bFDc9cAdEb9F7f4E251F181",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cee9eb30-3aa7-46d4-cec4-ef4fddbc5600/rectcrop3",
+            "name": "Moxie:oseworld-fc",
+            "symbol": "Moxie:oseworld-fc"
         }
     ],
     "version": {
