@@ -7982,6 +7982,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1860894789979316224/2mOil8Xp.jpg",
             "name": "Moxie:BasedTweak-x",
             "symbol": "Moxie:BasedTweak-x"
+        },
+        {
+            "address": "0xa1e372657529D3e1Dd524ad9bF44Ea64403FD5dC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1zLBvzq.jpg",
+            "name": "Moxie:spywekuk-fc",
+            "symbol": "Moxie:spywekuk-fc"
         }
     ],
     "version": {
