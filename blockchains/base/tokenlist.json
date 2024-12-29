@@ -7772,6 +7772,13 @@
             "logoURI": null,
             "name": "web33",
             "symbol": "fid:924462"
+        },
+        {
+            "address": "0x3007c4F7581ff6690763c2F1300DE737f36f168E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/99NeCqW.jpg",
+            "name": "Moxie:cecendy-fc",
+            "symbol": "Moxie:cecendy-fc"
         }
     ],
     "version": {
