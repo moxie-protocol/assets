@@ -7926,6 +7926,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1787003326925799424/zfvNyeJ2.jpg",
             "name": "Moxie:rohim_rouf88-x",
             "symbol": "Moxie:rohim_rouf88-x"
+        },
+        {
+            "address": "0x7D18858E83a40190A168d9fFc57B825A5dB6392f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Y6Q9vT5.jpg",
+            "name": "Moxie:dvey-fc",
+            "symbol": "Moxie:dvey-fc"
         }
     ],
     "version": {
