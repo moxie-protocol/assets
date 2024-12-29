@@ -7842,6 +7842,13 @@
             "logoURI": "https://i.imgur.com/wRyWOvd.jpg",
             "name": "Moxie:krishnaronaldo-fc",
             "symbol": "Moxie:krishnaronaldo-fc"
+        },
+        {
+            "address": "0x617A820056eC3FF3bdD9cf8a981c0164c845ba80",
+            "decimals": 18,
+            "logoURI": "https://degenfers.art/images/1155.png",
+            "name": "Moxie:zianhakim-fc",
+            "symbol": "Moxie:zianhakim-fc"
         }
     ],
     "version": {
