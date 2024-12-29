@@ -7709,6 +7709,13 @@
             "logoURI": "https://i.imgur.com/mQpiUQU.jpg",
             "name": "Moxie:alanz-fc",
             "symbol": "Moxie:alanz-fc"
+        },
+        {
+            "address": "0x20F83C6213f299408a70d9890d272998518F4A36",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd9f4f12-654f-4145-e628-9a2558026500/rectcrop3",
+            "name": "Moxie:cantplayairdrop-fc",
+            "symbol": "Moxie:cantplayairdrop-fc"
         }
     ],
     "version": {
