@@ -7492,6 +7492,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fb220f2-beec-4b52-c5f5-ee1f8dcd8c00/rectcrop3",
             "name": "Moxie:388044-fc",
             "symbol": "Moxie:388044-fc"
+        },
+        {
+            "address": "0x4467C38e5CdC9B72dB32Bb30880088AEe0F0EA14",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRyG2jieNfv423VfJX8VS1iGqEtMABS1GPEmxwvFaRP2f",
+            "name": "Moxie:rboys16-fc",
+            "symbol": "Moxie:rboys16-fc"
         }
     ],
     "version": {
