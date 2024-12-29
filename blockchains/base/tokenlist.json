@@ -8045,6 +8045,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/252859fe-868d-4c47-bcc9-c41464923a00/rectcrop3",
             "name": "Moxie:outverse-fc",
             "symbol": "Moxie:outverse-fc"
+        },
+        {
+            "address": "0x118B91da16BE3b2D751886DF3680821bFd5077b6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af6b9af4-7c99-47ee-1985-7b4a90aaf200/original",
+            "name": "Moxie:samaneh-fc",
+            "symbol": "Moxie:samaneh-fc"
         }
     ],
     "version": {
