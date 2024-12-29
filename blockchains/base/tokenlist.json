@@ -7940,6 +7940,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1865555975169806336/3mbndDga.jpg",
             "name": "Moxie:mikhaylaxyz-x",
             "symbol": "Moxie:mikhaylaxyz-x"
+        },
+        {
+            "address": "0xB2B7Ea37B80A5eB618faedB2298cC38d0d675f0a",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/AqExJMHR-yrOuecleVU7tel3zx7o8ygsR9GO5BuYprA/",
+            "name": "Moxie:raularrafi-fc",
+            "symbol": "Moxie:raularrafi-fc"
         }
     ],
     "version": {
