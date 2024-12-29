@@ -7282,6 +7282,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71b1377e-df7e-4ee0-9212-b49ed3f70200/rectcrop3",
             "name": "Moxie:mesintempur-fc",
             "symbol": "Moxie:mesintempur-fc"
+        },
+        {
+            "address": "0x733B72179c692acEFecdf699d1652fEc5a1cdd74",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf4904f9-e174-4f0b-bc2b-3115c2711200/rectcrop3",
+            "name": "Moxie:taufikaxss-fc",
+            "symbol": "Moxie:taufikaxss-fc"
         }
     ],
     "version": {
