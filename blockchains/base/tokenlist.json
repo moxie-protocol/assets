@@ -7415,6 +7415,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7bbc7156-11ef-4b26-ebb1-da8af5de9200/rectcrop3",
             "name": "Moxie:nanahoshii-fc",
             "symbol": "Moxie:nanahoshii-fc"
+        },
+        {
+            "address": "0x7eEc8497D853E6E28F31DE897FfAB30388Ff9c57",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26d9067a-2cc7-4b43-93f7-9d68b88f9900/rectcrop3",
+            "name": "Moxie:jovan1990-fc",
+            "symbol": "Moxie:jovan1990-fc"
         }
     ],
     "version": {
