@@ -7821,6 +7821,13 @@
             "logoURI": "https://i.imgur.com/lpSbhB5.jpg",
             "name": "Moxie:wearemeow-fc",
             "symbol": "Moxie:wearemeow-fc"
+        },
+        {
+            "address": "0x78884197465ce8945eAdB9BC9d9D1daB9c61BD17",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795031636180099072/Q8b_iMaG.jpg",
+            "name": "Moxie:ebbanjunior-x",
+            "symbol": "Moxie:ebbanjunior-x"
         }
     ],
     "version": {
