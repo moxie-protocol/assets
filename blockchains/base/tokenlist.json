@@ -7807,6 +7807,13 @@
             "logoURI": "https://raw.seadn.io/files/ced7fe288e65e3713a565d8330b3346a.svg",
             "name": "Moxie:305331-fc",
             "symbol": "Moxie:305331-fc"
+        },
+        {
+            "address": "0x66aB5844D753C39e15602cf85955A7eeB0cD0fa0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/795148dc-21ef-4c38-7f77-8bfa77a91200/rectcrop3",
+            "name": "Moxie:gunil-fc",
+            "symbol": "Moxie:gunil-fc"
         }
     ],
     "version": {
