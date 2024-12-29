@@ -7814,6 +7814,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/795148dc-21ef-4c38-7f77-8bfa77a91200/rectcrop3",
             "name": "Moxie:gunil-fc",
             "symbol": "Moxie:gunil-fc"
+        },
+        {
+            "address": "0xe06553E51a3Bbf0E5B6D834D3eA5E52DeFed4AbF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lpSbhB5.jpg",
+            "name": "Moxie:wearemeow-fc",
+            "symbol": "Moxie:wearemeow-fc"
         }
     ],
     "version": {
