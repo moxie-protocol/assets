@@ -7695,6 +7695,13 @@
             "logoURI": "https://arweave.net/lLF_ZvT8LwTUdPq_JdwaVGydOIgL0XkTRH7xcMzM1IE/",
             "name": "Moxie:eraa-fc",
             "symbol": "Moxie:eraa-fc"
+        },
+        {
+            "address": "0x281f2ACb91D3ccDaC28fB46A00e1C906EBB4501E",
+            "decimals": 18,
+            "logoURI": "https://proxy.wrpcd.net/?url=https%3A%2F%2Fzora.co%2Fapi%2Fog-image%2Fpost%2Fzora%3A0x397120dbc7879002196df5f3fe80b4afdab95ae1%2F8%3Fv%3D2%26crop%3Dsquare\u0026s=6107128bf263e9f178fe64a62e57745dc209147b5b4eb31cd77b5ab14fb4c25a",
+            "name": "Moxie:antibolit.base.eth-base",
+            "symbol": "Moxie:antibolit.base.eth-base"
         }
     ],
     "version": {
