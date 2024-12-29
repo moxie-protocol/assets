@@ -7261,6 +7261,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d81e7da7-4bc1-4d61-6945-171e329dad00/rectcrop3",
             "name": "Moxie:bram69-fc",
             "symbol": "Moxie:bram69-fc"
+        },
+        {
+            "address": "0x40208a984E15336B6e0d225F738A6997811FbDC6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SOKVdan.jpg",
+            "name": "Moxie:kahiyang-fc",
+            "symbol": "Moxie:kahiyang-fc"
         }
     ],
     "version": {
