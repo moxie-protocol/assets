@@ -7863,6 +7863,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6337f26-4d85-4add-7f4b-51edfa221400/original",
             "name": "Moxie:lituania-fc",
             "symbol": "Moxie:lituania-fc"
+        },
+        {
+            "address": "0x65f720F38f327FB357C3f1c6430EEDCD50C3591c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/quddtx2.jpg",
+            "name": "Moxie:kazzam-fc",
+            "symbol": "Moxie:kazzam-fc"
         }
     ],
     "version": {
