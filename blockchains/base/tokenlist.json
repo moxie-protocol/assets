@@ -7541,6 +7541,13 @@
             "logoURI": "https://i.imgur.com/TYTa29X.gif",
             "name": "Moxie:zyzetye-fc",
             "symbol": "Moxie:zyzetye-fc"
+        },
+        {
+            "address": "0x98A1c5b1055b1252894FD2d78253Ecac62bc7257",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/a4sDofWMAqNoxpiNoJqj4ric0cA950N-5eNzYSflry8/",
+            "name": "Moxie:dark0602-fc",
+            "symbol": "Moxie:dark0602-fc"
         }
     ],
     "version": {
