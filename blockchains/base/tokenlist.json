@@ -7639,6 +7639,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1849295606323527680/LQ1eWsKZ.jpg",
             "name": "Moxie:gastrek541050-x",
             "symbol": "Moxie:gastrek541050-x"
+        },
+        {
+            "address": "0x5F1e01156E813a8b7A2c148BF318Afe7677F6DD5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/001398bd-5170-4c15-01a9-c9dcd30b7400/rectcrop3",
+            "name": "Moxie:zeazee-fc",
+            "symbol": "Moxie:zeazee-fc"
         }
     ],
     "version": {
