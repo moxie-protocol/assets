@@ -7891,6 +7891,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/efa53be1-1b99-4d87-1d4a-4236da106f00/rectcrop3",
             "name": "Moxie:srjack-fc",
             "symbol": "Moxie:srjack-fc"
+        },
+        {
+            "address": "0x439349f4dCA959Aa9c9869E44158f445C0050014",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/jELkOID5ebkoHwDV2e0qDnYhtYai_vEKHdCu-ZEPAQ8/",
+            "name": "Moxie:xtif-fc",
+            "symbol": "Moxie:xtif-fc"
         }
     ],
     "version": {
