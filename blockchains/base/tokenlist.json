@@ -7457,6 +7457,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832357174267248640/HbKoFu8n.jpg",
             "name": "Moxie:0xkindasus-x",
             "symbol": "Moxie:0xkindasus-x"
+        },
+        {
+            "address": "0xffaA9E2cE2a41e543C3e21bDd00fed740c0E234f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872565835090554880/rCTrK7gR.png",
+            "name": "Moxie:jokeahh-x",
+            "symbol": "Moxie:jokeahh-x"
         }
     ],
     "version": {
