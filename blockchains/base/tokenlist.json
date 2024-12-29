@@ -7331,6 +7331,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95d1225e-608e-43c0-a33d-955b98a7a600/rectcrop3",
             "name": "Moxie:kzrrama12-fc",
             "symbol": "Moxie:kzrrama12-fc"
+        },
+        {
+            "address": "0xeeC7F2a8c968c3036932da7E590Dc8E87081EA5E",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:sisakti112233-x",
+            "symbol": "Moxie:sisakti112233-x"
         }
     ],
     "version": {
