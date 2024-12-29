@@ -7849,6 +7849,13 @@
             "logoURI": "https://degenfers.art/images/1155.png",
             "name": "Moxie:zianhakim-fc",
             "symbol": "Moxie:zianhakim-fc"
+        },
+        {
+            "address": "0x35Eba73BDa7CC0a2416eA641d5Cf8FAb4D2aa813",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03adb0f7-1e01-4a37-ced5-d76598ed9a00/original",
+            "name": "Moxie:tompenoz-fc",
+            "symbol": "Moxie:tompenoz-fc"
         }
     ],
     "version": {
