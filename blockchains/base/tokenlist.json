@@ -8353,6 +8353,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bafcd95-c909-4520-3caa-449d3c8b5000/rectcrop3",
             "name": "Moxie:dhenjhun-fc",
             "symbol": "Moxie:dhenjhun-fc"
+        },
+        {
+            "address": "0x84C0C8874a457A40842eA7BdeCCD5b16750d0902",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "shakibbinhasan",
+            "symbol": "fid:903294"
         }
     ],
     "version": {
