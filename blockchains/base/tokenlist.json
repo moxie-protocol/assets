@@ -8962,6 +8962,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/612917726923755520/92nFhPTE.jpg",
             "name": "Moxie:revotevot-x",
             "symbol": "Moxie:revotevot-x"
+        },
+        {
+            "address": "0x06d7f1b7E6ada5fff13F7357cD81D35441A4A5F8",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/d3GpC4oMasMXBWsfZRWc_nP9ddVQIG4XyO4dFC0HOd8/",
+            "name": "Moxie:graa22-fc",
+            "symbol": "Moxie:graa22-fc"
         }
     ],
     "version": {
