@@ -8164,6 +8164,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/173a0958-4180-4706-10ab-a9833affeb00/rectcrop3",
             "name": "Moxie:sssoi-fc",
             "symbol": "Moxie:sssoi-fc"
+        },
+        {
+            "address": "0xc1AA03c064Cb508Cb48A65AB324dEe5488d76FE2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OvfHk0s.jpg",
+            "name": "Moxie:keyto-fc",
+            "symbol": "Moxie:keyto-fc"
         }
     ],
     "version": {
