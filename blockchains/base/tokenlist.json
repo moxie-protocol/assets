@@ -8878,6 +8878,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795090016948862976/EYgAOjew.jpg",
             "name": "Moxie:JoshuaKuh4-x",
             "symbol": "Moxie:JoshuaKuh4-x"
+        },
+        {
+            "address": "0x71Df76B16dE124cb611aed46Ca35C2DCf488bB1A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e424ed6-df31-44b5-7d4c-76266caf6100/rectcrop3",
+            "name": "Moxie:resmush-fc",
+            "symbol": "Moxie:resmush-fc"
         }
     ],
     "version": {
