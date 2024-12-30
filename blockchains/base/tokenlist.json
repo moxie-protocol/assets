@@ -9501,6 +9501,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7e2e94d-0324-4014-247d-09402e05db00/rectcrop3",
             "name": "Moxie:rizkialvaro-fc",
             "symbol": "Moxie:rizkialvaro-fc"
+        },
+        {
+            "address": "0x3F2f1E830A4B33EF6E17D6578196Aa82578013A8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FxYDonD.jpg",
+            "name": "Moxie:financialmarket-fc",
+            "symbol": "Moxie:financialmarket-fc"
         }
     ],
     "version": {
