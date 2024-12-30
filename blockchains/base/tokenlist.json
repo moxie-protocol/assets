@@ -9186,6 +9186,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef1701d4-5e3a-4778-32e8-31d4dbb2bb00/rectcrop3",
             "name": "Moxie:piscok07-fc",
             "symbol": "Moxie:piscok07-fc"
+        },
+        {
+            "address": "0x49189a85aeE3f0b4717E336E27B9c1F78efe31A1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/B424uqt.jpg",
+            "name": "Moxie:tahiyangan-fc",
+            "symbol": "Moxie:tahiyangan-fc"
         }
     ],
     "version": {
