@@ -8206,6 +8206,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1690392921898651648/wH-Tq1mr.jpg",
             "name": "Moxie:AsetCrypto66897-x",
             "symbol": "Moxie:AsetCrypto66897-x"
+        },
+        {
+            "address": "0x7E71350F1d83a00c1142CAEee6e423d4144f74e2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5CJjv6n.jpg",
+            "name": "Moxie:pratama-fc",
+            "symbol": "Moxie:pratama-fc"
         }
     ],
     "version": {
