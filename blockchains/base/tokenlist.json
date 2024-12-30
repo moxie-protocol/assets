@@ -9417,6 +9417,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c1fd9bc-b81b-4de4-8a89-bd58b3487400/rectcrop3",
             "name": "Moxie:jahcrypto-fc",
             "symbol": "Moxie:jahcrypto-fc"
+        },
+        {
+            "address": "0x9A199540C32a52913f520B1CcEeE8801bF4026bB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/500ff76f-cc74-4418-2e7f-020eff6db800/rectcrop3",
+            "name": "Moxie:kojeck-fc",
+            "symbol": "Moxie:kojeck-fc"
         }
     ],
     "version": {
