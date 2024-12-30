@@ -9179,6 +9179,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1732521030038556672/E160t-lL.jpg",
             "name": "Moxie:Lunamaya144-x",
             "symbol": "Moxie:Lunamaya144-x"
+        },
+        {
+            "address": "0x09Ac3F23536bA22072B710e96f39972dA58Fb778",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef1701d4-5e3a-4778-32e8-31d4dbb2bb00/rectcrop3",
+            "name": "Moxie:piscok07-fc",
+            "symbol": "Moxie:piscok07-fc"
         }
     ],
     "version": {
