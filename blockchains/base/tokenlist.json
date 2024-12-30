@@ -9935,6 +9935,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1493909747208175619/sDD24EMr.png",
             "name": "Moxie:pitbullali3-x",
             "symbol": "Moxie:pitbullali3-x"
+        },
+        {
+            "address": "0x4fA3DcbC3A29D3F2FCEB20316f20da28C49A643E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1703249063037313024/AMAcWqqv.jpg",
+            "name": "Moxie:Viego88-x",
+            "symbol": "Moxie:Viego88-x"
         }
     ],
     "version": {
