@@ -9599,6 +9599,13 @@
             "logoURI": "https://i.imgur.com/0CYywVh.jpg",
             "name": "Moxie:tradcorp.eth-fc",
             "symbol": "Moxie:tradcorp.eth-fc"
+        },
+        {
+            "address": "0xaE5765Cf7a0755C374baf4F207cEbd10C02aceaE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08ce14d0-b93e-42dd-5e8a-e7d2975d1600/rectcrop3",
+            "name": "Moxie:andienugrozez-fc",
+            "symbol": "Moxie:andienugrozez-fc"
         }
     ],
     "version": {
