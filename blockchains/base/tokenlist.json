@@ -9851,6 +9851,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVozHWEyJ8eRCmccAn-Tb0ii6HbMdOGZTPQ\u0026s",
             "name": "Moxie:onchaincomputer.eth-ens",
             "symbol": "Moxie:onchaincomputer.eth-ens"
+        },
+        {
+            "address": "0xa4938eceBB32521C36d3770881b332A196Bf65e2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a5c7bc5-7ea4-4529-5f46-3e3e245e3600/rectcrop3",
+            "name": "Moxie:rickycrit-fc",
+            "symbol": "Moxie:rickycrit-fc"
         }
     ],
     "version": {
