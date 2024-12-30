@@ -9347,6 +9347,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1732516156769251328/G4at5_wU.jpg",
             "name": "Moxie:chikenw480-x",
             "symbol": "Moxie:chikenw480-x"
+        },
+        {
+            "address": "0x8350788c0A7878B4C5f548FE6e87D8cE53c51e12",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795876266652155904/T0_anScj.jpg",
+            "name": "Moxie:TasyaYella81440-x",
+            "symbol": "Moxie:TasyaYella81440-x"
         }
     ],
     "version": {
