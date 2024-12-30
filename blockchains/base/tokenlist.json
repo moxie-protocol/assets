@@ -9403,6 +9403,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fc1d27a-3d60-41ce-d403-9654b1a88100/rectcrop3",
             "name": "Moxie:daiwa-fc",
             "symbol": "Moxie:daiwa-fc"
+        },
+        {
+            "address": "0xfC7DE3aA96F03d21d1C451a7E2c3321B3339D9e7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dwMpGML.jpg",
+            "name": "Moxie:alaminxyz-fc",
+            "symbol": "Moxie:alaminxyz-fc"
         }
     ],
     "version": {
