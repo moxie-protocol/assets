@@ -8465,6 +8465,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a0b2a05-a0dc-4d28-36ea-34ee64120100/rectcrop3",
             "name": "Moxie:kolpo-fc",
             "symbol": "Moxie:kolpo-fc"
+        },
+        {
+            "address": "0x4424388fAA53eA999eB05d08017028b24a22e272",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibnvpblu2ehtow3ydq74ixe7ifbzkbwi2oz6rwx42mlaf5nn52uk4",
+            "name": "Moxie:nurealamsanim-fc",
+            "symbol": "Moxie:nurealamsanim-fc"
         }
     ],
     "version": {
