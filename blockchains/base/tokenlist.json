@@ -9522,6 +9522,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f5ef3fa-90e6-4c2c-0612-43a14825c500/original",
             "name": "Moxie:jarics-fc",
             "symbol": "Moxie:jarics-fc"
+        },
+        {
+            "address": "0x10F1721ba9487c8A84430Cc07acC6c5c10fA58c8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a9702d2-524f-4de8-c174-a34b21986c00/rectcrop3",
+            "name": "Moxie:wahyujl-fc",
+            "symbol": "Moxie:wahyujl-fc"
         }
     ],
     "version": {
