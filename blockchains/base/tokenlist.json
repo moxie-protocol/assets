@@ -8094,6 +8094,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32f7f4de-52c7-4807-040a-8a6db5c15900/rectcrop3",
             "name": "Moxie:putrihyang-fc",
             "symbol": "Moxie:putrihyang-fc"
+        },
+        {
+            "address": "0x7C3213e250d065c3554328c9cF2bE0f18137ea53",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MAsurTR.jpg",
+            "name": "Moxie:anacut3-fc",
+            "symbol": "Moxie:anacut3-fc"
         }
     ],
     "version": {
