@@ -8717,6 +8717,13 @@
             "logoURI": "https://i.imgur.com/PI5YahR.jpg",
             "name": "Moxie:riduankalo-fc",
             "symbol": "Moxie:riduankalo-fc"
+        },
+        {
+            "address": "0x8dfc476b59C37538AC5f35AC291abe422fb8812F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/L2fOJsf.jpg",
+            "name": "Moxie:cengkling-fc",
+            "symbol": "Moxie:cengkling-fc"
         }
     ],
     "version": {
