@@ -9956,6 +9956,13 @@
             "logoURI": "https://i.ibb.co/1RJmGgH/premium-photo-1728650295285-e6d61f7900f5.jpg",
             "name": "Moxie:hitman42.base.eth-base",
             "symbol": "Moxie:hitman42.base.eth-base"
+        },
+        {
+            "address": "0x76A054941428FFEE5E81e3f7f284Fa811a776B8f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1469211690117918723/f1-LfQRm.jpg",
+            "name": "Moxie:xikramlink-x",
+            "symbol": "Moxie:xikramlink-x"
         }
     ],
     "version": {
