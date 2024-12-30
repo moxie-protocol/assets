@@ -8101,6 +8101,13 @@
             "logoURI": "https://i.imgur.com/MAsurTR.jpg",
             "name": "Moxie:anacut3-fc",
             "symbol": "Moxie:anacut3-fc"
+        },
+        {
+            "address": "0x64C92A9aaDB64D994Bf66F3c88d7f65f3e8bff78",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873267238322749440/_BDBq-lZ.jpg",
+            "name": "Moxie:widiismailL_-x",
+            "symbol": "Moxie:widiismailL_-x"
         }
     ],
     "version": {
