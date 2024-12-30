@@ -9781,6 +9781,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c87dd49-3422-4e0c-a25b-7a8c0bf95100/rectcrop3",
             "name": "Moxie:adryanaje-fc",
             "symbol": "Moxie:adryanaje-fc"
+        },
+        {
+            "address": "0x2F6a9a1cDE26060Faa0153424C1231C4a8Ce9C0C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "moxiebabe",
+            "symbol": "fid:925647"
         }
     ],
     "version": {
