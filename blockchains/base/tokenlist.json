@@ -9410,6 +9410,13 @@
             "logoURI": "https://i.imgur.com/dwMpGML.jpg",
             "name": "Moxie:alaminxyz-fc",
             "symbol": "Moxie:alaminxyz-fc"
+        },
+        {
+            "address": "0x7EB740AAb7db164F689eB9285eaB9a75D8A25090",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c1fd9bc-b81b-4de4-8a89-bd58b3487400/rectcrop3",
+            "name": "Moxie:jahcrypto-fc",
+            "symbol": "Moxie:jahcrypto-fc"
         }
     ],
     "version": {
