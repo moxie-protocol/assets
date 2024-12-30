@@ -9263,6 +9263,13 @@
             "logoURI": "https://i.imgur.com/Ya3uZfi.jpg",
             "name": "Moxie:preelawat-fc",
             "symbol": "Moxie:preelawat-fc"
+        },
+        {
+            "address": "0x17a6bdD423480686004c059Bc215C18ED100E445",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7d4ed68d-66d3-4aae-e3d0-4840f83df400/original",
+            "name": "Moxie:rejeki-fc",
+            "symbol": "Moxie:rejeki-fc"
         }
     ],
     "version": {
