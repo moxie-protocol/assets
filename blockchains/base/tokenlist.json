@@ -9053,6 +9053,13 @@
             "logoURI": "https://i.imgur.com/PFpxtDK.gif",
             "name": "Moxie:chart-fc",
             "symbol": "Moxie:chart-fc"
+        },
+        {
+            "address": "0x47A24b229F03Eac06089674c1cc765CEaa95a517",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1721852816770387968/-b3uIOQR.jpg",
+            "name": "Moxie:anabe99845-x",
+            "symbol": "Moxie:anabe99845-x"
         }
     ],
     "version": {
