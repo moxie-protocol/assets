@@ -9025,6 +9025,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d828a086-6250-4365-d791-5d6f1d9a2c00/rectcrop3",
             "name": "Moxie:alianse-fc",
             "symbol": "Moxie:alianse-fc"
+        },
+        {
+            "address": "0xC694AdDA0749885c1DfAaBAbD08a8b1870f46112",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/VuFu3D8.jpg",
+            "name": "Moxie:wanss-fc",
+            "symbol": "Moxie:wanss-fc"
         }
     ],
     "version": {
