@@ -9571,6 +9571,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829409850486321152/GTQQFrux.jpg",
             "name": "Moxie:sazzads2003-x",
             "symbol": "Moxie:sazzads2003-x"
+        },
+        {
+            "address": "0xd4BeA10d5b15A8d4aE91d1FDdcF9A5e5a6519B7c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4811213a-5b00-4213-1fc3-b891b3592d00/original",
+            "name": "Moxie:deedoxd-fc",
+            "symbol": "Moxie:deedoxd-fc"
         }
     ],
     "version": {
