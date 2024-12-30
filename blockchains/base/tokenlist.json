@@ -9011,6 +9011,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed2ba00e-f06b-4d18-6b58-6bed48680900/rectcrop3",
             "name": "Moxie:mrijals-fc",
             "symbol": "Moxie:mrijals-fc"
+        },
+        {
+            "address": "0x214c5F839D2b159D8a47Cc64FeC2921c6D2D0A70",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1839349464823369729/tdo9iyHJ.jpg",
+            "name": "Moxie:Roni4656-x",
+            "symbol": "Moxie:Roni4656-x"
         }
     ],
     "version": {
