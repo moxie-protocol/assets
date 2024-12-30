@@ -9725,6 +9725,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1518f340-ac61-446b-d9f0-6e938f1bb400/rectcrop3",
             "name": "Moxie:hendrik1922-fc",
             "symbol": "Moxie:hendrik1922-fc"
+        },
+        {
+            "address": "0x2c2e5e971e4173f4301CBc3DB5B2c79d2F3f9C2F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BEBfYZb.jpg",
+            "name": "Moxie:rafiqul100-fc",
+            "symbol": "Moxie:rafiqul100-fc"
         }
     ],
     "version": {
