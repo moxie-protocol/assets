@@ -8122,6 +8122,13 @@
             "logoURI": "https://i.imgur.com/MMMSNVY.jpg",
             "name": "Moxie:many-fc",
             "symbol": "Moxie:many-fc"
+        },
+        {
+            "address": "0xD22f80356CACe3334E11f400206C3D17841aAa5e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10722a0c-b35e-435e-d2ff-2e90ae54f400/rectcrop3",
+            "name": "Moxie:25thhour.eth-fc",
+            "symbol": "Moxie:25thhour.eth-fc"
         }
     ],
     "version": {
