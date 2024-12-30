@@ -8892,6 +8892,13 @@
             "logoURI": "https://i.imgur.com/fwdT5uZ.jpg",
             "name": "Moxie:oxlip-fc",
             "symbol": "Moxie:oxlip-fc"
+        },
+        {
+            "address": "0x69a141688809ee96E6E3a5ee604301ef6c863677",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreidcfwyiw6lo6krgwka7xqvrimjh3d3tfadirhbappahl4rewpd36e",
+            "name": "Moxie:paydec-fc",
+            "symbol": "Moxie:paydec-fc"
         }
     ],
     "version": {
