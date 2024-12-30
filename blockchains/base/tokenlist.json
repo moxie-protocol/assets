@@ -8640,6 +8640,13 @@
             "logoURI": "https://i.imgur.com/5GTiz9w.jpg",
             "name": "Moxie:prabowogibran02-fc",
             "symbol": "Moxie:prabowogibran02-fc"
+        },
+        {
+            "address": "0xDc1FB8DBE825BC0d14497Ed320f979b8F649d75e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855128387364569094/fBwMxuoY.jpg",
+            "name": "Moxie:rektazm-x",
+            "symbol": "Moxie:rektazm-x"
         }
     ],
     "version": {
