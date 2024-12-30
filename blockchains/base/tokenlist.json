@@ -8675,6 +8675,13 @@
             "logoURI": "https://arweave.net/phETegKgMrDJ9PVVBsc4WY-fKrIp6OLqXvnt9-tfYPY/",
             "name": "Moxie:nova701-fc",
             "symbol": "Moxie:nova701-fc"
+        },
+        {
+            "address": "0x30f597D9FcE03540eb7985D5441aE282d9eb3258",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/H4a67ZT.jpg",
+            "name": "Moxie:bismillah-fc",
+            "symbol": "Moxie:bismillah-fc"
         }
     ],
     "version": {
