@@ -8906,6 +8906,13 @@
             "logoURI": "https://i.seadn.io/s/raw/files/71d39c07eb2500e9df8c8bf30bdba7fd.png?auto=format\u0026dpr=1\u0026w=384",
             "name": "Moxie:arrak.base.eth-base",
             "symbol": "Moxie:arrak.base.eth-base"
+        },
+        {
+            "address": "0x8D11E149Fca3c5319FAdDd9ed95cb8FdF913e4C1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UVxPosO.jpg",
+            "name": "Moxie:boado-fc",
+            "symbol": "Moxie:boado-fc"
         }
     ],
     "version": {
