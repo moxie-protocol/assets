@@ -8472,6 +8472,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibnvpblu2ehtow3ydq74ixe7ifbzkbwi2oz6rwx42mlaf5nn52uk4",
             "name": "Moxie:nurealamsanim-fc",
             "symbol": "Moxie:nurealamsanim-fc"
+        },
+        {
+            "address": "0x305d7599Bdf831E0CAd0d3C71640DC13De811Cf7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1724990391324491776/HZ9y3PXt.jpg",
+            "name": "Moxie:fauzi8787-x",
+            "symbol": "Moxie:fauzi8787-x"
         }
     ],
     "version": {
