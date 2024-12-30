@@ -9095,6 +9095,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66628c41-ae01-4b46-bd24-9b0aa036fe00/rectcrop3",
             "name": "Moxie:cryptoteam-fc",
             "symbol": "Moxie:cryptoteam-fc"
+        },
+        {
+            "address": "0xF3EEa9fb1f0881D3f8E99fa1E5df747Db9F17A31",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NKOcP6v.jpg",
+            "name": "Moxie:andru-fc",
+            "symbol": "Moxie:andru-fc"
         }
     ],
     "version": {
