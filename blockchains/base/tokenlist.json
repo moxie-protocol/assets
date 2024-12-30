@@ -9165,6 +9165,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fceb3c95-5f06-47ae-eceb-399b0b8ffb00/rectcrop3",
             "name": "Moxie:mrmora-fc",
             "symbol": "Moxie:mrmora-fc"
+        },
+        {
+            "address": "0x641EF51aCB9f6866C5e8826498ce16fB7ADB101f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/adbd1368-9c2e-4e5a-fe81-6e42a5b41800/rectcrop3",
+            "name": "Moxie:radekcryptoking-fc",
+            "symbol": "Moxie:radekcryptoking-fc"
         }
     ],
     "version": {
