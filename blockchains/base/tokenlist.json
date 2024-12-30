@@ -9158,6 +9158,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjtzGulBpm7pP-DhuRILyOg1Q3TqOR-UhLZ0AtzPhXtXII104f0A_9Yf6\u0026s=10",
             "name": "Moxie:baskors58-fc",
             "symbol": "Moxie:baskors58-fc"
+        },
+        {
+            "address": "0x537f967022927558a1905207Ad068d7559f72D0a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fceb3c95-5f06-47ae-eceb-399b0b8ffb00/rectcrop3",
+            "name": "Moxie:mrmora-fc",
+            "symbol": "Moxie:mrmora-fc"
         }
     ],
     "version": {
