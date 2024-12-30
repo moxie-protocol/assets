@@ -8255,6 +8255,13 @@
             "logoURI": "https://i.imgur.com/kx7wtwD.jpg",
             "name": "Moxie:yanmar736-fc",
             "symbol": "Moxie:yanmar736-fc"
+        },
+        {
+            "address": "0x2c3bE33A6A34d374d4EafeDb0dA0584A45781011",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832105609635704832/2Z3Ba-Jt.jpg",
+            "name": "Moxie:aku_mantanmu_-x",
+            "symbol": "Moxie:aku_mantanmu_-x"
         }
     ],
     "version": {
