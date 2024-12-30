@@ -8829,6 +8829,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRN1ARZBipzeZFq5NUMqnxwoX5WNpRvmwUwfYhukpFcRK",
             "name": "Moxie:therealdefriza-fc",
             "symbol": "Moxie:therealdefriza-fc"
+        },
+        {
+            "address": "0xCeeA7bBaEFb01c007C671A9a4b200fa21ecD9cCd",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866148147678048257/zlK4Vf-I.jpg",
+            "name": "Moxie:satria_aqil-x",
+            "symbol": "Moxie:satria_aqil-x"
         }
     ],
     "version": {
