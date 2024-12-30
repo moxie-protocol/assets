@@ -9312,6 +9312,13 @@
             "logoURI": "https://i.imgur.com/RemK402.png",
             "name": "Moxie:monaki-fc",
             "symbol": "Moxie:monaki-fc"
+        },
+        {
+            "address": "0xA6544661B32F3230D145836e41E92d5047Fc88D4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1793575217937420288/hcuANkl1.jpg",
+            "name": "Moxie:ShowwwShow-x",
+            "symbol": "Moxie:ShowwwShow-x"
         }
     ],
     "version": {
