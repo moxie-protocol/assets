@@ -8178,6 +8178,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/485f2229-e15c-4cee-2983-36c6876c8d00/rectcrop3",
             "name": "Moxie:growaz-fc",
             "symbol": "Moxie:growaz-fc"
+        },
+        {
+            "address": "0x470f4C823fD34AE8Ce1dfEbA4406DA1F5Ed8bD8C",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1397466114175553539/5Z_eqK4D.jpg",
+            "name": "Moxie:huril34-x",
+            "symbol": "Moxie:huril34-x"
         }
     ],
     "version": {
