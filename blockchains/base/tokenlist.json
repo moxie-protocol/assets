@@ -8080,6 +8080,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870604770962006016/V8tt7r0i.jpg",
             "name": "Moxie:MrJushenry-x",
             "symbol": "Moxie:MrJushenry-x"
+        },
+        {
+            "address": "0xe7D4aD52B41e3Ff1E0a528b0A39b1717F2d60731",
+            "decimals": 18,
+            "logoURI": "https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1",
+            "name": "Moxie:oxsudodave.base.eth-base",
+            "symbol": "Moxie:oxsudodave.base.eth-base"
         }
     ],
     "version": {
