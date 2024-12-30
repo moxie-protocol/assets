@@ -9130,6 +9130,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/51dde119-f9ca-48ae-0689-cb6bed5f1400/rectcrop3",
             "name": "Moxie:morganss-fc",
             "symbol": "Moxie:morganss-fc"
+        },
+        {
+            "address": "0x5F7F90c728AB87d0CEBB92B709aE60bdd8F6b471",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31419f76-8e41-47b4-6438-26bf8c06fa00/rectcrop3",
+            "name": "Moxie:loxeee-fc",
+            "symbol": "Moxie:loxeee-fc"
         }
     ],
     "version": {
