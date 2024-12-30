@@ -8241,6 +8241,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/450f04bb-85b6-43ca-05b1-b16a44cc9800/rectcrop3",
             "name": "Moxie:juple-fc",
             "symbol": "Moxie:juple-fc"
+        },
+        {
+            "address": "0x9c1bb4b8a5a373e5a1a0Cae7fcFDC7033A24429c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1591085132957425664/Yr-BcPcE.jpg",
+            "name": "Moxie:Muammaraje-x",
+            "symbol": "Moxie:Muammaraje-x"
         }
     ],
     "version": {
