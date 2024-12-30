@@ -9326,6 +9326,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
             "name": "Moxie:akhubha000-fc",
             "symbol": "Moxie:akhubha000-fc"
+        },
+        {
+            "address": "0xac552F6E3476d98f9E5739A7Cb09B9192af9db2E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xNoHB4f.jpg",
+            "name": "Moxie:aden-fc",
+            "symbol": "Moxie:aden-fc"
         }
     ],
     "version": {
