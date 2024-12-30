@@ -8500,6 +8500,13 @@
             "logoURI": null,
             "name": "hashashins",
             "symbol": "fid:358423"
+        },
+        {
+            "address": "0xcCd53186FD273C62D34AC073661B40385E3E9EbB",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "anyaa",
+            "symbol": "fid:519360"
         }
     ],
     "version": {
