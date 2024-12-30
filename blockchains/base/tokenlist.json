@@ -9193,6 +9193,13 @@
             "logoURI": "https://i.imgur.com/B424uqt.jpg",
             "name": "Moxie:tahiyangan-fc",
             "symbol": "Moxie:tahiyangan-fc"
+        },
+        {
+            "address": "0xd61B5c4E471706F7DB788357648d0d60A84da7b3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1780958797990899712/PKSEpsw2.jpg",
+            "name": "Moxie:sec_account2024-x",
+            "symbol": "Moxie:sec_account2024-x"
         }
     ],
     "version": {
