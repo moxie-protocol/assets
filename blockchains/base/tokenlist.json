@@ -8619,6 +8619,13 @@
             "logoURI": "https://i.imgur.com/3hqHPn1.jpg",
             "name": "Moxie:randz-fc",
             "symbol": "Moxie:randz-fc"
+        },
+        {
+            "address": "0x702E58063417e699185305d4D881AF91A97Ce6a8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5073ee2-c95a-4e69-aa17-1fbbd45b6400/rectcrop3",
+            "name": "Moxie:werhat-fc",
+            "symbol": "Moxie:werhat-fc"
         }
     ],
     "version": {
