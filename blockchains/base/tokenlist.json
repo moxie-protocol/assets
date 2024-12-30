@@ -9452,6 +9452,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cce96756-ae17-4f98-cdbc-192751d21400/original",
             "name": "Moxie:karafuru-fc",
             "symbol": "Moxie:karafuru-fc"
+        },
+        {
+            "address": "0xF5f6b7FE0EFEE5262737255A18b19a04668ac3f5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02cdb0d8-7bed-4d60-b799-8e6af22d3e00/rectcrop3",
+            "name": "Moxie:mimhid-fc",
+            "symbol": "Moxie:mimhid-fc"
         }
     ],
     "version": {
