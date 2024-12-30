@@ -8542,6 +8542,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5262baec-45e5-4b48-1937-c4b94c295400/original",
             "name": "Moxie:cryptomobit-fc",
             "symbol": "Moxie:cryptomobit-fc"
+        },
+        {
+            "address": "0x1ca60b92Ac293D052F12Ce581BfC8602B5c99dFF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/7M0RxRI.jpg",
+            "name": "Moxie:garenk3105-fc",
+            "symbol": "Moxie:garenk3105-fc"
         }
     ],
     "version": {
