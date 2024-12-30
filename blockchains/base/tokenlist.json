@@ -8171,6 +8171,13 @@
             "logoURI": "https://i.imgur.com/OvfHk0s.jpg",
             "name": "Moxie:keyto-fc",
             "symbol": "Moxie:keyto-fc"
+        },
+        {
+            "address": "0x9195506b7AC2DF89e41Be6318c29e9B6Fda19857",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/485f2229-e15c-4cee-2983-36c6876c8d00/rectcrop3",
+            "name": "Moxie:growaz-fc",
+            "symbol": "Moxie:growaz-fc"
         }
     ],
     "version": {
