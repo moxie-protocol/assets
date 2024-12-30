@@ -9081,6 +9081,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1729555066594746370/CiWjoMeP.jpg",
             "name": "Moxie:EnturrW-x",
             "symbol": "Moxie:EnturrW-x"
+        },
+        {
+            "address": "0x26AFE81C2E07c992faA5EE53c1ec8250948D7fcF",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1814571343700238341/wh5QDAbi.jpg",
+            "name": "Moxie:bucup770-x",
+            "symbol": "Moxie:bucup770-x"
         }
     ],
     "version": {
