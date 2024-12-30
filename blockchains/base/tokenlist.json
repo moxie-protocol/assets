@@ -8570,6 +8570,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a932fc58-6d77-4d7e-e946-b0e2ccffdc00/rectcrop3",
             "name": "Moxie:hicoy-fc",
             "symbol": "Moxie:hicoy-fc"
+        },
+        {
+            "address": "0x192f1Ee2D5d425FdEE27e30a74325Ecaf2A71d0e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1844140672439418880/CZuXesjR.jpg",
+            "name": "Moxie:0xWedspierre-x",
+            "symbol": "Moxie:0xWedspierre-x"
         }
     ],
     "version": {
