@@ -8535,6 +8535,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1291141242957361152/1h0pWCPP.jpg",
             "name": "Moxie:naitsugaa_-x",
             "symbol": "Moxie:naitsugaa_-x"
+        },
+        {
+            "address": "0x69F82E7b595822e8fE3Cd9e02E85B6b3856F05ea",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5262baec-45e5-4b48-1937-c4b94c295400/original",
+            "name": "Moxie:cryptomobit-fc",
+            "symbol": "Moxie:cryptomobit-fc"
         }
     ],
     "version": {
