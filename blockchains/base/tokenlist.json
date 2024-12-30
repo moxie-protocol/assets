@@ -8395,6 +8395,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a52f8bf-23fb-418d-9cb2-c6102544d100/rectcrop3",
             "name": "Moxie:mis-fc",
             "symbol": "Moxie:mis-fc"
+        },
+        {
+            "address": "0xE3D535c5020bfD77BdCF07cBe25cBf7435117967",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4aSpNTV.jpg",
+            "name": "Moxie:muliyadi-fc",
+            "symbol": "Moxie:muliyadi-fc"
         }
     ],
     "version": {
