@@ -8682,6 +8682,13 @@
             "logoURI": "https://i.imgur.com/H4a67ZT.jpg",
             "name": "Moxie:bismillah-fc",
             "symbol": "Moxie:bismillah-fc"
+        },
+        {
+            "address": "0x15a845c51dcd251360eff8439BB4e550cDECE700",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/B8FETMb.jpg",
+            "name": "Moxie:followme2-fc",
+            "symbol": "Moxie:followme2-fc"
         }
     ],
     "version": {
