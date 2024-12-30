@@ -8633,6 +8633,13 @@
             "logoURI": "https://i.imgur.com/db2bHlC.jpg",
             "name": "Moxie:rikigo-fc",
             "symbol": "Moxie:rikigo-fc"
+        },
+        {
+            "address": "0xF8052D8Bdf20167a19c009075632027e8E742c9B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5GTiz9w.jpg",
+            "name": "Moxie:prabowogibran02-fc",
+            "symbol": "Moxie:prabowogibran02-fc"
         }
     ],
     "version": {
