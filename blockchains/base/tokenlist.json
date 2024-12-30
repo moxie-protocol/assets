@@ -9578,6 +9578,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4811213a-5b00-4213-1fc3-b891b3592d00/original",
             "name": "Moxie:deedoxd-fc",
             "symbol": "Moxie:deedoxd-fc"
+        },
+        {
+            "address": "0xCC3BeCeDF361a12Df4637fA58f2C95c5ef2f3558",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "pocidoank",
+            "symbol": "fid:399310"
         }
     ],
     "version": {
