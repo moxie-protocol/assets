@@ -9802,6 +9802,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/caf67d86-a287-4540-58dc-b22dad68fa00/rectcrop3",
             "name": "Moxie:zerooneth.eth-fc",
             "symbol": "Moxie:zerooneth.eth-fc"
+        },
+        {
+            "address": "0x45914EE8673FFD3462b2cf5Be56Bfaa858816538",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2TkfCiL.jpg",
+            "name": "Moxie:skumari.eth-fc",
+            "symbol": "Moxie:skumari.eth-fc"
         }
     ],
     "version": {
