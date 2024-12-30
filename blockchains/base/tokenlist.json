@@ -9494,6 +9494,13 @@
             "logoURI": null,
             "name": "sincancuan.eth",
             "symbol": "fid:312486"
+        },
+        {
+            "address": "0xb930f7452afa2FBc7c0b29ae21fAEf19619B99C8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7e2e94d-0324-4014-247d-09402e05db00/rectcrop3",
+            "name": "Moxie:rizkialvaro-fc",
+            "symbol": "Moxie:rizkialvaro-fc"
         }
     ],
     "version": {
