@@ -9445,6 +9445,13 @@
             "logoURI": "https://i.imgur.com/yoVbZ3b.gif",
             "name": "Moxie:digimark-fc",
             "symbol": "Moxie:digimark-fc"
+        },
+        {
+            "address": "0x2C0Efa56d8242126b8b422746E2A8Ea317B07Ce9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cce96756-ae17-4f98-cdbc-192751d21400/original",
+            "name": "Moxie:karafuru-fc",
+            "symbol": "Moxie:karafuru-fc"
         }
     ],
     "version": {
