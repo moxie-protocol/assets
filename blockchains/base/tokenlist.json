@@ -9137,6 +9137,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31419f76-8e41-47b4-6438-26bf8c06fa00/rectcrop3",
             "name": "Moxie:loxeee-fc",
             "symbol": "Moxie:loxeee-fc"
+        },
+        {
+            "address": "0x6536A0c9921f85E9DbF4bD4A702f62678d8273d6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20da44e4-6a09-4de6-c50c-3bf5afcf3600/rectcrop3",
+            "name": "Moxie:mezaa-fc",
+            "symbol": "Moxie:mezaa-fc"
         }
     ],
     "version": {
