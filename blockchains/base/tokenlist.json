@@ -9907,6 +9907,13 @@
             "logoURI": "https://i.imgur.com/Fzc3dOc.jpg",
             "name": "Moxie:raka-fc",
             "symbol": "Moxie:raka-fc"
+        },
+        {
+            "address": "0x7406b3A3776a92cd54ddfed67Bbd08Ec78BEB65c",
+            "decimals": 18,
+            "logoURI": "https://www.base.org/_next/static/media/logo.f6fdedfc.svg",
+            "name": "Moxie:superbasic.base.eth-base",
+            "symbol": "Moxie:superbasic.base.eth-base"
         }
     ],
     "version": {
