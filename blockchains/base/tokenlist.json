@@ -8388,6 +8388,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825447818510880768/Q1npfQv5.jpg",
             "name": "Moxie:Wahyususen-x",
             "symbol": "Moxie:Wahyususen-x"
+        },
+        {
+            "address": "0x629d1eE500890b3E1A8fcA0Cbcad988C9b9b07AA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a52f8bf-23fb-418d-9cb2-c6102544d100/rectcrop3",
+            "name": "Moxie:mis-fc",
+            "symbol": "Moxie:mis-fc"
         }
     ],
     "version": {
