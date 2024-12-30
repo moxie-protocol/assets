@@ -8129,6 +8129,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10722a0c-b35e-435e-d2ff-2e90ae54f400/rectcrop3",
             "name": "Moxie:25thhour.eth-fc",
             "symbol": "Moxie:25thhour.eth-fc"
+        },
+        {
+            "address": "0x43764a0d05c1F6EB057f6D3E62Ce0b03315Ad2e7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wLLJtic.jpg",
+            "name": "Moxie:nftgo-fc",
+            "symbol": "Moxie:nftgo-fc"
         }
     ],
     "version": {
