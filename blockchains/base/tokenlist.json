@@ -8815,6 +8815,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/935ac4a2-858e-4fb4-0e1e-90c8f87e6f00/rectcrop3",
             "name": "Moxie:rapganteng16-fc",
             "symbol": "Moxie:rapganteng16-fc"
+        },
+        {
+            "address": "0x99627b7447cE0d067756bBB7C76C4132E7611E00",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/mhPjZGL.jpg",
+            "name": "Moxie:ihksanrzk-fc",
+            "symbol": "Moxie:ihksanrzk-fc"
         }
     ],
     "version": {
