@@ -8752,6 +8752,13 @@
             "logoURI": "https://i.imgur.com/12BPEiR.jpg",
             "name": "Moxie:rnevanz-fc",
             "symbol": "Moxie:rnevanz-fc"
+        },
+        {
+            "address": "0xb810c0D2126D9b14B3BBae707570e9eA7C948274",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RJGpdfM.jpg",
+            "name": "Moxie:merday-fc",
+            "symbol": "Moxie:merday-fc"
         }
     ],
     "version": {
