@@ -9655,6 +9655,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94cfa6e8-f928-4ef4-33f8-5a6b2ada0500/rectcrop3",
             "name": "Moxie:niken32-fc",
             "symbol": "Moxie:niken32-fc"
+        },
+        {
+            "address": "0x5084d4c37092b250ABcAA2632DaE319617f63c14",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oz42SDe.jpg",
+            "name": "Moxie:glatic-fc",
+            "symbol": "Moxie:glatic-fc"
         }
     ],
     "version": {
