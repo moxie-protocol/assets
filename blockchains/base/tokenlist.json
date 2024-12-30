@@ -8773,6 +8773,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f1433f5d-501e-4116-cae8-2e1422ffe900/rectcrop3",
             "name": "Moxie:syihab-fc",
             "symbol": "Moxie:syihab-fc"
+        },
+        {
+            "address": "0x580048F4D9C1A919b26dFF0ACd8861FD927c8634",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74de0b8-4b18-4c84-132e-b0a7b32ef200/original",
+            "name": "Moxie:hamada89.eth-fc",
+            "symbol": "Moxie:hamada89.eth-fc"
         }
     ],
     "version": {
