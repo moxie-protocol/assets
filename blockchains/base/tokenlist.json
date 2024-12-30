@@ -9228,6 +9228,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d45c3785-4026-4b0d-f621-b08d50a91100/rectcrop3",
             "name": "Moxie:paisalrvldo10-fc",
             "symbol": "Moxie:paisalrvldo10-fc"
+        },
+        {
+            "address": "0x9BA441fA18c86ca63A589525Ba3e126EcDAb1C34",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xgMrgnE.jpg",
+            "name": "Moxie:celia-fc",
+            "symbol": "Moxie:celia-fc"
         }
     ],
     "version": {
