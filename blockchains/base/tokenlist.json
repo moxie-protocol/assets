@@ -9382,6 +9382,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72ca056a-610c-41a2-5bb7-963525e88100/original",
             "name": "Moxie:nairp007-fc",
             "symbol": "Moxie:nairp007-fc"
+        },
+        {
+            "address": "0xA7365eebdA0f8804eA936Dfe4D1933d3e198b424",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Dandriansa64705-x",
+            "symbol": "Moxie:Dandriansa64705-x"
         }
     ],
     "version": {
