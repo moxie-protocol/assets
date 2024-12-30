@@ -9060,6 +9060,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1721852816770387968/-b3uIOQR.jpg",
             "name": "Moxie:anabe99845-x",
             "symbol": "Moxie:anabe99845-x"
+        },
+        {
+            "address": "0x4c33E61068C7E7852DeBf3B07c852Eef994EDab0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/iAMxjBB.jpg",
+            "name": "Moxie:budiman-fc",
+            "symbol": "Moxie:budiman-fc"
         }
     ],
     "version": {
