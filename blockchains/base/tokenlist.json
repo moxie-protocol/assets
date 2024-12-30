@@ -8920,6 +8920,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fde01c7-7d01-4459-2a06-730d4cbff300/rectcrop3",
             "name": "Moxie:rafaazka13-fc",
             "symbol": "Moxie:rafaazka13-fc"
+        },
+        {
+            "address": "0x64551A33BA7b5c665c0567E8232E70b9E3e849Eb",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xnYrXF1.jpg",
+            "name": "Moxie:sleek-fc",
+            "symbol": "Moxie:sleek-fc"
         }
     ],
     "version": {
