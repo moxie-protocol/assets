@@ -9074,6 +9074,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecc4a1ae-f9d6-40dd-bd48-4f245f3e2600/rectcrop3",
             "name": "Moxie:sirasep-fc",
             "symbol": "Moxie:sirasep-fc"
+        },
+        {
+            "address": "0x1129f5a739Ce7A30f55C90E8d86062C63e1E49c8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1729555066594746370/CiWjoMeP.jpg",
+            "name": "Moxie:EnturrW-x",
+            "symbol": "Moxie:EnturrW-x"
         }
     ],
     "version": {
