@@ -8577,6 +8577,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1844140672439418880/CZuXesjR.jpg",
             "name": "Moxie:0xWedspierre-x",
             "symbol": "Moxie:0xWedspierre-x"
+        },
+        {
+            "address": "0xA0C9420fbBb0d27131CF1677c53f782B07067258",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1441694206276239368/0t4qjT_c.jpg",
+            "name": "Moxie:edokriss-x",
+            "symbol": "Moxie:edokriss-x"
         }
     ],
     "version": {
