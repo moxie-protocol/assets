@@ -9879,6 +9879,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/318a4a3a-cf6f-4b33-4fd8-bcd564beaf00/rectcrop3",
             "name": "Moxie:xapitalx-fc",
             "symbol": "Moxie:xapitalx-fc"
+        },
+        {
+            "address": "0x65587DBB1923825020c724c92F16c3735cFD9bA0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b09ba9d-0c75-4af2-a74c-44e1cd4c4b00/rectcrop3",
+            "name": "Moxie:uwuw-fc",
+            "symbol": "Moxie:uwuw-fc"
         }
     ],
     "version": {
