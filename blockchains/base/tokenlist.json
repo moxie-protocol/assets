@@ -9641,6 +9641,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a66c92e-9f34-4759-bc25-331f32aebf00/original",
             "name": "Moxie:ourfuturecrypto-fc",
             "symbol": "Moxie:ourfuturecrypto-fc"
+        },
+        {
+            "address": "0x49144e8c81ca46879CeeAADb811d8C4365654163",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0757ab25-bd42-4849-d3db-eba184a8c300/rectcrop3",
+            "name": "Moxie:ifa-fc",
+            "symbol": "Moxie:ifa-fc"
         }
     ],
     "version": {
