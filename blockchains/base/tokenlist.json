@@ -9473,6 +9473,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1748867856195096576/w1hWmdtT.jpg",
             "name": "Moxie:0xOzzi-x",
             "symbol": "Moxie:0xOzzi-x"
+        },
+        {
+            "address": "0xEc32155d5e7Bdb6315F67581AB433380d5AccFa7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f61d80-6400-4e93-c924-e040213e0000/rectcrop3",
+            "name": "Moxie:mhdal-fc",
+            "symbol": "Moxie:mhdal-fc"
         }
     ],
     "version": {
