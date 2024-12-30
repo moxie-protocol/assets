@@ -9991,6 +9991,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa7ec05a-2eed-4a3d-4eef-bf824f1a9300/rectcrop3",
             "name": "Moxie:iconnet-fc",
             "symbol": "Moxie:iconnet-fc"
+        },
+        {
+            "address": "0xDcA5774afE3BEc199Ee7Aa280097bd3f030731DD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DN7nO7b.jpg",
+            "name": "Moxie:daypgnjp10-fc",
+            "symbol": "Moxie:daypgnjp10-fc"
         }
     ],
     "version": {
