@@ -8605,6 +8605,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/788541ce-ecca-41e3-d662-7f6a73438600/rectcrop3",
             "name": "Moxie:sammjp-fc",
             "symbol": "Moxie:sammjp-fc"
+        },
+        {
+            "address": "0xa8645373C840F38E58bcEF47abbB03B35EAF25cc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48338dde-67ae-4ae5-9632-6cc5ef213e00/rectcrop3",
+            "name": "Moxie:kiritonagi-fc",
+            "symbol": "Moxie:kiritonagi-fc"
         }
     ],
     "version": {
