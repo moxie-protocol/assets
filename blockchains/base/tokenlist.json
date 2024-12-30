@@ -8115,6 +8115,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93f320e8-beab-4921-3326-457b4bb12200/original",
             "name": "Moxie:silverr-fc",
             "symbol": "Moxie:silverr-fc"
+        },
+        {
+            "address": "0x83e5Eca6D59C5C9A5FC06386C00308FB719B1AA8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MMMSNVY.jpg",
+            "name": "Moxie:many-fc",
+            "symbol": "Moxie:many-fc"
         }
     ],
     "version": {
