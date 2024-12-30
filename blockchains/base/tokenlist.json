@@ -9487,6 +9487,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b3d83fd-645e-4f20-b0e8-f7e71f1ca800/rectcrop3",
             "name": "Moxie:ronaldburk-fc",
             "symbol": "Moxie:ronaldburk-fc"
+        },
+        {
+            "address": "0xDa653424A92A94F0399Fd9AE8992a42981Ef8353",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "sincancuan.eth",
+            "symbol": "fid:312486"
         }
     ],
     "version": {
