@@ -9592,6 +9592,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmYtvR9m4Wrk8od7reDhQXWE73p9sUUZG8XBQLX9r2Lgbr",
             "name": "Moxie:allahu-fc",
             "symbol": "Moxie:allahu-fc"
+        },
+        {
+            "address": "0xd4cDcdA6eDfEbaD871e2b93070369FB16355CcF0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0CYywVh.jpg",
+            "name": "Moxie:tradcorp.eth-fc",
+            "symbol": "Moxie:tradcorp.eth-fc"
         }
     ],
     "version": {
