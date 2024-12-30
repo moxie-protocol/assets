@@ -9459,6 +9459,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02cdb0d8-7bed-4d60-b799-8e6af22d3e00/rectcrop3",
             "name": "Moxie:mimhid-fc",
             "symbol": "Moxie:mimhid-fc"
+        },
+        {
+            "address": "0x4c5c3b3655A5aD9AbA86408a1ee1a668BF91e317",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72b1788e-11c0-4603-0109-993d20d6c600/rectcrop3",
+            "name": "Moxie:fatkhur100-fc",
+            "symbol": "Moxie:fatkhur100-fc"
         }
     ],
     "version": {
