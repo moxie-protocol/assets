@@ -9214,6 +9214,13 @@
             "logoURI": "https://i.imgur.com/AFMPK3S.jpg",
             "name": "Moxie:arbit77-fc",
             "symbol": "Moxie:arbit77-fc"
+        },
+        {
+            "address": "0x2e10C48b4600145712037517069E1e4cAf5dbA28",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1732508904058228736/zV6sahB7.jpg",
+            "name": "Moxie:NabillZue-x",
+            "symbol": "Moxie:NabillZue-x"
         }
     ],
     "version": {
