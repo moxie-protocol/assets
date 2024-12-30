@@ -8948,6 +8948,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef1157b5-d851-433f-bd86-d50154eaa300/rectcrop3",
             "name": "Moxie:ziqa14-fc",
             "symbol": "Moxie:ziqa14-fc"
+        },
+        {
+            "address": "0x1D621a75a1a1961026b04645f592342A8970e8dF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/846ee568-f417-4ce8-7304-95c1ed56a300/rectcrop3",
+            "name": "Moxie:mrcrypto420-fc",
+            "symbol": "Moxie:mrcrypto420-fc"
         }
     ],
     "version": {
