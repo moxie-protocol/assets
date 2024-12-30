@@ -9333,6 +9333,13 @@
             "logoURI": "https://i.imgur.com/xNoHB4f.jpg",
             "name": "Moxie:aden-fc",
             "symbol": "Moxie:aden-fc"
+        },
+        {
+            "address": "0xb313B6B487935b266255060CF0D8d8e52bf710Cf",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4ztdTZ3.jpg",
+            "name": "Moxie:farook-fc",
+            "symbol": "Moxie:farook-fc"
         }
     ],
     "version": {
