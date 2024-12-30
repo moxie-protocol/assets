@@ -8346,6 +8346,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8b396c0-2919-4842-22f2-f7723eea2b00/rectcrop3",
             "name": "Moxie:gweitracker-fc",
             "symbol": "Moxie:gweitracker-fc"
+        },
+        {
+            "address": "0xC722D8EBA69d08eF220581fE71dAaD2997D11b31",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bafcd95-c909-4520-3caa-449d3c8b5000/rectcrop3",
+            "name": "Moxie:dhenjhun-fc",
+            "symbol": "Moxie:dhenjhun-fc"
         }
     ],
     "version": {
