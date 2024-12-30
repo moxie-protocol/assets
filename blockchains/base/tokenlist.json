@@ -9942,6 +9942,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1703249063037313024/AMAcWqqv.jpg",
             "name": "Moxie:Viego88-x",
             "symbol": "Moxie:Viego88-x"
+        },
+        {
+            "address": "0x14aE851A8B118d957739e2A84B3A27C4F15CdB70",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866721289148436482/woz6i4Mv.jpg",
+            "name": "Moxie:15Fatwa-x",
+            "symbol": "Moxie:15Fatwa-x"
         }
     ],
     "version": {
