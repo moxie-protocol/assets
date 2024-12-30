@@ -8598,6 +8598,13 @@
             "logoURI": "https://nygt2ifpd4plbrulvhjw5lmk6mkand5v55qacwsjw6o24bhupzya.arweave.net/bg09IK8fHrDGi6nTbq2K8xQGj7XvYAFaSbedrgT0fnA/",
             "name": "Moxie:portgasdluffy-fc",
             "symbol": "Moxie:portgasdluffy-fc"
+        },
+        {
+            "address": "0xC439C587E7580b8fBB18589B6B3D37B4A3f7cb89",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/788541ce-ecca-41e3-d662-7f6a73438600/rectcrop3",
+            "name": "Moxie:sammjp-fc",
+            "symbol": "Moxie:sammjp-fc"
         }
     ],
     "version": {
