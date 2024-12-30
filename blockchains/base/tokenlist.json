@@ -8136,6 +8136,13 @@
             "logoURI": "https://i.imgur.com/wLLJtic.jpg",
             "name": "Moxie:nftgo-fc",
             "symbol": "Moxie:nftgo-fc"
+        },
+        {
+            "address": "0xEf513627cBF1263e73d6B0DDaD701b3d7D144D1b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa7c76aa-fbf4-4712-ce2d-e2f9761dbd00/rectcrop3",
+            "name": "Moxie:rasamelon-fc",
+            "symbol": "Moxie:rasamelon-fc"
         }
     ],
     "version": {
