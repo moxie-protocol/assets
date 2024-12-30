@@ -8808,6 +8808,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1860635794320592896/x3wu36Bb.jpg",
             "name": "Moxie:Nuriuno-x",
             "symbol": "Moxie:Nuriuno-x"
+        },
+        {
+            "address": "0x13d59F68a94C8a764Af2B7a2397C582c7f88Fd62",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/935ac4a2-858e-4fb4-0e1e-90c8f87e6f00/rectcrop3",
+            "name": "Moxie:rapganteng16-fc",
+            "symbol": "Moxie:rapganteng16-fc"
         }
     ],
     "version": {
