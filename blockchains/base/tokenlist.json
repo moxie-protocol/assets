@@ -9361,6 +9361,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1626650008702578688/wrKkGlik.jpg",
             "name": "Moxie:swaetczher-x",
             "symbol": "Moxie:swaetczher-x"
+        },
+        {
+            "address": "0x0512ae9Df3B71A1A1B27A10a87300128B98dC8bC",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/T1yryX-dHzVApW1bhdPvgZ9Y0HQ9Q4VWWPWmTh_z7Yw/",
+            "name": "Moxie:!312867-fc",
+            "symbol": "Moxie:!312867-fc"
         }
     ],
     "version": {
