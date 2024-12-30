@@ -8157,6 +8157,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea9d8fd1-fbf4-4ae3-21a2-c1ca069bf200/original",
             "name": "Moxie:piesrtasty-fc",
             "symbol": "Moxie:piesrtasty-fc"
+        },
+        {
+            "address": "0x7f0bb8F3f4D39E91Fd42cEEeb3A962a03C994eB6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/173a0958-4180-4706-10ab-a9833affeb00/rectcrop3",
+            "name": "Moxie:sssoi-fc",
+            "symbol": "Moxie:sssoi-fc"
         }
     ],
     "version": {
