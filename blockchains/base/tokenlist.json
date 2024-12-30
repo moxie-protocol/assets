@@ -8087,6 +8087,13 @@
             "logoURI": "https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1260\u0026h=750\u0026dpr=1",
             "name": "Moxie:oxsudodave.base.eth-base",
             "symbol": "Moxie:oxsudodave.base.eth-base"
+        },
+        {
+            "address": "0x9b7849A5C6A9C4AFc6808b8bC5D1F0a8107ea2dD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32f7f4de-52c7-4807-040a-8a6db5c15900/rectcrop3",
+            "name": "Moxie:putrihyang-fc",
+            "symbol": "Moxie:putrihyang-fc"
         }
     ],
     "version": {
