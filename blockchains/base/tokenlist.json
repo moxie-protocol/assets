@@ -9431,6 +9431,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b73239ca-2c56-4e4d-b010-00f87222ec00/rectcrop3",
             "name": "Moxie:carolgaray-fc",
             "symbol": "Moxie:carolgaray-fc"
+        },
+        {
+            "address": "0x85FD02F49e17B9ec6145BA34Ead7ED1293FecE06",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/uAUjlPp.jpg",
+            "name": "Moxie:anventador-fc",
+            "symbol": "Moxie:anventador-fc"
         }
     ],
     "version": {
