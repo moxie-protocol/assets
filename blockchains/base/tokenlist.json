@@ -9949,6 +9949,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866721289148436482/woz6i4Mv.jpg",
             "name": "Moxie:15Fatwa-x",
             "symbol": "Moxie:15Fatwa-x"
+        },
+        {
+            "address": "0x3e45AD118E095BBB605A0E85EBc01E71a8A57ABa",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/1RJmGgH/premium-photo-1728650295285-e6d61f7900f5.jpg",
+            "name": "Moxie:hitman42.base.eth-base",
+            "symbol": "Moxie:hitman42.base.eth-base"
         }
     ],
     "version": {
