@@ -9508,6 +9508,13 @@
             "logoURI": "https://i.imgur.com/FxYDonD.jpg",
             "name": "Moxie:financialmarket-fc",
             "symbol": "Moxie:financialmarket-fc"
+        },
+        {
+            "address": "0x4F28aDf407C9694E4AfbC542D97bABa8a7fe792b",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "seykay",
+            "symbol": "fid:546658"
         }
     ],
     "version": {
