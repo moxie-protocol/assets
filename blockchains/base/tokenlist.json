@@ -8654,6 +8654,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1815606524422782976/hOqfugOd.jpg",
             "name": "Moxie:bagus_shixzy-x",
             "symbol": "Moxie:bagus_shixzy-x"
+        },
+        {
+            "address": "0x3F3946A50a5d0e1734b964bEAD1a5Fe2ce943365",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "fronkcaster",
+            "symbol": "fid:290113"
         }
     ],
     "version": {
