@@ -9858,6 +9858,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a5c7bc5-7ea4-4529-5f46-3e3e245e3600/rectcrop3",
             "name": "Moxie:rickycrit-fc",
             "symbol": "Moxie:rickycrit-fc"
+        },
+        {
+            "address": "0xD818B61C9e5cB9c7f490B7F70ebEFa3898148BED",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Zuywj8gFc3iM-gvaJfAEXranyDTGrXQx2g\u0026s",
+            "name": "Moxie:olensi.eth-ens",
+            "symbol": "Moxie:olensi.eth-ens"
         }
     ],
     "version": {
