@@ -9774,6 +9774,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48a09e12-ac31-4763-c5f1-7115f4f67f00/original",
             "name": "Moxie:defcult-fc",
             "symbol": "Moxie:defcult-fc"
+        },
+        {
+            "address": "0xa34B1DCf8aEE41df7e9acf007432d9a1de0ff07b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c87dd49-3422-4e0c-a25b-7a8c0bf95100/rectcrop3",
+            "name": "Moxie:adryanaje-fc",
+            "symbol": "Moxie:adryanaje-fc"
         }
     ],
     "version": {
