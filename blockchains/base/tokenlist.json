@@ -8332,6 +8332,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859523039874121730/CL4dBtDK.jpg",
             "name": "Moxie:Skytree3337-x",
             "symbol": "Moxie:Skytree3337-x"
+        },
+        {
+            "address": "0x713Ce9aB02D55cA28F0049f1fDCA37F9a170F393",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5df2f07-ff2b-4577-8800-d8556e8b6d00/rectcrop3",
+            "name": "Moxie:cryptopol-fc",
+            "symbol": "Moxie:cryptopol-fc"
         }
     ],
     "version": {
