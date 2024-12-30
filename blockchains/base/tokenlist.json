@@ -8556,6 +8556,13 @@
             "logoURI": "https://i.imgur.com/wyBRSU8.jpg",
             "name": "Moxie:fortunity-fc",
             "symbol": "Moxie:fortunity-fc"
+        },
+        {
+            "address": "0x2DEbb996357e6bA03EC62712BE652525FC337764",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "sorenn",
+            "symbol": "fid:888676"
         }
     ],
     "version": {
