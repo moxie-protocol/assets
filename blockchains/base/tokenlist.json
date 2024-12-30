@@ -9739,6 +9739,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1757399976840216576/Lbb84T0q.jpg",
             "name": "Moxie:Nev21174443-x",
             "symbol": "Moxie:Nev21174443-x"
+        },
+        {
+            "address": "0x67B5CC991d74F12a6f8121794aD6e17c388FE878",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jSZqV9k.jpg",
+            "name": "Moxie:fahroz-fc",
+            "symbol": "Moxie:fahroz-fc"
         }
     ],
     "version": {
