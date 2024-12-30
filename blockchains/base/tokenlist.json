@@ -9438,6 +9438,13 @@
             "logoURI": "https://i.imgur.com/uAUjlPp.jpg",
             "name": "Moxie:anventador-fc",
             "symbol": "Moxie:anventador-fc"
+        },
+        {
+            "address": "0xF54916F8A17960892C277bdBDf190b462bc081D5",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/yoVbZ3b.gif",
+            "name": "Moxie:digimark-fc",
+            "symbol": "Moxie:digimark-fc"
         }
     ],
     "version": {
