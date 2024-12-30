@@ -8514,6 +8514,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1878599-3591-4eed-dd2e-81bfecfcd000/rectcrop3",
             "name": "Moxie:samsul1992-fc",
             "symbol": "Moxie:samsul1992-fc"
+        },
+        {
+            "address": "0x0D609A7b9d9Be574f439558b721B841D6CeA6f80",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8VQBzRx.jpg",
+            "name": "Moxie:lemi-fc",
+            "symbol": "Moxie:lemi-fc"
         }
     ],
     "version": {
