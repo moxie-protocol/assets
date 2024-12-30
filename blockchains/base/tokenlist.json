@@ -8073,6 +8073,13 @@
             "logoURI": "https://i.imgur.com/93RgQU7.jpg",
             "name": "Moxie:jelwebtv-fc",
             "symbol": "Moxie:jelwebtv-fc"
+        },
+        {
+            "address": "0x7c21119E78d272b973A3205D59DD30F5e0F5B7Bb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870604770962006016/V8tt7r0i.jpg",
+            "name": "Moxie:MrJushenry-x",
+            "symbol": "Moxie:MrJushenry-x"
         }
     ],
     "version": {
