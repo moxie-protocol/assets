@@ -9746,6 +9746,13 @@
             "logoURI": "https://i.imgur.com/jSZqV9k.jpg",
             "name": "Moxie:fahroz-fc",
             "symbol": "Moxie:fahroz-fc"
+        },
+        {
+            "address": "0x46Dc403B18F3Ca77105a94853b854cAdfF50ACC3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bTlNHmH.jpg",
+            "name": "Moxie:rizky08-fc",
+            "symbol": "Moxie:rizky08-fc"
         }
     ],
     "version": {
