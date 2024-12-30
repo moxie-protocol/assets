@@ -8416,6 +8416,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/caf53e32-3638-41dd-05d3-f2e1f1970100/original",
             "name": "Moxie:19759-fc",
             "symbol": "Moxie:19759-fc"
+        },
+        {
+            "address": "0xa198db1a2F594125EBe52354eC80E829E9Eb0C0c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9d199fc-fba7-4843-b875-683d8db14d00/rectcrop3",
+            "name": "Moxie:zur1el-fc",
+            "symbol": "Moxie:zur1el-fc"
         }
     ],
     "version": {
