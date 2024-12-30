@@ -8885,6 +8885,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e424ed6-df31-44b5-7d4c-76266caf6100/rectcrop3",
             "name": "Moxie:resmush-fc",
             "symbol": "Moxie:resmush-fc"
+        },
+        {
+            "address": "0xDeFe3157572b408945BA3067E6e8c244c89e7e81",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fwdT5uZ.jpg",
+            "name": "Moxie:oxlip-fc",
+            "symbol": "Moxie:oxlip-fc"
         }
     ],
     "version": {
