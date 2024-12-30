@@ -8290,6 +8290,13 @@
             "logoURI": "https://i.imgur.com/sXHZBLy.jpg",
             "name": "Moxie:kondenande-fc",
             "symbol": "Moxie:kondenande-fc"
+        },
+        {
+            "address": "0xcd81a4a89Dee74B04e5Ed4c7c7c76E828E24beDD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce99f49d-6096-4b61-16f2-825731ca5900/rectcrop3",
+            "name": "Moxie:ronialfredo25-fc",
+            "symbol": "Moxie:ronialfredo25-fc"
         }
     ],
     "version": {
