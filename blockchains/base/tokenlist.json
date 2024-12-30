@@ -8724,6 +8724,13 @@
             "logoURI": "https://i.imgur.com/L2fOJsf.jpg",
             "name": "Moxie:cengkling-fc",
             "symbol": "Moxie:cengkling-fc"
+        },
+        {
+            "address": "0xB0af9262a75c33aEFedfc74814A558c03121694b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f01da6b0-67b7-41da-fefe-58b7f01ba200/rectcrop3",
+            "name": "Moxie:alikenzy-fc",
+            "symbol": "Moxie:alikenzy-fc"
         }
     ],
     "version": {
