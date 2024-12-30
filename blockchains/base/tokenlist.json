@@ -9634,6 +9634,13 @@
             "logoURI": "https://i.imgur.com/74kZ6rG.jpg",
             "name": "Moxie:retasetyowati-fc",
             "symbol": "Moxie:retasetyowati-fc"
+        },
+        {
+            "address": "0xa4F91B24d3710F516773C4AF89E16740CebC654a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a66c92e-9f34-4759-bc25-331f32aebf00/original",
+            "name": "Moxie:ourfuturecrypto-fc",
+            "symbol": "Moxie:ourfuturecrypto-fc"
         }
     ],
     "version": {
