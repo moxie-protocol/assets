@@ -8626,6 +8626,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5073ee2-c95a-4e69-aa17-1fbbd45b6400/rectcrop3",
             "name": "Moxie:werhat-fc",
             "symbol": "Moxie:werhat-fc"
+        },
+        {
+            "address": "0x71dA675C14436640c3f07DE503EB2B60F8BfD4CF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/db2bHlC.jpg",
+            "name": "Moxie:rikigo-fc",
+            "symbol": "Moxie:rikigo-fc"
         }
     ],
     "version": {
