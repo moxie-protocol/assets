@@ -9480,6 +9480,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f61d80-6400-4e93-c924-e040213e0000/rectcrop3",
             "name": "Moxie:mhdal-fc",
             "symbol": "Moxie:mhdal-fc"
+        },
+        {
+            "address": "0x783CE6AdEb3403226598a3516a75d8688368f09C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b3d83fd-645e-4f20-b0e8-f7e71f1ca800/rectcrop3",
+            "name": "Moxie:ronaldburk-fc",
+            "symbol": "Moxie:ronaldburk-fc"
         }
     ],
     "version": {
