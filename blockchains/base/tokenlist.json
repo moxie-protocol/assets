@@ -8227,6 +8227,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/968f4832-1287-4f81-7551-9b4118657b00/rectcrop3",
             "name": "Moxie:angkringan31-fc",
             "symbol": "Moxie:angkringan31-fc"
+        },
+        {
+            "address": "0x419B18059f4d41A89da9430f73386716195E026b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3229f6af-57e4-459d-f93b-395690dee600/rectcrop3",
+            "name": "Moxie:mzwinn12-fc",
+            "symbol": "Moxie:mzwinn12-fc"
         }
     ],
     "version": {
