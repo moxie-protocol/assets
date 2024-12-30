@@ -8927,6 +8927,13 @@
             "logoURI": "https://i.imgur.com/xnYrXF1.jpg",
             "name": "Moxie:sleek-fc",
             "symbol": "Moxie:sleek-fc"
+        },
+        {
+            "address": "0xA198246eC09EE8AF637aAB1EC87A7297771e5779",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1587439331618455553/2ZtCjtBz.jpg",
+            "name": "Moxie:Rizkykey_-x",
+            "symbol": "Moxie:Rizkykey_-x"
         }
     ],
     "version": {
