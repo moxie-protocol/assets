@@ -8234,6 +8234,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3229f6af-57e4-459d-f93b-395690dee600/rectcrop3",
             "name": "Moxie:mzwinn12-fc",
             "symbol": "Moxie:mzwinn12-fc"
+        },
+        {
+            "address": "0xBeFBbD93B1287867c5660f9779Ee4d2deF376772",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/450f04bb-85b6-43ca-05b1-b16a44cc9800/rectcrop3",
+            "name": "Moxie:juple-fc",
+            "symbol": "Moxie:juple-fc"
         }
     ],
     "version": {
