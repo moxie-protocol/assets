@@ -9207,6 +9207,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91d3f84a-735b-46c1-971a-cfb237510a00/rectcrop3",
             "name": "Moxie:dedenuju-fc",
             "symbol": "Moxie:dedenuju-fc"
+        },
+        {
+            "address": "0x98CFCb882a8e18AF49D6333bf4C53780e5e4e665",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/AFMPK3S.jpg",
+            "name": "Moxie:arbit77-fc",
+            "symbol": "Moxie:arbit77-fc"
         }
     ],
     "version": {
