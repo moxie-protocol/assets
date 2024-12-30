@@ -8759,6 +8759,13 @@
             "logoURI": "https://i.imgur.com/RJGpdfM.jpg",
             "name": "Moxie:merday-fc",
             "symbol": "Moxie:merday-fc"
+        },
+        {
+            "address": "0x4F2eed481A76a4264dA9eFD81F71011929260E59",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bac898d-092c-43a5-39fb-a899fb416400/rectcrop3",
+            "name": "Moxie:iost-fc",
+            "symbol": "Moxie:iost-fc"
         }
     ],
     "version": {
