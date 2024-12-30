@@ -9305,6 +9305,13 @@
             "logoURI": "https://i.imgur.com/ySWZRMH.jpg",
             "name": "Moxie:getrichh-fc",
             "symbol": "Moxie:getrichh-fc"
+        },
+        {
+            "address": "0xd3872f958972B871Adcd5d492c396CcfBbC2311A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RemK402.png",
+            "name": "Moxie:monaki-fc",
+            "symbol": "Moxie:monaki-fc"
         }
     ],
     "version": {
