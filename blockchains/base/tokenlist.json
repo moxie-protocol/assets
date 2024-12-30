@@ -9704,6 +9704,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36c58595-297d-470b-d0a0-e17a10ae5900/original",
             "name": "Moxie:vryours-fc",
             "symbol": "Moxie:vryours-fc"
+        },
+        {
+            "address": "0xb473652959B1D20696a2E8A07929d80483468bA2",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeig7k4bnqm5glrsx7tnxzqx5ekdwchkxpquyq6gtp4p2edv4ha2vdi",
+            "name": "Moxie:soitienao-fc",
+            "symbol": "Moxie:soitienao-fc"
         }
     ],
     "version": {
