@@ -8731,6 +8731,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f01da6b0-67b7-41da-fefe-58b7f01ba200/rectcrop3",
             "name": "Moxie:alikenzy-fc",
             "symbol": "Moxie:alikenzy-fc"
+        },
+        {
+            "address": "0x59A6A779AA7A7d3ABd8e309ef5164d70e7654f91",
+            "decimals": 18,
+            "logoURI": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lQdqlHtylkHGHQ_ugoObtA.png",
+            "name": "Moxie:uscoin.base.eth-base",
+            "symbol": "Moxie:uscoin.base.eth-base"
         }
     ],
     "version": {
