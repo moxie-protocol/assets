@@ -9284,6 +9284,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/701a142f-6959-4f69-b6e3-af5ab5e0f800/rectcrop3",
             "name": "Moxie:aish0331-fc",
             "symbol": "Moxie:aish0331-fc"
+        },
+        {
+            "address": "0x45cdE3E1957DD8585885367839Cf0Fe2d31BD19e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Yj61u6C.jpg",
+            "name": "Moxie:kerolos-fc",
+            "symbol": "Moxie:kerolos-fc"
         }
     ],
     "version": {
