@@ -9690,6 +9690,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7fe0f2b-5632-4ba2-9eef-c697d66c4c00/rectcrop3",
             "name": "Moxie:aqi32-fc",
             "symbol": "Moxie:aqi32-fc"
+        },
+        {
+            "address": "0x2572fc3DCA45ed16A3a41BBb678Fb8dFB147B29D",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/s/raw/files/fa92c835f83c389d661ec8e081fa6fff.png?w=500\u0026auto=format",
+            "name": "Moxie:crys10-fc",
+            "symbol": "Moxie:crys10-fc"
         }
     ],
     "version": {
