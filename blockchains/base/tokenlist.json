@@ -8899,6 +8899,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreidcfwyiw6lo6krgwka7xqvrimjh3d3tfadirhbappahl4rewpd36e",
             "name": "Moxie:paydec-fc",
             "symbol": "Moxie:paydec-fc"
+        },
+        {
+            "address": "0x3dA26Fe9744494A0478772d7C473c19aE6eeBb96",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/s/raw/files/71d39c07eb2500e9df8c8bf30bdba7fd.png?auto=format\u0026dpr=1\u0026w=384",
+            "name": "Moxie:arrak.base.eth-base",
+            "symbol": "Moxie:arrak.base.eth-base"
         }
     ],
     "version": {
