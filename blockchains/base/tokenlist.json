@@ -9067,6 +9067,13 @@
             "logoURI": "https://i.imgur.com/iAMxjBB.jpg",
             "name": "Moxie:budiman-fc",
             "symbol": "Moxie:budiman-fc"
+        },
+        {
+            "address": "0xB890D6FD98B62643fb791589d323A970A82A28d1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ecc4a1ae-f9d6-40dd-bd48-4f245f3e2600/rectcrop3",
+            "name": "Moxie:sirasep-fc",
+            "symbol": "Moxie:sirasep-fc"
         }
     ],
     "version": {
