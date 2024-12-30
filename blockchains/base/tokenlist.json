@@ -9697,6 +9697,13 @@
             "logoURI": "https://i.seadn.io/s/raw/files/fa92c835f83c389d661ec8e081fa6fff.png?w=500\u0026auto=format",
             "name": "Moxie:crys10-fc",
             "symbol": "Moxie:crys10-fc"
+        },
+        {
+            "address": "0x11264ab36748BD0ff9Aa940D50D94eF457C42c32",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36c58595-297d-470b-d0a0-e17a10ae5900/original",
+            "name": "Moxie:vryours-fc",
+            "symbol": "Moxie:vryours-fc"
         }
     ],
     "version": {
