@@ -8696,6 +8696,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb6d4cf7-fc64-4975-3efa-366bd0fc9500/rectcrop3",
             "name": "Moxie:rizalsulistiawan-fc",
             "symbol": "Moxie:rizalsulistiawan-fc"
+        },
+        {
+            "address": "0x8344483Ef4BCeA0BdA42e626008dfEE411a5F46b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6h49qe9.jpg",
+            "name": "Moxie:tedzyx-fc",
+            "symbol": "Moxie:tedzyx-fc"
         }
     ],
     "version": {
