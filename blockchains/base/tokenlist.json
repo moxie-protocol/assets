@@ -8913,6 +8913,13 @@
             "logoURI": "https://i.imgur.com/UVxPosO.jpg",
             "name": "Moxie:boado-fc",
             "symbol": "Moxie:boado-fc"
+        },
+        {
+            "address": "0x38998323a13b0125599F0e3A4B2a4dc8989BF200",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fde01c7-7d01-4459-2a06-730d4cbff300/rectcrop3",
+            "name": "Moxie:rafaazka13-fc",
+            "symbol": "Moxie:rafaazka13-fc"
         }
     ],
     "version": {
