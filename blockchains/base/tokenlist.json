@@ -8451,6 +8451,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873618627011952640/5ZFfgTbI.png",
             "name": "Moxie:gaenali2045033-x",
             "symbol": "Moxie:gaenali2045033-x"
+        },
+        {
+            "address": "0x1A98Bb09ed348c532CDe355625dC45A2f93731b0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873623853978836992/fCkxZQxK.png",
+            "name": "Moxie:gaenali2038845-x",
+            "symbol": "Moxie:gaenali2038845-x"
         }
     ],
     "version": {
