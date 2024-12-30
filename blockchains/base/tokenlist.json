@@ -9648,6 +9648,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0757ab25-bd42-4849-d3db-eba184a8c300/rectcrop3",
             "name": "Moxie:ifa-fc",
             "symbol": "Moxie:ifa-fc"
+        },
+        {
+            "address": "0xE7AcA39F963c2867a2D9bc621e4ea312F3fecB90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94cfa6e8-f928-4ef4-33f8-5a6b2ada0500/rectcrop3",
+            "name": "Moxie:niken32-fc",
+            "symbol": "Moxie:niken32-fc"
         }
     ],
     "version": {
