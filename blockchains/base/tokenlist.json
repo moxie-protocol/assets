@@ -8143,6 +8143,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa7c76aa-fbf4-4712-ce2d-e2f9761dbd00/rectcrop3",
             "name": "Moxie:rasamelon-fc",
             "symbol": "Moxie:rasamelon-fc"
+        },
+        {
+            "address": "0xf04fa2EEf897f65057f45155031bdC172B8Ea20D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c92d8e68-0f63-49eb-12f6-74f347e36e00/original",
+            "name": "Moxie:disqtible-fc",
+            "symbol": "Moxie:disqtible-fc"
         }
     ],
     "version": {
