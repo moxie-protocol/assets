@@ -8955,6 +8955,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/846ee568-f417-4ce8-7304-95c1ed56a300/rectcrop3",
             "name": "Moxie:mrcrypto420-fc",
             "symbol": "Moxie:mrcrypto420-fc"
+        },
+        {
+            "address": "0xB099493E3A1B8b8C2a329d9cf98edEb45f48a687",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/612917726923755520/92nFhPTE.jpg",
+            "name": "Moxie:revotevot-x",
+            "symbol": "Moxie:revotevot-x"
         }
     ],
     "version": {
