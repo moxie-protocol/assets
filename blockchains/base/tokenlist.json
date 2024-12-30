@@ -8997,6 +8997,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1699792419179651072/pwR_f6YE.jpg",
             "name": "Moxie:dodi2492-x",
             "symbol": "Moxie:dodi2492-x"
+        },
+        {
+            "address": "0xb4738456598afF986b5Cf59A53c2011Ae1cF21B3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HU4pIUD.jpg",
+            "name": "Moxie:twt-fc",
+            "symbol": "Moxie:twt-fc"
         }
     ],
     "version": {
