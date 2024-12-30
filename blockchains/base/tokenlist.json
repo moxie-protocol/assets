@@ -9249,6 +9249,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1732514239045369856/x4POFhtt.jpg",
             "name": "Moxie:NadyaPuspitasr5-x",
             "symbol": "Moxie:NadyaPuspitasr5-x"
+        },
+        {
+            "address": "0x713F89B705Fe5aBC22B830b9826fA6aAFb68216e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1821877175437684738/m6XZpCI5.jpg",
+            "name": "Moxie:Syntax_lans-x",
+            "symbol": "Moxie:Syntax_lans-x"
         }
     ],
     "version": {
