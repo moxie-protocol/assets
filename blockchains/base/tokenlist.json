@@ -9543,6 +9543,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6e21b4c-2a34-430f-39b1-332407870b00/rectcrop3",
             "name": "Moxie:thai10-fc",
             "symbol": "Moxie:thai10-fc"
+        },
+        {
+            "address": "0xEA7C8dee627480a82d5B24dEF6615C517E1789cd",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/sgCrXJ6r/Ayam-kampung-jantan.jpg",
+            "name": "Moxie:subnd.base.eth-base",
+            "symbol": "Moxie:subnd.base.eth-base"
         }
     ],
     "version": {
