@@ -9914,6 +9914,13 @@
             "logoURI": "https://www.base.org/_next/static/media/logo.f6fdedfc.svg",
             "name": "Moxie:superbasic.base.eth-base",
             "symbol": "Moxie:superbasic.base.eth-base"
+        },
+        {
+            "address": "0x6080f019948D5882c911A75E2bCe1C21D46c38Ff",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1804510132224811008/mdTvB351.jpg",
+            "name": "Moxie:FCKTPX-x",
+            "symbol": "Moxie:FCKTPX-x"
         }
     ],
     "version": {
