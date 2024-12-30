@@ -8584,6 +8584,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1441694206276239368/0t4qjT_c.jpg",
             "name": "Moxie:edokriss-x",
             "symbol": "Moxie:edokriss-x"
+        },
+        {
+            "address": "0x4cE1Cd633b0649F05d8E69128d07F62bc030aee4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tTgyYQr.jpg",
+            "name": "Moxie:siswa-fc",
+            "symbol": "Moxie:siswa-fc"
         }
     ],
     "version": {
