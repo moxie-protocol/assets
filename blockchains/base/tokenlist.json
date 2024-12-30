@@ -9018,6 +9018,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1839349464823369729/tdo9iyHJ.jpg",
             "name": "Moxie:Roni4656-x",
             "symbol": "Moxie:Roni4656-x"
+        },
+        {
+            "address": "0x1aD45c6798048f4E1aA8c20061a1857F4DD1BD97",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d828a086-6250-4365-d791-5d6f1d9a2c00/rectcrop3",
+            "name": "Moxie:alianse-fc",
+            "symbol": "Moxie:alianse-fc"
         }
     ],
     "version": {
