@@ -8269,6 +8269,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c7c96a2-30a3-4407-00df-4631da6d3300/rectcrop3",
             "name": "Moxie:ren0xzz-fc",
             "symbol": "Moxie:ren0xzz-fc"
+        },
+        {
+            "address": "0xefE76789d5F9970E43062f2C1521d54f49fAb727",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b46fb522-f073-4e04-7f96-1cbf078bc900/rectcrop3",
+            "name": "Moxie:rhoss-fc",
+            "symbol": "Moxie:rhoss-fc"
         }
     ],
     "version": {
