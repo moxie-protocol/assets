@@ -9200,6 +9200,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1780958797990899712/PKSEpsw2.jpg",
             "name": "Moxie:sec_account2024-x",
             "symbol": "Moxie:sec_account2024-x"
+        },
+        {
+            "address": "0x74ba5792442c45FE0f50e9bb5F5532b80a7DddF3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91d3f84a-735b-46c1-971a-cfb237510a00/rectcrop3",
+            "name": "Moxie:dedenuju-fc",
+            "symbol": "Moxie:dedenuju-fc"
         }
     ],
     "version": {
