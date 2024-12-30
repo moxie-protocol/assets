@@ -8283,6 +8283,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c762359-192e-414c-5f7b-ff86ec888d00/rectcrop3",
             "name": "Moxie:riz06-fc",
             "symbol": "Moxie:riz06-fc"
+        },
+        {
+            "address": "0x40D95E093cb6b54FE9e3825B3cfCa1c954EeF720",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sXHZBLy.jpg",
+            "name": "Moxie:kondenande-fc",
+            "symbol": "Moxie:kondenande-fc"
         }
     ],
     "version": {
