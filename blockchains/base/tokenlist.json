@@ -8402,6 +8402,13 @@
             "logoURI": "https://i.imgur.com/4aSpNTV.jpg",
             "name": "Moxie:muliyadi-fc",
             "symbol": "Moxie:muliyadi-fc"
+        },
+        {
+            "address": "0xC3bc9322335Ea2107A6eB9123F4b535985D24efc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873612612774289408/Jrf7gsey.png",
+            "name": "Moxie:SRoot54236-x",
+            "symbol": "Moxie:SRoot54236-x"
         }
     ],
     "version": {
