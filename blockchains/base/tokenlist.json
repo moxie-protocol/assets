@@ -8192,6 +8192,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1788171783256072192/SDSN5JtK.jpg",
             "name": "Moxie:vaunzy-x",
             "symbol": "Moxie:vaunzy-x"
+        },
+        {
+            "address": "0xF5A2Fe0B847A3c32078C7a3DA836FC28f21006EC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ea27343-869a-4c8d-d0fd-76bdcf356000/rectcrop3",
+            "name": "Moxie:likonew-fc",
+            "symbol": "Moxie:likonew-fc"
         }
     ],
     "version": {
