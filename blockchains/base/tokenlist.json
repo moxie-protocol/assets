@@ -9984,6 +9984,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91b8ff6a-86d2-4fec-3046-949c539c4700/rectcrop3",
             "name": "Moxie:nekvika2008-fc",
             "symbol": "Moxie:nekvika2008-fc"
+        },
+        {
+            "address": "0x14c2fDf2d80e2E93D31E6DCa0C333B35bf791546",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa7ec05a-2eed-4a3d-4eef-bf824f1a9300/rectcrop3",
+            "name": "Moxie:iconnet-fc",
+            "symbol": "Moxie:iconnet-fc"
         }
     ],
     "version": {
