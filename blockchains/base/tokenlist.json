@@ -9711,6 +9711,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeig7k4bnqm5glrsx7tnxzqx5ekdwchkxpquyq6gtp4p2edv4ha2vdi",
             "name": "Moxie:soitienao-fc",
             "symbol": "Moxie:soitienao-fc"
+        },
+        {
+            "address": "0x00cec4F34a466F6dE734FC9a1A7348ABD5505deA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1800460691692015616/WZbE40IP.jpg",
+            "name": "Moxie:Naufalph28-x",
+            "symbol": "Moxie:Naufalph28-x"
         }
     ],
     "version": {
