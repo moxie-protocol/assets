@@ -8745,6 +8745,13 @@
             "logoURI": "https://i.imgur.com/pDIdvWB.jpg",
             "name": "Moxie:basecamp-fc",
             "symbol": "Moxie:basecamp-fc"
+        },
+        {
+            "address": "0x795af6ee4E439C5105811aCEc39d791Bf69A50ec",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/12BPEiR.jpg",
+            "name": "Moxie:rnevanz-fc",
+            "symbol": "Moxie:rnevanz-fc"
         }
     ],
     "version": {
