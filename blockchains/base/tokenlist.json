@@ -8612,6 +8612,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48338dde-67ae-4ae5-9632-6cc5ef213e00/rectcrop3",
             "name": "Moxie:kiritonagi-fc",
             "symbol": "Moxie:kiritonagi-fc"
+        },
+        {
+            "address": "0x73213B2DC9e9b0b511B9bE968a6F81ec096Dd04B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3hqHPn1.jpg",
+            "name": "Moxie:randz-fc",
+            "symbol": "Moxie:randz-fc"
         }
     ],
     "version": {
