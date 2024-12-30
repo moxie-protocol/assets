@@ -9144,6 +9144,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20da44e4-6a09-4de6-c50c-3bf5afcf3600/rectcrop3",
             "name": "Moxie:mezaa-fc",
             "symbol": "Moxie:mezaa-fc"
+        },
+        {
+            "address": "0x1c2A85cc4cE951dbDBFae75F60073A09cC240b9F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1488532802673213442/cPdwmMCm.jpg",
+            "name": "Moxie:galihadiutomo-x",
+            "symbol": "Moxie:galihadiutomo-x"
         }
     ],
     "version": {
