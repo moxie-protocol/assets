@@ -9613,6 +9613,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1691840966448250880/scClgrBl.jpg",
             "name": "Moxie:nemocityy-x",
             "symbol": "Moxie:nemocityy-x"
+        },
+        {
+            "address": "0xF778D80Fd2543442977B00709D848ACE27CD7ebb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1589253234228875265/GhjJixZQ.jpg",
+            "name": "Moxie:devinaanggra20-x",
+            "symbol": "Moxie:devinaanggra20-x"
         }
     ],
     "version": {
