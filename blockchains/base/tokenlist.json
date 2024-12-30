@@ -9788,6 +9788,13 @@
             "logoURI": null,
             "name": "moxiebabe",
             "symbol": "fid:925647"
+        },
+        {
+            "address": "0xf877066231EF96945a6607F1c9B790c413876b2E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/765778bd-daa8-4070-29c5-461bda2d0300/rectcrop3",
+            "name": "Moxie:maulana2511-fc",
+            "symbol": "Moxie:maulana2511-fc"
         }
     ],
     "version": {
