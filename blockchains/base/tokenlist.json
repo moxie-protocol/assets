@@ -9550,6 +9550,13 @@
             "logoURI": "https://i.postimg.cc/sgCrXJ6r/Ayam-kampung-jantan.jpg",
             "name": "Moxie:subnd.base.eth-base",
             "symbol": "Moxie:subnd.base.eth-base"
+        },
+        {
+            "address": "0x6308a1F6D447C4CB8923E726cE94A568B95BF475",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1507991379582291969/BL6K3SVd.jpg",
+            "name": "Moxie:StaySedboy-x",
+            "symbol": "Moxie:StaySedboy-x"
         }
     ],
     "version": {
