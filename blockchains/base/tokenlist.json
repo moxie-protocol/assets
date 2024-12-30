@@ -9732,6 +9732,13 @@
             "logoURI": "https://i.imgur.com/BEBfYZb.jpg",
             "name": "Moxie:rafiqul100-fc",
             "symbol": "Moxie:rafiqul100-fc"
+        },
+        {
+            "address": "0x1c0664B363680c972F07a18F459cc3bfE9325c3d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1757399976840216576/Lbb84T0q.jpg",
+            "name": "Moxie:Nev21174443-x",
+            "symbol": "Moxie:Nev21174443-x"
         }
     ],
     "version": {
