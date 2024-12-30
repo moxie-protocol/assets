@@ -8066,6 +8066,13 @@
             "logoURI": "https://i.imgur.com/WawZhPD.jpg",
             "name": "Moxie:sasim-fc",
             "symbol": "Moxie:sasim-fc"
+        },
+        {
+            "address": "0x1c66Db8487e524fA4b51fE3D98Bf0F387A0e40bf",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/93RgQU7.jpg",
+            "name": "Moxie:jelwebtv-fc",
+            "symbol": "Moxie:jelwebtv-fc"
         }
     ],
     "version": {
