@@ -9396,6 +9396,13 @@
             "logoURI": "https://i.imgur.com/5zVNuhN.jpg",
             "name": "Moxie:toshiboo-fc",
             "symbol": "Moxie:toshiboo-fc"
+        },
+        {
+            "address": "0xaBF2397508408902A40257eB1DADB52bFd61773F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fc1d27a-3d60-41ce-d403-9654b1a88100/rectcrop3",
+            "name": "Moxie:daiwa-fc",
+            "symbol": "Moxie:daiwa-fc"
         }
     ],
     "version": {
