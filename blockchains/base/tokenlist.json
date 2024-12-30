@@ -9123,6 +9123,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec84b206-b413-43eb-7b94-396a1b80ab00/rectcrop3",
             "name": "Moxie:darkwebtoon-fc",
             "symbol": "Moxie:darkwebtoon-fc"
+        },
+        {
+            "address": "0xeD6B96436f7d127067d5d360548a65871Ab7cf97",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/51dde119-f9ca-48ae-0689-cb6bed5f1400/rectcrop3",
+            "name": "Moxie:morganss-fc",
+            "symbol": "Moxie:morganss-fc"
         }
     ],
     "version": {
