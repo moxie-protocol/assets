@@ -8941,6 +8941,13 @@
             "logoURI": "https://i.imgur.com/3w9l9JH.jpg",
             "name": "Moxie:nafhah-fc",
             "symbol": "Moxie:nafhah-fc"
+        },
+        {
+            "address": "0x35829851D9716efEdD6296093b5F491F57311464",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef1157b5-d851-433f-bd86-d50154eaa300/rectcrop3",
+            "name": "Moxie:ziqa14-fc",
+            "symbol": "Moxie:ziqa14-fc"
         }
     ],
     "version": {
