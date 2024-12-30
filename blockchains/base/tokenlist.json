@@ -9340,6 +9340,13 @@
             "logoURI": "https://i.imgur.com/4ztdTZ3.jpg",
             "name": "Moxie:farook-fc",
             "symbol": "Moxie:farook-fc"
+        },
+        {
+            "address": "0x51de52679f5AB0Ddd943E706bFD071d2B409f8fe",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1732516156769251328/G4at5_wU.jpg",
+            "name": "Moxie:chikenw480-x",
+            "symbol": "Moxie:chikenw480-x"
         }
     ],
     "version": {
