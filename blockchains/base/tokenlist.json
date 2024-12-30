@@ -8857,6 +8857,13 @@
             "logoURI": "https://i.imgur.com/Yy969qc.gif",
             "name": "Moxie:0xde-fc",
             "symbol": "Moxie:0xde-fc"
+        },
+        {
+            "address": "0x5A3032F6c36C73ce4Fc3Dc2685EB4b30455F2d1A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c9bdfb9-2e87-4a7f-4438-abfb06e40b00/rectcrop3",
+            "name": "Moxie:0xset-fc",
+            "symbol": "Moxie:0xset-fc"
         }
     ],
     "version": {
