@@ -8668,6 +8668,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0621971f-9cc1-4ae1-df12-b35f6c051100/rectcrop3",
             "name": "Moxie:pensiun-fc",
             "symbol": "Moxie:pensiun-fc"
+        },
+        {
+            "address": "0x860D45b4bF8c2c5e757067D7Aef1D83d496fb9a9",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/phETegKgMrDJ9PVVBsc4WY-fKrIp6OLqXvnt9-tfYPY/",
+            "name": "Moxie:nova701-fc",
+            "symbol": "Moxie:nova701-fc"
         }
     ],
     "version": {
