@@ -9823,6 +9823,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1823258747311128577/wRCVY7CP.jpg",
             "name": "Moxie:DEANXONA-x",
             "symbol": "Moxie:DEANXONA-x"
+        },
+        {
+            "address": "0x13170E5AadD390FB2022b8470F2ACF976D210422",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1772028231622823936/vC9QWmjp.png",
+            "name": "Moxie:DabNev37420-x",
+            "symbol": "Moxie:DabNev37420-x"
         }
     ],
     "version": {
