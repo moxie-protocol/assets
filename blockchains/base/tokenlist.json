@@ -9837,6 +9837,13 @@
             "logoURI": "https://i.imgur.com/mVlIDV8.jpg",
             "name": "Moxie:aguskiki-fc",
             "symbol": "Moxie:aguskiki-fc"
+        },
+        {
+            "address": "0x813F7437117A7679263e37da614a5a1FFB2F948d",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/uNhEqEb.jpg",
+            "name": "Moxie:toscawidow-fc",
+            "symbol": "Moxie:toscawidow-fc"
         }
     ],
     "version": {
