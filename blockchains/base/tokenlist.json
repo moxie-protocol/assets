@@ -8549,6 +8549,13 @@
             "logoURI": "https://i.imgur.com/7M0RxRI.jpg",
             "name": "Moxie:garenk3105-fc",
             "symbol": "Moxie:garenk3105-fc"
+        },
+        {
+            "address": "0x1A100449CFF702547eA85f82B28325211AC51417",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wyBRSU8.jpg",
+            "name": "Moxie:fortunity-fc",
+            "symbol": "Moxie:fortunity-fc"
         }
     ],
     "version": {
