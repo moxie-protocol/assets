@@ -9865,6 +9865,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Zuywj8gFc3iM-gvaJfAEXranyDTGrXQx2g\u0026s",
             "name": "Moxie:olensi.eth-ens",
             "symbol": "Moxie:olensi.eth-ens"
+        },
+        {
+            "address": "0x3E852595767CE126FC1751e190E271A24be32950",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872344217596383232/CmKCD70j.jpg",
+            "name": "Moxie:derekbrown-x",
+            "symbol": "Moxie:derekbrown-x"
         }
     ],
     "version": {
