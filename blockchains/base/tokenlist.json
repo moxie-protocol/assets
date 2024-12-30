@@ -8360,6 +8360,13 @@
             "logoURI": null,
             "name": "shakibbinhasan",
             "symbol": "fid:903294"
+        },
+        {
+            "address": "0x3CBE018BC30D0f67D53fcf1745Ce6536504260f5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/953e3e70-7ae2-44dd-075a-bc81c643e100/rectcrop3",
+            "name": "Moxie:yuriyuri-fc",
+            "symbol": "Moxie:yuriyuri-fc"
         }
     ],
     "version": {
