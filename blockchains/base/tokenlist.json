@@ -9564,6 +9564,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1784266215080570880/opk9qzBG.jpg",
             "name": "Moxie:Debabhida-x",
             "symbol": "Moxie:Debabhida-x"
+        },
+        {
+            "address": "0x9642C504c3E1695DE8Ce2a888A6957f67d5dBE61",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829409850486321152/GTQQFrux.jpg",
+            "name": "Moxie:sazzads2003-x",
+            "symbol": "Moxie:sazzads2003-x"
         }
     ],
     "version": {
