@@ -9088,6 +9088,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1814571343700238341/wh5QDAbi.jpg",
             "name": "Moxie:bucup770-x",
             "symbol": "Moxie:bucup770-x"
+        },
+        {
+            "address": "0x2cb82c3D43Fe982FdD041a20632669aac16F1258",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/66628c41-ae01-4b46-bd24-9b0aa036fe00/rectcrop3",
+            "name": "Moxie:cryptoteam-fc",
+            "symbol": "Moxie:cryptoteam-fc"
         }
     ],
     "version": {
