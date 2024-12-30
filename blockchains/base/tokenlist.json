@@ -9872,6 +9872,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872344217596383232/CmKCD70j.jpg",
             "name": "Moxie:derekbrown-x",
             "symbol": "Moxie:derekbrown-x"
+        },
+        {
+            "address": "0xb7bAd0598832c0f18FBa33960b7278e896C6C0eA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/318a4a3a-cf6f-4b33-4fd8-bcd564beaf00/rectcrop3",
+            "name": "Moxie:xapitalx-fc",
+            "symbol": "Moxie:xapitalx-fc"
         }
     ],
     "version": {
