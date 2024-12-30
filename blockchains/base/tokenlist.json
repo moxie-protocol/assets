@@ -8850,6 +8850,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/030d9b60-920b-4ebc-23b9-090d32aa5000/rectcrop3",
             "name": "Moxie:dynasty-fc",
             "symbol": "Moxie:dynasty-fc"
+        },
+        {
+            "address": "0x75e0992D75B450d1FC56C759D6bDd865BC679ef9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Yy969qc.gif",
+            "name": "Moxie:0xde-fc",
+            "symbol": "Moxie:0xde-fc"
         }
     ],
     "version": {
