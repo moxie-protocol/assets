@@ -8766,6 +8766,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bac898d-092c-43a5-39fb-a899fb416400/rectcrop3",
             "name": "Moxie:iost-fc",
             "symbol": "Moxie:iost-fc"
+        },
+        {
+            "address": "0x8C71045026B9F5f25C8da52Dab386E7844538522",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f1433f5d-501e-4116-cae8-2e1422ffe900/rectcrop3",
+            "name": "Moxie:syihab-fc",
+            "symbol": "Moxie:syihab-fc"
         }
     ],
     "version": {
