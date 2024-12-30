@@ -8787,6 +8787,13 @@
             "logoURI": "https://i.imgur.com/KVer6Oo.jpg",
             "name": "Moxie:limited-fc",
             "symbol": "Moxie:limited-fc"
+        },
+        {
+            "address": "0xe4cbAF739ff3481A236057bFBAa19E32E29F8b7f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/EXYc5Pr.gif",
+            "name": "Moxie:loxoury.eth-fc",
+            "symbol": "Moxie:loxoury.eth-fc"
         }
     ],
     "version": {
