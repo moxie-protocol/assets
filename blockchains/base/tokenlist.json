@@ -9970,6 +9970,13 @@
             "logoURI": "https://i.imgur.com/5tEy4Uw.jpg",
             "name": "Moxie:kominna-fc",
             "symbol": "Moxie:kominna-fc"
+        },
+        {
+            "address": "0x8DC3839Aa7e5D10a39cf8e3CC63046a3B0753a5e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33c567a9-26ee-46bb-6d4f-bab81cb52b00/rectcrop3",
+            "name": "Moxie:hunttones-fc",
+            "symbol": "Moxie:hunttones-fc"
         }
     ],
     "version": {
