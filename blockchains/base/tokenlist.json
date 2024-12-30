@@ -8794,6 +8794,13 @@
             "logoURI": "https://i.imgur.com/EXYc5Pr.gif",
             "name": "Moxie:loxoury.eth-fc",
             "symbol": "Moxie:loxoury.eth-fc"
+        },
+        {
+            "address": "0xB6E7BCb899FB75D1635C27aCD1C3aaA354f3BdCB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0bcbaf8a-d9d8-4687-fd80-a8bcd46ff100/rectcrop3",
+            "name": "Moxie:punxboy99-fc",
+            "symbol": "Moxie:punxboy99-fc"
         }
     ],
     "version": {
