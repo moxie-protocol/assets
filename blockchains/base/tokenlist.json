@@ -9900,6 +9900,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64dd1d76-ff2c-448f-acdc-ae25a48c4100/rectcrop3",
             "name": "Moxie:lara0x-fc",
             "symbol": "Moxie:lara0x-fc"
+        },
+        {
+            "address": "0xC184367ba39735Aec4F55bC27c4f3d798527c554",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Fzc3dOc.jpg",
+            "name": "Moxie:raka-fc",
+            "symbol": "Moxie:raka-fc"
         }
     ],
     "version": {
