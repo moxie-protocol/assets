@@ -8843,6 +8843,13 @@
             "logoURI": "https://i.imgur.com/inajkei.jpg",
             "name": "Moxie:jevenx-fc",
             "symbol": "Moxie:jevenx-fc"
+        },
+        {
+            "address": "0xb60CEDecF0EdC2a73DA25595C186E5357f60A9C9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/030d9b60-920b-4ebc-23b9-090d32aa5000/rectcrop3",
+            "name": "Moxie:dynasty-fc",
+            "symbol": "Moxie:dynasty-fc"
         }
     ],
     "version": {
