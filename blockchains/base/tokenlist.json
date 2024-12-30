@@ -9767,6 +9767,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1785726332757803008/pICu90da.jpg",
             "name": "Moxie:SageOrhis-x",
             "symbol": "Moxie:SageOrhis-x"
+        },
+        {
+            "address": "0xCeC2487A6ef2f107f5839B076d659800E4c9b70C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48a09e12-ac31-4763-c5f1-7115f4f67f00/original",
+            "name": "Moxie:defcult-fc",
+            "symbol": "Moxie:defcult-fc"
         }
     ],
     "version": {
