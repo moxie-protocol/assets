@@ -8325,6 +8325,13 @@
             "logoURI": "https://arweave.net/3HuNJy8nQejq2RV9MaIIp8_bouD-KVyljbefmgvlyQo/",
             "name": "Moxie:darmasa-fc",
             "symbol": "Moxie:darmasa-fc"
+        },
+        {
+            "address": "0xB89Fd6125e9e1Cdb7bE384A831d58Ac5A3375286",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859523039874121730/CL4dBtDK.jpg",
+            "name": "Moxie:Skytree3337-x",
+            "symbol": "Moxie:Skytree3337-x"
         }
     ],
     "version": {
