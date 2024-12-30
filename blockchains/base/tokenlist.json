@@ -8871,6 +8871,13 @@
             "logoURI": "https://i.imgur.com/mDxWN8b.jpg",
             "name": "Moxie:0xawikwok-fc",
             "symbol": "Moxie:0xawikwok-fc"
+        },
+        {
+            "address": "0xaa2bC1Cac3835D7fCc9d1d51387a011e487de668",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795090016948862976/EYgAOjew.jpg",
+            "name": "Moxie:JoshuaKuh4-x",
+            "symbol": "Moxie:JoshuaKuh4-x"
         }
     ],
     "version": {
