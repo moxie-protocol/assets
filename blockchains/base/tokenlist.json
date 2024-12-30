@@ -8381,6 +8381,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a302ff7c-c110-4c09-6a13-5ca2f3f00200/original",
             "name": "Moxie:ashish-007-fc",
             "symbol": "Moxie:ashish-007-fc"
+        },
+        {
+            "address": "0x8Dd993B50A555AD0D5ec88342D440778f397AdF7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1825447818510880768/Q1npfQv5.jpg",
+            "name": "Moxie:Wahyususen-x",
+            "symbol": "Moxie:Wahyususen-x"
         }
     ],
     "version": {
