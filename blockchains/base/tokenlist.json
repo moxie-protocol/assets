@@ -8458,6 +8458,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873623853978836992/fCkxZQxK.png",
             "name": "Moxie:gaenali2038845-x",
             "symbol": "Moxie:gaenali2038845-x"
+        },
+        {
+            "address": "0x52944BE0155886516CEB004832fAB56df398c326",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a0b2a05-a0dc-4d28-36ea-34ee64120100/rectcrop3",
+            "name": "Moxie:kolpo-fc",
+            "symbol": "Moxie:kolpo-fc"
         }
     ],
     "version": {
