@@ -9116,6 +9116,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/950ac81c-1479-42b0-baa2-26d188d3b100/rectcrop3",
             "name": "Moxie:sidenok-fc",
             "symbol": "Moxie:sidenok-fc"
+        },
+        {
+            "address": "0x553A52145c04Fa35c80Da92e9d73c94cDC9d2C00",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec84b206-b413-43eb-7b94-396a1b80ab00/rectcrop3",
+            "name": "Moxie:darkwebtoon-fc",
+            "symbol": "Moxie:darkwebtoon-fc"
         }
     ],
     "version": {
