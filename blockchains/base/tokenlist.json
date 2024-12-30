@@ -9102,6 +9102,13 @@
             "logoURI": "https://i.imgur.com/NKOcP6v.jpg",
             "name": "Moxie:andru-fc",
             "symbol": "Moxie:andru-fc"
+        },
+        {
+            "address": "0x6332a0BF8D4b22a0c3CCa28B65B20e8716C2b716",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1822461918843740160/AlOnmSyo.jpg",
+            "name": "Moxie:kewrey7-x",
+            "symbol": "Moxie:kewrey7-x"
         }
     ],
     "version": {
