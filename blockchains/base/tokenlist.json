@@ -8486,6 +8486,13 @@
             "logoURI": "https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/dd3889cf-f64b-46d1-670a-025290e5d000/rectcontain3",
             "name": "Moxie:rukhyatahmad.base.eth-base",
             "symbol": "Moxie:rukhyatahmad.base.eth-base"
+        },
+        {
+            "address": "0x223C4fd7B2a3f11f4b0CBdd737aC2b6E7A81cCBF",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "emir2",
+            "symbol": "fid:505614"
         }
     ],
     "version": {
