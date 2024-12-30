@@ -8304,6 +8304,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a1011da-3484-40de-71eb-8efef96f1000/rectcrop3",
             "name": "Moxie:bangirwn-fc",
             "symbol": "Moxie:bangirwn-fc"
+        },
+        {
+            "address": "0x23723DdaBce2FA52Db86A82057a04f887cb3b3d5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871067323467223040/nU3s_9hL.jpg",
+            "name": "Moxie:Dezet343-x",
+            "symbol": "Moxie:Dezet343-x"
         }
     ],
     "version": {
