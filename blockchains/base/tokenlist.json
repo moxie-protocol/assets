@@ -9753,6 +9753,13 @@
             "logoURI": "https://i.imgur.com/bTlNHmH.jpg",
             "name": "Moxie:rizky08-fc",
             "symbol": "Moxie:rizky08-fc"
+        },
+        {
+            "address": "0xf332B8B8Fd780E4aC69c319811316B65e267b86a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e1962b1-b53f-4dc9-840d-153ed1c28800/rectcrop3",
+            "name": "Moxie:jalalnamard-fc",
+            "symbol": "Moxie:jalalnamard-fc"
         }
     ],
     "version": {
