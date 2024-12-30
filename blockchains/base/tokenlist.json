@@ -9963,6 +9963,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1469211690117918723/f1-LfQRm.jpg",
             "name": "Moxie:xikramlink-x",
             "symbol": "Moxie:xikramlink-x"
+        },
+        {
+            "address": "0x276D5744cE4Bb32A4e0f8C62110303DAf10E8C5b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5tEy4Uw.jpg",
+            "name": "Moxie:kominna-fc",
+            "symbol": "Moxie:kominna-fc"
         }
     ],
     "version": {
