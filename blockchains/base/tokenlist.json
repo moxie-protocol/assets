@@ -8969,6 +8969,13 @@
             "logoURI": "https://arweave.net/d3GpC4oMasMXBWsfZRWc_nP9ddVQIG4XyO4dFC0HOd8/",
             "name": "Moxie:graa22-fc",
             "symbol": "Moxie:graa22-fc"
+        },
+        {
+            "address": "0xBEb72329F9a6c42905d0e219eEfAD0f4Be860bDc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1853804752875974656/OepyHcf_.jpg",
+            "name": "Moxie:annuajah-x",
+            "symbol": "Moxie:annuajah-x"
         }
     ],
     "version": {
