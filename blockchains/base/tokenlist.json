@@ -9515,6 +9515,13 @@
             "logoURI": null,
             "name": "seykay",
             "symbol": "fid:546658"
+        },
+        {
+            "address": "0x1Cf62aB5752fDBD330C2eF5b56DC34627128F0C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f5ef3fa-90e6-4c2c-0612-43a14825c500/original",
+            "name": "Moxie:jarics-fc",
+            "symbol": "Moxie:jarics-fc"
         }
     ],
     "version": {
