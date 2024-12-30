@@ -9585,6 +9585,13 @@
             "logoURI": null,
             "name": "pocidoank",
             "symbol": "fid:399310"
+        },
+        {
+            "address": "0x5088C25DA1294082a2Bc8c7e6B992e621F9e3Ec8",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmYtvR9m4Wrk8od7reDhQXWE73p9sUUZG8XBQLX9r2Lgbr",
+            "name": "Moxie:allahu-fc",
+            "symbol": "Moxie:allahu-fc"
         }
     ],
     "version": {
