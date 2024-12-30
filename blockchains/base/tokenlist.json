@@ -8822,6 +8822,13 @@
             "logoURI": "https://i.imgur.com/mhPjZGL.jpg",
             "name": "Moxie:ihksanrzk-fc",
             "symbol": "Moxie:ihksanrzk-fc"
+        },
+        {
+            "address": "0xa80b0B182495f9769b8e1D89C38c7839659Fb41c",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRN1ARZBipzeZFq5NUMqnxwoX5WNpRvmwUwfYhukpFcRK",
+            "name": "Moxie:therealdefriza-fc",
+            "symbol": "Moxie:therealdefriza-fc"
         }
     ],
     "version": {
