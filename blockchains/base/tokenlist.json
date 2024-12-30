@@ -8150,6 +8150,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c92d8e68-0f63-49eb-12f6-74f347e36e00/original",
             "name": "Moxie:disqtible-fc",
             "symbol": "Moxie:disqtible-fc"
+        },
+        {
+            "address": "0x675E8fc1e5264C1D054Ce06D0788EbceA9aC9813",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea9d8fd1-fbf4-4ae3-21a2-c1ca069bf200/original",
+            "name": "Moxie:piesrtasty-fc",
+            "symbol": "Moxie:piesrtasty-fc"
         }
     ],
     "version": {
