@@ -9760,6 +9760,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e1962b1-b53f-4dc9-840d-153ed1c28800/rectcrop3",
             "name": "Moxie:jalalnamard-fc",
             "symbol": "Moxie:jalalnamard-fc"
+        },
+        {
+            "address": "0x2575765F335439794295330052CBF0A5C0c106A3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1785726332757803008/pICu90da.jpg",
+            "name": "Moxie:SageOrhis-x",
+            "symbol": "Moxie:SageOrhis-x"
         }
     ],
     "version": {
