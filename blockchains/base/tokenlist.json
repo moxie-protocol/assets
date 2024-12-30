@@ -9844,6 +9844,13 @@
             "logoURI": "https://i.imgur.com/uNhEqEb.jpg",
             "name": "Moxie:toscawidow-fc",
             "symbol": "Moxie:toscawidow-fc"
+        },
+        {
+            "address": "0x9dCD65447b2Da34Dfc00595B8f90d28f033AD505",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVozHWEyJ8eRCmccAn-Tb0ii6HbMdOGZTPQ\u0026s",
+            "name": "Moxie:onchaincomputer.eth-ens",
+            "symbol": "Moxie:onchaincomputer.eth-ens"
         }
     ],
     "version": {
