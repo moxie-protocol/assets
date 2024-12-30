@@ -9466,6 +9466,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72b1788e-11c0-4603-0109-993d20d6c600/rectcrop3",
             "name": "Moxie:fatkhur100-fc",
             "symbol": "Moxie:fatkhur100-fc"
+        },
+        {
+            "address": "0x8AE7B01b52019A2F589b78f3a87d847ea9E9E2Ea",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1748867856195096576/w1hWmdtT.jpg",
+            "name": "Moxie:0xOzzi-x",
+            "symbol": "Moxie:0xOzzi-x"
         }
     ],
     "version": {
