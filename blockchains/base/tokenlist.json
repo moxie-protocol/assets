@@ -9004,6 +9004,13 @@
             "logoURI": "https://i.imgur.com/HU4pIUD.jpg",
             "name": "Moxie:twt-fc",
             "symbol": "Moxie:twt-fc"
+        },
+        {
+            "address": "0xe3BB0dF15796ee1d7f07b86Fa86179293bDe0799",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed2ba00e-f06b-4d18-6b58-6bed48680900/rectcrop3",
+            "name": "Moxie:mrijals-fc",
+            "symbol": "Moxie:mrijals-fc"
         }
     ],
     "version": {
