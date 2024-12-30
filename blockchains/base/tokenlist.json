@@ -8864,6 +8864,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c9bdfb9-2e87-4a7f-4438-abfb06e40b00/rectcrop3",
             "name": "Moxie:0xset-fc",
             "symbol": "Moxie:0xset-fc"
+        },
+        {
+            "address": "0x7c96CEC5C6719b2fEddd106902E4D84165fEBa29",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/mDxWN8b.jpg",
+            "name": "Moxie:0xawikwok-fc",
+            "symbol": "Moxie:0xawikwok-fc"
         }
     ],
     "version": {
