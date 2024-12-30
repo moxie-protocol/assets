@@ -9256,6 +9256,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1821877175437684738/m6XZpCI5.jpg",
             "name": "Moxie:Syntax_lans-x",
             "symbol": "Moxie:Syntax_lans-x"
+        },
+        {
+            "address": "0x414D865d654eFC963212630036F5138ee5171b90",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Ya3uZfi.jpg",
+            "name": "Moxie:preelawat-fc",
+            "symbol": "Moxie:preelawat-fc"
         }
     ],
     "version": {
