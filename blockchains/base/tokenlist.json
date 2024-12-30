@@ -8836,6 +8836,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866148147678048257/zlK4Vf-I.jpg",
             "name": "Moxie:satria_aqil-x",
             "symbol": "Moxie:satria_aqil-x"
+        },
+        {
+            "address": "0x282450ca3942BE66cA8A082ee966926a6d12873c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/inajkei.jpg",
+            "name": "Moxie:jevenx-fc",
+            "symbol": "Moxie:jevenx-fc"
         }
     ],
     "version": {
