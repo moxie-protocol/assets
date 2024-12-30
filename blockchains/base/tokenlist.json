@@ -8248,6 +8248,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1591085132957425664/Yr-BcPcE.jpg",
             "name": "Moxie:Muammaraje-x",
             "symbol": "Moxie:Muammaraje-x"
+        },
+        {
+            "address": "0x25DeE39f405E294517747162967bB22Be9640047",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/kx7wtwD.jpg",
+            "name": "Moxie:yanmar736-fc",
+            "symbol": "Moxie:yanmar736-fc"
         }
     ],
     "version": {
