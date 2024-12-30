@@ -8780,6 +8780,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74de0b8-4b18-4c84-132e-b0a7b32ef200/original",
             "name": "Moxie:hamada89.eth-fc",
             "symbol": "Moxie:hamada89.eth-fc"
+        },
+        {
+            "address": "0x3685A26F9bC4c2b19F62689403c14B169A334b48",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KVer6Oo.jpg",
+            "name": "Moxie:limited-fc",
+            "symbol": "Moxie:limited-fc"
         }
     ],
     "version": {
