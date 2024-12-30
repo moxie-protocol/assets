@@ -8738,6 +8738,13 @@
             "logoURI": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lQdqlHtylkHGHQ_ugoObtA.png",
             "name": "Moxie:uscoin.base.eth-base",
             "symbol": "Moxie:uscoin.base.eth-base"
+        },
+        {
+            "address": "0x20E8E57810caE04751aBD0F5b0F3cbCbf2bd08eb",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pDIdvWB.jpg",
+            "name": "Moxie:basecamp-fc",
+            "symbol": "Moxie:basecamp-fc"
         }
     ],
     "version": {
