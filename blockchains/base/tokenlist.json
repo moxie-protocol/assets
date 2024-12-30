@@ -9235,6 +9235,13 @@
             "logoURI": "https://i.imgur.com/xgMrgnE.jpg",
             "name": "Moxie:celia-fc",
             "symbol": "Moxie:celia-fc"
+        },
+        {
+            "address": "0x50437A2dB6503eDc1394058A5715AB2124D6686E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15c4df86-9f58-484b-7ff5-9f8a2c618d00/rectcrop3",
+            "name": "Moxie:qaleysa-fc",
+            "symbol": "Moxie:qaleysa-fc"
         }
     ],
     "version": {
