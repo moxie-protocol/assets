@@ -9368,6 +9368,13 @@
             "logoURI": "https://arweave.net/T1yryX-dHzVApW1bhdPvgZ9Y0HQ9Q4VWWPWmTh_z7Yw/",
             "name": "Moxie:!312867-fc",
             "symbol": "Moxie:!312867-fc"
+        },
+        {
+            "address": "0x9a1A24991341cBCfFFD4EE862a048A0EDCFbB648",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848953476543287296/Um8NE4CG.png",
+            "name": "Moxie:MajidA43568-x",
+            "symbol": "Moxie:MajidA43568-x"
         }
     ],
     "version": {
