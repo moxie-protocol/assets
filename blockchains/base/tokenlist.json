@@ -8318,6 +8318,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:yourgirllz_-x",
             "symbol": "Moxie:yourgirllz_-x"
+        },
+        {
+            "address": "0x2d153A366be6b63deE1E1a4270a7E7c600531d08",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/3HuNJy8nQejq2RV9MaIIp8_bouD-KVyljbefmgvlyQo/",
+            "name": "Moxie:darmasa-fc",
+            "symbol": "Moxie:darmasa-fc"
         }
     ],
     "version": {
