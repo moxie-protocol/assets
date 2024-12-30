@@ -9893,6 +9893,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1850712222751993856/YsfF-Ykj.jpg",
             "name": "Moxie:RoneSticker1-x",
             "symbol": "Moxie:RoneSticker1-x"
+        },
+        {
+            "address": "0xA86EE75fFF1193bfCC4B93c162f0dD1E86fEE170",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64dd1d76-ff2c-448f-acdc-ae25a48c4100/rectcrop3",
+            "name": "Moxie:lara0x-fc",
+            "symbol": "Moxie:lara0x-fc"
         }
     ],
     "version": {
