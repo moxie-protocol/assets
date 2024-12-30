@@ -8689,6 +8689,13 @@
             "logoURI": "https://i.imgur.com/B8FETMb.jpg",
             "name": "Moxie:followme2-fc",
             "symbol": "Moxie:followme2-fc"
+        },
+        {
+            "address": "0xe9e70e29DDe647072dB96128f24138BDDa3ac3f7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb6d4cf7-fc64-4975-3efa-366bd0fc9500/rectcrop3",
+            "name": "Moxie:rizalsulistiawan-fc",
+            "symbol": "Moxie:rizalsulistiawan-fc"
         }
     ],
     "version": {
