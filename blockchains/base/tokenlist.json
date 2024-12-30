@@ -9109,6 +9109,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1822461918843740160/AlOnmSyo.jpg",
             "name": "Moxie:kewrey7-x",
             "symbol": "Moxie:kewrey7-x"
+        },
+        {
+            "address": "0x9D94EE924d4e3C4B1Efb5817CF208b7AAe761300",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/950ac81c-1479-42b0-baa2-26d188d3b100/rectcrop3",
+            "name": "Moxie:sidenok-fc",
+            "symbol": "Moxie:sidenok-fc"
         }
     ],
     "version": {
