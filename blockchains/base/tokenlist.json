@@ -9795,6 +9795,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/765778bd-daa8-4070-29c5-461bda2d0300/rectcrop3",
             "name": "Moxie:maulana2511-fc",
             "symbol": "Moxie:maulana2511-fc"
+        },
+        {
+            "address": "0xaF30d815D32A51E39a5a503EF7775db22e1594aE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/caf67d86-a287-4540-58dc-b22dad68fa00/rectcrop3",
+            "name": "Moxie:zerooneth.eth-fc",
+            "symbol": "Moxie:zerooneth.eth-fc"
         }
     ],
     "version": {
