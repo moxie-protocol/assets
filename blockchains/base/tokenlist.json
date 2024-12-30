@@ -9291,6 +9291,13 @@
             "logoURI": "https://i.imgur.com/Yj61u6C.jpg",
             "name": "Moxie:kerolos-fc",
             "symbol": "Moxie:kerolos-fc"
+        },
+        {
+            "address": "0xf5b4198ac26517bF76ce18bb4FD41a3a1387BC74",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rI3D8yu.png",
+            "name": "Moxie:chanin-fc",
+            "symbol": "Moxie:chanin-fc"
         }
     ],
     "version": {
