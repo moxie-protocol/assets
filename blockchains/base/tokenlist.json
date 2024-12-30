@@ -8563,6 +8563,13 @@
             "logoURI": null,
             "name": "sorenn",
             "symbol": "fid:888676"
+        },
+        {
+            "address": "0x43D5371963E2BB3233E2AcA606B0c328EA8da973",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a932fc58-6d77-4d7e-e946-b0e2ccffdc00/rectcrop3",
+            "name": "Moxie:hicoy-fc",
+            "symbol": "Moxie:hicoy-fc"
         }
     ],
     "version": {
