@@ -9172,6 +9172,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/adbd1368-9c2e-4e5a-fe81-6e42a5b41800/rectcrop3",
             "name": "Moxie:radekcryptoking-fc",
             "symbol": "Moxie:radekcryptoking-fc"
+        },
+        {
+            "address": "0x07902993015f5958B1AdF9066391e084B5CFf5eA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1732521030038556672/E160t-lL.jpg",
+            "name": "Moxie:Lunamaya144-x",
+            "symbol": "Moxie:Lunamaya144-x"
         }
     ],
     "version": {
