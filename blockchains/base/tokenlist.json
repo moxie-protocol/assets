@@ -9928,6 +9928,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873840519476084736/OgO3joPK.jpg",
             "name": "Moxie:LightcoinXyz-x",
             "symbol": "Moxie:LightcoinXyz-x"
+        },
+        {
+            "address": "0x46767F9722a8879BA7Bc6Ae67Af56A7D925b96f9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1493909747208175619/sDD24EMr.png",
+            "name": "Moxie:pitbullali3-x",
+            "symbol": "Moxie:pitbullali3-x"
         }
     ],
     "version": {
