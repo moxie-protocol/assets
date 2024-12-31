@@ -10264,6 +10264,13 @@
             "logoURI": "https://i.imgur.com/RCsTSV7.jpg",
             "name": "Moxie:yudikawula-fc",
             "symbol": "Moxie:yudikawula-fc"
+        },
+        {
+            "address": "0xB9aDDE83eF9212211D77530C0dD25254bB785488",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "lanceboy",
+            "symbol": "fid:304503"
         }
     ],
     "version": {
