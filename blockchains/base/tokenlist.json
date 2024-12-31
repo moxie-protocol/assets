@@ -10229,6 +10229,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/182a71ec-9559-4886-834d-7e16e4a5aa00/original",
             "name": "Moxie:doninfd-fc",
             "symbol": "Moxie:doninfd-fc"
+        },
+        {
+            "address": "0x29302E0Dd529bFFBf7B54Ef201EdBb9fE0344963",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01ffb2fb-623d-49fc-ddc7-5010e9468b00/rectcrop3",
+            "name": "Moxie:viaana-fc",
+            "symbol": "Moxie:viaana-fc"
         }
     ],
     "version": {
