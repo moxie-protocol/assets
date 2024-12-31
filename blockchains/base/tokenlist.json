@@ -10551,6 +10551,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c9c1e5d-4877-4ff0-d76d-aa9689c56c00/rectcrop3",
             "name": "Moxie:danlacatraz-fc",
             "symbol": "Moxie:danlacatraz-fc"
+        },
+        {
+            "address": "0xCe2343c6D6D516aaa9e4177677cCF121423e6D59",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04412691-e7ae-445f-559f-2b80bb277f00/rectcrop3",
+            "name": "Moxie:dafida190223-fc",
+            "symbol": "Moxie:dafida190223-fc"
         }
     ],
     "version": {
