@@ -9998,6 +9998,13 @@
             "logoURI": "https://i.imgur.com/DN7nO7b.jpg",
             "name": "Moxie:daypgnjp10-fc",
             "symbol": "Moxie:daypgnjp10-fc"
+        },
+        {
+            "address": "0x3381dc75Dc7993e309390f0b5801ABC8803911A0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1764934467515523072/sJ4DZ2u_.jpg",
+            "name": "Moxie:MahfudzDizy-x",
+            "symbol": "Moxie:MahfudzDizy-x"
         }
     ],
     "version": {
