@@ -10334,6 +10334,13 @@
             "logoURI": "https://st3.depositphotos.com/6962450/13504/i/450/depositphotos_135040878-stock-photo-the-emblem-of-the-football.jpg",
             "name": "Moxie:xzer0.base.eth-base",
             "symbol": "Moxie:xzer0.base.eth-base"
+        },
+        {
+            "address": "0x6834738265455AF62f0025db0aF7fbE98B6afDeC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40805c42-8b54-4826-bf77-c5e57d96bb00/original",
+            "name": "Moxie:samyangmercon-fc",
+            "symbol": "Moxie:samyangmercon-fc"
         }
     ],
     "version": {
