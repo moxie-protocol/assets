@@ -10453,6 +10453,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/31709a40-2633-44ef-4e7f-033955c5d800/rectcrop3",
             "name": "Moxie:gilang99-fc",
             "symbol": "Moxie:gilang99-fc"
+        },
+        {
+            "address": "0x80FFb529F4f50d2EA3B9E335C432cEbfB81Da9b5",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "noah2",
+            "symbol": "fid:522602"
         }
     ],
     "version": {
