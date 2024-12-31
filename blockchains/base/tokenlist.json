@@ -10460,6 +10460,13 @@
             "logoURI": null,
             "name": "noah2",
             "symbol": "fid:522602"
+        },
+        {
+            "address": "0xfFbAa7EFA88d69d547Ecd490799C0A9b8333B7f9",
+            "decimals": 18,
+            "logoURI": "https://m.media-amazon.com/images/I/51gj19g7cZL._UX358_FMwebp_QL85_.jpg",
+            "name": "Moxie:rovelak.eth-ens",
+            "symbol": "Moxie:rovelak.eth-ens"
         }
     ],
     "version": {
