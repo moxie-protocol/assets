@@ -10579,6 +10579,13 @@
             "logoURI": "https://i.imgur.com/BsVvPW9.jpg",
             "name": "Moxie:demonal18-fc",
             "symbol": "Moxie:demonal18-fc"
+        },
+        {
+            "address": "0xcE6b97A07541F99516B4E0eea866d83AdB961d84",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3cb09cf2-8a6a-4ef5-1f84-52735a245000/rectcrop3",
+            "name": "Moxie:allstarkel-fc",
+            "symbol": "Moxie:allstarkel-fc"
         }
     ],
     "version": {
