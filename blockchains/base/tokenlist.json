@@ -10607,6 +10607,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmVmEiXvfg9QnrGdyaXZBxG84BQddf5f9gjbPGChD471CE",
             "name": "Moxie:xayden-fc",
             "symbol": "Moxie:xayden-fc"
+        },
+        {
+            "address": "0x95F08124482ABdc593B47236f657163a120eEB29",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xcV7FMM.jpg",
+            "name": "Moxie:edi1100-fc",
+            "symbol": "Moxie:edi1100-fc"
         }
     ],
     "version": {
