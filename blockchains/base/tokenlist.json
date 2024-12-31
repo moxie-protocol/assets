@@ -10096,6 +10096,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35eeee6a-c697-456c-2e9b-95a2695f6a00/original",
             "name": "Moxie:gajagoyolo-fc",
             "symbol": "Moxie:gajagoyolo-fc"
+        },
+        {
+            "address": "0x4c3940f259f1DcE08389F878e0Ec8bAE54c03222",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1581759-7ffe-40a7-d865-ced08b35b000/original",
+            "name": "Moxie:imamy-fc",
+            "symbol": "Moxie:imamy-fc"
         }
     ],
     "version": {
