@@ -10642,6 +10642,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1781398257106624512/z64weMqU.jpg",
             "name": "Moxie:glazy-x",
             "symbol": "Moxie:glazy-x"
+        },
+        {
+            "address": "0x035AEf997D94BDF5802e6C3D81E6049cA36d7029",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "twokkams",
+            "symbol": "fid:390810"
         }
     ],
     "version": {
