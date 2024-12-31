@@ -10040,6 +10040,13 @@
             "logoURI": "https://i.imgur.com/6kNunkX.gif",
             "name": "Moxie:konami-fc",
             "symbol": "Moxie:konami-fc"
+        },
+        {
+            "address": "0xD968849Fab382BE364cCC9a44296d62816107FD8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bbef31c-0c0b-4eb5-d22b-648dc95ff600/rectcrop3",
+            "name": "Moxie:dikdoy-fc",
+            "symbol": "Moxie:dikdoy-fc"
         }
     ],
     "version": {
