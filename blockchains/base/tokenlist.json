@@ -10159,6 +10159,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1590431881559801856/yyE8YZI1.jpg",
             "name": "Moxie:koplak_mus-x",
             "symbol": "Moxie:koplak_mus-x"
+        },
+        {
+            "address": "0x64F438E6Cf256ae3A52085896Ed0F34533B0Fa98",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfa591a2-76b2-4e7a-b5a2-ea1d57c8fa00/rectcrop3",
+            "name": "Moxie:mrfrog-fc",
+            "symbol": "Moxie:mrfrog-fc"
         }
     ],
     "version": {
