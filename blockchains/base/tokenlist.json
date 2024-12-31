@@ -10236,6 +10236,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01ffb2fb-623d-49fc-ddc7-5010e9468b00/rectcrop3",
             "name": "Moxie:viaana-fc",
             "symbol": "Moxie:viaana-fc"
+        },
+        {
+            "address": "0x3eFDAc93A4efec9b241ffa5f830f09Cb2D40a535",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07d62313-da40-4f86-e4a9-880181e51f00/rectcrop3",
+            "name": "Moxie:erikasbulbasaur.eth-fc",
+            "symbol": "Moxie:erikasbulbasaur.eth-fc"
         }
     ],
     "version": {
