@@ -10565,6 +10565,13 @@
             "logoURI": "https://i.imgur.com/uS8wVls.jpg",
             "name": "Moxie:monzie-fc",
             "symbol": "Moxie:monzie-fc"
+        },
+        {
+            "address": "0xE72a958d45ee79DD33eC0932Dc27dc8e0FD1Cd3d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1854480422702620672/os1yVtqT.jpg",
+            "name": "Moxie:ZetZet412581-x",
+            "symbol": "Moxie:ZetZet412581-x"
         }
     ],
     "version": {
