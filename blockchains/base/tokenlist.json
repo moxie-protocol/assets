@@ -10068,6 +10068,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868740137204723712/_aqQS1pb.jpg",
             "name": "Moxie:PixelSushiRobot-x",
             "symbol": "Moxie:PixelSushiRobot-x"
+        },
+        {
+            "address": "0x4160593F5993c07b59c8E16A24F8720Cfb5B99C8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4364c02-983e-4078-2f5a-2418224b7600/original",
+            "name": "Moxie:ankhz-fc",
+            "symbol": "Moxie:ankhz-fc"
         }
     ],
     "version": {
