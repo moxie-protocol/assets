@@ -10215,6 +10215,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1749248576407158784/c1KGIzTm.jpg",
             "name": "Moxie:RecehDrop-x",
             "symbol": "Moxie:RecehDrop-x"
+        },
+        {
+            "address": "0xa9dD00B174f37d335941cA8c078Fb418D536fBd8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ee86b04-33e0-4a01-e1e2-fa3af79a1100/rectcrop3",
+            "name": "Moxie:shiirookami-fc",
+            "symbol": "Moxie:shiirookami-fc"
         }
     ],
     "version": {
