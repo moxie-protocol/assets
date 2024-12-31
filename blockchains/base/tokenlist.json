@@ -10376,6 +10376,13 @@
             "logoURI": "https://i.imgur.com/C1NxjwL.jpg",
             "name": "Moxie:semogacair2024-fc",
             "symbol": "Moxie:semogacair2024-fc"
+        },
+        {
+            "address": "0x2bCad28123ac197c6B5e6a0818D2A99B81D09c55",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6265bfa-1142-4762-f689-011919ae1500/rectcrop3",
+            "name": "Moxie:ariawi-fc",
+            "symbol": "Moxie:ariawi-fc"
         }
     ],
     "version": {
