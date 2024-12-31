@@ -10663,6 +10663,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846897625167286277/Ka4Fsh9p.jpg",
             "name": "Moxie:indraopx-x",
             "symbol": "Moxie:indraopx-x"
+        },
+        {
+            "address": "0x0e76E5148DFD199d4e74D851e021B9368EA0B17a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mthch",
+            "symbol": "fid:296767"
         }
     ],
     "version": {
