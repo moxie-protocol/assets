@@ -10005,6 +10005,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1764934467515523072/sJ4DZ2u_.jpg",
             "name": "Moxie:MahfudzDizy-x",
             "symbol": "Moxie:MahfudzDizy-x"
+        },
+        {
+            "address": "0x2f0Cf1C3F0b8efbEb5F0296c32cDDfB28b94346E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wny6LIk.jpg",
+            "name": "Moxie:aldenkun-fc",
+            "symbol": "Moxie:aldenkun-fc"
         }
     ],
     "version": {
