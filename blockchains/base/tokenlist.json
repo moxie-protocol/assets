@@ -10061,6 +10061,13 @@
             "logoURI": "https://i.postimg.cc/TPJ8DpLf/frames-pfp-256298.jpg",
             "name": "Moxie:reditumerah.base.eth-base",
             "symbol": "Moxie:reditumerah.base.eth-base"
+        },
+        {
+            "address": "0x08A3aE51e6A8AAa5F5e6288fFae6Cf56e5518cec",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868740137204723712/_aqQS1pb.jpg",
+            "name": "Moxie:PixelSushiRobot-x",
+            "symbol": "Moxie:PixelSushiRobot-x"
         }
     ],
     "version": {
