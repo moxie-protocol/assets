@@ -10082,6 +10082,13 @@
             "logoURI": "https://i.imgur.com/eMwWx2S.jpg",
             "name": "Moxie:whymaull-fc",
             "symbol": "Moxie:whymaull-fc"
+        },
+        {
+            "address": "0xeEa1f3a473A6516dF649849d44A3efe4Fd590144",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b2a44f9-2ae5-47a2-b603-c0a6492f2700/original",
+            "name": "Moxie:ppking-fc",
+            "symbol": "Moxie:ppking-fc"
         }
     ],
     "version": {
