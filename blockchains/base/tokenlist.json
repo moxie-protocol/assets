@@ -10474,6 +10474,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4bbd65b8-277a-42bc-beb4-f620d2edfd00/original",
             "name": "Moxie:azat.eth-fc",
             "symbol": "Moxie:azat.eth-fc"
+        },
+        {
+            "address": "0x52f0D5515D12686343B2325Ee3E96fCcE0baD15D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9918c05-6969-4e6c-4330-35b8ca760900/rectcrop3",
+            "name": "Moxie:muhaimin-fc",
+            "symbol": "Moxie:muhaimin-fc"
         }
     ],
     "version": {
