@@ -10509,6 +10509,13 @@
             "logoURI": "https://arweave.net/pplpCM0eRmmAKHNrdipULfBzMNdDGtATbOSKwC_rHV8/",
             "name": "Moxie:ghuyz-fc",
             "symbol": "Moxie:ghuyz-fc"
+        },
+        {
+            "address": "0xA995018B81E06c78F4057Ca6166c8939dCaECdBc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859369535238709248/54Ng_LB8.jpg",
+            "name": "Moxie:Papsrider77-x",
+            "symbol": "Moxie:Papsrider77-x"
         }
     ],
     "version": {
