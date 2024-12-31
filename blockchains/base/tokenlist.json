@@ -10271,6 +10271,13 @@
             "logoURI": null,
             "name": "lanceboy",
             "symbol": "fid:304503"
+        },
+        {
+            "address": "0xB46623977D97872B63cD8C179656A06Cb3B1BFaA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff599350-6e2a-4ec5-04c8-f6e7faaaf300/rectcrop3",
+            "name": "Moxie:camelaice-fc",
+            "symbol": "Moxie:camelaice-fc"
         }
     ],
     "version": {
