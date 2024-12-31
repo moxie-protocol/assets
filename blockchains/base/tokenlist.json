@@ -10425,6 +10425,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1685660026701238272/SyoovN9h.jpg",
             "name": "Moxie:PPGirlSquad-x",
             "symbol": "Moxie:PPGirlSquad-x"
+        },
+        {
+            "address": "0xDF5701f0323340F5AD3994ff3dDB5744E1ccC901",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869990360057032708/BbXPgyLU.jpg",
+            "name": "Moxie:BlackSoullWinS-x",
+            "symbol": "Moxie:BlackSoullWinS-x"
         }
     ],
     "version": {
