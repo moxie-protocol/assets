@@ -10621,6 +10621,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861860453540102144/Cx96_dKb.jpg",
             "name": "Moxie:MetaM00-x",
             "symbol": "Moxie:MetaM00-x"
+        },
+        {
+            "address": "0xe18BE8e7505F947a5BcFEd02B9409D467e5bb355",
+            "decimals": 18,
+            "logoURI": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2FoEwg0ck.jpg",
+            "name": "Moxie:hadisrad.base.eth-base",
+            "symbol": "Moxie:hadisrad.base.eth-base"
         }
     ],
     "version": {
