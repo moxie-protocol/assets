@@ -10530,6 +10530,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23a4f0b-b12d-4b91-4439-49aa93776400/rectcrop3",
             "name": "Moxie:oneof-fc",
             "symbol": "Moxie:oneof-fc"
+        },
+        {
+            "address": "0x48c5A74CAD442b2d77E38D70912433C394636C93",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1686961270787022848/UcKzGjV-.png",
+            "name": "Moxie:AmronBunju-x",
+            "symbol": "Moxie:AmronBunju-x"
         }
     ],
     "version": {
