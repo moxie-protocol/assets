@@ -10418,6 +10418,13 @@
             "logoURI": "http://imgfz.com/i/mYRdLMK.png",
             "name": "Moxie:thecast91.eth-ens",
             "symbol": "Moxie:thecast91.eth-ens"
+        },
+        {
+            "address": "0x0f2eD245477A369036F5F9Af0FEDc6dc85609420",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1685660026701238272/SyoovN9h.jpg",
+            "name": "Moxie:PPGirlSquad-x",
+            "symbol": "Moxie:PPGirlSquad-x"
         }
     ],
     "version": {
