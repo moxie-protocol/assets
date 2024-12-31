@@ -10488,6 +10488,13 @@
             "logoURI": "https://cdn0-production-images-kly.akamaized.net/YgBKgsAfzhobUmRoxqViS2r-uRU=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4749616/original/063438400_1708568042-Snapinsta.app_429335350_1208513727200059_8790657900507163578_n_1080.jpg",
             "name": "Moxie:sooyzx.eth-ens",
             "symbol": "Moxie:sooyzx.eth-ens"
+        },
+        {
+            "address": "0x8Ca6FD5B2F6bb9B734E01688c18B3bc5c6aAA8aB",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/XY5sWjDAcoX1rMa-t1cAKMzblnM36Wr__xcO6uM7BK4/",
+            "name": "Moxie:limonhassan-fc",
+            "symbol": "Moxie:limonhassan-fc"
         }
     ],
     "version": {
