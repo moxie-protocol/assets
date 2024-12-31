@@ -10180,6 +10180,13 @@
             "logoURI": "https://i.imgur.com/9TqJif3.jpg",
             "name": "Moxie:purplemoji-fc",
             "symbol": "Moxie:purplemoji-fc"
+        },
+        {
+            "address": "0x7A634B2e66eB94D6f313074C3c1934eDdBbd0F78",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47a2474a-011d-4ed5-3f5c-3555c7dcf300/original",
+            "name": "Moxie:zeneric-fc",
+            "symbol": "Moxie:zeneric-fc"
         }
     ],
     "version": {
