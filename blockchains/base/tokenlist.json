@@ -10166,6 +10166,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfa591a2-76b2-4e7a-b5a2-ea1d57c8fa00/rectcrop3",
             "name": "Moxie:mrfrog-fc",
             "symbol": "Moxie:mrfrog-fc"
+        },
+        {
+            "address": "0xdcC62a6574493f1476C03B9824df9C02c5E3231C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1499bc85-ec20-4e59-f029-5ca5936cc800/original",
+            "name": "Moxie:0mr0m0-fc",
+            "symbol": "Moxie:0mr0m0-fc"
         }
     ],
     "version": {
