@@ -10481,6 +10481,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9918c05-6969-4e6c-4330-35b8ca760900/rectcrop3",
             "name": "Moxie:muhaimin-fc",
             "symbol": "Moxie:muhaimin-fc"
+        },
+        {
+            "address": "0x335e273652f5B1f85C9a483F3cc07867b90899Aa",
+            "decimals": 18,
+            "logoURI": "https://cdn0-production-images-kly.akamaized.net/YgBKgsAfzhobUmRoxqViS2r-uRU=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4749616/original/063438400_1708568042-Snapinsta.app_429335350_1208513727200059_8790657900507163578_n_1080.jpg",
+            "name": "Moxie:sooyzx.eth-ens",
+            "symbol": "Moxie:sooyzx.eth-ens"
         }
     ],
     "version": {
