@@ -10327,6 +10327,13 @@
             "logoURI": "https://i.imgur.com/KDxPglz.jpg",
             "name": "Moxie:pegasusbtc-fc",
             "symbol": "Moxie:pegasusbtc-fc"
+        },
+        {
+            "address": "0x612389A7132Fb3211Ad064394cad1570D016781b",
+            "decimals": 18,
+            "logoURI": "https://st3.depositphotos.com/6962450/13504/i/450/depositphotos_135040878-stock-photo-the-emblem-of-the-football.jpg",
+            "name": "Moxie:xzer0.base.eth-base",
+            "symbol": "Moxie:xzer0.base.eth-base"
         }
     ],
     "version": {
