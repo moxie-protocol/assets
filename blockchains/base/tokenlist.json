@@ -10250,6 +10250,13 @@
             "logoURI": "https://i.imgur.com/bAeMB1N.png",
             "name": "Moxie:stonezp-fc",
             "symbol": "Moxie:stonezp-fc"
+        },
+        {
+            "address": "0x1F7F7Ee64FAC89d70c6CA2E43e02219D7AEbCce8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/403fe4ba-f8cd-4696-dd74-4fe9268e0400/original",
+            "name": "Moxie:richmeyou-fc",
+            "symbol": "Moxie:richmeyou-fc"
         }
     ],
     "version": {
