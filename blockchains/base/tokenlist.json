@@ -10649,6 +10649,13 @@
             "logoURI": null,
             "name": "twokkams",
             "symbol": "fid:390810"
+        },
+        {
+            "address": "0x005b9BA4b24Ec2D337c7d6B1EEF3629570A63352",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1779192392027107328/hx7RhPOI.jpg",
+            "name": "Moxie:CCCat444-x",
+            "symbol": "Moxie:CCCat444-x"
         }
     ],
     "version": {
