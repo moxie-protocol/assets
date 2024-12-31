@@ -10243,6 +10243,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07d62313-da40-4f86-e4a9-880181e51f00/rectcrop3",
             "name": "Moxie:erikasbulbasaur.eth-fc",
             "symbol": "Moxie:erikasbulbasaur.eth-fc"
+        },
+        {
+            "address": "0x73661D7c68264a7f7Da933f0d8aa066b8850Cd73",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bAeMB1N.png",
+            "name": "Moxie:stonezp-fc",
+            "symbol": "Moxie:stonezp-fc"
         }
     ],
     "version": {
