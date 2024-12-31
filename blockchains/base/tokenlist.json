@@ -10012,6 +10012,13 @@
             "logoURI": "https://i.imgur.com/wny6LIk.jpg",
             "name": "Moxie:aldenkun-fc",
             "symbol": "Moxie:aldenkun-fc"
+        },
+        {
+            "address": "0x3acD5f0714d56D67fB9a6Ace49f6cc95Af1c0a12",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1bea43e9-1462-4fcf-278f-7a9190fdf600/rectcrop3",
+            "name": "Moxie:aydin-crypto-fc",
+            "symbol": "Moxie:aydin-crypto-fc"
         }
     ],
     "version": {
