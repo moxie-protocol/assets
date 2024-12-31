@@ -10138,6 +10138,13 @@
             "logoURI": "https://arweave.net/aiTwqdiAGYEdukXHEF_4Y711uYXzn_5xuPcyErb89DA/",
             "name": "Moxie:techsunil-fc",
             "symbol": "Moxie:techsunil-fc"
+        },
+        {
+            "address": "0x2DcEaf42790A8036D286c270ce60bb595195Ff04",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a28944b6-8915-44f1-b6ec-8a7251a35c00/rectcrop3",
+            "name": "Moxie:supororow-fc",
+            "symbol": "Moxie:supororow-fc"
         }
     ],
     "version": {
