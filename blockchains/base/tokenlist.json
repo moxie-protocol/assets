@@ -10313,6 +10313,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54c74040-a99c-4789-9c72-ae30558d3400/rectcrop3",
             "name": "Moxie:veinnaiver-fc",
             "symbol": "Moxie:veinnaiver-fc"
+        },
+        {
+            "address": "0x817370380e6B91c510087BCC282591EB6696A196",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2I22ahA.jpg",
+            "name": "Moxie:artstudio69-fc",
+            "symbol": "Moxie:artstudio69-fc"
         }
     ],
     "version": {
