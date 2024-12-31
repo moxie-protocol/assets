@@ -10439,6 +10439,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1553086d-4929-44d8-5f50-fbd0cbbdec00/rectcrop3",
             "name": "Moxie:dbpower82-fc",
             "symbol": "Moxie:dbpower82-fc"
+        },
+        {
+            "address": "0x526a89f7Bee5347B861771b3BC96Ae0E95EeB8Ec",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d86a732a-6c04-45d6-513a-b41168b04b00/rectcrop3",
+            "name": "Moxie:airdropdailyy-fc",
+            "symbol": "Moxie:airdropdailyy-fc"
         }
     ],
     "version": {
