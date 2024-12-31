@@ -10558,6 +10558,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04412691-e7ae-445f-559f-2b80bb277f00/rectcrop3",
             "name": "Moxie:dafida190223-fc",
             "symbol": "Moxie:dafida190223-fc"
+        },
+        {
+            "address": "0x728B559dd929B46b1417B603519fB601f75D1Ba1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/uS8wVls.jpg",
+            "name": "Moxie:monzie-fc",
+            "symbol": "Moxie:monzie-fc"
         }
     ],
     "version": {
