@@ -10390,6 +10390,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1847643306940895232/TRRVMMTk.jpg",
             "name": "Moxie:Karos1am-x",
             "symbol": "Moxie:Karos1am-x"
+        },
+        {
+            "address": "0x2bD6d00de9645a5D5A5D3559a081da6da0087D5a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/412e53d7-e02a-48be-12fd-736a7cf2c800/rectcrop3",
+            "name": "Moxie:rizanska-fc",
+            "symbol": "Moxie:rizanska-fc"
         }
     ],
     "version": {
