@@ -10257,6 +10257,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/403fe4ba-f8cd-4696-dd74-4fe9268e0400/original",
             "name": "Moxie:richmeyou-fc",
             "symbol": "Moxie:richmeyou-fc"
+        },
+        {
+            "address": "0x4239F381BA8FE1434270aBB50F5DcCbc6FB3cECa",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RCsTSV7.jpg",
+            "name": "Moxie:yudikawula-fc",
+            "symbol": "Moxie:yudikawula-fc"
         }
     ],
     "version": {
