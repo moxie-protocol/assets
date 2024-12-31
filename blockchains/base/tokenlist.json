@@ -10026,6 +10026,13 @@
             "logoURI": "https://i.imgur.com/lEEBmcR.jpg",
             "name": "Moxie:xchain-fc",
             "symbol": "Moxie:xchain-fc"
+        },
+        {
+            "address": "0x9098587994237b730540995AA1e6F5532fEaB259",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1810098124691824641/KvdbJRpU.jpg",
+            "name": "Moxie:TAYM4600-x",
+            "symbol": "Moxie:TAYM4600-x"
         }
     ],
     "version": {
