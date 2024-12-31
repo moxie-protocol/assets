@@ -10292,6 +10292,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91d28d75-8bf2-4264-7c66-e7a081f0b100/original",
             "name": "Moxie:shorifvai-fc",
             "symbol": "Moxie:shorifvai-fc"
+        },
+        {
+            "address": "0x1c6cca1572aF3e961E5A8674554608AfCA35a3A2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4ecec8e5-f97c-4a20-5286-d5577f822f00/original",
+            "name": "Moxie:lenterasenja-fc",
+            "symbol": "Moxie:lenterasenja-fc"
         }
     ],
     "version": {
