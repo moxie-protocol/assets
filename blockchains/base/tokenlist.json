@@ -10495,6 +10495,13 @@
             "logoURI": "https://arweave.net/XY5sWjDAcoX1rMa-t1cAKMzblnM36Wr__xcO6uM7BK4/",
             "name": "Moxie:limonhassan-fc",
             "symbol": "Moxie:limonhassan-fc"
+        },
+        {
+            "address": "0x675f332423b4F83d4162D150b0805A7f4fEB9f10",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eWcgrER.jpg",
+            "name": "Moxie:0xdez-fc",
+            "symbol": "Moxie:0xdez-fc"
         }
     ],
     "version": {
