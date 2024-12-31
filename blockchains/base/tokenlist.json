@@ -10047,6 +10047,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bbef31c-0c0b-4eb5-d22b-648dc95ff600/rectcrop3",
             "name": "Moxie:dikdoy-fc",
             "symbol": "Moxie:dikdoy-fc"
+        },
+        {
+            "address": "0xa8d766a659f0020fccDD140BAB68D4EA43AB4D8e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Sq6Iq1P.jpg",
+            "name": "Moxie:sleepyhead58-fc",
+            "symbol": "Moxie:sleepyhead58-fc"
         }
     ],
     "version": {
