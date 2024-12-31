@@ -10299,6 +10299,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4ecec8e5-f97c-4a20-5286-d5577f822f00/original",
             "name": "Moxie:lenterasenja-fc",
             "symbol": "Moxie:lenterasenja-fc"
+        },
+        {
+            "address": "0x5185232adad1Bec77421bb022465bF4363535c6c",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:rizabadw-x",
+            "symbol": "Moxie:rizabadw-x"
         }
     ],
     "version": {
