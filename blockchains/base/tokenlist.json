@@ -10411,6 +10411,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6b3bf387-f78f-4f11-1b42-f00ca8ecdc00/original",
             "name": "Moxie:sam-oudini.eth-ens",
             "symbol": "Moxie:sam-oudini.eth-ens"
+        },
+        {
+            "address": "0x24280FB50AA30cc6A29D5e4BeBa906A2af7334c5",
+            "decimals": 18,
+            "logoURI": "http://imgfz.com/i/mYRdLMK.png",
+            "name": "Moxie:thecast91.eth-ens",
+            "symbol": "Moxie:thecast91.eth-ens"
         }
     ],
     "version": {
