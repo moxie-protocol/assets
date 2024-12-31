@@ -10369,6 +10369,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40db9ed1-d650-4a85-3cc1-128efdc77b00/original",
             "name": "Moxie:safvan-fc",
             "symbol": "Moxie:safvan-fc"
+        },
+        {
+            "address": "0xB79Db9aCCEC31208195ed58D4a4af44BFd0B2873",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/C1NxjwL.jpg",
+            "name": "Moxie:semogacair2024-fc",
+            "symbol": "Moxie:semogacair2024-fc"
         }
     ],
     "version": {
