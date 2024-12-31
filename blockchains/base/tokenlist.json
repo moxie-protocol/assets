@@ -10516,6 +10516,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859369535238709248/54Ng_LB8.jpg",
             "name": "Moxie:Papsrider77-x",
             "symbol": "Moxie:Papsrider77-x"
+        },
+        {
+            "address": "0x90fFaE645365A32A511F8DD49A037D68DDf71eef",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b0553d0-8a99-413a-0a70-50129c80fe00/rectcrop3",
+            "name": "Moxie:aicast-fc",
+            "symbol": "Moxie:aicast-fc"
         }
     ],
     "version": {
