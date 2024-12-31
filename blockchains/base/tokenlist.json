@@ -10075,6 +10075,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4364c02-983e-4078-2f5a-2418224b7600/original",
             "name": "Moxie:ankhz-fc",
             "symbol": "Moxie:ankhz-fc"
+        },
+        {
+            "address": "0x84FE90CbAD6b6b6E80ceFa30949fC695254E4651",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eMwWx2S.jpg",
+            "name": "Moxie:whymaull-fc",
+            "symbol": "Moxie:whymaull-fc"
         }
     ],
     "version": {
