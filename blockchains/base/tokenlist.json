@@ -10348,6 +10348,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1699457445100404736/wTabuo5W.jpg",
             "name": "Moxie:kzomedo-x",
             "symbol": "Moxie:kzomedo-x"
+        },
+        {
+            "address": "0x05DA5CABE9672DB8d9c0b59Ccbd925DF23EF48B7",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDr8B_pXkehwWAtx_7MpU21ouoaboOAVKKA\u0026s",
+            "name": "Moxie:action360.base.eth-base",
+            "symbol": "Moxie:action360.base.eth-base"
         }
     ],
     "version": {
