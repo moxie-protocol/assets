@@ -10019,6 +10019,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1bea43e9-1462-4fcf-278f-7a9190fdf600/rectcrop3",
             "name": "Moxie:aydin-crypto-fc",
             "symbol": "Moxie:aydin-crypto-fc"
+        },
+        {
+            "address": "0x10669355EC8A859948087415a1c41f1fF7121D34",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lEEBmcR.jpg",
+            "name": "Moxie:xchain-fc",
+            "symbol": "Moxie:xchain-fc"
         }
     ],
     "version": {
