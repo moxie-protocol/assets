@@ -10523,6 +10523,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b0553d0-8a99-413a-0a70-50129c80fe00/rectcrop3",
             "name": "Moxie:aicast-fc",
             "symbol": "Moxie:aicast-fc"
+        },
+        {
+            "address": "0x8eBd915227d3fb87DCd3a41a558f76aC889c46D8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b23a4f0b-b12d-4b91-4439-49aa93776400/rectcrop3",
+            "name": "Moxie:oneof-fc",
+            "symbol": "Moxie:oneof-fc"
         }
     ],
     "version": {
