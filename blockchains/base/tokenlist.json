@@ -10194,6 +10194,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1545977155867508736/PD5zcPhI.jpg",
             "name": "Moxie:Itzpoopster-x",
             "symbol": "Moxie:Itzpoopster-x"
+        },
+        {
+            "address": "0xd47D129C40715aACed7Fd15E0B23c645171987b4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1847289322539515904/EZVLXpmn.jpg",
+            "name": "Moxie:pendlefx-x",
+            "symbol": "Moxie:pendlefx-x"
         }
     ],
     "version": {
