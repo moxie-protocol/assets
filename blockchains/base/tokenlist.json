@@ -10572,6 +10572,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854480422702620672/os1yVtqT.jpg",
             "name": "Moxie:ZetZet412581-x",
             "symbol": "Moxie:ZetZet412581-x"
+        },
+        {
+            "address": "0x3A9B07eEC1628d3503e65cE543d043CACcB747FB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BsVvPW9.jpg",
+            "name": "Moxie:demonal18-fc",
+            "symbol": "Moxie:demonal18-fc"
         }
     ],
     "version": {
