@@ -10383,6 +10383,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6265bfa-1142-4762-f689-011919ae1500/rectcrop3",
             "name": "Moxie:ariawi-fc",
             "symbol": "Moxie:ariawi-fc"
+        },
+        {
+            "address": "0x1f33d89aC580689a1c7F63a2b306A1703F8A1518",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1847643306940895232/TRRVMMTk.jpg",
+            "name": "Moxie:Karos1am-x",
+            "symbol": "Moxie:Karos1am-x"
         }
     ],
     "version": {
