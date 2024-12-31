@@ -10362,6 +10362,13 @@
             "logoURI": "https://png.pngtree.com/png-clipart/20220502/original/pngtree-shiba-inu-gold-coin-crypto-currency-icon-png-image_7635898.png",
             "name": "Moxie:pissou.base.eth-base",
             "symbol": "Moxie:pissou.base.eth-base"
+        },
+        {
+            "address": "0xFf8b8338a8a6014E0fA7F0DEfc70448F55aAF74d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40db9ed1-d650-4a85-3cc1-128efdc77b00/original",
+            "name": "Moxie:safvan-fc",
+            "symbol": "Moxie:safvan-fc"
         }
     ],
     "version": {
