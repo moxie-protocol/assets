@@ -10397,6 +10397,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/412e53d7-e02a-48be-12fd-736a7cf2c800/rectcrop3",
             "name": "Moxie:rizanska-fc",
             "symbol": "Moxie:rizanska-fc"
+        },
+        {
+            "address": "0x515864317Edeb82fe07ab18C4E9578712a2B4A24",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1606507111344918530/fMs0NBtf.jpg",
+            "name": "Moxie:andidwiprastio-x",
+            "symbol": "Moxie:andidwiprastio-x"
         }
     ],
     "version": {
