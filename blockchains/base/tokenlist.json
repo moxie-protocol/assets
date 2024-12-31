@@ -10544,6 +10544,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fccf428e-8e44-45cc-1eee-cd5f50cf4b00/rectcrop3",
             "name": "Moxie:ladyicealisa.eth-fc",
             "symbol": "Moxie:ladyicealisa.eth-fc"
+        },
+        {
+            "address": "0x8dcE0056ab83b278ee6207196bBB06240F536D2C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c9c1e5d-4877-4ff0-d76d-aa9689c56c00/rectcrop3",
+            "name": "Moxie:danlacatraz-fc",
+            "symbol": "Moxie:danlacatraz-fc"
         }
     ],
     "version": {
