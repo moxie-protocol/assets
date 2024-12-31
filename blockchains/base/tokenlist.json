@@ -10593,6 +10593,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea569717-35a6-443c-cd7c-0a7f36d1a300/rectcrop3",
             "name": "Moxie:arastra-fc",
             "symbol": "Moxie:arastra-fc"
+        },
+        {
+            "address": "0x7E7496b103b2fe13A15D8c1ffC549fefB677eB1b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LJkcyvk.jpg",
+            "name": "Moxie:schoemy-fc",
+            "symbol": "Moxie:schoemy-fc"
         }
     ],
     "version": {
