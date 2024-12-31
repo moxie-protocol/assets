@@ -10670,6 +10670,13 @@
             "logoURI": null,
             "name": "mthch",
             "symbol": "fid:296767"
+        },
+        {
+            "address": "0x06983E039dfe028589e027b28d11e0ECAd70b1dc",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hKTeDvl.jpg",
+            "name": "Moxie:squeakytadpole-fc",
+            "symbol": "Moxie:squeakytadpole-fc"
         }
     ],
     "version": {
