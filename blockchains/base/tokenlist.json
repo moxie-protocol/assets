@@ -10131,6 +10131,13 @@
             "logoURI": "https://nt52i3jbswyjqxl3eu2zaukbqyg2fzo626ybsdxxgsfrb7mwzvfq.arweave.net/bPukbSGVsJhdeyU1kFFBhg2i5d7XsBkO9zSLEP2WzUs/",
             "name": "Moxie:wawan-fc",
             "symbol": "Moxie:wawan-fc"
+        },
+        {
+            "address": "0xbE3c218192d2bA7D5CEBBfd241FbFDeFF723c9bc",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/aiTwqdiAGYEdukXHEF_4Y711uYXzn_5xuPcyErb89DA/",
+            "name": "Moxie:techsunil-fc",
+            "symbol": "Moxie:techsunil-fc"
         }
     ],
     "version": {
