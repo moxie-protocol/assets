@@ -10628,6 +10628,13 @@
             "logoURI": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2FoEwg0ck.jpg",
             "name": "Moxie:hadisrad.base.eth-base",
             "symbol": "Moxie:hadisrad.base.eth-base"
+        },
+        {
+            "address": "0x3D60e79611285A55C038a1DAF63Aa5da3f3A35Dc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd58a9ae-21f2-455e-f03e-494291789000/rectcrop3",
+            "name": "Moxie:komis-fc",
+            "symbol": "Moxie:komis-fc"
         }
     ],
     "version": {
