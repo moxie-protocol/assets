@@ -10341,6 +10341,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40805c42-8b54-4826-bf77-c5e57d96bb00/original",
             "name": "Moxie:samyangmercon-fc",
             "symbol": "Moxie:samyangmercon-fc"
+        },
+        {
+            "address": "0xb88FC76aF84805346280A53f9DfE03131ce0E71c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1699457445100404736/wTabuo5W.jpg",
+            "name": "Moxie:kzomedo-x",
+            "symbol": "Moxie:kzomedo-x"
         }
     ],
     "version": {
