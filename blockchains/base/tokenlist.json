@@ -10432,6 +10432,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869990360057032708/BbXPgyLU.jpg",
             "name": "Moxie:BlackSoullWinS-x",
             "symbol": "Moxie:BlackSoullWinS-x"
+        },
+        {
+            "address": "0x53EAffdF66FF99521a3CD9D3317192a8eb964AE9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1553086d-4929-44d8-5f50-fbd0cbbdec00/rectcrop3",
+            "name": "Moxie:dbpower82-fc",
+            "symbol": "Moxie:dbpower82-fc"
         }
     ],
     "version": {
