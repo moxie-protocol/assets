@@ -10656,6 +10656,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1779192392027107328/hx7RhPOI.jpg",
             "name": "Moxie:CCCat444-x",
             "symbol": "Moxie:CCCat444-x"
+        },
+        {
+            "address": "0x01801bE4C739D57eE7F70fFfA9D8d5CaCF686559",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1846897625167286277/Ka4Fsh9p.jpg",
+            "name": "Moxie:indraopx-x",
+            "symbol": "Moxie:indraopx-x"
         }
     ],
     "version": {
