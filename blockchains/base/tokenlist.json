@@ -10103,6 +10103,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1581759-7ffe-40a7-d865-ced08b35b000/original",
             "name": "Moxie:imamy-fc",
             "symbol": "Moxie:imamy-fc"
+        },
+        {
+            "address": "0xD9aC881C53aca27b585fF02247367dDaC4A23b06",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44d2b12a-7d44-46e2-ea98-83d112e89e00/original",
+            "name": "Moxie:imnoah-fc",
+            "symbol": "Moxie:imnoah-fc"
         }
     ],
     "version": {
