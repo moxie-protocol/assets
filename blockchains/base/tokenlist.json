@@ -10502,6 +10502,13 @@
             "logoURI": "https://i.imgur.com/eWcgrER.jpg",
             "name": "Moxie:0xdez-fc",
             "symbol": "Moxie:0xdez-fc"
+        },
+        {
+            "address": "0x3870e96a40C423dae5394BE1847D5CbA4e29619D",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/pplpCM0eRmmAKHNrdipULfBzMNdDGtATbOSKwC_rHV8/",
+            "name": "Moxie:ghuyz-fc",
+            "symbol": "Moxie:ghuyz-fc"
         }
     ],
     "version": {
