@@ -10089,6 +10089,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b2a44f9-2ae5-47a2-b603-c0a6492f2700/original",
             "name": "Moxie:ppking-fc",
             "symbol": "Moxie:ppking-fc"
+        },
+        {
+            "address": "0x22972b8ad5b621D01B07b920999460B1B876f1C9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35eeee6a-c697-456c-2e9b-95a2695f6a00/original",
+            "name": "Moxie:gajagoyolo-fc",
+            "symbol": "Moxie:gajagoyolo-fc"
         }
     ],
     "version": {
