@@ -10306,6 +10306,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:rizabadw-x",
             "symbol": "Moxie:rizabadw-x"
+        },
+        {
+            "address": "0xfba37Ca3d3360D10F354375508Aacee7cb5F2eEC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54c74040-a99c-4789-9c72-ae30558d3400/rectcrop3",
+            "name": "Moxie:veinnaiver-fc",
+            "symbol": "Moxie:veinnaiver-fc"
         }
     ],
     "version": {
