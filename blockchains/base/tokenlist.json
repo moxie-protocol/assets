@@ -10600,6 +10600,13 @@
             "logoURI": "https://i.imgur.com/LJkcyvk.jpg",
             "name": "Moxie:schoemy-fc",
             "symbol": "Moxie:schoemy-fc"
+        },
+        {
+            "address": "0xfcCF1807A6Aa54ac4A4EEACAc168e5439b6a7080",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmVmEiXvfg9QnrGdyaXZBxG84BQddf5f9gjbPGChD471CE",
+            "name": "Moxie:xayden-fc",
+            "symbol": "Moxie:xayden-fc"
         }
     ],
     "version": {
