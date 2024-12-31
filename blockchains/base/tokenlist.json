@@ -10173,6 +10173,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1499bc85-ec20-4e59-f029-5ca5936cc800/original",
             "name": "Moxie:0mr0m0-fc",
             "symbol": "Moxie:0mr0m0-fc"
+        },
+        {
+            "address": "0xcca17Af50dfA0A625e990200bdFA5c8E75deb134",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9TqJif3.jpg",
+            "name": "Moxie:purplemoji-fc",
+            "symbol": "Moxie:purplemoji-fc"
         }
     ],
     "version": {
