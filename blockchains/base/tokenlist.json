@@ -10467,6 +10467,13 @@
             "logoURI": "https://m.media-amazon.com/images/I/51gj19g7cZL._UX358_FMwebp_QL85_.jpg",
             "name": "Moxie:rovelak.eth-ens",
             "symbol": "Moxie:rovelak.eth-ens"
+        },
+        {
+            "address": "0x8DCf3BB0F0F6BD4775aA29d43931F116c7364AEd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4bbd65b8-277a-42bc-beb4-f620d2edfd00/original",
+            "name": "Moxie:azat.eth-fc",
+            "symbol": "Moxie:azat.eth-fc"
         }
     ],
     "version": {
