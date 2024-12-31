@@ -10033,6 +10033,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1810098124691824641/KvdbJRpU.jpg",
             "name": "Moxie:TAYM4600-x",
             "symbol": "Moxie:TAYM4600-x"
+        },
+        {
+            "address": "0x4D6aBc4164355c5610e2C481213739ce16d20f0A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6kNunkX.gif",
+            "name": "Moxie:konami-fc",
+            "symbol": "Moxie:konami-fc"
         }
     ],
     "version": {
