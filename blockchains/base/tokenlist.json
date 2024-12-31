@@ -10635,6 +10635,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd58a9ae-21f2-455e-f03e-494291789000/rectcrop3",
             "name": "Moxie:komis-fc",
             "symbol": "Moxie:komis-fc"
+        },
+        {
+            "address": "0x61F3682bf93E8A2d0Aab255515DfAe3BF758f0cA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1781398257106624512/z64weMqU.jpg",
+            "name": "Moxie:glazy-x",
+            "symbol": "Moxie:glazy-x"
         }
     ],
     "version": {
