@@ -10614,6 +10614,13 @@
             "logoURI": "https://i.imgur.com/xcV7FMM.jpg",
             "name": "Moxie:edi1100-fc",
             "symbol": "Moxie:edi1100-fc"
+        },
+        {
+            "address": "0xaaf59c3D03EAf272A2E4E97b1D9E34B551d24A46",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861860453540102144/Cx96_dKb.jpg",
+            "name": "Moxie:MetaM00-x",
+            "symbol": "Moxie:MetaM00-x"
         }
     ],
     "version": {
