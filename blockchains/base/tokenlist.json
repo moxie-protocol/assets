@@ -10873,6 +10873,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1792885111178010624/6tXKC4i_.jpg",
             "name": "Moxie:seijin881-x",
             "symbol": "Moxie:seijin881-x"
+        },
+        {
+            "address": "0x71029543a12085723B06582DbF791F22CD2a65C3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BsdqrJF.jpg",
+            "name": "Moxie:rahmadsukhairi-fc",
+            "symbol": "Moxie:rahmadsukhairi-fc"
         }
     ],
     "version": {
