@@ -11622,6 +11622,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19532b19-0f67-4418-0afb-769ff3b64b00/rectcrop3",
             "name": "Moxie:dafariel-fc",
             "symbol": "Moxie:dafariel-fc"
+        },
+        {
+            "address": "0x22B687705c03813be275d3bE322635792D6D16bf",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QuKLQVS.jpg",
+            "name": "Moxie:yabumisa.eth-fc",
+            "symbol": "Moxie:yabumisa.eth-fc"
         }
     ],
     "version": {
