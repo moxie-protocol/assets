@@ -11482,6 +11482,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825491373803347968/yOdMSWtI.jpg",
             "name": "Moxie:RMehreliyev-x",
             "symbol": "Moxie:RMehreliyev-x"
+        },
+        {
+            "address": "0xe15C6608f7A7CC8ED48f9db93A1d0c57AF287754",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/D6tkH3C.jpg",
+            "name": "Moxie:floar.eth-fc",
+            "symbol": "Moxie:floar.eth-fc"
         }
     ],
     "version": {
