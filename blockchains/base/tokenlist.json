@@ -10698,6 +10698,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e65392d-0c1d-4490-2227-9fd265af0200/rectcrop3",
             "name": "Moxie:aco-fc",
             "symbol": "Moxie:aco-fc"
+        },
+        {
+            "address": "0x3868714b273Fe4Df228300f9c237838a45b6dE17",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868506705879003136/ohkggm1i.jpg",
+            "name": "Moxie:bundasari111-x",
+            "symbol": "Moxie:bundasari111-x"
         }
     ],
     "version": {
