@@ -10796,6 +10796,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:febryan_pr-x",
             "symbol": "Moxie:febryan_pr-x"
+        },
+        {
+            "address": "0xc03aE6b4EA7B2056e44F163C85C067d2587035C6",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmZBDYNhSKUCz5BkMnk7LLHem6WoBYsDyAhspi6gFUFxn1",
+            "name": "Moxie:zlhyd99-fc",
+            "symbol": "Moxie:zlhyd99-fc"
         }
     ],
     "version": {
