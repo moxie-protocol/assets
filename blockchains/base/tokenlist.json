@@ -10789,6 +10789,13 @@
             "logoURI": "https://i.imgur.com/XlhAJ1H.jpg",
             "name": "Moxie:kicik-fc",
             "symbol": "Moxie:kicik-fc"
+        },
+        {
+            "address": "0xF5650204d2C68e8C73237eA5f5560211ea9F73D7",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:febryan_pr-x",
+            "symbol": "Moxie:febryan_pr-x"
         }
     ],
     "version": {
