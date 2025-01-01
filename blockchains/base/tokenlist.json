@@ -11237,6 +11237,13 @@
             "logoURI": "https://i.imgur.com/R2cckKb.jpg",
             "name": "Moxie:astral-fc",
             "symbol": "Moxie:astral-fc"
+        },
+        {
+            "address": "0x6D157C781e6a015522C23c4953A09Ac4Ff0d4fE2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84919981-a796-486c-911c-6986fc333900/original",
+            "name": "Moxie:dede2-fc",
+            "symbol": "Moxie:dede2-fc"
         }
     ],
     "version": {
