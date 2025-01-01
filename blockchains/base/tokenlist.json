@@ -11370,6 +11370,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e70523c4-c218-4bf7-3599-fea48ea9eb00/rectcrop3",
             "name": "Moxie:cryptodedektif-fc",
             "symbol": "Moxie:cryptodedektif-fc"
+        },
+        {
+            "address": "0x1C3fec8501dD412e174Dc5143988F70185040F69",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "glitch69",
+            "symbol": "fid:545284"
         }
     ],
     "version": {
