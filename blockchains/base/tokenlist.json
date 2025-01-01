@@ -11580,6 +11580,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1655130980917866497/QQ0JbDm9.jpg",
             "name": "Moxie:NabeelMuneer5-x",
             "symbol": "Moxie:NabeelMuneer5-x"
+        },
+        {
+            "address": "0xf69A4eC0AB3AAE6FEeDaEaC9fb646bA8fC8c6DF5",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LGFuJ5o.jpg",
+            "name": "Moxie:bahzet-fc",
+            "symbol": "Moxie:bahzet-fc"
         }
     ],
     "version": {
