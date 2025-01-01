@@ -11496,6 +11496,13 @@
             "logoURI": null,
             "name": "20",
             "symbol": "fid:509427"
+        },
+        {
+            "address": "0x1F780B7634BdeA78D3BaBE3A188FE75C5A90E40f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d259101-457a-4783-d95c-26b165fef500/rectcrop3",
+            "name": "Moxie:dzura-fc",
+            "symbol": "Moxie:dzura-fc"
         }
     ],
     "version": {
