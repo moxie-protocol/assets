@@ -11230,6 +11230,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5414b6b-42e7-4ce2-b7b3-6d669d9cc000/rectcrop3",
             "name": "Moxie:tur-fc",
             "symbol": "Moxie:tur-fc"
+        },
+        {
+            "address": "0xE126B3A6F89db34CeE2d4Ef3112A5E41E058c7FC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/R2cckKb.jpg",
+            "name": "Moxie:astral-fc",
+            "symbol": "Moxie:astral-fc"
         }
     ],
     "version": {
