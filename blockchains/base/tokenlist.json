@@ -11195,6 +11195,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e71d456f-461a-4a1c-d1f5-48a6af98fc00/original",
             "name": "Moxie:arbizikri-fc",
             "symbol": "Moxie:arbizikri-fc"
+        },
+        {
+            "address": "0x9ee37959c5958Fce69FC75FD58ccE9555348FF32",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1689101429305466880/oxCESxJj.jpg",
+            "name": "Moxie:0x1azazul-x",
+            "symbol": "Moxie:0x1azazul-x"
         }
     ],
     "version": {
