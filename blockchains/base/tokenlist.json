@@ -10852,6 +10852,13 @@
             "logoURI": "https://i.imgur.com/HhLUoxa.jpg",
             "name": "Moxie:nobitaganteng-fc",
             "symbol": "Moxie:nobitaganteng-fc"
+        },
+        {
+            "address": "0x6C78101e0B55f9a00454C2D9dE4468203F2C512f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dyI9ZkM.jpg",
+            "name": "Moxie:callmefull-fc",
+            "symbol": "Moxie:callmefull-fc"
         }
     ],
     "version": {
