@@ -11321,6 +11321,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e2adbf0-8490-4959-590f-15abc4396400/original",
             "name": "Moxie:nhk-fc",
             "symbol": "Moxie:nhk-fc"
+        },
+        {
+            "address": "0xce5B8ABE3796c3FB38b621921891676273355c3D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e790a289-2175-4624-0cd7-6093f1800b00/rectcrop3",
+            "name": "Moxie:cffafa1-fc",
+            "symbol": "Moxie:cffafa1-fc"
         }
     ],
     "version": {
