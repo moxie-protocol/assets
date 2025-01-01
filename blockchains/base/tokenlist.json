@@ -11244,6 +11244,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84919981-a796-486c-911c-6986fc333900/original",
             "name": "Moxie:dede2-fc",
             "symbol": "Moxie:dede2-fc"
+        },
+        {
+            "address": "0xE6D8E49a581C7d5Dee5CFC193f8be475C48a4E68",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:mihai123486-x",
+            "symbol": "Moxie:mihai123486-x"
         }
     ],
     "version": {
