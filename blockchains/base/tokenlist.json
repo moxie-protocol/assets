@@ -10726,6 +10726,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b670e84-1d0e-4b79-a0bd-a8adcc4ac400/rectcrop3",
             "name": "Moxie:0xcemycon-fc",
             "symbol": "Moxie:0xcemycon-fc"
+        },
+        {
+            "address": "0x4CD7CBC7bC3C86CB27F82685AfC8b618b03E416C",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866626401270632448/yRNiHptK.jpg",
+            "name": "Moxie:buywle-x",
+            "symbol": "Moxie:buywle-x"
         }
     ],
     "version": {
