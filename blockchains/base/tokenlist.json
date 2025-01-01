@@ -11587,6 +11587,13 @@
             "logoURI": "https://i.imgur.com/LGFuJ5o.jpg",
             "name": "Moxie:bahzet-fc",
             "symbol": "Moxie:bahzet-fc"
+        },
+        {
+            "address": "0x73f690D11f74FB1BeD29dB04c0c89c2be3d150F2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f819a09c-83b5-4f53-3b48-ff828aef3f00/rectcrop3",
+            "name": "Moxie:zakriya-fc",
+            "symbol": "Moxie:zakriya-fc"
         }
     ],
     "version": {
