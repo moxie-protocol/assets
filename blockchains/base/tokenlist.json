@@ -11524,6 +11524,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5535e443-0362-490c-fbb7-93ad28fbbd00/rectcrop3",
             "name": "Moxie:notoorious-fc",
             "symbol": "Moxie:notoorious-fc"
+        },
+        {
+            "address": "0xFC85Cc08422AcED9192fa54eF8Fd48363832A7E3",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/nHHJuvL8zP0WrW7guf-lnW9cMrSfLv3q1XpaROvH1m0/",
+            "name": "Moxie:kapa9.eth-fc",
+            "symbol": "Moxie:kapa9.eth-fc"
         }
     ],
     "version": {
