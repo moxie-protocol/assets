@@ -10880,6 +10880,13 @@
             "logoURI": "https://i.imgur.com/BsdqrJF.jpg",
             "name": "Moxie:rahmadsukhairi-fc",
             "symbol": "Moxie:rahmadsukhairi-fc"
+        },
+        {
+            "address": "0xDDb631129F90b9394bD120db2cC0a5d3E128045F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/EL00Kgw.jpg",
+            "name": "Moxie:zura-fc",
+            "symbol": "Moxie:zura-fc"
         }
     ],
     "version": {
