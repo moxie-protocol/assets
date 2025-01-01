@@ -10859,6 +10859,13 @@
             "logoURI": "https://i.imgur.com/dyI9ZkM.jpg",
             "name": "Moxie:callmefull-fc",
             "symbol": "Moxie:callmefull-fc"
+        },
+        {
+            "address": "0xc5f07f7aaD2c0A04EA6FB78d7cC0901ccD9c6e9C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PzeVCxU.jpg",
+            "name": "Moxie:purhan-fc",
+            "symbol": "Moxie:purhan-fc"
         }
     ],
     "version": {
