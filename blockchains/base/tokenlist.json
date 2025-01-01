@@ -11139,6 +11139,13 @@
             "logoURI": "https://i.imgur.com/hylXHAi.jpg",
             "name": "Moxie:seekorbakteri-fc",
             "symbol": "Moxie:seekorbakteri-fc"
+        },
+        {
+            "address": "0x52781E83da58F08C9636F4bbca4e2Ee4274659Ce",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1011997772914888704/N3OErn7f.jpg",
+            "name": "Moxie:PutraAntohood67-x",
+            "symbol": "Moxie:PutraAntohood67-x"
         }
     ],
     "version": {
