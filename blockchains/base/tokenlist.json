@@ -11202,6 +11202,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1689101429305466880/oxCESxJj.jpg",
             "name": "Moxie:0x1azazul-x",
             "symbol": "Moxie:0x1azazul-x"
+        },
+        {
+            "address": "0x1c722Ca8Cca3E9b24693FB06B5C74fc050957844",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1453055533619941382/BfGWiexZ.jpg",
+            "name": "Moxie:mario_arrai-x",
+            "symbol": "Moxie:mario_arrai-x"
         }
     ],
     "version": {
