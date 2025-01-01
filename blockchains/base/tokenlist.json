@@ -11447,6 +11447,13 @@
             "logoURI": "https://i.imgur.com/xXdSIwe.jpg",
             "name": "Moxie:heroair-fc",
             "symbol": "Moxie:heroair-fc"
+        },
+        {
+            "address": "0xcDc95A29b06C46CCF57a12D4F52733A286195B8C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/JsoYc98.jpg",
+            "name": "Moxie:maximus27-fc",
+            "symbol": "Moxie:maximus27-fc"
         }
     ],
     "version": {
