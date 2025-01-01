@@ -11055,6 +11055,13 @@
             "logoURI": "https://i.imgur.com/lzQbygB.jpg",
             "name": "Moxie:clairo-fc",
             "symbol": "Moxie:clairo-fc"
+        },
+        {
+            "address": "0xf4EdE98AbbF1869B1A2b8b7cde11FA56A696d101",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/jedvzNE.jpg",
+            "name": "Moxie:muel-fc",
+            "symbol": "Moxie:muel-fc"
         }
     ],
     "version": {
