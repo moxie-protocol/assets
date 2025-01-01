@@ -11013,6 +11013,13 @@
             "logoURI": "https://ai6djcduu272ivt42rrnq7c23jiz5hmtndaj5rtysxgsk6y4lxcq.arweave.net/Ajw0iHSmv6RWfNRi2Hxa2lGenZNowJ7GeJXNJXscXcU/",
             "name": "Moxie:dickybima-fc",
             "symbol": "Moxie:dickybima-fc"
+        },
+        {
+            "address": "0x7EdC42cB58080e0206C80CBFd2D6EF70C9732095",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6c53ecd-5cdd-4ba6-ff2d-39cc22acf800/rectcrop3",
+            "name": "Moxie:zqwxl98-fc",
+            "symbol": "Moxie:zqwxl98-fc"
         }
     ],
     "version": {
