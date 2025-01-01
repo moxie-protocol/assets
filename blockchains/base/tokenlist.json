@@ -11461,6 +11461,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/150ed77d-e2ed-4b61-2d10-fe349bac0100/rectcrop3",
             "name": "Moxie:xill-fc",
             "symbol": "Moxie:xill-fc"
+        },
+        {
+            "address": "0x6e8d8EE35b7bF3f2AB92C6A22C18AbF4437f46f8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ebeb646-7259-420b-f114-39dda413ba00/original",
+            "name": "Moxie:0xgods-fc",
+            "symbol": "Moxie:0xgods-fc"
         }
     ],
     "version": {
