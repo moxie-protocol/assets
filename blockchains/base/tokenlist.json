@@ -11069,6 +11069,13 @@
             "logoURI": null,
             "name": "misselii",
             "symbol": "fid:656278"
+        },
+        {
+            "address": "0xa20c463af2dc9d2f6E252De76b9709d683AC4379",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiazghzujav4t436ite325es7pjhmplobf342kvizjsniy2akcysie",
+            "name": "Moxie:nemoxyz-fc",
+            "symbol": "Moxie:nemoxyz-fc"
         }
     ],
     "version": {
