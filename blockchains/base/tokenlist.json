@@ -10747,6 +10747,13 @@
             "logoURI": "https://i.imgur.com/BkcxZy9.jpg",
             "name": "Moxie:danzzcok-fc",
             "symbol": "Moxie:danzzcok-fc"
+        },
+        {
+            "address": "0x7bbb9639922A7C5F7B54c4967D3eb79635510c33",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/PRWkiSj7XCj8TE5FuaP16VDiLQSL3bFVYgTtRi4-3-A/",
+            "name": "Moxie:odok167-fc",
+            "symbol": "Moxie:odok167-fc"
         }
     ],
     "version": {
