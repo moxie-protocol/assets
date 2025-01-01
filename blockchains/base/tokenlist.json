@@ -11468,6 +11468,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ebeb646-7259-420b-f114-39dda413ba00/original",
             "name": "Moxie:0xgods-fc",
             "symbol": "Moxie:0xgods-fc"
+        },
+        {
+            "address": "0x946D234C5621f15b1edA4ec58026b3104B4Da04d",
+            "decimals": 18,
+            "logoURI": "https://i.imghippo.com/files/EQfd7366j.png",
+            "name": "Moxie:construct.base.eth-base",
+            "symbol": "Moxie:construct.base.eth-base"
         }
     ],
     "version": {
