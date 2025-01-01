@@ -11062,6 +11062,13 @@
             "logoURI": "https://i.imgur.com/jedvzNE.jpg",
             "name": "Moxie:muel-fc",
             "symbol": "Moxie:muel-fc"
+        },
+        {
+            "address": "0xc35cE724D5799adce1767776DaDD21cBD9526838",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "misselii",
+            "symbol": "fid:656278"
         }
     ],
     "version": {
