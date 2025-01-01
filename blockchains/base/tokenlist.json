@@ -10817,6 +10817,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9beebd3-6e76-4deb-086e-13711981eb00/rectcrop3",
             "name": "Moxie:kayuyuda-fc",
             "symbol": "Moxie:kayuyuda-fc"
+        },
+        {
+            "address": "0x12eBE20102d1bbD7dc753f7bA477aa48690Ebc90",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/GxAYJw-QkvaEwQw0Idw1srWJ2rPRIUU_eb7uxaX8e-E/",
+            "name": "Moxie:goodattitude-fc",
+            "symbol": "Moxie:goodattitude-fc"
         }
     ],
     "version": {
