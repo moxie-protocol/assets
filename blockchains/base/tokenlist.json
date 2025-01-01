@@ -10677,6 +10677,13 @@
             "logoURI": "https://i.imgur.com/hKTeDvl.jpg",
             "name": "Moxie:squeakytadpole-fc",
             "symbol": "Moxie:squeakytadpole-fc"
+        },
+        {
+            "address": "0x7dbb5f7d7b10e00180dd862997b62329c6eF7beD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2641fd5a-0dd3-47dd-6327-388341b44f00/rectcrop3",
+            "name": "Moxie:tol-fc",
+            "symbol": "Moxie:tol-fc"
         }
     ],
     "version": {
