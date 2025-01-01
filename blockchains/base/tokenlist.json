@@ -11083,6 +11083,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871261403237216256/RtI9qfeN.jpg",
             "name": "Moxie:SlmieP-x",
             "symbol": "Moxie:SlmieP-x"
+        },
+        {
+            "address": "0x307D8F8bC140E6DacA0A70a1AbB3003DdC6c4636",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/7SoQBrA.jpg",
+            "name": "Moxie:khoirul09-fc",
+            "symbol": "Moxie:khoirul09-fc"
         }
     ],
     "version": {
