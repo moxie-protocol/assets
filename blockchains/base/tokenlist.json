@@ -10929,6 +10929,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1586955013615603713/kQTX1NCr.jpg",
             "name": "Moxie:Bijiontatv-x",
             "symbol": "Moxie:Bijiontatv-x"
+        },
+        {
+            "address": "0xB7D3874Be43C88eFF190b72daE569ea24DBe3C4B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1772710274031915009/3tCEsoxS.jpg",
+            "name": "Moxie:FaizPrasetyo3-x",
+            "symbol": "Moxie:FaizPrasetyo3-x"
         }
     ],
     "version": {
