@@ -10866,6 +10866,13 @@
             "logoURI": "https://i.imgur.com/PzeVCxU.jpg",
             "name": "Moxie:purhan-fc",
             "symbol": "Moxie:purhan-fc"
+        },
+        {
+            "address": "0x3fd63a91B6612E76F4ee58eFFb6f34e7Cc63b5dB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1792885111178010624/6tXKC4i_.jpg",
+            "name": "Moxie:seijin881-x",
+            "symbol": "Moxie:seijin881-x"
         }
     ],
     "version": {
