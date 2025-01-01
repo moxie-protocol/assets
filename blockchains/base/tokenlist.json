@@ -11363,6 +11363,13 @@
             "logoURI": "https://i.imgur.com/l3H0WUM.jpg",
             "name": "Moxie:allrushindia-fc",
             "symbol": "Moxie:allrushindia-fc"
+        },
+        {
+            "address": "0x5d0FF7f067a36c0C849134132b441c44cc14D83e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e70523c4-c218-4bf7-3599-fea48ea9eb00/rectcrop3",
+            "name": "Moxie:cryptodedektif-fc",
+            "symbol": "Moxie:cryptodedektif-fc"
         }
     ],
     "version": {
