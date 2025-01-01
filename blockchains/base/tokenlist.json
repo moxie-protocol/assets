@@ -10684,6 +10684,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2641fd5a-0dd3-47dd-6327-388341b44f00/rectcrop3",
             "name": "Moxie:tol-fc",
             "symbol": "Moxie:tol-fc"
+        },
+        {
+            "address": "0x81c6Ace908ffC0bAF125bd64993862Ed7e70b3Bc",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/nvfoTj8.jpg",
+            "name": "Moxie:zuc-fc",
+            "symbol": "Moxie:zuc-fc"
         }
     ],
     "version": {
