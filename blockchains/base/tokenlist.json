@@ -11097,6 +11097,13 @@
             "logoURI": null,
             "name": "cak",
             "symbol": "fid:425477"
+        },
+        {
+            "address": "0x6e58458166185b9cfBbF2bd55d02DE2957186c51",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60c96d9b-a14d-4772-f4e0-b7c6c9f09c00/rectcrop3",
+            "name": "Moxie:radithjuno-fc",
+            "symbol": "Moxie:radithjuno-fc"
         }
     ],
     "version": {
