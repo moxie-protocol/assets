@@ -11440,6 +11440,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864397084562001920/94NulLjq.jpg",
             "name": "Moxie:sulecrypto1-x",
             "symbol": "Moxie:sulecrypto1-x"
+        },
+        {
+            "address": "0x5a156feb09E00425373c0aC5F46Deb5d70902C60",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xXdSIwe.jpg",
+            "name": "Moxie:heroair-fc",
+            "symbol": "Moxie:heroair-fc"
         }
     ],
     "version": {
