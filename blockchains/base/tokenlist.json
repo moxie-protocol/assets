@@ -11391,6 +11391,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1773879088282746881/nwPpvPSa.jpg",
             "name": "Moxie:RanadheerRao4-x",
             "symbol": "Moxie:RanadheerRao4-x"
+        },
+        {
+            "address": "0x22E25b8b06aE3D30D87f5743f3bcCBF510802366",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0e4Iopy.jpg",
+            "name": "Moxie:losko-fc",
+            "symbol": "Moxie:losko-fc"
         }
     ],
     "version": {
