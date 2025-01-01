@@ -11132,6 +11132,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/321fc9db-ee01-402b-c52a-1c407f6a2500/rectcrop3",
             "name": "Moxie:irinywka-fc",
             "symbol": "Moxie:irinywka-fc"
+        },
+        {
+            "address": "0x0B4952dD00617837844562b70fFBCD1c9a5b0750",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hylXHAi.jpg",
+            "name": "Moxie:seekorbakteri-fc",
+            "symbol": "Moxie:seekorbakteri-fc"
         }
     ],
     "version": {
