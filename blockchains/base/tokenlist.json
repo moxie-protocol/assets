@@ -11188,6 +11188,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:hanifonfire-fc",
             "symbol": "Moxie:hanifonfire-fc"
+        },
+        {
+            "address": "0xDFFE17d746032F250CDc6B271C4eA5D1eF60217E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e71d456f-461a-4a1c-d1f5-48a6af98fc00/original",
+            "name": "Moxie:arbizikri-fc",
+            "symbol": "Moxie:arbizikri-fc"
         }
     ],
     "version": {
