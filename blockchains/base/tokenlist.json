@@ -10838,6 +10838,13 @@
             "logoURI": "https://i.postimg.cc/2SxMsTyj/Grid-Art-20241231-191057191.jpg",
             "name": "Moxie:cylone.base.eth-base",
             "symbol": "Moxie:cylone.base.eth-base"
+        },
+        {
+            "address": "0x4f6ef1Fa700D3D5Bd0F8FCEe5C8DA0362e3B8f66",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3C6QXsJ.jpg",
+            "name": "Moxie:dapetcuan-fc",
+            "symbol": "Moxie:dapetcuan-fc"
         }
     ],
     "version": {
