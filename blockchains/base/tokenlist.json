@@ -11041,6 +11041,13 @@
             "logoURI": "https://image.milimaj.com/i/milliyet/75/869x477/610409f386b24433582ea688.jpg",
             "name": "Moxie:fayadh.eth-ens",
             "symbol": "Moxie:fayadh.eth-ens"
+        },
+        {
+            "address": "0xB8014a0C08dCd3c544d3F3BAba2704588a07ce29",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b590fd02-64b8-4f1d-d4c6-082a84ba5900/rectcrop3",
+            "name": "Moxie:zo1ldyck-fc",
+            "symbol": "Moxie:zo1ldyck-fc"
         }
     ],
     "version": {
