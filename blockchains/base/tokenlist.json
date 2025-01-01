@@ -11279,6 +11279,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26053e5e-32b5-4e94-da11-0fa7c2e45400/rectcrop3",
             "name": "Moxie:eunjae-fc",
             "symbol": "Moxie:eunjae-fc"
+        },
+        {
+            "address": "0x9BDa9Ded701cFc977CE3a927356F54d59392D2Bb",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/hGK6btt1/JPEG-20240706-145310-8126084841492662450.jpg",
+            "name": "Moxie:jaheisalive.eth-ens",
+            "symbol": "Moxie:jaheisalive.eth-ens"
         }
     ],
     "version": {
