@@ -11594,6 +11594,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f819a09c-83b5-4f53-3b48-ff828aef3f00/rectcrop3",
             "name": "Moxie:zakriya-fc",
             "symbol": "Moxie:zakriya-fc"
+        },
+        {
+            "address": "0x249Fa95AF5F6BE640307aBC8C054CbDdDc15F8FC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19837768-1843-48d1-48d3-62382dc32000/rectcrop3",
+            "name": "Moxie:jeggyhmhan-fc",
+            "symbol": "Moxie:jeggyhmhan-fc"
         }
     ],
     "version": {
