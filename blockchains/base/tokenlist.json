@@ -11286,6 +11286,13 @@
             "logoURI": "https://i.postimg.cc/hGK6btt1/JPEG-20240706-145310-8126084841492662450.jpg",
             "name": "Moxie:jaheisalive.eth-ens",
             "symbol": "Moxie:jaheisalive.eth-ens"
+        },
+        {
+            "address": "0x5C56d2ACD1953D6d9BAe7c876EFAC77552247A48",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8e3db2b-c795-4773-c4af-65bef4b20e00/rectcrop3",
+            "name": "Moxie:viavio-fc",
+            "symbol": "Moxie:viavio-fc"
         }
     ],
     "version": {
