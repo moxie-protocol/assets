@@ -10754,6 +10754,13 @@
             "logoURI": "https://arweave.net/PRWkiSj7XCj8TE5FuaP16VDiLQSL3bFVYgTtRi4-3-A/",
             "name": "Moxie:odok167-fc",
             "symbol": "Moxie:odok167-fc"
+        },
+        {
+            "address": "0xb2Cf55a0b85fDab6502169186580c111592a4FD0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1306099365145014274/bZrhw8Jw.jpg",
+            "name": "Moxie:Aji_jibondd-x",
+            "symbol": "Moxie:Aji_jibondd-x"
         }
     ],
     "version": {
