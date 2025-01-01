@@ -11538,6 +11538,13 @@
             "logoURI": "https://i.imgur.com/NAWK8hP.jpg",
             "name": "Moxie:barlas21-fc",
             "symbol": "Moxie:barlas21-fc"
+        },
+        {
+            "address": "0xCfc993Df1a46Fe25173d766c2BEe400e956389Ce",
+            "decimals": 18,
+            "logoURI": "https://imgs.search.brave.com/HWwextRjTHQOF4xB3bmQLd3bRiJ34l9-PHk3Z36qPZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/ZWQtd2hpdGUtY2F0/LWktd2hpdGUtc3R1/ZGlvXzE1NTAwMy0x/MzE4OS5qcGc_c2Vt/dD1haXNfaHlicmlk",
+            "name": "Moxie:badboii.eth-ens",
+            "symbol": "Moxie:badboii.eth-ens"
         }
     ],
     "version": {
