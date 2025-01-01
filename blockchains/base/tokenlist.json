@@ -11377,6 +11377,13 @@
             "logoURI": null,
             "name": "glitch69",
             "symbol": "fid:545284"
+        },
+        {
+            "address": "0xEAbaE2427E1f7e73CCF4fd7708ed14C9a90bacA8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1724989777735450625/HgCEPh6i.jpg",
+            "name": "Moxie:hardik_bish-x",
+            "symbol": "Moxie:hardik_bish-x"
         }
     ],
     "version": {
