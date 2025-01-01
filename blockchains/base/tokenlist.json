@@ -11454,6 +11454,13 @@
             "logoURI": "https://i.imgur.com/JsoYc98.jpg",
             "name": "Moxie:maximus27-fc",
             "symbol": "Moxie:maximus27-fc"
+        },
+        {
+            "address": "0x79e34670bE33684a127f2991787293B531fbF686",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/150ed77d-e2ed-4b61-2d10-fe349bac0100/rectcrop3",
+            "name": "Moxie:xill-fc",
+            "symbol": "Moxie:xill-fc"
         }
     ],
     "version": {
