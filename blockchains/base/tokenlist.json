@@ -11510,6 +11510,13 @@
             "logoURI": "https://i.imgur.com/a4XeEKc.png",
             "name": "Moxie:vixs-fc",
             "symbol": "Moxie:vixs-fc"
+        },
+        {
+            "address": "0x40dD8C3f0029cb1f3616a586b5d7CcFd4a3Bfc04",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f558ec4-ae85-480a-8626-8c5093e85000/original",
+            "name": "Moxie:kadirgns7-fc",
+            "symbol": "Moxie:kadirgns7-fc"
         }
     ],
     "version": {
