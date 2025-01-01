@@ -11419,6 +11419,13 @@
             "logoURI": "https://i.imgur.com/gd17NiM.jpg",
             "name": "Moxie:placeboeffect-fc",
             "symbol": "Moxie:placeboeffect-fc"
+        },
+        {
+            "address": "0x05A2FBDFF91f7151bd0E83b6E254564296BE783D",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/l-ubBRnvByr1XOP3JSPlzv-Y-OR7QdJoH0KMupjc7lLV45r8lfm39ruTRHAePFOAwb4Vk8O9y2C8WPT5X9bwIP8a7CJFipJ95lPIZg?w=500\u0026auto=format",
+            "name": "Moxie:idris1644-fc",
+            "symbol": "Moxie:idris1644-fc"
         }
     ],
     "version": {
