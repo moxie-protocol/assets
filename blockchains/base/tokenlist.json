@@ -11125,6 +11125,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1766363756672786432/bfX-PQ5j.jpg",
             "name": "Moxie:AndikaETHd-x",
             "symbol": "Moxie:AndikaETHd-x"
+        },
+        {
+            "address": "0x3A5dc7A743FAB5187E4aaAFCf17e66D0B104EeBB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/321fc9db-ee01-402b-c52a-1c407f6a2500/rectcrop3",
+            "name": "Moxie:irinywka-fc",
+            "symbol": "Moxie:irinywka-fc"
         }
     ],
     "version": {
