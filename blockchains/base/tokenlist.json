@@ -10761,6 +10761,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1306099365145014274/bZrhw8Jw.jpg",
             "name": "Moxie:Aji_jibondd-x",
             "symbol": "Moxie:Aji_jibondd-x"
+        },
+        {
+            "address": "0x74111AebA6f7688B2422310428B0F535A94F5bBE",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:mlutfiulum59-x",
+            "symbol": "Moxie:mlutfiulum59-x"
         }
     ],
     "version": {
