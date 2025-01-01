@@ -11111,6 +11111,13 @@
             "logoURI": "https://3fpnl3acdqnxcrlbp2qq6hskyyjvei3bi7wpmmd5nun6uge7434a.arweave.net/2V7V7AIcG3FFYX6hDx5KxhNSI2FH7PYwfW0b6hif5vg/",
             "name": "Moxie:kise-fc",
             "symbol": "Moxie:kise-fc"
+        },
+        {
+            "address": "0x96f87E4435283103E1d8317b25fb89D88A770815",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29a0a8ee-3126-4ee5-8305-26d53a4cc600/rectcrop3",
+            "name": "Moxie:dimboy03-fc",
+            "symbol": "Moxie:dimboy03-fc"
         }
     ],
     "version": {
