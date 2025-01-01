@@ -11503,6 +11503,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d259101-457a-4783-d95c-26b165fef500/rectcrop3",
             "name": "Moxie:dzura-fc",
             "symbol": "Moxie:dzura-fc"
+        },
+        {
+            "address": "0xA85527a4985eD49876f19Be2e10DC28f4Aaf4b29",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/a4XeEKc.png",
+            "name": "Moxie:vixs-fc",
+            "symbol": "Moxie:vixs-fc"
         }
     ],
     "version": {
