@@ -11307,6 +11307,13 @@
             "logoURI": "https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/c273d73f-0552-489e-7131-fdea31048300/anim=false,fit=contain,f=auto,w=480",
             "name": "Moxie:starguin-fc",
             "symbol": "Moxie:starguin-fc"
+        },
+        {
+            "address": "0x780Dd145cc40DE81fD33b61AA1F28ee3D0467D19",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da30ba7f-2f47-4f70-20f8-707bb7fdf300/original",
+            "name": "Moxie:a6-fc",
+            "symbol": "Moxie:a6-fc"
         }
     ],
     "version": {
