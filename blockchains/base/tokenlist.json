@@ -10719,6 +10719,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a799861f-b309-4c25-89a3-9a7ca5996800/rectcrop3",
             "name": "Moxie:twentysvn27-fc",
             "symbol": "Moxie:twentysvn27-fc"
+        },
+        {
+            "address": "0xd4Cc77AD805f0c07A5992EE56fe40F7063583354",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b670e84-1d0e-4b79-a0bd-a8adcc4ac400/rectcrop3",
+            "name": "Moxie:0xcemycon-fc",
+            "symbol": "Moxie:0xcemycon-fc"
         }
     ],
     "version": {
