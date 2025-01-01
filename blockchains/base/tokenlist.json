@@ -11090,6 +11090,13 @@
             "logoURI": "https://i.imgur.com/7SoQBrA.jpg",
             "name": "Moxie:khoirul09-fc",
             "symbol": "Moxie:khoirul09-fc"
+        },
+        {
+            "address": "0x94dB340a7332c1F12ede260b626654978871ec2C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "cak",
+            "symbol": "fid:425477"
         }
     ],
     "version": {
