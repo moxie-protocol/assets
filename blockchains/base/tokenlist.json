@@ -11398,6 +11398,13 @@
             "logoURI": "https://i.imgur.com/0e4Iopy.jpg",
             "name": "Moxie:losko-fc",
             "symbol": "Moxie:losko-fc"
+        },
+        {
+            "address": "0xe6a124fFb3A325D347651eE78a5238e26C368431",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d0c8b53-67b7-448b-2e63-6b8ab01ee500/rectcrop3",
+            "name": "Moxie:kyiojin-fc",
+            "symbol": "Moxie:kyiojin-fc"
         }
     ],
     "version": {
