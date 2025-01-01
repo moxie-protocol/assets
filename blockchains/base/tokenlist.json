@@ -11475,6 +11475,13 @@
             "logoURI": "https://i.imghippo.com/files/EQfd7366j.png",
             "name": "Moxie:construct.base.eth-base",
             "symbol": "Moxie:construct.base.eth-base"
+        },
+        {
+            "address": "0x9c29Ab6B985BA2cC4CCEA20198fd2F0CAf66F5e1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1825491373803347968/yOdMSWtI.jpg",
+            "name": "Moxie:RMehreliyev-x",
+            "symbol": "Moxie:RMehreliyev-x"
         }
     ],
     "version": {
