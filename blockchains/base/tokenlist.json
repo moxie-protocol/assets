@@ -10740,6 +10740,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1860638994989817856/F912WomR.jpg",
             "name": "Moxie:rynnocounter666-x",
             "symbol": "Moxie:rynnocounter666-x"
+        },
+        {
+            "address": "0xd397a4e55D04afb3CF4dAd1eecA71154c628D11F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BkcxZy9.jpg",
+            "name": "Moxie:danzzcok-fc",
+            "symbol": "Moxie:danzzcok-fc"
         }
     ],
     "version": {
