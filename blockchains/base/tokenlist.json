@@ -11615,6 +11615,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/982a9a66-6c5f-47fc-141f-6f989b586600/rectcrop3",
             "name": "Moxie:primetech-fc",
             "symbol": "Moxie:primetech-fc"
+        },
+        {
+            "address": "0xDC0E2601A816644b1c571C975616668b8f8583C5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19532b19-0f67-4418-0afb-769ff3b64b00/rectcrop3",
+            "name": "Moxie:dafariel-fc",
+            "symbol": "Moxie:dafariel-fc"
         }
     ],
     "version": {
