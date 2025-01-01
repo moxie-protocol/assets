@@ -11573,6 +11573,13 @@
             "logoURI": "https://api.pudgypenguins.io/lil/image/15715",
             "name": "Moxie:dre9889-fc",
             "symbol": "Moxie:dre9889-fc"
+        },
+        {
+            "address": "0xc3B822789653e69a5Cd550909635931C00c52C12",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1655130980917866497/QQ0JbDm9.jpg",
+            "name": "Moxie:NabeelMuneer5-x",
+            "symbol": "Moxie:NabeelMuneer5-x"
         }
     ],
     "version": {
