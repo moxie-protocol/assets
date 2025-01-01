@@ -11412,6 +11412,13 @@
             "logoURI": "https://i.imgur.com/94dBH6C.gif",
             "name": "Moxie:aydinaydar-fc",
             "symbol": "Moxie:aydinaydar-fc"
+        },
+        {
+            "address": "0x3B813f2A1adcf30658A124e73EB05b8afb5564f6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gd17NiM.jpg",
+            "name": "Moxie:placeboeffect-fc",
+            "symbol": "Moxie:placeboeffect-fc"
         }
     ],
     "version": {
