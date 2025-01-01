@@ -11209,6 +11209,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1453055533619941382/BfGWiexZ.jpg",
             "name": "Moxie:mario_arrai-x",
             "symbol": "Moxie:mario_arrai-x"
+        },
+        {
+            "address": "0xF8Db811Dc09269B47C8719f875b076fe480cc309",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QKgykkw.jpg",
+            "name": "Moxie:noy-fc",
+            "symbol": "Moxie:noy-fc"
         }
     ],
     "version": {
