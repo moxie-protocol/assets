@@ -11020,6 +11020,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6c53ecd-5cdd-4ba6-ff2d-39cc22acf800/rectcrop3",
             "name": "Moxie:zqwxl98-fc",
             "symbol": "Moxie:zqwxl98-fc"
+        },
+        {
+            "address": "0xbe9a2823b14edeC5fBC10DAB4Ca6A7131805e7C8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b7175ad-5db3-416f-9368-825c31a5c900/rectcrop3",
+            "name": "Moxie:imkerake.eth-fc",
+            "symbol": "Moxie:imkerake.eth-fc"
         }
     ],
     "version": {
