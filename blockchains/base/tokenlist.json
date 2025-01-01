@@ -10894,6 +10894,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65523fd7-286a-479c-4f69-f6a4e6174800/rectcrop3",
             "name": "Moxie:ryuto-fc",
             "symbol": "Moxie:ryuto-fc"
+        },
+        {
+            "address": "0x64A4820aE5D3C54aAE8361Aa2E86104116CF8CeB",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/zfmD7KpF/photo1720499761.jpg",
+            "name": "Moxie:jutyuiop.base.eth-base",
+            "symbol": "Moxie:jutyuiop.base.eth-base"
         }
     ],
     "version": {
