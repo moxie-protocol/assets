@@ -10691,6 +10691,13 @@
             "logoURI": "https://i.imgur.com/nvfoTj8.jpg",
             "name": "Moxie:zuc-fc",
             "symbol": "Moxie:zuc-fc"
+        },
+        {
+            "address": "0x7B4BA10d22dB7Ea9AeaC44D08a4631B41B5B6d87",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1e65392d-0c1d-4490-2227-9fd265af0200/rectcrop3",
+            "name": "Moxie:aco-fc",
+            "symbol": "Moxie:aco-fc"
         }
     ],
     "version": {
