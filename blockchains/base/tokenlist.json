@@ -11433,6 +11433,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eae6bf4-0a97-479e-9aff-b2669bcd3500/original",
             "name": "Moxie:0xoplus.eth-ens",
             "symbol": "Moxie:0xoplus.eth-ens"
+        },
+        {
+            "address": "0xbA9f022AA2d74870FCCa2ffa62B167C6dB0e09A8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864397084562001920/94NulLjq.jpg",
+            "name": "Moxie:sulecrypto1-x",
+            "symbol": "Moxie:sulecrypto1-x"
         }
     ],
     "version": {
