@@ -10775,6 +10775,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b934de07-1f97-4b6b-d459-cedb6b242300/rectcrop3",
             "name": "Moxie:agis-fc",
             "symbol": "Moxie:agis-fc"
+        },
+        {
+            "address": "0xCD098179ED9cd9ad92A91aC8d6aCC025b8d1b9a0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec08c1e3-a6c1-4979-bab1-fbd41dc6f200/rectcrop3",
+            "name": "Moxie:poirot-fc",
+            "symbol": "Moxie:poirot-fc"
         }
     ],
     "version": {
