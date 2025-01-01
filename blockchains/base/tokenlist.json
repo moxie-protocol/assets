@@ -10782,6 +10782,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec08c1e3-a6c1-4979-bab1-fbd41dc6f200/rectcrop3",
             "name": "Moxie:poirot-fc",
             "symbol": "Moxie:poirot-fc"
+        },
+        {
+            "address": "0xD9B1B40D6Dc530377F243c0c45Bf5f2EECA48511",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/XlhAJ1H.jpg",
+            "name": "Moxie:kicik-fc",
+            "symbol": "Moxie:kicik-fc"
         }
     ],
     "version": {
