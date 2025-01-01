@@ -10915,6 +10915,13 @@
             "logoURI": "https://i.imgur.com/dxFnlOV.jpg",
             "name": "Moxie:yuzuriha-fc",
             "symbol": "Moxie:yuzuriha-fc"
+        },
+        {
+            "address": "0x329D81956AEda07511241FA710B002182Fd2a1bc",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeib34f552ylzvhvgj6k2xdxvicyarrom4zc6lzmqxj3b7tlbhdna6q",
+            "name": "Moxie:cuantama-fc",
+            "symbol": "Moxie:cuantama-fc"
         }
     ],
     "version": {
