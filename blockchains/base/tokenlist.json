@@ -11293,6 +11293,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8e3db2b-c795-4773-c4af-65bef4b20e00/rectcrop3",
             "name": "Moxie:viavio-fc",
             "symbol": "Moxie:viavio-fc"
+        },
+        {
+            "address": "0x2377975Df269c8d698e3dFF22086fdA8bC47Ab97",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/r1X1OSa.jpg",
+            "name": "Moxie:akusiapa-fc",
+            "symbol": "Moxie:akusiapa-fc"
         }
     ],
     "version": {
