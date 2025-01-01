@@ -10964,6 +10964,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e05d5a7-9106-4814-23f3-8d998e4cd300/rectcrop3",
             "name": "Moxie:azzam-fc",
             "symbol": "Moxie:azzam-fc"
+        },
+        {
+            "address": "0xAE990eDc55e2B9EF02019a12e8a9FD57f8f5E2C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9164878-ea38-49f1-e138-ad831f9f7b00/original",
+            "name": "Moxie:rzi-fc",
+            "symbol": "Moxie:rzi-fc"
         }
     ],
     "version": {
