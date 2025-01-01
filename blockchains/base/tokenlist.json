@@ -11426,6 +11426,13 @@
             "logoURI": "https://i.seadn.io/gae/l-ubBRnvByr1XOP3JSPlzv-Y-OR7QdJoH0KMupjc7lLV45r8lfm39ruTRHAePFOAwb4Vk8O9y2C8WPT5X9bwIP8a7CJFipJ95lPIZg?w=500\u0026auto=format",
             "name": "Moxie:idris1644-fc",
             "symbol": "Moxie:idris1644-fc"
+        },
+        {
+            "address": "0x4a741bC3CeFcbD2FE0526d04D924f4FE1579E83D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eae6bf4-0a97-479e-9aff-b2669bcd3500/original",
+            "name": "Moxie:0xoplus.eth-ens",
+            "symbol": "Moxie:0xoplus.eth-ens"
         }
     ],
     "version": {
