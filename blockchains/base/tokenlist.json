@@ -10901,6 +10901,13 @@
             "logoURI": "https://i.postimg.cc/zfmD7KpF/photo1720499761.jpg",
             "name": "Moxie:jutyuiop.base.eth-base",
             "symbol": "Moxie:jutyuiop.base.eth-base"
+        },
+        {
+            "address": "0x9B350448C8F051B9c0c222b4180Ef827389653F2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b77b3881-4596-4938-56d2-434ed34f2900/rectcrop3",
+            "name": "Moxie:zirael-fc",
+            "symbol": "Moxie:zirael-fc"
         }
     ],
     "version": {
