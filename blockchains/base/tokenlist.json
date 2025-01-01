@@ -10908,6 +10908,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b77b3881-4596-4938-56d2-434ed34f2900/rectcrop3",
             "name": "Moxie:zirael-fc",
             "symbol": "Moxie:zirael-fc"
+        },
+        {
+            "address": "0x27DB740205E661f38a2273C461d35CEe227cB965",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dxFnlOV.jpg",
+            "name": "Moxie:yuzuriha-fc",
+            "symbol": "Moxie:yuzuriha-fc"
         }
     ],
     "version": {
