@@ -11405,6 +11405,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d0c8b53-67b7-448b-2e63-6b8ab01ee500/rectcrop3",
             "name": "Moxie:kyiojin-fc",
             "symbol": "Moxie:kyiojin-fc"
+        },
+        {
+            "address": "0x233621acC5CE40AAbE243cbbc83E4057515D1b47",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/94dBH6C.gif",
+            "name": "Moxie:aydinaydar-fc",
+            "symbol": "Moxie:aydinaydar-fc"
         }
     ],
     "version": {
