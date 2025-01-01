@@ -11258,6 +11258,13 @@
             "logoURI": "https://i.imgur.com/zSRJ08g.jpg",
             "name": "Moxie:cryptobionic-fc",
             "symbol": "Moxie:cryptobionic-fc"
+        },
+        {
+            "address": "0x1B2368F2728a2Aa20857dABcEa4210F1BA615f46",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83576753-c132-4b3e-a33d-4a3eb6e8d700/rectcrop3",
+            "name": "Moxie:klayt-fc",
+            "symbol": "Moxie:klayt-fc"
         }
     ],
     "version": {
