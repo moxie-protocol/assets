@@ -11034,6 +11034,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1397080888983187457/__qJwjQt.jpg",
             "name": "Moxie:bayuuu_eth-x",
             "symbol": "Moxie:bayuuu_eth-x"
+        },
+        {
+            "address": "0x90d07d0Bc5b54eAca2a0dB55CE580Cd89929Aa1C",
+            "decimals": 18,
+            "logoURI": "https://image.milimaj.com/i/milliyet/75/869x477/610409f386b24433582ea688.jpg",
+            "name": "Moxie:fayadh.eth-ens",
+            "symbol": "Moxie:fayadh.eth-ens"
         }
     ],
     "version": {
