@@ -10971,6 +10971,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9164878-ea38-49f1-e138-ad831f9f7b00/original",
             "name": "Moxie:rzi-fc",
             "symbol": "Moxie:rzi-fc"
+        },
+        {
+            "address": "0x87DA8627472F502aA54B57dcf18D433A6bfe21fe",
+            "decimals": 18,
+            "logoURI": "https://ogs.space/scrolls/images/22207.png",
+            "name": "Moxie:gokk-fc",
+            "symbol": "Moxie:gokk-fc"
         }
     ],
     "version": {
