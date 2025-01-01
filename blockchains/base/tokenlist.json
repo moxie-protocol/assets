@@ -10936,6 +10936,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1772710274031915009/3tCEsoxS.jpg",
             "name": "Moxie:FaizPrasetyo3-x",
             "symbol": "Moxie:FaizPrasetyo3-x"
+        },
+        {
+            "address": "0x3E2264F1BD30d431b5142E1502002D21D89c13e2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ikEJvW2.jpg",
+            "name": "Moxie:spacexswap-fc",
+            "symbol": "Moxie:spacexswap-fc"
         }
     ],
     "version": {
