@@ -11272,6 +11272,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a211098-50a5-4a80-0bba-6e0fe061f900/rectcrop3",
             "name": "Moxie:7--7-fc",
             "symbol": "Moxie:7--7-fc"
+        },
+        {
+            "address": "0xAc94C55067038D4bAf0D2BD6a6Ba0814D39eE93A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26053e5e-32b5-4e94-da11-0fa7c2e45400/rectcrop3",
+            "name": "Moxie:eunjae-fc",
+            "symbol": "Moxie:eunjae-fc"
         }
     ],
     "version": {
