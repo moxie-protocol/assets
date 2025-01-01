@@ -10845,6 +10845,13 @@
             "logoURI": "https://i.imgur.com/3C6QXsJ.jpg",
             "name": "Moxie:dapetcuan-fc",
             "symbol": "Moxie:dapetcuan-fc"
+        },
+        {
+            "address": "0x7C8331b355c8543E572432679078AC7Cbd681f59",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HhLUoxa.jpg",
+            "name": "Moxie:nobitaganteng-fc",
+            "symbol": "Moxie:nobitaganteng-fc"
         }
     ],
     "version": {
