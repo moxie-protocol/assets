@@ -10887,6 +10887,13 @@
             "logoURI": "https://i.imgur.com/EL00Kgw.jpg",
             "name": "Moxie:zura-fc",
             "symbol": "Moxie:zura-fc"
+        },
+        {
+            "address": "0xdD3d2733C64dAaf062Cdfe378C766656BC6bDBf4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65523fd7-286a-479c-4f69-f6a4e6174800/rectcrop3",
+            "name": "Moxie:ryuto-fc",
+            "symbol": "Moxie:ryuto-fc"
         }
     ],
     "version": {
