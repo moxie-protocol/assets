@@ -11328,6 +11328,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e790a289-2175-4624-0cd7-6093f1800b00/rectcrop3",
             "name": "Moxie:cffafa1-fc",
             "symbol": "Moxie:cffafa1-fc"
+        },
+        {
+            "address": "0x2f041C14ceDF89877F7D1943a53B4F2971299f52",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/c9pKCjp.jpg",
+            "name": "Moxie:hoanglc94-fc",
+            "symbol": "Moxie:hoanglc94-fc"
         }
     ],
     "version": {
