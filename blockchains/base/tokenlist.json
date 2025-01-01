@@ -11384,6 +11384,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1724989777735450625/HgCEPh6i.jpg",
             "name": "Moxie:hardik_bish-x",
             "symbol": "Moxie:hardik_bish-x"
+        },
+        {
+            "address": "0x9b29EAf9526c3a8D249067EE8C016ecbB9210AFC",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1773879088282746881/nwPpvPSa.jpg",
+            "name": "Moxie:RanadheerRao4-x",
+            "symbol": "Moxie:RanadheerRao4-x"
         }
     ],
     "version": {
