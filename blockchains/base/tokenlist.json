@@ -11489,6 +11489,13 @@
             "logoURI": "https://i.imgur.com/D6tkH3C.jpg",
             "name": "Moxie:floar.eth-fc",
             "symbol": "Moxie:floar.eth-fc"
+        },
+        {
+            "address": "0xBe28B93C1E8fC2B9CAca46ac578b4e5BfE94cd65",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "20",
+            "symbol": "fid:509427"
         }
     ],
     "version": {
