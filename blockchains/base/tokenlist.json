@@ -10985,6 +10985,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1715812994494738432/34uB813p.jpg",
             "name": "Moxie:sungoku275-x",
             "symbol": "Moxie:sungoku275-x"
+        },
+        {
+            "address": "0x95c8Da2aB976a8c3dd87C4E0f68874bF93A75de9",
+            "decimals": 18,
+            "logoURI": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2F38Hoidd.jpg",
+            "name": "Moxie:darkness-fc",
+            "symbol": "Moxie:darkness-fc"
         }
     ],
     "version": {
