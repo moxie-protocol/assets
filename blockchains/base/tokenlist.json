@@ -11356,6 +11356,13 @@
             "logoURI": null,
             "name": "axeinfinity.eth",
             "symbol": "fid:387283"
+        },
+        {
+            "address": "0x52f83C8961589F2436d7f491010B88b964a9eD9E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/l3H0WUM.jpg",
+            "name": "Moxie:allrushindia-fc",
+            "symbol": "Moxie:allrushindia-fc"
         }
     ],
     "version": {
