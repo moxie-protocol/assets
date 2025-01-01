@@ -11153,6 +11153,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1787115491452207105/Sw5iy2DA.jpg",
             "name": "Moxie:fanzi1302-x",
             "symbol": "Moxie:fanzi1302-x"
+        },
+        {
+            "address": "0x6303B9E2d61C90cf41be8844fCa8b0Bb277032E6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fc28aad-4d55-476f-d07a-9f87d1837500/rectcrop3",
+            "name": "Moxie:zackmilar-fc",
+            "symbol": "Moxie:zackmilar-fc"
         }
     ],
     "version": {
