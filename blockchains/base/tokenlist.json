@@ -10831,6 +10831,13 @@
             "logoURI": "https://i.imgur.com/4q7r9K9.jpg",
             "name": "Moxie:eldez-fc",
             "symbol": "Moxie:eldez-fc"
+        },
+        {
+            "address": "0x91469a240B1cd584a2cC11Ba52bF1ae527109d4e",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/2SxMsTyj/Grid-Art-20241231-191057191.jpg",
+            "name": "Moxie:cylone.base.eth-base",
+            "symbol": "Moxie:cylone.base.eth-base"
         }
     ],
     "version": {
