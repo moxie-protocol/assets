@@ -10992,6 +10992,13 @@
             "logoURI": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2F38Hoidd.jpg",
             "name": "Moxie:darkness-fc",
             "symbol": "Moxie:darkness-fc"
+        },
+        {
+            "address": "0xe27159356BA094667fED297E7dFa3eA7F2eFd0B2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1656466904259923968/sYvWMHqw.jpg",
+            "name": "Moxie:SelenFataSetro-x",
+            "symbol": "Moxie:SelenFataSetro-x"
         }
     ],
     "version": {
