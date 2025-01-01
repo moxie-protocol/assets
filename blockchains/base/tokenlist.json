@@ -11104,6 +11104,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60c96d9b-a14d-4772-f4e0-b7c6c9f09c00/rectcrop3",
             "name": "Moxie:radithjuno-fc",
             "symbol": "Moxie:radithjuno-fc"
+        },
+        {
+            "address": "0xbD37aD8034Acd428349553a017DE41b6e0e74510",
+            "decimals": 18,
+            "logoURI": "https://3fpnl3acdqnxcrlbp2qq6hskyyjvei3bi7wpmmd5nun6uge7434a.arweave.net/2V7V7AIcG3FFYX6hDx5KxhNSI2FH7PYwfW0b6hif5vg/",
+            "name": "Moxie:kise-fc",
+            "symbol": "Moxie:kise-fc"
         }
     ],
     "version": {
