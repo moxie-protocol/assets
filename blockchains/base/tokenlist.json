@@ -11566,6 +11566,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d6b7cc3-49df-49cd-6a9c-a3cc0490a400/rectcrop3",
             "name": "Moxie:theyd1-fc",
             "symbol": "Moxie:theyd1-fc"
+        },
+        {
+            "address": "0x56b9fBaa526378847c191a753C9fe0B751767A92",
+            "decimals": 18,
+            "logoURI": "https://api.pudgypenguins.io/lil/image/15715",
+            "name": "Moxie:dre9889-fc",
+            "symbol": "Moxie:dre9889-fc"
         }
     ],
     "version": {
