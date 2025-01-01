@@ -10922,6 +10922,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeib34f552ylzvhvgj6k2xdxvicyarrom4zc6lzmqxj3b7tlbhdna6q",
             "name": "Moxie:cuantama-fc",
             "symbol": "Moxie:cuantama-fc"
+        },
+        {
+            "address": "0xDB83A1A94092f2D8F53d5Dda7252e0AC72Cb40E1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1586955013615603713/kQTX1NCr.jpg",
+            "name": "Moxie:Bijiontatv-x",
+            "symbol": "Moxie:Bijiontatv-x"
         }
     ],
     "version": {
