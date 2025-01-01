@@ -10768,6 +10768,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:mlutfiulum59-x",
             "symbol": "Moxie:mlutfiulum59-x"
+        },
+        {
+            "address": "0x11f29E54DCd49FE945b3461fDE1eE2D6Ab7a2907",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b934de07-1f97-4b6b-d459-cedb6b242300/rectcrop3",
+            "name": "Moxie:agis-fc",
+            "symbol": "Moxie:agis-fc"
         }
     ],
     "version": {
