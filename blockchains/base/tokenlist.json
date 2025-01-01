@@ -11545,6 +11545,13 @@
             "logoURI": "https://imgs.search.brave.com/HWwextRjTHQOF4xB3bmQLd3bRiJ34l9-PHk3Z36qPZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/ZWQtd2hpdGUtY2F0/LWktd2hpdGUtc3R1/ZGlvXzE1NTAwMy0x/MzE4OS5qcGc_c2Vt/dD1haXNfaHlicmlk",
             "name": "Moxie:badboii.eth-ens",
             "symbol": "Moxie:badboii.eth-ens"
+        },
+        {
+            "address": "0x70d3db7bFa7eD981E8ffF0Cd1FC1B29689E23F67",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ALphaBE.jpg",
+            "name": "Moxie:pigeon01-fc",
+            "symbol": "Moxie:pigeon01-fc"
         }
     ],
     "version": {
