@@ -11216,6 +11216,13 @@
             "logoURI": "https://i.imgur.com/QKgykkw.jpg",
             "name": "Moxie:noy-fc",
             "symbol": "Moxie:noy-fc"
+        },
+        {
+            "address": "0x2B7d85Fb6f1EA079abcF149675B0ce1f250223fb",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRZEgZ8nWGjiSimUPbKcySWRyg6jjZEW137jRQcSMBgcy",
+            "name": "Moxie:danu4646-fc",
+            "symbol": "Moxie:danu4646-fc"
         }
     ],
     "version": {
