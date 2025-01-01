@@ -11027,6 +11027,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b7175ad-5db3-416f-9368-825c31a5c900/rectcrop3",
             "name": "Moxie:imkerake.eth-fc",
             "symbol": "Moxie:imkerake.eth-fc"
+        },
+        {
+            "address": "0x9942452b132619272247BE5A42ebBE04035c061b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1397080888983187457/__qJwjQt.jpg",
+            "name": "Moxie:bayuuu_eth-x",
+            "symbol": "Moxie:bayuuu_eth-x"
         }
     ],
     "version": {
