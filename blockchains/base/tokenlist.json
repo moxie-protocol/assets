@@ -11552,6 +11552,13 @@
             "logoURI": "https://i.imgur.com/ALphaBE.jpg",
             "name": "Moxie:pigeon01-fc",
             "symbol": "Moxie:pigeon01-fc"
+        },
+        {
+            "address": "0xC868A9DF9948721a1bEDe28f645ED6948e75cf19",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1761688203977961472/wNupbQoM.jpg",
+            "name": "Moxie:malichaa09-x",
+            "symbol": "Moxie:malichaa09-x"
         }
     ],
     "version": {
