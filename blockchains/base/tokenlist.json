@@ -10957,6 +10957,13 @@
             "logoURI": "https://cdn0-production-images-kly.akamaized.net/OVmx0fdtrJ8G_DOhuyVj7nLN1qA=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3258311/original/005746300_1601894161-logo_mu.jpg",
             "name": "Moxie:12755721.base.eth-base",
             "symbol": "Moxie:12755721.base.eth-base"
+        },
+        {
+            "address": "0x1b494e7aB7aeD3F1111eB3c0B04f70bD1E35ba91",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8e05d5a7-9106-4814-23f3-8d998e4cd300/rectcrop3",
+            "name": "Moxie:azzam-fc",
+            "symbol": "Moxie:azzam-fc"
         }
     ],
     "version": {
