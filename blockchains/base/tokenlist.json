@@ -10950,6 +10950,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1848398267115319296/rFNg-OXO.png",
             "name": "Moxie:JefriSaleh32499-x",
             "symbol": "Moxie:JefriSaleh32499-x"
+        },
+        {
+            "address": "0xE2Fafb8580bc9447d97F49eaCAa8FEe2c0626E8c",
+            "decimals": 18,
+            "logoURI": "https://cdn0-production-images-kly.akamaized.net/OVmx0fdtrJ8G_DOhuyVj7nLN1qA=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3258311/original/005746300_1601894161-logo_mu.jpg",
+            "name": "Moxie:12755721.base.eth-base",
+            "symbol": "Moxie:12755721.base.eth-base"
         }
     ],
     "version": {
