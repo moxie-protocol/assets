@@ -11300,6 +11300,13 @@
             "logoURI": "https://i.imgur.com/r1X1OSa.jpg",
             "name": "Moxie:akusiapa-fc",
             "symbol": "Moxie:akusiapa-fc"
+        },
+        {
+            "address": "0x4Ee3b20DD331a9Ff5c7757252F3ba71F4aFC2A50",
+            "decimals": 18,
+            "logoURI": "https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/c273d73f-0552-489e-7131-fdea31048300/anim=false,fit=contain,f=auto,w=480",
+            "name": "Moxie:starguin-fc",
+            "symbol": "Moxie:starguin-fc"
         }
     ],
     "version": {
