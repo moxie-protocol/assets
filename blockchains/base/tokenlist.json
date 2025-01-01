@@ -11167,6 +11167,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59888f05-ccf4-4f91-53d4-da552eefdd00/rectcrop3",
             "name": "Moxie:ehsanbahamin-fc",
             "symbol": "Moxie:ehsanbahamin-fc"
+        },
+        {
+            "address": "0x0d8C6cd1f658a3B4aabf9990540eae03258319ef",
+            "decimals": 18,
+            "logoURI": "https://assets.bueno.art/images/c798daaf-d68b-49eb-9ac8-b784bbb76264/default/35?s=94ceed46e80429402dd0d73dacb971fd",
+            "name": "Moxie:lokjr-fc",
+            "symbol": "Moxie:lokjr-fc"
         }
     ],
     "version": {
