@@ -10803,6 +10803,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmZBDYNhSKUCz5BkMnk7LLHem6WoBYsDyAhspi6gFUFxn1",
             "name": "Moxie:zlhyd99-fc",
             "symbol": "Moxie:zlhyd99-fc"
+        },
+        {
+            "address": "0xA47ed8838956D24990d50506145a5B55Dc69a514",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874319062010126338/QfUZ5GhS.jpg",
+            "name": "Moxie:RNVNZ_-x",
+            "symbol": "Moxie:RNVNZ_-x"
         }
     ],
     "version": {
