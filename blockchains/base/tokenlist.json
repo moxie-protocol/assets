@@ -11251,6 +11251,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:mihai123486-x",
             "symbol": "Moxie:mihai123486-x"
+        },
+        {
+            "address": "0x1BCa080cf1e2579314F6f7Bb6f76051D05CBbA34",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/zSRJ08g.jpg",
+            "name": "Moxie:cryptobionic-fc",
+            "symbol": "Moxie:cryptobionic-fc"
         }
     ],
     "version": {
