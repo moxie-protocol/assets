@@ -11517,6 +11517,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f558ec4-ae85-480a-8626-8c5093e85000/original",
             "name": "Moxie:kadirgns7-fc",
             "symbol": "Moxie:kadirgns7-fc"
+        },
+        {
+            "address": "0x4127B6491d7535fF8d176cE970A220aA30759704",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5535e443-0362-490c-fbb7-93ad28fbbd00/rectcrop3",
+            "name": "Moxie:notoorious-fc",
+            "symbol": "Moxie:notoorious-fc"
         }
     ],
     "version": {
