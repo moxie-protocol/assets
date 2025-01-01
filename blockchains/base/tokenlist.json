@@ -10712,6 +10712,13 @@
             "logoURI": "https://arweave.net/V9EdXc13tyKnQljci85i_Xg8IaHH7-wjUqiNFC3qJc0/",
             "name": "Moxie:thejack-fc",
             "symbol": "Moxie:thejack-fc"
+        },
+        {
+            "address": "0xC66FfeDE6Bd47Ab0D6235F19316436fB808C1bAE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a799861f-b309-4c25-89a3-9a7ca5996800/rectcrop3",
+            "name": "Moxie:twentysvn27-fc",
+            "symbol": "Moxie:twentysvn27-fc"
         }
     ],
     "version": {
