@@ -11223,6 +11223,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmRZEgZ8nWGjiSimUPbKcySWRyg6jjZEW137jRQcSMBgcy",
             "name": "Moxie:danu4646-fc",
             "symbol": "Moxie:danu4646-fc"
+        },
+        {
+            "address": "0xf62d59f67C55924F6F1532Acba603DD391480e00",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5414b6b-42e7-4ce2-b7b3-6d669d9cc000/rectcrop3",
+            "name": "Moxie:tur-fc",
+            "symbol": "Moxie:tur-fc"
         }
     ],
     "version": {
