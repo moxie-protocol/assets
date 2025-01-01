@@ -11349,6 +11349,13 @@
             "logoURI": "https://arweave.net/toGlr1XGXN4YKWuxO0sfnl_Q9LulgKnEU2OzAUA_Md0/",
             "name": "Moxie:yanafatah-fc",
             "symbol": "Moxie:yanafatah-fc"
+        },
+        {
+            "address": "0x20019002a9a051BBAF85b480119327A8b76F2c1c",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "axeinfinity.eth",
+            "symbol": "fid:387283"
         }
     ],
     "version": {
