@@ -11531,6 +11531,13 @@
             "logoURI": "https://arweave.net/nHHJuvL8zP0WrW7guf-lnW9cMrSfLv3q1XpaROvH1m0/",
             "name": "Moxie:kapa9.eth-fc",
             "symbol": "Moxie:kapa9.eth-fc"
+        },
+        {
+            "address": "0xFB20b7059Da9D1FC16B122243Ef22D7DffE89770",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NAWK8hP.jpg",
+            "name": "Moxie:barlas21-fc",
+            "symbol": "Moxie:barlas21-fc"
         }
     ],
     "version": {
