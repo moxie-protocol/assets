@@ -11118,6 +11118,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29a0a8ee-3126-4ee5-8305-26d53a4cc600/rectcrop3",
             "name": "Moxie:dimboy03-fc",
             "symbol": "Moxie:dimboy03-fc"
+        },
+        {
+            "address": "0xFc5B88af4E26894C19e47804BD907c7574640501",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1766363756672786432/bfX-PQ5j.jpg",
+            "name": "Moxie:AndikaETHd-x",
+            "symbol": "Moxie:AndikaETHd-x"
         }
     ],
     "version": {
