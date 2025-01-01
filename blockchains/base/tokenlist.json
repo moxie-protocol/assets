@@ -10943,6 +10943,13 @@
             "logoURI": "https://i.imgur.com/ikEJvW2.jpg",
             "name": "Moxie:spacexswap-fc",
             "symbol": "Moxie:spacexswap-fc"
+        },
+        {
+            "address": "0xBF6859De49c878902fF6Da181EA4d3B0c715c131",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848398267115319296/rFNg-OXO.png",
+            "name": "Moxie:JefriSaleh32499-x",
+            "symbol": "Moxie:JefriSaleh32499-x"
         }
     ],
     "version": {
