@@ -11174,6 +11174,13 @@
             "logoURI": "https://assets.bueno.art/images/c798daaf-d68b-49eb-9ac8-b784bbb76264/default/35?s=94ceed46e80429402dd0d73dacb971fd",
             "name": "Moxie:lokjr-fc",
             "symbol": "Moxie:lokjr-fc"
+        },
+        {
+            "address": "0x01bC5cfFf0f9ef9731E20432e68e825cF63B8D10",
+            "decimals": 18,
+            "logoURI": "https://www.rentokil.com/dam/jcr:85d37434-889d-42bd-bb2c-91e3082a59f7/rentokil-stock-image-pest-ant-ant-camponotus-pennsylvanicus.webp",
+            "name": "Moxie:prast7788-gt",
+            "symbol": "Moxie:prast7788-gt"
         }
     ],
     "version": {
