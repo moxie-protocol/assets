@@ -11160,6 +11160,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fc28aad-4d55-476f-d07a-9f87d1837500/rectcrop3",
             "name": "Moxie:zackmilar-fc",
             "symbol": "Moxie:zackmilar-fc"
+        },
+        {
+            "address": "0x91a8413897fe175Ce766303f5713e17297305b88",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59888f05-ccf4-4f91-53d4-da552eefdd00/rectcrop3",
+            "name": "Moxie:ehsanbahamin-fc",
+            "symbol": "Moxie:ehsanbahamin-fc"
         }
     ],
     "version": {
