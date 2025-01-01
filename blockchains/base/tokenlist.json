@@ -11265,6 +11265,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83576753-c132-4b3e-a33d-4a3eb6e8d700/rectcrop3",
             "name": "Moxie:klayt-fc",
             "symbol": "Moxie:klayt-fc"
+        },
+        {
+            "address": "0x74C4CeA723846E7269eA2a819f9657dF2F0e12FE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a211098-50a5-4a80-0bba-6e0fe061f900/rectcrop3",
+            "name": "Moxie:7--7-fc",
+            "symbol": "Moxie:7--7-fc"
         }
     ],
     "version": {
