@@ -10824,6 +10824,13 @@
             "logoURI": "https://arweave.net/GxAYJw-QkvaEwQw0Idw1srWJ2rPRIUU_eb7uxaX8e-E/",
             "name": "Moxie:goodattitude-fc",
             "symbol": "Moxie:goodattitude-fc"
+        },
+        {
+            "address": "0x70768A3Ee5BE124e6fF0a5B4c868d2caCF3FE028",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4q7r9K9.jpg",
+            "name": "Moxie:eldez-fc",
+            "symbol": "Moxie:eldez-fc"
         }
     ],
     "version": {
