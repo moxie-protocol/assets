@@ -11076,6 +11076,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiazghzujav4t436ite325es7pjhmplobf342kvizjsniy2akcysie",
             "name": "Moxie:nemoxyz-fc",
             "symbol": "Moxie:nemoxyz-fc"
+        },
+        {
+            "address": "0x0bcb52c0FFFFba6fE57e3fB4533e3fac7450DffA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871261403237216256/RtI9qfeN.jpg",
+            "name": "Moxie:SlmieP-x",
+            "symbol": "Moxie:SlmieP-x"
         }
     ],
     "version": {
