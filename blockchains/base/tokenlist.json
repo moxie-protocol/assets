@@ -11916,6 +11916,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da00a8a0-0eea-4b3a-23ab-b74d5e840400/original",
             "name": "Moxie:bullmarket-fc",
             "symbol": "Moxie:bullmarket-fc"
+        },
+        {
+            "address": "0xa695c1BA1ec69039c780CFA955A432B2908B1018",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/823da263-6e4e-4910-f2d8-3b0ae8707700/original",
+            "name": "Moxie:diversification-fc",
+            "symbol": "Moxie:diversification-fc"
         }
     ],
     "version": {
