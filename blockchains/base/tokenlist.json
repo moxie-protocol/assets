@@ -12399,6 +12399,13 @@
             "logoURI": "https://i.imgur.com/eAOUfKr.jpg",
             "name": "Moxie:imoogi-fc",
             "symbol": "Moxie:imoogi-fc"
+        },
+        {
+            "address": "0x737885522087Cb1E7a57480ABfC345B2649604E7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5009386-8cfe-4a9c-6715-ce3611d0b500/rectcrop3",
+            "name": "Moxie:arizky15-fc",
+            "symbol": "Moxie:arizky15-fc"
         }
     ],
     "version": {
