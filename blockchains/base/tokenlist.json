@@ -11979,6 +11979,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44b4ee11-8fde-4040-39d0-410515436900/rectcrop3",
             "name": "Moxie:crf-fc",
             "symbol": "Moxie:crf-fc"
+        },
+        {
+            "address": "0x165bB17373f7F3AF76079BBEA09BAaD8328CC97C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a0090e9-b6c1-4dac-d20c-830759de8e00/rectcrop3",
+            "name": "Moxie:quenche-fc",
+            "symbol": "Moxie:quenche-fc"
         }
     ],
     "version": {
