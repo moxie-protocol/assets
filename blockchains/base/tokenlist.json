@@ -12385,6 +12385,13 @@
             "logoURI": "https://i.imgur.com/vmohjgW.jpg",
             "name": "Moxie:vickry1994-fc",
             "symbol": "Moxie:vickry1994-fc"
+        },
+        {
+            "address": "0xB8A812DE10fb74f713fBd23453a7A7A144744d80",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bNCu3aAYNoO6UjfuCxWTDlTzoW_othE-qA\u0026s",
+            "name": "Moxie:deamyasin-gt",
+            "symbol": "Moxie:deamyasin-gt"
         }
     ],
     "version": {
