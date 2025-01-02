@@ -12336,6 +12336,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a688572b-6860-49f6-6f24-3267b46aed00/rectcrop3",
             "name": "Moxie:lehuynhnhat-fc",
             "symbol": "Moxie:lehuynhnhat-fc"
+        },
+        {
+            "address": "0xB0c079f7a5486B137267a932CbBf11eEE7d222C7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e321c38e-16ba-49ae-ec9b-5e469be7d600/rectcrop3",
+            "name": "Moxie:luxnorde-fc",
+            "symbol": "Moxie:luxnorde-fc"
         }
     ],
     "version": {
