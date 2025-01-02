@@ -11657,6 +11657,13 @@
             "logoURI": "https://phj5hqsylw7i57ck2o6m3mxlbqsmhvucsc6e55jul22wqrseo2ca.arweave.net/edPTwlhdvo78StO8zbLrDCTD1oKQvE71NF61aEZEdoQ/",
             "name": "Moxie:nandoyyy-fc",
             "symbol": "Moxie:nandoyyy-fc"
+        },
+        {
+            "address": "0x6D3B0497497595a6ad2415423313D94a8F4190FE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/400e7975-0f55-40cb-7f5c-defe298dea00/rectcrop3",
+            "name": "Moxie:rof62-fc",
+            "symbol": "Moxie:rof62-fc"
         }
     ],
     "version": {
