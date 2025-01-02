@@ -12245,6 +12245,13 @@
             "logoURI": "https://i.imgur.com/S2mPPau.jpg",
             "name": "Moxie:425015-fc",
             "symbol": "Moxie:425015-fc"
+        },
+        {
+            "address": "0x9c56062b2D4Bc0fb6d853e630D29C6D834C3E7E4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1492972487260393473/cNux_ISK.jpg",
+            "name": "Moxie:bulegesulays-x",
+            "symbol": "Moxie:bulegesulays-x"
         }
     ],
     "version": {
