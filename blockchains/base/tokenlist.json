@@ -12315,6 +12315,13 @@
             "logoURI": "https://i.imgur.com/xFw4K8B.jpg",
             "name": "Moxie:narasabenu22-fc",
             "symbol": "Moxie:narasabenu22-fc"
+        },
+        {
+            "address": "0x76Fa7cB7877Eb12ba280B6F812B44FA6B8562f5c",
+            "decimals": 18,
+            "logoURI": "https://previews.123rf.com/images/saphatthachat/saphatthachat1811/saphatthachat181100113/127673169-vector-pixel-art-car-drift-isolated-cartoon.jpg",
+            "name": "Moxie:reyx1234-gt",
+            "symbol": "Moxie:reyx1234-gt"
         }
     ],
     "version": {
