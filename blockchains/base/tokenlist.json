@@ -12210,6 +12210,13 @@
             "logoURI": "https://i.imgur.com/58E5aNl.jpg",
             "name": "Moxie:gabrieltemtsen-fc",
             "symbol": "Moxie:gabrieltemtsen-fc"
+        },
+        {
+            "address": "0x4D0aE952fDCbA9480349a388a447Eec9054D2161",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1171fc80-a1ad-49b5-e668-deaf7b517300/rectcrop3",
+            "name": "Moxie:jayrathore322-fc",
+            "symbol": "Moxie:jayrathore322-fc"
         }
     ],
     "version": {
