@@ -12273,6 +12273,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa084231-7c68-4259-1618-0ca77802cd00/rectcrop3",
             "name": "Moxie:ireside.eth-fc",
             "symbol": "Moxie:ireside.eth-fc"
+        },
+        {
+            "address": "0xe9B711Ae5f129d0F991338b589564E940F06Ea36",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "moxiehero",
+            "symbol": "fid:931907"
         }
     ],
     "version": {
