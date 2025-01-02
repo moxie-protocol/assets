@@ -11902,6 +11902,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec642006-9157-4317-89d6-cc71bf084b00/rectcrop3",
             "name": "Moxie:friska-fc",
             "symbol": "Moxie:friska-fc"
+        },
+        {
+            "address": "0x05F7aC77906fdF10d4dDcbE0b2e01b9e708f8E0c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08e55c88-062e-438d-5bdb-97d3aca44100/rectcrop3",
+            "name": "Moxie:mickey71-fc",
+            "symbol": "Moxie:mickey71-fc"
         }
     ],
     "version": {
