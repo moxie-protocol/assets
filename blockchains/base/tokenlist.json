@@ -11846,6 +11846,13 @@
             "logoURI": "https://i.imgur.com/MtnrZLe.png",
             "name": "Moxie:yezzh-fc",
             "symbol": "Moxie:yezzh-fc"
+        },
+        {
+            "address": "0xd94AA0d5C283289B5529470985d479eBbc3B12Ff",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/103cbbe0-fbe6-4895-b33d-7dddccfdcf00/rectcrop3",
+            "name": "Moxie:sovandi-fc",
+            "symbol": "Moxie:sovandi-fc"
         }
     ],
     "version": {
