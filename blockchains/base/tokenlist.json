@@ -11965,6 +11965,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d8827c0-c796-4ae8-5b17-31f656168e00/original",
             "name": "Moxie:markup-fc",
             "symbol": "Moxie:markup-fc"
+        },
+        {
+            "address": "0xfdf06e0097694578C962ea64DAbb8bE2F369a037",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fccd3f28-6dfb-4d29-9bcf-d2ff5a113800/original",
+            "name": "Moxie:thepact-fc",
+            "symbol": "Moxie:thepact-fc"
         }
     ],
     "version": {
