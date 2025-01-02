@@ -12343,6 +12343,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e321c38e-16ba-49ae-ec9b-5e469be7d600/rectcrop3",
             "name": "Moxie:luxnorde-fc",
             "symbol": "Moxie:luxnorde-fc"
+        },
+        {
+            "address": "0x6B0552aF8aA4D17F94B0C77724Dd9B0B49EcC3Ed",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/media/Gf32EthawAQDieo?format=jpg\u0026name=900x900",
+            "name": "Moxie:satoshirocket.base.eth-base",
+            "symbol": "Moxie:satoshirocket.base.eth-base"
         }
     ],
     "version": {
