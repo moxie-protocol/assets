@@ -12014,6 +12014,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ab5872-2a25-4143-5bb0-63e3bfe8a400/rectcrop3",
             "name": "Moxie:underwrite-fc",
             "symbol": "Moxie:underwrite-fc"
+        },
+        {
+            "address": "0x6eD45F567C38c9B7277D986581C88cEc3CD1fA16",
+            "decimals": 18,
+            "logoURI": "https://assets-global.website-files.com/65d00699432af750589e6865/65d2d33f66e3a32f8238a6ad_Whitelist_Gif.gif",
+            "name": "Moxie:azbit.base.eth-base",
+            "symbol": "Moxie:azbit.base.eth-base"
         }
     ],
     "version": {
