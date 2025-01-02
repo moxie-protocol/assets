@@ -11818,6 +11818,13 @@
             "logoURI": "https://i.imgur.com/G9rCsfN.jpg",
             "name": "Moxie:gowther-fc",
             "symbol": "Moxie:gowther-fc"
+        },
+        {
+            "address": "0x9B7aE15133CBac82a6C531C64fBf3983d08CcA44",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fSMtNHl.jpg",
+            "name": "Moxie:tupank-fc",
+            "symbol": "Moxie:tupank-fc"
         }
     ],
     "version": {
