@@ -12098,6 +12098,13 @@
             "logoURI": "https://i.imgur.com/1vQF1Pg.jpg",
             "name": "Moxie:jkt48-fc",
             "symbol": "Moxie:jkt48-fc"
+        },
+        {
+            "address": "0x3eb66e2E8E4D0D378E349a7dfD0fde4cB0577c91",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/672a94cb-a2f0-4219-8f6a-e1973f86c800/rectcrop3",
+            "name": "Moxie:letsee1111-fc",
+            "symbol": "Moxie:letsee1111-fc"
         }
     ],
     "version": {
