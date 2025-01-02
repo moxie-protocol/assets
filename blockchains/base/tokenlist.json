@@ -12287,6 +12287,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ccd505c-e6fb-4228-b79a-051dcbe72400/original",
             "name": "Moxie:hehehe27-fc",
             "symbol": "Moxie:hehehe27-fc"
+        },
+        {
+            "address": "0xF4c89162b69856a3012DD2342E8F153639c0f830",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeid6f24b3keghfjm2nbmt2tvqszqywjd4veknfjd4rrj7fo72yv77m",
+            "name": "Moxie:cr7r7-fc",
+            "symbol": "Moxie:cr7r7-fc"
         }
     ],
     "version": {
