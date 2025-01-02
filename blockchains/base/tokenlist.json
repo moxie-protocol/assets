@@ -12280,6 +12280,13 @@
             "logoURI": null,
             "name": "moxiehero",
             "symbol": "fid:931907"
+        },
+        {
+            "address": "0xEbC4c88D21Aa7bf974951d469E85EBA510099531",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ccd505c-e6fb-4228-b79a-051dcbe72400/original",
+            "name": "Moxie:hehehe27-fc",
+            "symbol": "Moxie:hehehe27-fc"
         }
     ],
     "version": {
