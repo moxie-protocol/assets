@@ -12434,6 +12434,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1707169068711821313/Zl2KXC5x.jpg",
             "name": "Moxie:RagLothb-x",
             "symbol": "Moxie:RagLothb-x"
+        },
+        {
+            "address": "0xAeAC5e6d88a7F6C98Ca058254949E20bDd869440",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "leonardoalpha",
+            "symbol": "fid:517214"
         }
     ],
     "version": {
