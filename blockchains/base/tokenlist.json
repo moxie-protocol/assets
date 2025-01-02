@@ -12406,6 +12406,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a5009386-8cfe-4a9c-6715-ce3611d0b500/rectcrop3",
             "name": "Moxie:arizky15-fc",
             "symbol": "Moxie:arizky15-fc"
+        },
+        {
+            "address": "0x761d2Fd3228FbA1F1c42dD1E0D99374391DEFDC8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/338ee7a9-f5fb-401c-6aa3-da58e21d9000/rectcrop3",
+            "name": "Moxie:payme12-fc",
+            "symbol": "Moxie:payme12-fc"
         }
     ],
     "version": {
