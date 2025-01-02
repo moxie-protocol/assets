@@ -11937,6 +11937,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d833b2da-ddee-4a00-941a-df0916d71700/rectcrop3",
             "name": "Moxie:shortselling-fc",
             "symbol": "Moxie:shortselling-fc"
+        },
+        {
+            "address": "0x45E58833aa81423bD504B625435B1663E1331845",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fadd045-001b-487d-2591-e7b7dd2fc200/rectcrop3",
+            "name": "Moxie:bandwidth-fc",
+            "symbol": "Moxie:bandwidth-fc"
         }
     ],
     "version": {
