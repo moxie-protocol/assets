@@ -11692,6 +11692,13 @@
             "logoURI": "https://i.imgur.com/9YevX8K.jpg",
             "name": "Moxie:diboyy-fc",
             "symbol": "Moxie:diboyy-fc"
+        },
+        {
+            "address": "0x47D10ac329E6097f06ef5D7b8A87083ce61780F1",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/toGlr1XGXN4YKWuxO0sfnl_Q9LulgKnEU2OzAUA_Md0/",
+            "name": "Moxie:achmad-fc",
+            "symbol": "Moxie:achmad-fc"
         }
     ],
     "version": {
