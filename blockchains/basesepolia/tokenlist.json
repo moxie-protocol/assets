@@ -177,6 +177,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828574942881050624/9W8fMT2v.jpg",
             "name": "Moxie:bhsk_34941-x",
             "symbol": "Moxie:bhsk_34941-x"
+        },
+        {
+            "address": "0x454454FaCEda6137584Df19eFA3177B2B6e15209",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828574942881050624/9W8fMT2v.jpg",
+            "name": "Moxie:bhsk_341111-x",
+            "symbol": "Moxie:bhsk_341111-x"
         }
     ],
     "version": {
