@@ -12301,6 +12301,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872001715022823424/OaUk8TcS.jpg",
             "name": "Moxie:ditpratra-x",
             "symbol": "Moxie:ditpratra-x"
+        },
+        {
+            "address": "0x2708b447998D475820C21592F5D94cbd7bFAbDEA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1511336147267760128/y5-FOqFx.jpg",
+            "name": "Moxie:baihaqi1201-x",
+            "symbol": "Moxie:baihaqi1201-x"
         }
     ],
     "version": {
