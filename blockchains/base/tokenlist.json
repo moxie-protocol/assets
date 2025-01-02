@@ -11853,6 +11853,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/103cbbe0-fbe6-4895-b33d-7dddccfdcf00/rectcrop3",
             "name": "Moxie:sovandi-fc",
             "symbol": "Moxie:sovandi-fc"
+        },
+        {
+            "address": "0x47195D36590C3FF3691B0150ae9Fc4034E9d56a9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GPmzs0M.jpg",
+            "name": "Moxie:vinothvk-fc",
+            "symbol": "Moxie:vinothvk-fc"
         }
     ],
     "version": {
