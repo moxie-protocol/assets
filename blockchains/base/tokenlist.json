@@ -11755,6 +11755,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cf27b45c-62dd-43f2-f61d-162b79165500/rectcrop3",
             "name": "Moxie:adedusti-fc",
             "symbol": "Moxie:adedusti-fc"
+        },
+        {
+            "address": "0x94130f2b04715a238b91287cbD4114879d398aB8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ccd0434-a8ab-42cd-01b7-7b71fef46300/original",
+            "name": "Moxie:rikiramdan-fc",
+            "symbol": "Moxie:rikiramdan-fc"
         }
     ],
     "version": {
