@@ -12077,6 +12077,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9b884c0-5092-4004-2aa1-d8c57eab4600/rectcrop3",
             "name": "Moxie:knockout-fc",
             "symbol": "Moxie:knockout-fc"
+        },
+        {
+            "address": "0xb1bE282E3a52A58776901AD9c18c111CBc66Ed3C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/v2jBnAo.jpg",
+            "name": "Moxie:kuliproyek-fc",
+            "symbol": "Moxie:kuliproyek-fc"
         }
     ],
     "version": {
