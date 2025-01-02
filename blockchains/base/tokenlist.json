@@ -12427,6 +12427,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/111607af-e6a1-48bb-cbf4-7435035b5200/rectcrop3",
             "name": "Moxie:silentbazaar-fc",
             "symbol": "Moxie:silentbazaar-fc"
+        },
+        {
+            "address": "0xcD08E82F7b73512dfFC441A5Cb52971E34Eaa6Dc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1707169068711821313/Zl2KXC5x.jpg",
+            "name": "Moxie:RagLothb-x",
+            "symbol": "Moxie:RagLothb-x"
         }
     ],
     "version": {
