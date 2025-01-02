@@ -11699,6 +11699,13 @@
             "logoURI": "https://arweave.net/toGlr1XGXN4YKWuxO0sfnl_Q9LulgKnEU2OzAUA_Md0/",
             "name": "Moxie:achmad-fc",
             "symbol": "Moxie:achmad-fc"
+        },
+        {
+            "address": "0x3824f6FBf58F836087427B0b639A1e443be9a147",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiee62xpjut5t27owzi4bltt4hurc26mqfzoljl57fckfec37pv6li",
+            "name": "Moxie:0xpunchman-fc",
+            "symbol": "Moxie:0xpunchman-fc"
         }
     ],
     "version": {
