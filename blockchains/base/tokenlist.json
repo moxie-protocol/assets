@@ -12378,6 +12378,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c733f0b-c6a9-408c-0a6c-07ae0ba45c00/rectcrop3",
             "name": "Moxie:mosyafik-fc",
             "symbol": "Moxie:mosyafik-fc"
+        },
+        {
+            "address": "0x20f5Bd9011248C88163FBABD4054B38aE8213DC9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vmohjgW.jpg",
+            "name": "Moxie:vickry1994-fc",
+            "symbol": "Moxie:vickry1994-fc"
         }
     ],
     "version": {
