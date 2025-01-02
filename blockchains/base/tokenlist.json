@@ -12161,6 +12161,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dee7375a-cd64-4eb5-b986-59f5997e7100/rectcrop3",
             "name": "Moxie:jingle-fc",
             "symbol": "Moxie:jingle-fc"
+        },
+        {
+            "address": "0x8206027b1F75f3a3c520220cCEcd839Fd31A269a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cbd5db0b-4682-4b65-a3a8-18e1faa7e100/rectcrop3",
+            "name": "Moxie:growth-fc",
+            "symbol": "Moxie:growth-fc"
         }
     ],
     "version": {
