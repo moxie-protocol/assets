@@ -12238,6 +12238,13 @@
             "logoURI": null,
             "name": "san99",
             "symbol": "fid:448456"
+        },
+        {
+            "address": "0xe7cB051799a1f43101590079974971F32Ffa7F02",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/S2mPPau.jpg",
+            "name": "Moxie:425015-fc",
+            "symbol": "Moxie:425015-fc"
         }
     ],
     "version": {
