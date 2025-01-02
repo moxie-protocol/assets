@@ -11720,6 +11720,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88faac71-db33-49a6-80b8-4c64f52e3b00/rectcrop3",
             "name": "Moxie:huynhnam.eth-fc",
             "symbol": "Moxie:huynhnam.eth-fc"
+        },
+        {
+            "address": "0x4215C7aC9D378B05b356dA9843cAf741387ef113",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/m0EfzuP.jpg",
+            "name": "Moxie:busdscan-fc",
+            "symbol": "Moxie:busdscan-fc"
         }
     ],
     "version": {
