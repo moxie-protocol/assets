@@ -12259,6 +12259,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1862011465483571200/yQSQD3C1.jpg",
             "name": "Moxie:Samonk4-x",
             "symbol": "Moxie:Samonk4-x"
+        },
+        {
+            "address": "0x2CCB97d3a13160Bd21817C0bEB9Daa0e7b661805",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/404bd860-6d71-49ef-1005-dcf139748700/rectcrop3",
+            "name": "Moxie:ahmeddoma-fc",
+            "symbol": "Moxie:ahmeddoma-fc"
         }
     ],
     "version": {
