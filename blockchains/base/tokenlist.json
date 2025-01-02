@@ -12105,6 +12105,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/672a94cb-a2f0-4219-8f6a-e1973f86c800/rectcrop3",
             "name": "Moxie:letsee1111-fc",
             "symbol": "Moxie:letsee1111-fc"
+        },
+        {
+            "address": "0x5b3c4FF1ec7BF1C857CD98B99903B68Fced027b2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8f0243f5-7216-4eb5-571c-6fee5cfb4d00/rectcrop3",
+            "name": "Moxie:x-borg-fc",
+            "symbol": "Moxie:x-borg-fc"
         }
     ],
     "version": {
