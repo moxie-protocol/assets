@@ -11776,6 +11776,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36a25e05-16bc-4a08-49a4-a0e8ce8d4d00/rectcrop3",
             "name": "Moxie:oxwlien-fc",
             "symbol": "Moxie:oxwlien-fc"
+        },
+        {
+            "address": "0x0D110992e9D1eD2A01D721B33AD1DcB662f53Fe6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf776ad4-6a60-4dc4-6052-1a36e7d60d00/rectcrop3",
+            "name": "Moxie:0xbeeppoo-fc",
+            "symbol": "Moxie:0xbeeppoo-fc"
         }
     ],
     "version": {
