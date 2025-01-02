@@ -11909,6 +11909,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08e55c88-062e-438d-5bdb-97d3aca44100/rectcrop3",
             "name": "Moxie:mickey71-fc",
             "symbol": "Moxie:mickey71-fc"
+        },
+        {
+            "address": "0xb3BCD40f86f57d17859E7de6AE5903B689e32De1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da00a8a0-0eea-4b3a-23ab-b74d5e840400/original",
+            "name": "Moxie:bullmarket-fc",
+            "symbol": "Moxie:bullmarket-fc"
         }
     ],
     "version": {
