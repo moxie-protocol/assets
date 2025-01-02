@@ -11748,6 +11748,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed0ed08c-5729-4261-b3aa-9ce219744c00/original",
             "name": "Moxie:emories-fc",
             "symbol": "Moxie:emories-fc"
+        },
+        {
+            "address": "0x96dA46f5E464EAEC47CDf17aBb1D50b509d88dc2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cf27b45c-62dd-43f2-f61d-162b79165500/rectcrop3",
+            "name": "Moxie:adedusti-fc",
+            "symbol": "Moxie:adedusti-fc"
         }
     ],
     "version": {
