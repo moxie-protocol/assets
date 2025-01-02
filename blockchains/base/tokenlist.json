@@ -11671,6 +11671,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a794534e-184d-47cd-c35e-ffe47af6a400/rectcrop3",
             "name": "Moxie:saritaswork-fc",
             "symbol": "Moxie:saritaswork-fc"
+        },
+        {
+            "address": "0xb9EB7850434354B974B120821D2efeB5f7A702F5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1793433846290989056/fyRLIJgM.jpg",
+            "name": "Moxie:DefiGenix-x",
+            "symbol": "Moxie:DefiGenix-x"
         }
     ],
     "version": {
