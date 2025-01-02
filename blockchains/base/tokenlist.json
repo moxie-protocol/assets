@@ -11727,6 +11727,13 @@
             "logoURI": "https://i.imgur.com/m0EfzuP.jpg",
             "name": "Moxie:busdscan-fc",
             "symbol": "Moxie:busdscan-fc"
+        },
+        {
+            "address": "0xFC32E5aA0983d65FbeAbAB1047049413BaF6F728",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aa8c02f-cd3c-43da-dad3-6e49fc68ea00/rectcrop3",
+            "name": "Moxie:honguyen.eth-fc",
+            "symbol": "Moxie:honguyen.eth-fc"
         }
     ],
     "version": {
