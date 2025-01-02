@@ -12175,6 +12175,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2a5f475-55a9-4f3b-5e92-2cf14f1e2500/rectcrop3",
             "name": "Moxie:quill-fc",
             "symbol": "Moxie:quill-fc"
+        },
+        {
+            "address": "0xE8d9a11179A500fAB2000098e98115eeBf6393D5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/feac577c-12d2-4019-f5eb-59cca935f000/rectcrop3",
+            "name": "Moxie:cyberattack-fc",
+            "symbol": "Moxie:cyberattack-fc"
         }
     ],
     "version": {
