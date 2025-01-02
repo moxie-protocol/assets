@@ -11797,6 +11797,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07f91365-b4d1-4c42-a684-7e057c3f5d00/rectcrop3",
             "name": "Moxie:rexyzgp-fc",
             "symbol": "Moxie:rexyzgp-fc"
+        },
+        {
+            "address": "0x1dF31Fe1d27F5eF7B24C1CdAF4F35f245c8CbaA1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WphO1Wr.jpg",
+            "name": "Moxie:jixx-fc",
+            "symbol": "Moxie:jixx-fc"
         }
     ],
     "version": {
