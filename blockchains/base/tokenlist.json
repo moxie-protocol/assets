@@ -12231,6 +12231,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d383e90-3130-4e56-0f6d-15dce3171100/rectcrop3",
             "name": "Moxie:nekoganz-fc",
             "symbol": "Moxie:nekoganz-fc"
+        },
+        {
+            "address": "0x9A401b327d80dcC258253a479807f8ce141295D8",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "san99",
+            "symbol": "fid:448456"
         }
     ],
     "version": {
