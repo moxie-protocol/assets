@@ -12196,6 +12196,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVILeorfT_mMvRHYnX-O1bkRmMgWWMet8uOQ\u0026usqp=CAU",
             "name": "Moxie:zenken-fc",
             "symbol": "Moxie:zenken-fc"
+        },
+        {
+            "address": "0x953E98489C318ae53DbC4E8A59262C130670e2E8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b4a1e2d2-3378-4d20-ff52-30281b688d00/rectcrop3",
+            "name": "Moxie:mwaafii-fc",
+            "symbol": "Moxie:mwaafii-fc"
         }
     ],
     "version": {
