@@ -11993,6 +11993,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b000ac90-3678-4849-8ff9-473900bb8400/rectcrop3",
             "name": "Moxie:brandone-fc",
             "symbol": "Moxie:brandone-fc"
+        },
+        {
+            "address": "0x837d0b9797366b700458dAB6846D189444438163",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/C1sMAv7.jpg",
+            "name": "Moxie:vinzalvin-fc",
+            "symbol": "Moxie:vinzalvin-fc"
         }
     ],
     "version": {
