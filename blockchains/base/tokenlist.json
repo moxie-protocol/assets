@@ -12063,6 +12063,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e13dd5d7-7ae7-45ca-caf0-5e4bc6267700/rectcrop3",
             "name": "Moxie:yearly-fc",
             "symbol": "Moxie:yearly-fc"
+        },
+        {
+            "address": "0xb284C6099Fd887432e46c6BeEA98E2B674Cee2f9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a7439ac6-fdc5-4478-e34b-a6aefb7e2100/rectcrop3",
+            "name": "Moxie:coupon-fc",
+            "symbol": "Moxie:coupon-fc"
         }
     ],
     "version": {
