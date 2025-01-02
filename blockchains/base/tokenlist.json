@@ -11958,6 +11958,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9eb18cce-980f-434d-9e02-0a0540051700/rectcrop3",
             "name": "Moxie:quotation-fc",
             "symbol": "Moxie:quotation-fc"
+        },
+        {
+            "address": "0xDAe5E6C5AB7980eE07042a8402C44DD6DAe89fD5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d8827c0-c796-4ae8-5b17-31f656168e00/original",
+            "name": "Moxie:markup-fc",
+            "symbol": "Moxie:markup-fc"
         }
     ],
     "version": {
