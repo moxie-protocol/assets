@@ -12420,6 +12420,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82dc3c23-6357-42e2-7f6e-619f58b65300/rectcrop3",
             "name": "Moxie:cxylaz-fc",
             "symbol": "Moxie:cxylaz-fc"
+        },
+        {
+            "address": "0xa0614801cfbFCb36F375facb7D54038bac9a0AFF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/111607af-e6a1-48bb-cbf4-7435035b5200/rectcrop3",
+            "name": "Moxie:silentbazaar-fc",
+            "symbol": "Moxie:silentbazaar-fc"
         }
     ],
     "version": {
