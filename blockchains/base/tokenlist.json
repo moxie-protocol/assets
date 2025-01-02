@@ -11636,6 +11636,13 @@
             "logoURI": "https://i.imgur.com/PpcAOlb.jpg",
             "name": "Moxie:loyloy24-fc",
             "symbol": "Moxie:loyloy24-fc"
+        },
+        {
+            "address": "0xCd956613E549e412713e8aFE6511bB43b707C02b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866534875429314560/LFE4l75n.jpg",
+            "name": "Moxie:mofalaq-x",
+            "symbol": "Moxie:mofalaq-x"
         }
     ],
     "version": {
