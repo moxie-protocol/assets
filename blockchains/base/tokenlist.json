@@ -11923,6 +11923,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/823da263-6e4e-4910-f2d8-3b0ae8707700/original",
             "name": "Moxie:diversification-fc",
             "symbol": "Moxie:diversification-fc"
+        },
+        {
+            "address": "0xa43Cc8C5cFCA82972Cf479C385319c8A801DaFdf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c41271e-62d4-48d1-3a1e-d6a4044e2d00/rectcrop3",
+            "name": "Moxie:tool-fc",
+            "symbol": "Moxie:tool-fc"
         }
     ],
     "version": {
