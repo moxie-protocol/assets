@@ -12021,6 +12021,13 @@
             "logoURI": "https://assets-global.website-files.com/65d00699432af750589e6865/65d2d33f66e3a32f8238a6ad_Whitelist_Gif.gif",
             "name": "Moxie:azbit.base.eth-base",
             "symbol": "Moxie:azbit.base.eth-base"
+        },
+        {
+            "address": "0xC224F60a409e1168f94330FbE41B3D4a47b2610c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c247ebce-f482-454e-442f-6d1fc7978900/rectcrop3",
+            "name": "Moxie:utilizee-fc",
+            "symbol": "Moxie:utilizee-fc"
         }
     ],
     "version": {
