@@ -12007,6 +12007,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4943d821-7835-418d-6841-47079269b800/rectcrop3",
             "name": "Moxie:budgeting-fc",
             "symbol": "Moxie:budgeting-fc"
+        },
+        {
+            "address": "0x927F142f0c66db178aE42e7603F3d5048d0A0d53",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ab5872-2a25-4143-5bb0-63e3bfe8a400/rectcrop3",
+            "name": "Moxie:underwrite-fc",
+            "symbol": "Moxie:underwrite-fc"
         }
     ],
     "version": {
