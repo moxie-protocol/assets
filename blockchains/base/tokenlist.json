@@ -12350,6 +12350,13 @@
             "logoURI": "https://pbs.twimg.com/media/Gf32EthawAQDieo?format=jpg\u0026name=900x900",
             "name": "Moxie:satoshirocket.base.eth-base",
             "symbol": "Moxie:satoshirocket.base.eth-base"
+        },
+        {
+            "address": "0x67EcEEcCa1F174791ff65392F9C1f6E920F6ddcA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Re8LQ3m.jpg",
+            "name": "Moxie:phongvu-fc",
+            "symbol": "Moxie:phongvu-fc"
         }
     ],
     "version": {
