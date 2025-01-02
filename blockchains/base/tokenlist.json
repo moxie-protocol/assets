@@ -12035,6 +12035,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6de8f4ad-b03e-480e-7650-5fc59f995100/rectcrop3",
             "name": "Moxie:assetprice-fc",
             "symbol": "Moxie:assetprice-fc"
+        },
+        {
+            "address": "0xB981B00bC6Cae7fB715d531b3e38cCF509Dc7e5f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb41a669-5ec8-4993-5c86-2353d6b6cc00/rectcrop3",
+            "name": "Moxie:gross-fc",
+            "symbol": "Moxie:gross-fc"
         }
     ],
     "version": {
