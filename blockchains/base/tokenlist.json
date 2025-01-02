@@ -12049,6 +12049,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d91f14d-606f-417e-c0ac-078b19e4ac00/original",
             "name": "Moxie:onlymoms-fc",
             "symbol": "Moxie:onlymoms-fc"
+        },
+        {
+            "address": "0x3F38fA84bA1662eff2C9E9105b8c6BbCdC038496",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3aec2376-6c35-4f30-6092-4addcf442900/rectcrop3",
+            "name": "Moxie:creditcard-fc",
+            "symbol": "Moxie:creditcard-fc"
         }
     ],
     "version": {
