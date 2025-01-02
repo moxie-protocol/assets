@@ -12364,6 +12364,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11f7eb1b-068b-41ca-acaf-834c1c654000/rectcrop3",
             "name": "Moxie:sinonis-fc",
             "symbol": "Moxie:sinonis-fc"
+        },
+        {
+            "address": "0xBe8a09dB2B43a67A985FCBF30557E503A626F729",
+            "decimals": 18,
+            "logoURI": "https://jzn7otphwco2coop3og3xc4ebbaebuixlljhaoldtvuxyxnpbciq.arweave.net/Tlv3TeewnaE5z9uNu4uECEBA0Rda0nA5Y51pfF2vCJE",
+            "name": "Moxie:dlzvy.eth-ens",
+            "symbol": "Moxie:dlzvy.eth-ens"
         }
     ],
     "version": {
