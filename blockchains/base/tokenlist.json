@@ -11986,6 +11986,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a0090e9-b6c1-4dac-d20c-830759de8e00/rectcrop3",
             "name": "Moxie:quenche-fc",
             "symbol": "Moxie:quenche-fc"
+        },
+        {
+            "address": "0x25bFDF4F78245cFA3c25BD4C793a2Cb4a0dbB475",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b000ac90-3678-4849-8ff9-473900bb8400/rectcrop3",
+            "name": "Moxie:brandone-fc",
+            "symbol": "Moxie:brandone-fc"
         }
     ],
     "version": {
