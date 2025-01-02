@@ -12084,6 +12084,13 @@
             "logoURI": "https://i.imgur.com/v2jBnAo.jpg",
             "name": "Moxie:kuliproyek-fc",
             "symbol": "Moxie:kuliproyek-fc"
+        },
+        {
+            "address": "0xC660eF5e061ee79f485C8cbD0A40f301Ea091B17",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1643547594725945345/5tjptF29.jpg",
+            "name": "Moxie:InvestorUdoh-x",
+            "symbol": "Moxie:InvestorUdoh-x"
         }
     ],
     "version": {
