@@ -11804,6 +11804,13 @@
             "logoURI": "https://i.imgur.com/WphO1Wr.jpg",
             "name": "Moxie:jixx-fc",
             "symbol": "Moxie:jixx-fc"
+        },
+        {
+            "address": "0xB341638228B6C613fefB3D5058c3bE1458c32cA3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f282db3-72a8-4842-cca6-1073f538b500/rectcrop3",
+            "name": "Moxie:geminis-fc",
+            "symbol": "Moxie:geminis-fc"
         }
     ],
     "version": {
