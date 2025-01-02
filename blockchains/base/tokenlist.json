@@ -11930,6 +11930,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c41271e-62d4-48d1-3a1e-d6a4044e2d00/rectcrop3",
             "name": "Moxie:tool-fc",
             "symbol": "Moxie:tool-fc"
+        },
+        {
+            "address": "0x6cBb7B75277B39ba5482e6da82381A5AC9397767",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d833b2da-ddee-4a00-941a-df0916d71700/rectcrop3",
+            "name": "Moxie:shortselling-fc",
+            "symbol": "Moxie:shortselling-fc"
         }
     ],
     "version": {
