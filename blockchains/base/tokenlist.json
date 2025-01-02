@@ -11790,6 +11790,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10c5e255-9f37-4192-e396-e03689d86700/original",
             "name": "Moxie:rebellion4th-fc",
             "symbol": "Moxie:rebellion4th-fc"
+        },
+        {
+            "address": "0x874A0246EdbDA5cA59FD205A428cbC421A2B8E3f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/07f91365-b4d1-4c42-a684-7e057c3f5d00/rectcrop3",
+            "name": "Moxie:rexyzgp-fc",
+            "symbol": "Moxie:rexyzgp-fc"
         }
     ],
     "version": {
