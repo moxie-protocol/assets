@@ -11874,6 +11874,13 @@
             "logoURI": "https://i.imgur.com/IrVmUuy.jpg",
             "name": "Moxie:kadal23-fc",
             "symbol": "Moxie:kadal23-fc"
+        },
+        {
+            "address": "0x6be4cfAE8522C5e77e2AcBcBc9100AfBe2f756F2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1487476488324927488/HZdVA_48.jpg",
+            "name": "Moxie:sayasui3-x",
+            "symbol": "Moxie:sayasui3-x"
         }
     ],
     "version": {
