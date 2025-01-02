@@ -12441,6 +12441,13 @@
             "logoURI": null,
             "name": "leonardoalpha",
             "symbol": "fid:517214"
+        },
+        {
+            "address": "0x36F48A051f8cd795f3deC37077Ca3eB997dAaC18",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c85996ae-8d0e-48f0-5316-598397a11100/rectcrop3",
+            "name": "Moxie:mehrshad664-fc",
+            "symbol": "Moxie:mehrshad664-fc"
         }
     ],
     "version": {
