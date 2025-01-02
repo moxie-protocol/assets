@@ -11713,6 +11713,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1693307831796346880/vBE5bQJK.jpg",
             "name": "Moxie:GunturSoegiant4-x",
             "symbol": "Moxie:GunturSoegiant4-x"
+        },
+        {
+            "address": "0x52Fa4319C68170b59FAf9F14db8d94b62A7F3E3A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88faac71-db33-49a6-80b8-4c64f52e3b00/rectcrop3",
+            "name": "Moxie:huynhnam.eth-fc",
+            "symbol": "Moxie:huynhnam.eth-fc"
         }
     ],
     "version": {
