@@ -12154,6 +12154,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43a10b05-14c3-4377-c561-eee4485f9700/rectcrop3",
             "name": "Moxie:elisabeth-fc",
             "symbol": "Moxie:elisabeth-fc"
+        },
+        {
+            "address": "0x048873E3b1Cf8DC989b8E32A6FF8355a7b9bC34C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dee7375a-cd64-4eb5-b986-59f5997e7100/rectcrop3",
+            "name": "Moxie:jingle-fc",
+            "symbol": "Moxie:jingle-fc"
         }
     ],
     "version": {
