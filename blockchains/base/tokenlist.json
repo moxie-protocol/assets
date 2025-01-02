@@ -12252,6 +12252,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1492972487260393473/cNux_ISK.jpg",
             "name": "Moxie:bulegesulays-x",
             "symbol": "Moxie:bulegesulays-x"
+        },
+        {
+            "address": "0x58AE0B3169D4ff1Fa97C95dc1e0620B49Dc7A5B9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1862011465483571200/yQSQD3C1.jpg",
+            "name": "Moxie:Samonk4-x",
+            "symbol": "Moxie:Samonk4-x"
         }
     ],
     "version": {
