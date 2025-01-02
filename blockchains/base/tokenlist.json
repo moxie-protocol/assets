@@ -12126,6 +12126,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1800402538652393472/5Jo02SUj.jpg",
             "name": "Moxie:MrVictor2626-x",
             "symbol": "Moxie:MrVictor2626-x"
+        },
+        {
+            "address": "0x96EFA032a6d07e4CEc2ad02680A1238c78eB5abD",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigslwbx74v6v6uzgwxifg4bdd76xcgdmca6hrz3qy7fxuk6ko25ba",
+            "name": "Moxie:emjazzuli-fc",
+            "symbol": "Moxie:emjazzuli-fc"
         }
     ],
     "version": {
