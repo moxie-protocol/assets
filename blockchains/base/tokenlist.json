@@ -12042,6 +12042,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb41a669-5ec8-4993-5c86-2353d6b6cc00/rectcrop3",
             "name": "Moxie:gross-fc",
             "symbol": "Moxie:gross-fc"
+        },
+        {
+            "address": "0xe1f0c404Fb9048238e25ec468EC3D8626709D635",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d91f14d-606f-417e-c0ac-078b19e4ac00/original",
+            "name": "Moxie:onlymoms-fc",
+            "symbol": "Moxie:onlymoms-fc"
         }
     ],
     "version": {
