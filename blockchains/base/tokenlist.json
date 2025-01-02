@@ -11944,6 +11944,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fadd045-001b-487d-2591-e7b7dd2fc200/rectcrop3",
             "name": "Moxie:bandwidth-fc",
             "symbol": "Moxie:bandwidth-fc"
+        },
+        {
+            "address": "0xF051bf9676f31e5d5eA7057F3Ed0f1F81FC91589",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fe55ceb-5d8b-43db-cbd3-5ceaa610dc00/rectcrop3",
+            "name": "Moxie:amortization-fc",
+            "symbol": "Moxie:amortization-fc"
         }
     ],
     "version": {
