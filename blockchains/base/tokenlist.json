@@ -12455,6 +12455,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1684105319612567556/-inFE7Aq.jpg",
             "name": "Moxie:omouye-x",
             "symbol": "Moxie:omouye-x"
+        },
+        {
+            "address": "0x0D22B8e641df51b2be2ea487A603069B9A666424",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "bakkah",
+            "symbol": "fid:323201"
         }
     ],
     "version": {
