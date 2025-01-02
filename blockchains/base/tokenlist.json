@@ -12133,6 +12133,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigslwbx74v6v6uzgwxifg4bdd76xcgdmca6hrz3qy7fxuk6ko25ba",
             "name": "Moxie:emjazzuli-fc",
             "symbol": "Moxie:emjazzuli-fc"
+        },
+        {
+            "address": "0x69fC9F36B339667ff76Bf691Fc8FB106B64c3173",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a632136-1e58-4fd3-1646-5e9e475ab000/rectcrop3",
+            "name": "Moxie:hedge-fc",
+            "symbol": "Moxie:hedge-fc"
         }
     ],
     "version": {
