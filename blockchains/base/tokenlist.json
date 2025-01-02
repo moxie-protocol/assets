@@ -12266,6 +12266,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/404bd860-6d71-49ef-1005-dcf139748700/rectcrop3",
             "name": "Moxie:ahmeddoma-fc",
             "symbol": "Moxie:ahmeddoma-fc"
+        },
+        {
+            "address": "0x0D84c34cf65C577Fa446CB77707BE44f0e44776A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa084231-7c68-4259-1618-0ca77802cd00/rectcrop3",
+            "name": "Moxie:ireside.eth-fc",
+            "symbol": "Moxie:ireside.eth-fc"
         }
     ],
     "version": {
