@@ -11811,6 +11811,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f282db3-72a8-4842-cca6-1073f538b500/rectcrop3",
             "name": "Moxie:geminis-fc",
             "symbol": "Moxie:geminis-fc"
+        },
+        {
+            "address": "0x2EfD26C37b1723865b167ebfEad29Dd4e33969F2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/G9rCsfN.jpg",
+            "name": "Moxie:gowther-fc",
+            "symbol": "Moxie:gowther-fc"
         }
     ],
     "version": {
