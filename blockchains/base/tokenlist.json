@@ -12028,6 +12028,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c247ebce-f482-454e-442f-6d1fc7978900/rectcrop3",
             "name": "Moxie:utilizee-fc",
             "symbol": "Moxie:utilizee-fc"
+        },
+        {
+            "address": "0x517482dc02031b2304D63Ccc2dbd994eB162c58A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6de8f4ad-b03e-480e-7650-5fc59f995100/rectcrop3",
+            "name": "Moxie:assetprice-fc",
+            "symbol": "Moxie:assetprice-fc"
         }
     ],
     "version": {
