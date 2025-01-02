@@ -12203,6 +12203,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b4a1e2d2-3378-4d20-ff52-30281b688d00/rectcrop3",
             "name": "Moxie:mwaafii-fc",
             "symbol": "Moxie:mwaafii-fc"
+        },
+        {
+            "address": "0xe2A4615f4A3e43462E844437F087DFf4b3930C64",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/58E5aNl.jpg",
+            "name": "Moxie:gabrieltemtsen-fc",
+            "symbol": "Moxie:gabrieltemtsen-fc"
         }
     ],
     "version": {
