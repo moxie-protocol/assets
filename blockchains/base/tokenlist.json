@@ -11839,6 +11839,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0db80b3-3693-474f-e0a9-1ac52f6a3900/rectcrop3",
             "name": "Moxie:fajri31-fc",
             "symbol": "Moxie:fajri31-fc"
+        },
+        {
+            "address": "0x77aFEAeb4629E6Ed6749c8d5fF82679e9ffA1e9c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MtnrZLe.png",
+            "name": "Moxie:yezzh-fc",
+            "symbol": "Moxie:yezzh-fc"
         }
     ],
     "version": {
