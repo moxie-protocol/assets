@@ -11783,6 +11783,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf776ad4-6a60-4dc4-6052-1a36e7d60d00/rectcrop3",
             "name": "Moxie:0xbeeppoo-fc",
             "symbol": "Moxie:0xbeeppoo-fc"
+        },
+        {
+            "address": "0x43F5c0d87a6F4077B0CAA622Fe2c83Ab58726363",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10c5e255-9f37-4192-e396-e03689d86700/original",
+            "name": "Moxie:rebellion4th-fc",
+            "symbol": "Moxie:rebellion4th-fc"
         }
     ],
     "version": {
