@@ -11972,6 +11972,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fccd3f28-6dfb-4d29-9bcf-d2ff5a113800/original",
             "name": "Moxie:thepact-fc",
             "symbol": "Moxie:thepact-fc"
+        },
+        {
+            "address": "0xFB8Fa2235F08D4FF0213CF7f95d2eA50B3F8f47C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44b4ee11-8fde-4040-39d0-410515436900/rectcrop3",
+            "name": "Moxie:crf-fc",
+            "symbol": "Moxie:crf-fc"
         }
     ],
     "version": {
