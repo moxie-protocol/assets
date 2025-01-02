@@ -12392,6 +12392,13 @@
             "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bNCu3aAYNoO6UjfuCxWTDlTzoW_othE-qA\u0026s",
             "name": "Moxie:deamyasin-gt",
             "symbol": "Moxie:deamyasin-gt"
+        },
+        {
+            "address": "0x198F8073989e9AA062131bC120c5b2531CdB3AEe",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eAOUfKr.jpg",
+            "name": "Moxie:imoogi-fc",
+            "symbol": "Moxie:imoogi-fc"
         }
     ],
     "version": {
