@@ -11643,6 +11643,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866534875429314560/LFE4l75n.jpg",
             "name": "Moxie:mofalaq-x",
             "symbol": "Moxie:mofalaq-x"
+        },
+        {
+            "address": "0x77382Ed393Fe7792a5c2A37f0623B234F59429BE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e77ec279-0ae9-45f5-3f5e-19680ccf1d00/rectcrop3",
+            "name": "Moxie:manas829-fc",
+            "symbol": "Moxie:manas829-fc"
         }
     ],
     "version": {
