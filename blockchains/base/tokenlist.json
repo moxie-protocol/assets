@@ -12189,6 +12189,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b025051a-a61b-454d-43ee-7316bf94f800/rectcrop3",
             "name": "Moxie:gossip-fc",
             "symbol": "Moxie:gossip-fc"
+        },
+        {
+            "address": "0x15151C8E91D30Fb7F359492f4D363287D7f674BF",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVILeorfT_mMvRHYnX-O1bkRmMgWWMet8uOQ\u0026usqp=CAU",
+            "name": "Moxie:zenken-fc",
+            "symbol": "Moxie:zenken-fc"
         }
     ],
     "version": {
