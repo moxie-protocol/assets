@@ -11734,6 +11734,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aa8c02f-cd3c-43da-dad3-6e49fc68ea00/rectcrop3",
             "name": "Moxie:honguyen.eth-fc",
             "symbol": "Moxie:honguyen.eth-fc"
+        },
+        {
+            "address": "0x00885723EFbA31B59A45206446F7540e55eb620c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/K2skUch.jpg",
+            "name": "Moxie:77377-fc",
+            "symbol": "Moxie:77377-fc"
         }
     ],
     "version": {
