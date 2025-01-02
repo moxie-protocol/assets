@@ -12168,6 +12168,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cbd5db0b-4682-4b65-a3a8-18e1faa7e100/rectcrop3",
             "name": "Moxie:growth-fc",
             "symbol": "Moxie:growth-fc"
+        },
+        {
+            "address": "0x59aC86179a305C0422f1E850036Ea34E4490F88c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2a5f475-55a9-4f3b-5e92-2cf14f1e2500/rectcrop3",
+            "name": "Moxie:quill-fc",
+            "symbol": "Moxie:quill-fc"
         }
     ],
     "version": {
