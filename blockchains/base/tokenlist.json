@@ -12140,6 +12140,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a632136-1e58-4fd3-1646-5e9e475ab000/rectcrop3",
             "name": "Moxie:hedge-fc",
             "symbol": "Moxie:hedge-fc"
+        },
+        {
+            "address": "0x91ef7599d8E430D21eC8437D333160190BFFD04a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df468d96-32c5-4893-382e-bab5bb51f100/rectcrop3",
+            "name": "Moxie:bask-fc",
+            "symbol": "Moxie:bask-fc"
         }
     ],
     "version": {
