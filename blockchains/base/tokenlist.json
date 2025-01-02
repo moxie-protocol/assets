@@ -12413,6 +12413,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/338ee7a9-f5fb-401c-6aa3-da58e21d9000/rectcrop3",
             "name": "Moxie:payme12-fc",
             "symbol": "Moxie:payme12-fc"
+        },
+        {
+            "address": "0x2CD74022Ad5CA947Fc3BBf82D21Cfa468391cC9E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82dc3c23-6357-42e2-7f6e-619f58b65300/rectcrop3",
+            "name": "Moxie:cxylaz-fc",
+            "symbol": "Moxie:cxylaz-fc"
         }
     ],
     "version": {
