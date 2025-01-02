@@ -11664,6 +11664,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/400e7975-0f55-40cb-7f5c-defe298dea00/rectcrop3",
             "name": "Moxie:rof62-fc",
             "symbol": "Moxie:rof62-fc"
+        },
+        {
+            "address": "0x22CC6BDb8061F88dD0Aaf8Ce354e8043015d9cA5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a794534e-184d-47cd-c35e-ffe47af6a400/rectcrop3",
+            "name": "Moxie:saritaswork-fc",
+            "symbol": "Moxie:saritaswork-fc"
         }
     ],
     "version": {
