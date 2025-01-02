@@ -12357,6 +12357,13 @@
             "logoURI": "https://i.imgur.com/Re8LQ3m.jpg",
             "name": "Moxie:phongvu-fc",
             "symbol": "Moxie:phongvu-fc"
+        },
+        {
+            "address": "0x9eE42933DCc1983e83a41466b57d0D7c9c8d4214",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11f7eb1b-068b-41ca-acaf-834c1c654000/rectcrop3",
+            "name": "Moxie:sinonis-fc",
+            "symbol": "Moxie:sinonis-fc"
         }
     ],
     "version": {
