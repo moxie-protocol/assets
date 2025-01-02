@@ -12091,6 +12091,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1643547594725945345/5tjptF29.jpg",
             "name": "Moxie:InvestorUdoh-x",
             "symbol": "Moxie:InvestorUdoh-x"
+        },
+        {
+            "address": "0x8a89097b553D07670e820f962AEc674820e4362a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1vQF1Pg.jpg",
+            "name": "Moxie:jkt48-fc",
+            "symbol": "Moxie:jkt48-fc"
         }
     ],
     "version": {
