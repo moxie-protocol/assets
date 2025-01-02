@@ -12056,6 +12056,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3aec2376-6c35-4f30-6092-4addcf442900/rectcrop3",
             "name": "Moxie:creditcard-fc",
             "symbol": "Moxie:creditcard-fc"
+        },
+        {
+            "address": "0x900E16011b23896B549F4bc43B35f04d7963B3df",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e13dd5d7-7ae7-45ca-caf0-5e4bc6267700/rectcrop3",
+            "name": "Moxie:yearly-fc",
+            "symbol": "Moxie:yearly-fc"
         }
     ],
     "version": {
