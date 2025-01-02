@@ -11741,6 +11741,13 @@
             "logoURI": "https://i.imgur.com/K2skUch.jpg",
             "name": "Moxie:77377-fc",
             "symbol": "Moxie:77377-fc"
+        },
+        {
+            "address": "0xbE1cAa0d7163C3f36CfF6Ec9A11C437c2De85767",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed0ed08c-5729-4261-b3aa-9ce219744c00/original",
+            "name": "Moxie:emories-fc",
+            "symbol": "Moxie:emories-fc"
         }
     ],
     "version": {
