@@ -12000,6 +12000,13 @@
             "logoURI": "https://i.imgur.com/C1sMAv7.jpg",
             "name": "Moxie:vinzalvin-fc",
             "symbol": "Moxie:vinzalvin-fc"
+        },
+        {
+            "address": "0x4af057CF2AdD3b7Ad1e33E403f35227B2e37d560",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4943d821-7835-418d-6841-47079269b800/rectcrop3",
+            "name": "Moxie:budgeting-fc",
+            "symbol": "Moxie:budgeting-fc"
         }
     ],
     "version": {
