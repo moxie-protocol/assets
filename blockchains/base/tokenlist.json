@@ -12371,6 +12371,13 @@
             "logoURI": "https://jzn7otphwco2coop3og3xc4ebbaebuixlljhaoldtvuxyxnpbciq.arweave.net/Tlv3TeewnaE5z9uNu4uECEBA0Rda0nA5Y51pfF2vCJE",
             "name": "Moxie:dlzvy.eth-ens",
             "symbol": "Moxie:dlzvy.eth-ens"
+        },
+        {
+            "address": "0x66d320dd30BCEcc4B11eBd0479C4bcC6560067A1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c733f0b-c6a9-408c-0a6c-07ae0ba45c00/rectcrop3",
+            "name": "Moxie:mosyafik-fc",
+            "symbol": "Moxie:mosyafik-fc"
         }
     ],
     "version": {
