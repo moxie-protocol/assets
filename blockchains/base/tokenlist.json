@@ -16564,6 +16564,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870382571517079552/RicsqZxG.jpg",
             "name": "Moxie:abdmuid9-x",
             "symbol": "Moxie:abdmuid9-x"
+        },
+        {
+            "address": "0x313083DeE18726077a21AC1eF014e78e7E67c750",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OD7nWff.jpg",
+            "name": "Moxie:seaswap-fc",
+            "symbol": "Moxie:seaswap-fc"
         }
     ],
     "version": {
