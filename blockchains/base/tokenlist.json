@@ -16130,6 +16130,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5656d6a-897d-4ec5-f922-80679fc25700/rectcrop3",
             "name": "Moxie:algianm11-fc",
             "symbol": "Moxie:algianm11-fc"
+        },
+        {
+            "address": "0x5cFc9372989024CA01e48eA45660c7A4345B50e2",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/D9ukZXcl22Cu-fxFmJ9Kk52AFahaHNCGHZi4xWE0qd0BbxlOkDQK0R6QzM36LQjtAlFfFLzTJtgtqbEAnkcPdQJjNhhka2RwNpJ9yw?w=500\u0026auto=format",
+            "name": "Moxie:nantu-fc",
+            "symbol": "Moxie:nantu-fc"
         }
     ],
     "version": {
