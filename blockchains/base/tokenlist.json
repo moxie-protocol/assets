@@ -13960,6 +13960,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a7f18d9-5cf3-4afc-7b0d-303f09e6a900/rectcrop3",
             "name": "Moxie:hotmom-fc",
             "symbol": "Moxie:hotmom-fc"
+        },
+        {
+            "address": "0x51E98C23a7C68cE1F3F092960135723Fb0F339F9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/24b2c7fb-700f-4ac9-d114-fd7e70099700/rectcrop3",
+            "name": "Moxie:luckyred-fc",
+            "symbol": "Moxie:luckyred-fc"
         }
     ],
     "version": {
