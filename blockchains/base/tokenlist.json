@@ -14058,6 +14058,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a0bce388-a7ae-4662-a438-c616bf6f0900/rectcrop3",
             "name": "Moxie:waze-fc",
             "symbol": "Moxie:waze-fc"
+        },
+        {
+            "address": "0x8273a8371CE648e0A5bff5eb594A846C753547dC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ee1ecef-8381-4945-4631-120e14120f00/rectcrop3",
+            "name": "Moxie:maspey-fc",
+            "symbol": "Moxie:maspey-fc"
         }
     ],
     "version": {
