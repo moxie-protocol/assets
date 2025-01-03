@@ -12980,6 +12980,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:ngocdz-fc",
             "symbol": "Moxie:ngocdz-fc"
+        },
+        {
+            "address": "0xee9040D9b67Ece9Cf6B9514747b861537E59A984",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tvSGOZh.jpg",
+            "name": "Moxie:galieh-fc",
+            "symbol": "Moxie:galieh-fc"
         }
     ],
     "version": {
