@@ -14534,6 +14534,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1824417290051543040/MzlivPDK.jpg",
             "name": "Moxie:JeparaFiki-x",
             "symbol": "Moxie:JeparaFiki-x"
+        },
+        {
+            "address": "0x91CF08CA8f8C574ca19Ce93b930cd7E41592cFb3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/faa65749-5d25-45e5-554e-87131eca7500/rectcrop3",
+            "name": "Moxie:twiz-fc",
+            "symbol": "Moxie:twiz-fc"
         }
     ],
     "version": {
