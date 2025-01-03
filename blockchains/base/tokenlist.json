@@ -13897,6 +13897,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihu2akw2wa46yjjdia3fgzqoq7tmuyrtxmtynmi75ivq6zuifamzm",
             "name": "Moxie:peacemaker-fc",
             "symbol": "Moxie:peacemaker-fc"
+        },
+        {
+            "address": "0xbcbB905f5C4284B96130D5aA430A3a6191BEc2BA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2cd013d3-1af1-485b-7ae1-1f6a11ee3a00/rectcrop3",
+            "name": "Moxie:dwikifadhilah-fc",
+            "symbol": "Moxie:dwikifadhilah-fc"
         }
     ],
     "version": {
