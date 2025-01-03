@@ -15031,6 +15031,13 @@
             "logoURI": "https://i.imgur.com/1vD65qP.jpg",
             "name": "Moxie:shidiq182-fc",
             "symbol": "Moxie:shidiq182-fc"
+        },
+        {
+            "address": "0x787c31F6B46f2ACd14e24b8D55716Ab8e3FfC0Af",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1D5FIrf.jpg",
+            "name": "Moxie:scarletzer-fc",
+            "symbol": "Moxie:scarletzer-fc"
         }
     ],
     "version": {
