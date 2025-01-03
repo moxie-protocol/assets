@@ -12560,6 +12560,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1224315089496338434/J8cLavrb.jpg",
             "name": "Moxie:awikwokda-x",
             "symbol": "Moxie:awikwokda-x"
+        },
+        {
+            "address": "0x5810FEe14709EE045e21cf53Dd000c2E3716C1A9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1767314553787068416/Wj1FRo2P.jpg",
+            "name": "Moxie:arbXeth-x",
+            "symbol": "Moxie:arbXeth-x"
         }
     ],
     "version": {
