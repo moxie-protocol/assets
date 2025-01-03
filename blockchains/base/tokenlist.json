@@ -12973,6 +12973,13 @@
             "logoURI": "https://i.imgur.com/XVuQfm2.jpg",
             "name": "Moxie:bennycrypt4-fc",
             "symbol": "Moxie:bennycrypt4-fc"
+        },
+        {
+            "address": "0xb8dC90A2B31B66ae8E6a9E3f40054Bd13d1C65f1",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
+            "name": "Moxie:ngocdz-fc",
+            "symbol": "Moxie:ngocdz-fc"
         }
     ],
     "version": {
