@@ -16109,6 +16109,13 @@
             "logoURI": "https://arweave.net/fZ3qgjgcpU6_jRylHE5LcqqGgZlZNPUvCYGl29WhFEg/",
             "name": "Moxie:celiacolon-fc",
             "symbol": "Moxie:celiacolon-fc"
+        },
+        {
+            "address": "0x6000F77cCCCE3b1f6464D41312029C30A077134a",
+            "decimals": 18,
+            "logoURI": "https://iznanka.news/upload/resize_cache/iblock/5c4/711_711_1/0phib4jw6rsg63ojp4thhbcji7ql3xrj.jpeg.webp",
+            "name": "Moxie:pivosaurus.eth-ens",
+            "symbol": "Moxie:pivosaurus.eth-ens"
         }
     ],
     "version": {
