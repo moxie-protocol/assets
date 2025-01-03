@@ -15486,6 +15486,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ace93335-e16d-456a-e549-369b52112000/original",
             "name": "Moxie:tzhu-fc",
             "symbol": "Moxie:tzhu-fc"
+        },
+        {
+            "address": "0x090ec27D8168Ae1f297Fb0Cd6a426B09c25f18b9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1806605759691857920/_H2qflBQ.jpg",
+            "name": "Moxie:ctt_fan28383-x",
+            "symbol": "Moxie:ctt_fan28383-x"
         }
     ],
     "version": {
