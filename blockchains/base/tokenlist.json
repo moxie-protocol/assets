@@ -15612,6 +15612,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e6c358a-1534-4ff2-20f3-f76083ac1000/rectcrop3",
             "name": "Moxie:bgyoed-fc",
             "symbol": "Moxie:bgyoed-fc"
+        },
+        {
+            "address": "0x012fEaEf303a9793FdBfC841356312606e96A862",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1707442628621697024/z2q_Rm1L.jpg",
+            "name": "Moxie:GreenMetaversee-x",
+            "symbol": "Moxie:GreenMetaversee-x"
         }
     ],
     "version": {
