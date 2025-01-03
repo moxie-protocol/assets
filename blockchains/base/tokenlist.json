@@ -13981,6 +13981,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fba182f-74de-490c-ceb2-97b349af6400/rectcrop3",
             "name": "Moxie:3dbijanalavi-fc",
             "symbol": "Moxie:3dbijanalavi-fc"
+        },
+        {
+            "address": "0x42f00f5Bfd3F8C9d8227929606d99F75E5Cfb128",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oRhJlHz.jpg",
+            "name": "Moxie:airdrop3ltd-fc",
+            "symbol": "Moxie:airdrop3ltd-fc"
         }
     ],
     "version": {
