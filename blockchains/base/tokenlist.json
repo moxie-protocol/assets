@@ -14471,6 +14471,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1731552775388225536/Y1MFle8B.jpg",
             "name": "Moxie:hungz21-x",
             "symbol": "Moxie:hungz21-x"
+        },
+        {
+            "address": "0x3999f9e511d0F6bB881f7A09cE0653C4eA74887A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b0b4c74-5810-4b3c-d281-f37fd4cf8000/rectcrop3",
+            "name": "Moxie:buzzbrek-fc",
+            "symbol": "Moxie:buzzbrek-fc"
         }
     ],
     "version": {
