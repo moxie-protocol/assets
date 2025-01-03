@@ -15115,6 +15115,13 @@
             "logoURI": "https://i.imgur.com/tBu5uVw.jpg",
             "name": "Moxie:zkpussync-fc",
             "symbol": "Moxie:zkpussync-fc"
+        },
+        {
+            "address": "0xf97D03A8aBb44437B50df54d4461F6615A55f43D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfd9881d-04f6-48ea-b635-517d8a714a00/rectcrop3",
+            "name": "Moxie:ucum-fc",
+            "symbol": "Moxie:ucum-fc"
         }
     ],
     "version": {
