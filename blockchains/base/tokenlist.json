@@ -14716,6 +14716,13 @@
             "logoURI": "https://www.moxie.xyz/images/create-fta/curves/moderate.svg",
             "name": "Moxie:base00.base.eth-base",
             "symbol": "Moxie:base00.base.eth-base"
+        },
+        {
+            "address": "0x8Df3C27B07A290F957093fCA0203D963C9995EA2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/683699973184032768/YIQEqRk1.jpg",
+            "name": "Moxie:mr_asepnaga-x",
+            "symbol": "Moxie:mr_asepnaga-x"
         }
     ],
     "version": {
