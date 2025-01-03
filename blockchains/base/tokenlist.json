@@ -14100,6 +14100,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1761544285885980672/UOaQgNHK.jpg",
             "name": "Moxie:youcanseem3-x",
             "symbol": "Moxie:youcanseem3-x"
+        },
+        {
+            "address": "0x32D0Dd600c341C82C95477F7C75B3D281c0f365F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1750397965808848898/hnGQFsFO.jpg",
+            "name": "Moxie:SusiLaw10418042-x",
+            "symbol": "Moxie:SusiLaw10418042-x"
         }
     ],
     "version": {
