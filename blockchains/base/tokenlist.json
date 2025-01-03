@@ -14597,6 +14597,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1773072250390085632/kg3rAZA8.jpg",
             "name": "Moxie:Geri0015-x",
             "symbol": "Moxie:Geri0015-x"
+        },
+        {
+            "address": "0x223FE45Fd42975f2f1DAaaf399Ad2599676400D6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eDnnmFN.jpg",
+            "name": "Moxie:swelde-fc",
+            "symbol": "Moxie:swelde-fc"
         }
     ],
     "version": {
