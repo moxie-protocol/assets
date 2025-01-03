@@ -12532,6 +12532,13 @@
             "logoURI": "https://i.imgur.com/6TeEDKC.jpg",
             "name": "Moxie:bayuadibhaskara-fc",
             "symbol": "Moxie:bayuadibhaskara-fc"
+        },
+        {
+            "address": "0xBAc0D3DFBb876cA3109E43674f2d43891411B947",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1773055463573323776/qgkKKxAR.jpg",
+            "name": "Moxie:Heyfal3Heyfal-x",
+            "symbol": "Moxie:Heyfal3Heyfal-x"
         }
     ],
     "version": {
