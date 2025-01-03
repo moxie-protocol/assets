@@ -12889,6 +12889,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9092c03d-5e61-4ae7-523e-46162c280400/original",
             "name": "Moxie:raffan69-fc",
             "symbol": "Moxie:raffan69-fc"
+        },
+        {
+            "address": "0xb53a72D191f9a6c22d6c93894681919d0fEf7A96",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OaLOiXZ.jpg",
+            "name": "Moxie:farhankemal23-fc",
+            "symbol": "Moxie:farhankemal23-fc"
         }
     ],
     "version": {
