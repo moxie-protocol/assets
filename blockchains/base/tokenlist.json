@@ -15990,6 +15990,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d4442c7-86e1-4dfb-49b4-2df2a5453100/rectcrop3",
             "name": "Moxie:mamatdrop-fc",
             "symbol": "Moxie:mamatdrop-fc"
+        },
+        {
+            "address": "0x754B7C125Ec532d5f4Fa312eBfF6ad6dEfCCAcF2",
+            "decimals": 18,
+            "logoURI": "https://th.bing.com/th/id/OIP.1mWTVgfWcUkF0bBsMn5ckAHaFi?w=240\u0026h=180\u0026c=7\u0026r=0\u0026o=5\u0026pid=1.7",
+            "name": "Moxie:iadxo.eth-ens",
+            "symbol": "Moxie:iadxo.eth-ens"
         }
     ],
     "version": {
