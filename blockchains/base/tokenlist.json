@@ -12483,6 +12483,13 @@
             "logoURI": null,
             "name": "celtics",
             "symbol": "fid:862329"
+        },
+        {
+            "address": "0x450653f7314069c71A72C17E928873562B02C068",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67767e2c-b1ab-4719-8b65-c6e1108c3c00/original",
+            "name": "Moxie:patrion-fc",
+            "symbol": "Moxie:patrion-fc"
         }
     ],
     "version": {
