@@ -16151,6 +16151,13 @@
             "logoURI": "https://i.imgur.com/qxJQfii.jpg",
             "name": "Moxie:alcrypto-fc",
             "symbol": "Moxie:alcrypto-fc"
+        },
+        {
+            "address": "0x99887eC7A94B90E26fE90090E860067640eaacF6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/g1WBLje.jpg",
+            "name": "Moxie:gusde-fc",
+            "symbol": "Moxie:gusde-fc"
         }
     ],
     "version": {
