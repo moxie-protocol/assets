@@ -13127,6 +13127,13 @@
             "logoURI": "https://imagedelivery.net/g4iQ0bIzMZrjFMgjAnSGfw/1e0c789f-af62-4f72-6ce2-130ed1fba900/public",
             "name": "Moxie:dull2311-fc",
             "symbol": "Moxie:dull2311-fc"
+        },
+        {
+            "address": "0xB1D8f35f3b1110a67fe0Cce033181B4d561163df",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9aa49422-66f6-4b00-b3ea-dbd120884b00/rectcrop3",
+            "name": "Moxie:khodox69-fc",
+            "symbol": "Moxie:khodox69-fc"
         }
     ],
     "version": {
