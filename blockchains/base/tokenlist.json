@@ -13071,6 +13071,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidutmxic67vzkd7hjr5truzl6ij4pjgw77lmjoadxll67xcpnlmna/2128",
             "name": "Moxie:herusucipto-fc",
             "symbol": "Moxie:herusucipto-fc"
+        },
+        {
+            "address": "0xC7a0997eB66dCaad13AdEC8787ED9c4C78127FE9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866840869418176515/jWsox-IT.jpg",
+            "name": "Moxie:ruben931767-x",
+            "symbol": "Moxie:ruben931767-x"
         }
     ],
     "version": {
