@@ -13267,6 +13267,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1706805425671401472/odIU8qsR.jpg",
             "name": "Moxie:RafiqulHakim-x",
             "symbol": "Moxie:RafiqulHakim-x"
+        },
+        {
+            "address": "0xac149eFDDb897C123F604E2078B4A2940a2dbD9c",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:reskesCRYPTO-x",
+            "symbol": "Moxie:reskesCRYPTO-x"
         }
     ],
     "version": {
