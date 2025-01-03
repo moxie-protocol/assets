@@ -13442,6 +13442,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33c3d33a-690b-402a-80f3-c1c8d6004f00/original",
             "name": "Moxie:dimzy-fc",
             "symbol": "Moxie:dimzy-fc"
+        },
+        {
+            "address": "0x6Bb64178c8bDE4EB64eac1ad18921FF3f28530b4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0773dc7-e141-47b1-8a27-6e8320c4bc00/rectcrop3",
+            "name": "Moxie:irwansyah19-fc",
+            "symbol": "Moxie:irwansyah19-fc"
         }
     ],
     "version": {
