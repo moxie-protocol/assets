@@ -15423,6 +15423,13 @@
             "logoURI": "https://i.imgur.com/bSmHaKf.jpg",
             "name": "Moxie:chyouzhishu-fc",
             "symbol": "Moxie:chyouzhishu-fc"
+        },
+        {
+            "address": "0x6F8147114D3B076DC70E6147d88764059A60301b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6101209d-792b-40c6-0ded-8a29a0a20600/rectcrop3",
+            "name": "Moxie:lucif-fc",
+            "symbol": "Moxie:lucif-fc"
         }
     ],
     "version": {
