@@ -13176,6 +13176,13 @@
             "logoURI": "https://media.firefly.land/farcaster/4bbab523-38a5-4dc1-8492-a981ee82a98d.png",
             "name": "Moxie:alecto-fc",
             "symbol": "Moxie:alecto-fc"
+        },
+        {
+            "address": "0x5E5331e91562DEbCdC66F17e33965621CF75cD0b",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/ejp5oT6X2toaDAf_65IHwZHExJM1VUD97RkGbA5Ne6g/",
+            "name": "Moxie:hifnijn-fc",
+            "symbol": "Moxie:hifnijn-fc"
         }
     ],
     "version": {
