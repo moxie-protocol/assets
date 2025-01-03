@@ -16445,6 +16445,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3176d32-2248-4b77-705e-cebf0472b800/rectcrop3",
             "name": "Moxie:waylose1223-fc",
             "symbol": "Moxie:waylose1223-fc"
+        },
+        {
+            "address": "0x1BCec914752Fe2BC0d169a4Db2A87AA1836Cf728",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eb6253a-b3f4-4810-2be2-25e20ecc9300/rectcrop3",
+            "name": "Moxie:zeelucky-fc",
+            "symbol": "Moxie:zeelucky-fc"
         }
     ],
     "version": {
