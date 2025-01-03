@@ -12665,6 +12665,13 @@
             "logoURI": "https://i.imgur.com/j5XyQ7M.jpg",
             "name": "Moxie:moonton-fc",
             "symbol": "Moxie:moonton-fc"
+        },
+        {
+            "address": "0xC292d570A965e012F19642A70939eF73bbE7cE23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35146438-3285-4847-01a6-347007627e00/rectcrop3",
+            "name": "Moxie:zoro5423-fc",
+            "symbol": "Moxie:zoro5423-fc"
         }
     ],
     "version": {
