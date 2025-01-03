@@ -15514,6 +15514,13 @@
             "logoURI": "https://i.imgur.com/wqcVtrR.jpg",
             "name": "Moxie:salabend-fc",
             "symbol": "Moxie:salabend-fc"
+        },
+        {
+            "address": "0xdA9092ae5F5082EeD120736249184f8132434906",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbbD5JvuBzycS1Jkig8fNHhfPoDYXVCRKXn4mPFrWP5yh/2009.png",
+            "name": "Moxie:riegoerizalde-fc",
+            "symbol": "Moxie:riegoerizalde-fc"
         }
     ],
     "version": {
