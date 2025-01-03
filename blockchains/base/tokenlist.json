@@ -15332,6 +15332,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1862851117480079360/ts2u219k.jpg",
             "name": "Moxie:Huang_Haoer-x",
             "symbol": "Moxie:Huang_Haoer-x"
+        },
+        {
+            "address": "0x75F48F143EA7f1F18C960197B5c35Bd49Df1d2dd",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QFbg0GN.jpg",
+            "name": "Moxie:ohmaygot-fc",
+            "symbol": "Moxie:ohmaygot-fc"
         }
     ],
     "version": {
