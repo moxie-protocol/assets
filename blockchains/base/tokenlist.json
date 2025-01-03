@@ -13932,6 +13932,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1563429291794505729/m4KX9odo.png",
             "name": "Moxie:Soraaa_01-x",
             "symbol": "Moxie:Soraaa_01-x"
+        },
+        {
+            "address": "0x5B05D21937DB798E90c2caafDA3cC2A6A771d067",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a3419a0-6cc5-4282-947d-64ae00372600/rectcrop3",
+            "name": "Moxie:ranzan-fc",
+            "symbol": "Moxie:ranzan-fc"
         }
     ],
     "version": {
