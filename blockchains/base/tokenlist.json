@@ -15759,6 +15759,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4712a09-bf8b-4c06-1acb-3ed7123ff100/rectcrop3",
             "name": "Moxie:gmonlogy-fc",
             "symbol": "Moxie:gmonlogy-fc"
+        },
+        {
+            "address": "0xc9B335711d2371cF2C109f3C6C6ceF983C57271b",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/6JJ64sz/spreadicons.jpg",
+            "name": "Moxie:rusmina-fc",
+            "symbol": "Moxie:rusmina-fc"
         }
     ],
     "version": {
