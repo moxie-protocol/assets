@@ -15185,6 +15185,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6255a941-78f6-4c18-8e60-2c6c02e5b000/rectcrop3",
             "name": "Moxie:ronno-fc",
             "symbol": "Moxie:ronno-fc"
+        },
+        {
+            "address": "0x9cE9B3E33Ed38aD127beF4FE8eFE7fcb1Fd107bF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9ce9fa23-5889-448a-dd31-2aaabfc14a00/rectcrop3",
+            "name": "Moxie:bebelove-fc",
+            "symbol": "Moxie:bebelove-fc"
         }
     ],
     "version": {
