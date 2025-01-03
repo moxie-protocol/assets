@@ -13603,6 +13603,13 @@
             "logoURI": null,
             "name": "madm",
             "symbol": "fid:431311"
+        },
+        {
+            "address": "0x6DA4aD1597D961ed85FB4ea5b2Ec66bc41b983b6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4A5e7zV.jpg",
+            "name": "Moxie:ucupgantengz-fc",
+            "symbol": "Moxie:ucupgantengz-fc"
         }
     ],
     "version": {
