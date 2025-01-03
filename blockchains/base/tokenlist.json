@@ -13764,6 +13764,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/853547638427328512/4wLA9QzS.jpg",
             "name": "Moxie:Fauzan_zero17-x",
             "symbol": "Moxie:Fauzan_zero17-x"
+        },
+        {
+            "address": "0x9c041ff685b9258Bd8629BD2B63aFc8CE44E1f34",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "muth",
+            "symbol": "fid:250720"
         }
     ],
     "version": {
