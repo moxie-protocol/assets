@@ -14891,6 +14891,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846900354291847171/Wt8SQCd2.jpg",
             "name": "Moxie:fazardoank1-x",
             "symbol": "Moxie:fazardoank1-x"
+        },
+        {
+            "address": "0x78C4C5c7f85c295C29Bfd46e70003Bda5f0F03aB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2GRVg5v.jpg",
+            "name": "Moxie:nhanle-fc",
+            "symbol": "Moxie:nhanle-fc"
         }
     ],
     "version": {
