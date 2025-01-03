@@ -13449,6 +13449,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0773dc7-e141-47b1-8a27-6e8320c4bc00/rectcrop3",
             "name": "Moxie:irwansyah19-fc",
             "symbol": "Moxie:irwansyah19-fc"
+        },
+        {
+            "address": "0x5611B65f64E44bF9558D0A35E55543E13d420cde",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+            "name": "Moxie:longlonglk-fc",
+            "symbol": "Moxie:longlonglk-fc"
         }
     ],
     "version": {
