@@ -16179,6 +16179,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:johnzhadow-x",
             "symbol": "Moxie:johnzhadow-x"
+        },
+        {
+            "address": "0x56B6584B10b299335a0cBA0437fD398dC318dE9A",
+            "decimals": 18,
+            "logoURI": "https://ibb.co.com/qjLw3dS",
+            "name": "Moxie:hajel.eth-ens",
+            "symbol": "Moxie:hajel.eth-ens"
         }
     ],
     "version": {
