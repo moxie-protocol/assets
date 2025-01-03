@@ -15297,6 +15297,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/418f3087-d990-4734-3205-beb32d68a000/rectcrop3",
             "name": "Moxie:xaptainmagma-fc",
             "symbol": "Moxie:xaptainmagma-fc"
+        },
+        {
+            "address": "0x289BB605eBF319F267f0Fbcaee2856993B4E4ede",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0DX1QT0.jpg",
+            "name": "Moxie:mdpump-fc",
+            "symbol": "Moxie:mdpump-fc"
         }
     ],
     "version": {
