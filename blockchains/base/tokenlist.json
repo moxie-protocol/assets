@@ -15241,6 +15241,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d272d57-4f3d-4072-9f29-029f61f70f00/rectcrop3",
             "name": "Moxie:honzecrypt-fc",
             "symbol": "Moxie:honzecrypt-fc"
+        },
+        {
+            "address": "0x6B269402078994d9c25897065A8e2929b1E0A8BE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bc72dbc-874a-44eb-0b3a-ab2cb74ace00/rectcrop3",
+            "name": "Moxie:sergomaken-fc",
+            "symbol": "Moxie:sergomaken-fc"
         }
     ],
     "version": {
