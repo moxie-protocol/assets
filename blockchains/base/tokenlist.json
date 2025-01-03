@@ -16221,6 +16221,13 @@
             "logoURI": "https://i.imgur.com/9CSBhWk.jpg",
             "name": "Moxie:fkr1905-fc",
             "symbol": "Moxie:fkr1905-fc"
+        },
+        {
+            "address": "0x4542378a8f3C091EbC2D39077f007fA20Ea21AcE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a021b3c1-1ddf-4dee-a85e-53df9bad9700/rectcrop3",
+            "name": "Moxie:mostafasarvari79-fc",
+            "symbol": "Moxie:mostafasarvari79-fc"
         }
     ],
     "version": {
