@@ -16529,6 +16529,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1774581130445926400/ZPeVk-HX.jpg",
             "name": "Moxie:AliDanish15941-x",
             "symbol": "Moxie:AliDanish15941-x"
+        },
+        {
+            "address": "0x357f46F886b3ba54E70027D5Bf86E30B1cE0423B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21ee1521-9567-49ef-a8d9-b491f786f900/rectcrop3",
+            "name": "Moxie:jacak-fc",
+            "symbol": "Moxie:jacak-fc"
         }
     ],
     "version": {
