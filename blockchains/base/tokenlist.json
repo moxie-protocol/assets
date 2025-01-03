@@ -13337,6 +13337,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigublncbmln2vaar6snhxumcryxjk5vtgzxvseqonqaplfx2hqzky",
             "name": "Moxie:mayanktanwar7-fc",
             "symbol": "Moxie:mayanktanwar7-fc"
+        },
+        {
+            "address": "0x70B2f3B0E498A9141ca532aeb58caa9e6B760002",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0113a69c-33b9-447f-6246-3e0aea455200/rectcrop3",
+            "name": "Moxie:teco-fc",
+            "symbol": "Moxie:teco-fc"
         }
     ],
     "version": {
