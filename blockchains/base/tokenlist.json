@@ -13967,6 +13967,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/24b2c7fb-700f-4ac9-d114-fd7e70099700/rectcrop3",
             "name": "Moxie:luckyred-fc",
             "symbol": "Moxie:luckyred-fc"
+        },
+        {
+            "address": "0x0f9f17Ed92b9fbD58079fCa5064a11B509c39113",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gswVIVs.jpg",
+            "name": "Moxie:ajinomicin-fc",
+            "symbol": "Moxie:ajinomicin-fc"
         }
     ],
     "version": {
