@@ -14401,6 +14401,13 @@
             "logoURI": null,
             "name": "aisa",
             "symbol": "fid:255266"
+        },
+        {
+            "address": "0x83807bF3Dd37fCCB7BEE951e58aa1f136Ca1bb9c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805511132771500034/WYte4y1R.jpg",
+            "name": "Moxie:elnisyarif21-x",
+            "symbol": "Moxie:elnisyarif21-x"
         }
     ],
     "version": {
