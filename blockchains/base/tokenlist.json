@@ -15262,6 +15262,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidq3ptrj7mcwurkftchgrchhca4f6g3fpgg7qr3ithfjpt32pgorm",
             "name": "Moxie:shonn-fc",
             "symbol": "Moxie:shonn-fc"
+        },
+        {
+            "address": "0x7aA0B7b4F5F75aC8581EEE415B857E58a251565A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1742794776288620544/5ovtDBBo.png",
+            "name": "Moxie:Muslihudeen0001-x",
+            "symbol": "Moxie:Muslihudeen0001-x"
         }
     ],
     "version": {
