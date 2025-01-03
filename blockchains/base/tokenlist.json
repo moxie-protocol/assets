@@ -13841,6 +13841,13 @@
             "logoURI": "https://i.imgur.com/AUuJKG3.jpg",
             "name": "Moxie:jpmaxx-fc",
             "symbol": "Moxie:jpmaxx-fc"
+        },
+        {
+            "address": "0x77f8D62F60b9D9F20D65EeaE927A6C8D136B8D3b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1387725187227942914/BtosJiDB.jpg",
+            "name": "Moxie:ThinNguynng1-x",
+            "symbol": "Moxie:ThinNguynng1-x"
         }
     ],
     "version": {
