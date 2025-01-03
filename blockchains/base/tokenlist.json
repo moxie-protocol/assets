@@ -14800,6 +14800,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f739ef31-c22c-48c0-075e-ac56dfd5ca00/rectcrop3",
             "name": "Moxie:mezzolitikum-fc",
             "symbol": "Moxie:mezzolitikum-fc"
+        },
+        {
+            "address": "0xf64CB999c1a5786e523E048d5fFfCbfE5339dd6b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866806732879781888/-sJ4eYoG.jpg",
+            "name": "Moxie:oxacheron8-x",
+            "symbol": "Moxie:oxacheron8-x"
         }
     ],
     "version": {
