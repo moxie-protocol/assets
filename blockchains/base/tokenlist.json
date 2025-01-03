@@ -15976,6 +15976,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad5689ed-a90f-48d0-ebb5-42e4c4911e00/rectcrop3",
             "name": "Moxie:fmona-fc",
             "symbol": "Moxie:fmona-fc"
+        },
+        {
+            "address": "0x0bCC405C86dDDbb53EB19eaDB8290C5f8a48D36c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/J2viP83.jpg",
+            "name": "Moxie:filo-fc",
+            "symbol": "Moxie:filo-fc"
         }
     ],
     "version": {
