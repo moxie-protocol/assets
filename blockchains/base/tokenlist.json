@@ -14940,6 +14940,13 @@
             "logoURI": "https://i.imgur.com/lb2LKhP.jpg",
             "name": "Moxie:minchan-fc",
             "symbol": "Moxie:minchan-fc"
+        },
+        {
+            "address": "0xA6782E1e85911Fe7b9299dB8b8582Da5c0672c2E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ethercaster",
+            "symbol": "fid:905567"
         }
     ],
     "version": {
