@@ -14219,6 +14219,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1713123789150777344/Oat4mLuy.jpg",
             "name": "Moxie:anhkymmo83-x",
             "symbol": "Moxie:anhkymmo83-x"
+        },
+        {
+            "address": "0xCA21cd4EF37A0B245bc62856CD32135A47b24750",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vCTKJkG.jpg",
+            "name": "Moxie:mecharys-fc",
+            "symbol": "Moxie:mecharys-fc"
         }
     ],
     "version": {
