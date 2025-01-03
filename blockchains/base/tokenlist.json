@@ -14394,6 +14394,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
             "name": "Moxie:thanh232-fc",
             "symbol": "Moxie:thanh232-fc"
+        },
+        {
+            "address": "0xcC2D45568f72D5E9A17A371AD2629a900cbA3250",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "aisa",
+            "symbol": "fid:255266"
         }
     ],
     "version": {
