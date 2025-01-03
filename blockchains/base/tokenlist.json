@@ -15101,6 +15101,13 @@
             "logoURI": "https://i.imgur.com/dHfnT98.jpg",
             "name": "Moxie:alkaline-fc",
             "symbol": "Moxie:alkaline-fc"
+        },
+        {
+            "address": "0x0306A0AB4e25df0c599AD72e94Af2feD06B3518b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/7i8zZbV.jpg",
+            "name": "Moxie:empeh-fc",
+            "symbol": "Moxie:empeh-fc"
         }
     ],
     "version": {
