@@ -14121,6 +14121,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825144368472424449/0qGPghvD.jpg",
             "name": "Moxie:danywarpath55-x",
             "symbol": "Moxie:danywarpath55-x"
+        },
+        {
+            "address": "0xe5B887596d36F3415d2275F0817Ca7Dc39A40A01",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91054790-89bb-43b0-f059-43ea3c8aab00/rectcrop3",
+            "name": "Moxie:maddogs-fc",
+            "symbol": "Moxie:maddogs-fc"
         }
     ],
     "version": {
