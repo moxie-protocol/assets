@@ -16046,6 +16046,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1780750161981145088/LHe5y-3q.jpg",
             "name": "Moxie:Supernika999-x",
             "symbol": "Moxie:Supernika999-x"
+        },
+        {
+            "address": "0xB7E91869921fE19D8Db395BAE742896dDe920985",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/I2hqDuN.jpg",
+            "name": "Moxie:herstock-fc",
+            "symbol": "Moxie:herstock-fc"
         }
     ],
     "version": {
