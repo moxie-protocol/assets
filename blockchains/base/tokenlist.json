@@ -14450,6 +14450,13 @@
             "logoURI": "https://i.imgur.com/FSUI87S.jpg",
             "name": "Moxie:jarotdisini-fc",
             "symbol": "Moxie:jarotdisini-fc"
+        },
+        {
+            "address": "0xF0516Ee336Eb76fF797F307C6573D364a2e1D29a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdebc59c-684d-4c33-f5b2-d6fad3759500/original",
+            "name": "Moxie:yutux-fc",
+            "symbol": "Moxie:yutux-fc"
         }
     ],
     "version": {
