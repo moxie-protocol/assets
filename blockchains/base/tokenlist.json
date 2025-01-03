@@ -14793,6 +14793,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f15290c5-6745-4a87-74b5-eea57c29a900/rectcrop3",
             "name": "Moxie:0xmorph111-fc",
             "symbol": "Moxie:0xmorph111-fc"
+        },
+        {
+            "address": "0x826D0990765B7F10ebD15B97e5e3aC8836f26396",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f739ef31-c22c-48c0-075e-ac56dfd5ca00/rectcrop3",
+            "name": "Moxie:mezzolitikum-fc",
+            "symbol": "Moxie:mezzolitikum-fc"
         }
     ],
     "version": {
