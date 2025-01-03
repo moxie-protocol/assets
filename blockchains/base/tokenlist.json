@@ -13407,6 +13407,13 @@
             "logoURI": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-cool-sphere-1170x780.jpg",
             "name": "Moxie:120388.eth-ens",
             "symbol": "Moxie:120388.eth-ens"
+        },
+        {
+            "address": "0x7595Ea4b12f1F98ab2B2ed5255FbF0B5255Ce1bC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/CwKKPbM.jpg",
+            "name": "Moxie:sedative-fc",
+            "symbol": "Moxie:sedative-fc"
         }
     ],
     "version": {
