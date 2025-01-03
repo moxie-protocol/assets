@@ -16417,6 +16417,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7836a14-b162-4bde-6dd2-0d27ec897f00/original",
             "name": "Moxie:vocal.base.eth-base",
             "symbol": "Moxie:vocal.base.eth-base"
+        },
+        {
+            "address": "0xC5376024B8980873F41AAcEb94973839a5c0Df58",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1848020284936216576/ZQChpTUO.jpg",
+            "name": "Moxie:temmiewayne-x",
+            "symbol": "Moxie:temmiewayne-x"
         }
     ],
     "version": {
