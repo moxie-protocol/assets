@@ -13736,6 +13736,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/015c51a8-1123-43ed-6143-b43f661c2200/rectcrop3",
             "name": "Moxie:nyaaaa-fc",
             "symbol": "Moxie:nyaaaa-fc"
+        },
+        {
+            "address": "0xC81323990DDcaEB6b3fE851559Db1EAe2d4Efd0b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZSRecWU.jpg",
+            "name": "Moxie:dhimsjp-fc",
+            "symbol": "Moxie:dhimsjp-fc"
         }
     ],
     "version": {
