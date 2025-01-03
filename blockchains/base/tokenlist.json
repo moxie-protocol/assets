@@ -15353,6 +15353,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db313f44-dae1-483c-3ca5-682cbdd10100/rectcrop3",
             "name": "Moxie:lipu7-fc",
             "symbol": "Moxie:lipu7-fc"
+        },
+        {
+            "address": "0xc82F6bc56093A564083a67E4B61912e201C8425E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93998ede-8293-4337-ac5f-c2c065cb4e00/rectcrop3",
+            "name": "Moxie:duceros1368-fc",
+            "symbol": "Moxie:duceros1368-fc"
         }
     ],
     "version": {
