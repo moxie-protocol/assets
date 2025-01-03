@@ -16263,6 +16263,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68d17e28-2f51-41b4-8a1d-bc2e0bba2500/rectcrop3",
             "name": "Moxie:erwanros-fc",
             "symbol": "Moxie:erwanros-fc"
+        },
+        {
+            "address": "0x5D1CC2486b9eA46E75AcB9760772a4e15342cca9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad64baf1-22f2-446d-642b-749083489200/rectcrop3",
+            "name": "Moxie:xboxx-fc",
+            "symbol": "Moxie:xboxx-fc"
         }
     ],
     "version": {
