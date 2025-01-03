@@ -14191,6 +14191,13 @@
             "logoURI": "https://i.imgur.com/8rpDLNx.jpg",
             "name": "Moxie:willvnct-fc",
             "symbol": "Moxie:willvnct-fc"
+        },
+        {
+            "address": "0x60e9e853909D87711bC40fF9e5BcBd060242cF29",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1405804149438967808/kwOAElPT.jpg",
+            "name": "Moxie:Fajarbaharix-x",
+            "symbol": "Moxie:Fajarbaharix-x"
         }
     ],
     "version": {
