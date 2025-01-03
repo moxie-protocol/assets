@@ -15409,6 +15409,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiadgqpq5wwfelyjrw4ga3pugpycjiegikoigpv7np4qx7rnge3oke",
             "name": "Moxie:zhafranarzaq-fc",
             "symbol": "Moxie:zhafranarzaq-fc"
+        },
+        {
+            "address": "0x6Dd50324408ba60A5653A85bB33A5DBD9F6DA0b5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/169df3ef-c055-4ccd-cd7b-f14187541a00/rectcrop3",
+            "name": "Moxie:jodi219-fc",
+            "symbol": "Moxie:jodi219-fc"
         }
     ],
     "version": {
