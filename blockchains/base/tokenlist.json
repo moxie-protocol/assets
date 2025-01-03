@@ -13911,6 +13911,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8c3d032-1132-4ae3-4fe2-550bbafb2f00/rectcrop3",
             "name": "Moxie:fatureth-fc",
             "symbol": "Moxie:fatureth-fc"
+        },
+        {
+            "address": "0xb9B5ec78273463e99b2BA524d5f9418ED8e41316",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/813eade3-df08-4122-f448-f6c3551db200/original",
+            "name": "Moxie:0xvuc-fc",
+            "symbol": "Moxie:0xvuc-fc"
         }
     ],
     "version": {
