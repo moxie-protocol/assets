@@ -15500,6 +15500,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795627271409328128/E_iyRA-r.jpg",
             "name": "Moxie:cidKagenou_af-x",
             "symbol": "Moxie:cidKagenou_af-x"
+        },
+        {
+            "address": "0x7FA1da114f531fE396e20a03418aecCb88B68147",
+            "decimals": 18,
+            "logoURI": "https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg",
+            "name": "Moxie:whisperem.base.eth-base",
+            "symbol": "Moxie:whisperem.base.eth-base"
         }
     ],
     "version": {
