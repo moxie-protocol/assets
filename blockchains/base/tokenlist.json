@@ -16186,6 +16186,13 @@
             "logoURI": "https://ibb.co.com/qjLw3dS",
             "name": "Moxie:hajel.eth-ens",
             "symbol": "Moxie:hajel.eth-ens"
+        },
+        {
+            "address": "0x7C4AAB9ad6aDa63e69ddA06C97De19906b3E8025",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "hassanaz25",
+            "symbol": "fid:918931"
         }
     ],
     "version": {
