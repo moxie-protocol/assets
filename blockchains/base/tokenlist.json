@@ -12490,6 +12490,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67767e2c-b1ab-4719-8b65-c6e1108c3c00/original",
             "name": "Moxie:patrion-fc",
             "symbol": "Moxie:patrion-fc"
+        },
+        {
+            "address": "0xC87ffBe6E7d8981f19E9d6AD3b7305E6b16c9C67",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/e3yjkyI.jpg",
+            "name": "Moxie:aris111-fc",
+            "symbol": "Moxie:aris111-fc"
         }
     ],
     "version": {
