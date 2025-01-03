@@ -14422,6 +14422,13 @@
             "logoURI": "https://i.imgur.com/MbN0AzJ.jpg",
             "name": "Moxie:kyuuds-fc",
             "symbol": "Moxie:kyuuds-fc"
+        },
+        {
+            "address": "0xe8813C512745232310e6Ab7f531F85CD1EEef2Aa",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vF8nxkZ.jpg",
+            "name": "Moxie:babysharkz-fc",
+            "symbol": "Moxie:babysharkz-fc"
         }
     ],
     "version": {
