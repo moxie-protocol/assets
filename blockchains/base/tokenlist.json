@@ -13869,6 +13869,13 @@
             "logoURI": "https://i.imgur.com/B7H5hpb.jpg",
             "name": "Moxie:ukaritakino-fc",
             "symbol": "Moxie:ukaritakino-fc"
+        },
+        {
+            "address": "0xdB036D65bFc75f2fe221969CEe1082E874952205",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZGjvgnu.jpg",
+            "name": "Moxie:ebau-fc",
+            "symbol": "Moxie:ebau-fc"
         }
     ],
     "version": {
