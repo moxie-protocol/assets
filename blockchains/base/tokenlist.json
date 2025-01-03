@@ -14667,6 +14667,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79b2d2cb-8307-4dad-163d-6b94f33c6200/rectcrop3",
             "name": "Moxie:bronxyz-fc",
             "symbol": "Moxie:bronxyz-fc"
+        },
+        {
+            "address": "0x395D2449c29357A18b708cc750EbeFb8E18dB96A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/140670d0-be0d-45a3-7020-a046efac3500/rectcrop3",
+            "name": "Moxie:agugun-fc",
+            "symbol": "Moxie:agugun-fc"
         }
     ],
     "version": {
