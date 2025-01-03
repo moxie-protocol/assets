@@ -16382,6 +16382,13 @@
             "logoURI": "https://i.imgur.com/IBjtMit.jpg",
             "name": "Moxie:solanasergio-fc",
             "symbol": "Moxie:solanasergio-fc"
+        },
+        {
+            "address": "0x426067cDc9E129E94F03306bB3369bf3C1A80C35",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1787513474110849024/NhPd3p0x.jpg",
+            "name": "Moxie:Acewyrcrypto2nd-x",
+            "symbol": "Moxie:Acewyrcrypto2nd-x"
         }
     ],
     "version": {
