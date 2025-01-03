@@ -15668,6 +15668,13 @@
             "logoURI": "https://media.firefly.land/farcaster/E93661DF-130E-4CE1-8AAC-5F909EE54A36.png",
             "name": "Moxie:ozengk.eth-fc",
             "symbol": "Moxie:ozengk.eth-fc"
+        },
+        {
+            "address": "0xD1785E17db64DFaBDd74847C8d68a0386edcAA05",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "awsome",
+            "symbol": "fid:762691"
         }
     ],
     "version": {
