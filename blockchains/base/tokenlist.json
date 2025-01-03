@@ -16543,6 +16543,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b55c499-eb80-48c5-e335-54310f196600/rectcrop3",
             "name": "Moxie:teloz-fc",
             "symbol": "Moxie:teloz-fc"
+        },
+        {
+            "address": "0x399DbC6F6f90b7916fBd4402Dc8b02546F1a5dc2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/178865e5-2007-4193-8585-93b2fd30a200/rectcrop3",
+            "name": "Moxie:dasipenz-fc",
+            "symbol": "Moxie:dasipenz-fc"
         }
     ],
     "version": {
