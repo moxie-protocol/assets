@@ -13715,6 +13715,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8bd9d9d4-4b83-4fe8-a140-c835cb4a2100/rectcrop3",
             "name": "Moxie:rosewhy-fc",
             "symbol": "Moxie:rosewhy-fc"
+        },
+        {
+            "address": "0x532bC6bcF61AD300010dA1242ba075E01bBdf9e5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1818188210604003328/qRknM3-6.jpg",
+            "name": "Moxie:lionliyat-x",
+            "symbol": "Moxie:lionliyat-x"
         }
     ],
     "version": {
