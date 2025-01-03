@@ -14996,6 +14996,13 @@
             "logoURI": "https://i.imgur.com/q4EX9c4.jpg",
             "name": "Moxie:korncorona-fc",
             "symbol": "Moxie:korncorona-fc"
+        },
+        {
+            "address": "0xBE2E55248842342Afc4A3d33040Eb60c728e4253",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/eBDGXcvFPZllusKzYtbevk7QABcv_ZxfE2kZ082mfco/",
+            "name": "Moxie:rikuudx-fc",
+            "symbol": "Moxie:rikuudx-fc"
         }
     ],
     "version": {
