@@ -13260,6 +13260,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1699997207737569280/rtaJpjOK.jpg",
             "name": "Moxie:Donidjnar-x",
             "symbol": "Moxie:Donidjnar-x"
+        },
+        {
+            "address": "0x45cfD5c79A77E06d01dA4D64552dCFd51399de7F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1706805425671401472/odIU8qsR.jpg",
+            "name": "Moxie:RafiqulHakim-x",
+            "symbol": "Moxie:RafiqulHakim-x"
         }
     ],
     "version": {
