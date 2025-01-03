@@ -14247,6 +14247,13 @@
             "logoURI": "https://i.imgur.com/UFt90xM.jpg",
             "name": "Moxie:paradigmaaqly-fc",
             "symbol": "Moxie:paradigmaaqly-fc"
+        },
+        {
+            "address": "0x72B409fa5FC43B851E113ff3a319cf0189b1FaAe",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449e6833-87d0-4137-1dfa-2496494fa000/rectcrop3",
+            "name": "Moxie:nst-fc",
+            "symbol": "Moxie:nst-fc"
         }
     ],
     "version": {
