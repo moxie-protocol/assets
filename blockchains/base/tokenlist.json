@@ -16053,6 +16053,13 @@
             "logoURI": "https://i.imgur.com/I2hqDuN.jpg",
             "name": "Moxie:herstock-fc",
             "symbol": "Moxie:herstock-fc"
+        },
+        {
+            "address": "0x4BB6fd6BAA33FFB914b8c0EFD16b3e0001Cd8D27",
+            "decimals": 18,
+            "logoURI": "https://l3img-secondary.b-cdn.net/ipfs/QmWj9AgNb2v7TxckHhAvzXgi3oC7ANTaFoQ8y3YvktxaLw?width=156\u0026optimizer=image",
+            "name": "Moxie:febby.base.eth-base",
+            "symbol": "Moxie:febby.base.eth-base"
         }
     ],
     "version": {
