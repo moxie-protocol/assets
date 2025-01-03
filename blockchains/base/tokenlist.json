@@ -13750,6 +13750,13 @@
             "logoURI": "https://i.imgur.com/2vPpZ3A.jpg",
             "name": "Moxie:iky--fc",
             "symbol": "Moxie:iky--fc"
+        },
+        {
+            "address": "0x34D2b94a5ccA483E9E8D916c6f9288A92eF15ca9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2nD1zBD.jpg",
+            "name": "Moxie:kimjp-fc",
+            "symbol": "Moxie:kimjp-fc"
         }
     ],
     "version": {
