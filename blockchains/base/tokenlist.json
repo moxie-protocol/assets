@@ -12728,6 +12728,13 @@
             "logoURI": "https://i.imgur.com/qxtqDf2.jpg",
             "name": "Moxie:r3kt-fc",
             "symbol": "Moxie:r3kt-fc"
+        },
+        {
+            "address": "0x12EE003470064FE34A48D547CA051787fe682294",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MvQHu8l.jpg",
+            "name": "Moxie:ech3lonn-fc",
+            "symbol": "Moxie:ech3lonn-fc"
         }
     ],
     "version": {
