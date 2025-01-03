@@ -12504,6 +12504,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c228609f-94cc-4e03-0dd4-da4a8e325400/rectcrop3",
             "name": "Moxie:fivex-fc",
             "symbol": "Moxie:fivex-fc"
+        },
+        {
+            "address": "0x7634fe5bc8Dc33cAbB4f7feeE6D40FDD41d099Fd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef2350f-bdce-4bfc-9f53-82a365b13f00/original",
+            "name": "Moxie:kukkui-fc",
+            "symbol": "Moxie:kukkui-fc"
         }
     ],
     "version": {
