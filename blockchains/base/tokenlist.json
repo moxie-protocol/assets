@@ -14779,6 +14779,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibkohk7unjep45voecrbqk434oeguevdmokkzuxpsfmf3jwy4qmsm",
             "name": "Moxie:bualandr-fc",
             "symbol": "Moxie:bualandr-fc"
+        },
+        {
+            "address": "0x1531aBA25D1c03F0cE793be40528b5C78027A209",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1818132101566496769/QRCSLfCc.png",
+            "name": "Moxie:CryptoXeanReal-x",
+            "symbol": "Moxie:CryptoXeanReal-x"
         }
     ],
     "version": {
