@@ -15549,6 +15549,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874222592615473152/w8dis1gd.jpg",
             "name": "Moxie:nhanle1512-x",
             "symbol": "Moxie:nhanle1512-x"
+        },
+        {
+            "address": "0x4d004c4F7338219Ffb73baAdBcDF36B68F3c91a3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/CvHuq6J.jpg",
+            "name": "Moxie:dickyanggara-fc",
+            "symbol": "Moxie:dickyanggara-fc"
         }
     ],
     "version": {
