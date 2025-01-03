@@ -15899,6 +15899,13 @@
             "logoURI": "https://i.imgur.com/SRjjELk.jpg",
             "name": "Moxie:sygnum-fc",
             "symbol": "Moxie:sygnum-fc"
+        },
+        {
+            "address": "0xA6EdDa0EffCAc378e3FD42A7e830A2E67EbDa0E2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3392b34-7c05-4933-1d07-03da1117c700/original",
+            "name": "Moxie:krivaldi-fc",
+            "symbol": "Moxie:krivaldi-fc"
         }
     ],
     "version": {
