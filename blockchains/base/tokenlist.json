@@ -14898,6 +14898,13 @@
             "logoURI": "https://i.imgur.com/2GRVg5v.jpg",
             "name": "Moxie:nhanle-fc",
             "symbol": "Moxie:nhanle-fc"
+        },
+        {
+            "address": "0x869F900595571c585138C17086FC370498841D96",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d0d3463-7c48-4d01-e7c3-73652dc2db00/rectcrop3",
+            "name": "Moxie:web3face-fc",
+            "symbol": "Moxie:web3face-fc"
         }
     ],
     "version": {
