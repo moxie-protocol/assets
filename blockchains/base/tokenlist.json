@@ -15780,6 +15780,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1531579338964971521/ylsEVTeN.jpg",
             "name": "Moxie:bong6444-x",
             "symbol": "Moxie:bong6444-x"
+        },
+        {
+            "address": "0xFE34FD1Ed1c295A31a8EE51DF1cB066C6d647aCe",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tp2lPUY.jpg",
+            "name": "Moxie:0xbinbong-fc",
+            "symbol": "Moxie:0xbinbong-fc"
         }
     ],
     "version": {
