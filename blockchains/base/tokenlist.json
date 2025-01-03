@@ -15808,6 +15808,13 @@
             "logoURI": "https://i.imgur.com/F5kEL5y.jpg",
             "name": "Moxie:duts-fc",
             "symbol": "Moxie:duts-fc"
+        },
+        {
+            "address": "0x12386aAD7C758fD66067699B6d38584148e89C9a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1774160020260679680/5CDCaELt.jpg",
+            "name": "Moxie:zaza10k4real-x",
+            "symbol": "Moxie:zaza10k4real-x"
         }
     ],
     "version": {
