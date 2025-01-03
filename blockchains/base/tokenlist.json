@@ -16116,6 +16116,13 @@
             "logoURI": "https://iznanka.news/upload/resize_cache/iblock/5c4/711_711_1/0phib4jw6rsg63ojp4thhbcji7ql3xrj.jpeg.webp",
             "name": "Moxie:pivosaurus.eth-ens",
             "symbol": "Moxie:pivosaurus.eth-ens"
+        },
+        {
+            "address": "0x057B0198b92010dE16B8fB22aFf8c17dDe00F827",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/88qUwvv.jpg",
+            "name": "Moxie:l0l-fc",
+            "symbol": "Moxie:l0l-fc"
         }
     ],
     "version": {
