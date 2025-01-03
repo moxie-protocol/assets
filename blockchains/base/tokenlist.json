@@ -12742,6 +12742,13 @@
             "logoURI": "https://i.imgur.com/xSK2P2G.jpg",
             "name": "Moxie:yolloz-fc",
             "symbol": "Moxie:yolloz-fc"
+        },
+        {
+            "address": "0x279575a5ee8dC9261fFd9Fd147C17cBE0FE0f6c0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WDFCY4n.jpg",
+            "name": "Moxie:adisty-fc",
+            "symbol": "Moxie:adisty-fc"
         }
     ],
     "version": {
