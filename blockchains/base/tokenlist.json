@@ -14142,6 +14142,13 @@
             "logoURI": "https://t4.ftcdn.net/jpg/04/61/67/63/360_F_461676386_JAB9DgisuF97g2w0lurbTGy4LpE5CUe6.jpg",
             "name": "Moxie:mez666.eth-ens",
             "symbol": "Moxie:mez666.eth-ens"
+        },
+        {
+            "address": "0x8ecC37a8251201CB6DF91334077858909AA657B4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872575189294436352/EVYSTt89.jpg",
+            "name": "Moxie:Racoyo0805-x",
+            "symbol": "Moxie:Racoyo0805-x"
         }
     ],
     "version": {
