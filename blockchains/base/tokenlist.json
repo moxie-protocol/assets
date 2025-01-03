@@ -13197,6 +13197,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8e94fba-46f8-426e-f049-92c275c09d00/rectcrop3",
             "name": "Moxie:almahera-fc",
             "symbol": "Moxie:almahera-fc"
+        },
+        {
+            "address": "0x08708e95dDeBBEcc1317EA95666AFd9FF66c5d2D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1804228320781037568/wvvC8lbv.jpg",
+            "name": "Moxie:rico28898-x",
+            "symbol": "Moxie:rico28898-x"
         }
     ],
     "version": {
