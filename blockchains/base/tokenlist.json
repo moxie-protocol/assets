@@ -13498,6 +13498,13 @@
             "logoURI": null,
             "name": "bigdegenenergy",
             "symbol": "fid:931289"
+        },
+        {
+            "address": "0xa7E04B1418034D717C06dDBA5466FC94744b9f54",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1793120023218917376/yz8e8ZEu.png",
+            "name": "Moxie:Sshahidshaan-x",
+            "symbol": "Moxie:Sshahidshaan-x"
         }
     ],
     "version": {
