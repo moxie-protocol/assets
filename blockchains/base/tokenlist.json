@@ -16039,6 +16039,13 @@
             "logoURI": null,
             "name": "khadijaahmadi",
             "symbol": "fid:897691"
+        },
+        {
+            "address": "0x5678bbB7a80e63d0b74ae9337199DfF78914d83E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1780750161981145088/LHe5y-3q.jpg",
+            "name": "Moxie:Supernika999-x",
+            "symbol": "Moxie:Supernika999-x"
         }
     ],
     "version": {
