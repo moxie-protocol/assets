@@ -13778,6 +13778,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828524012521046016/R9xxnwew.jpg",
             "name": "Moxie:AlfiTri121281-x",
             "symbol": "Moxie:AlfiTri121281-x"
+        },
+        {
+            "address": "0x490A0cA3E79a7d751407daC49f3496ae3C9D1FF0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866829077979832320/JlwpgbgQ.jpg",
+            "name": "Moxie:airdropindoid-x",
+            "symbol": "Moxie:airdropindoid-x"
         }
     ],
     "version": {
