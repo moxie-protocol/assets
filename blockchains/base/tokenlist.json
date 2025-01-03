@@ -16144,6 +16144,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73ed602c-199f-40c4-82d5-174a5941fe00/original",
             "name": "Moxie:gusdewiratama-fc",
             "symbol": "Moxie:gusdewiratama-fc"
+        },
+        {
+            "address": "0xe262e45A7005E0920EBf04B5AbdA814c9ea5BB18",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qxJQfii.jpg",
+            "name": "Moxie:alcrypto-fc",
+            "symbol": "Moxie:alcrypto-fc"
         }
     ],
     "version": {
