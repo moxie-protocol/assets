@@ -14737,6 +14737,13 @@
             "logoURI": "https://i.imgur.com/rOniarM.jpg",
             "name": "Moxie:infobus-fc",
             "symbol": "Moxie:infobus-fc"
+        },
+        {
+            "address": "0xCE50D6B8E9f5f7AF1c8FeD93598B9FA313eEdeED",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xX4ObzB.jpg",
+            "name": "Moxie:0xbyy-fc",
+            "symbol": "Moxie:0xbyy-fc"
         }
     ],
     "version": {
