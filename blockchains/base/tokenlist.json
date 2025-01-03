@@ -14625,6 +14625,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1841758167086333955/IQFVa4NE.jpg",
             "name": "Moxie:Plongoooooo-x",
             "symbol": "Moxie:Plongoooooo-x"
+        },
+        {
+            "address": "0x2E6b1b8cF666b550AE78c48746a08909Da61B31c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1850239660129488897/tmixh7Zu.jpg",
+            "name": "Moxie:ImLucky_eth-x",
+            "symbol": "Moxie:ImLucky_eth-x"
         }
     ],
     "version": {
