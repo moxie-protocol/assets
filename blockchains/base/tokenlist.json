@@ -16501,6 +16501,13 @@
             "logoURI": "https://i.imgur.com/79ZJuK2.jpg",
             "name": "Moxie:ikay1122-fc",
             "symbol": "Moxie:ikay1122-fc"
+        },
+        {
+            "address": "0x35cEFDab46dedB88D2ACB0231192be35a9918153",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6dcd23a8-b00f-492a-ad52-c8c19fbc3900/original",
+            "name": "Moxie:antonpmd-fc",
+            "symbol": "Moxie:antonpmd-fc"
         }
     ],
     "version": {
