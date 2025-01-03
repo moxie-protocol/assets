@@ -15227,6 +15227,13 @@
             "logoURI": "https://i.imgur.com/fhVuAV3.jpg",
             "name": "Moxie:echovenus22-fc",
             "symbol": "Moxie:echovenus22-fc"
+        },
+        {
+            "address": "0x66cDc5DED3f38F679518DE37D47E608Ab843C94c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828227737133424641/HVwQzEHE.jpg",
+            "name": "Moxie:tejo2000-x",
+            "symbol": "Moxie:tejo2000-x"
         }
     ],
     "version": {
