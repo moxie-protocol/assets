@@ -14730,6 +14730,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/203641fb-0453-4a91-90f2-262828f42200/rectcrop3",
             "name": "Moxie:jodiriyadi-fc",
             "symbol": "Moxie:jodiriyadi-fc"
+        },
+        {
+            "address": "0x758F5183AAAe4053A3De574a71ff4a9EA90D1055",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rOniarM.jpg",
+            "name": "Moxie:infobus-fc",
+            "symbol": "Moxie:infobus-fc"
         }
     ],
     "version": {
