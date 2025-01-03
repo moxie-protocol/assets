@@ -16410,6 +16410,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1614616259403866113/zEkzk9JR.jpg",
             "name": "Moxie:CryptoAddict31x-x",
             "symbol": "Moxie:CryptoAddict31x-x"
+        },
+        {
+            "address": "0xABfA11BFD798b148933Cd941c0509be62160cbBB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7836a14-b162-4bde-6dd2-0d27ec897f00/original",
+            "name": "Moxie:vocal.base.eth-base",
+            "symbol": "Moxie:vocal.base.eth-base"
         }
     ],
     "version": {
