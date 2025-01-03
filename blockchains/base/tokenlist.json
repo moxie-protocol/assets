@@ -14079,6 +14079,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1589002643309228032/E4lj3Wzx.jpg",
             "name": "Moxie:olexskuy-x",
             "symbol": "Moxie:olexskuy-x"
+        },
+        {
+            "address": "0xaB9c3aecBD979DB7695AeF36f8dBaDFC6C6178B9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dwfMrc9.jpg",
+            "name": "Moxie:rakhsst-fc",
+            "symbol": "Moxie:rakhsst-fc"
         }
     ],
     "version": {
