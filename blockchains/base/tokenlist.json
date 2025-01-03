@@ -12602,6 +12602,13 @@
             "logoURI": "https://i.imgur.com/Yha6TRc.jpg",
             "name": "Moxie:fhy-fc",
             "symbol": "Moxie:fhy-fc"
+        },
+        {
+            "address": "0x545b82cA89b93bC1258ad6C6c41F76B179d9FCff",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1846586488437485568/Z7rvUDjT.png",
+            "name": "Moxie:PejuangOppo-x",
+            "symbol": "Moxie:PejuangOppo-x"
         }
     ],
     "version": {
