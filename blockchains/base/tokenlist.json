@@ -15689,6 +15689,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a15968a-b2bb-4d7d-5d5c-737d354c6800/rectcrop3",
             "name": "Moxie:azet-fc",
             "symbol": "Moxie:azet-fc"
+        },
+        {
+            "address": "0x261CbAb11dBec374B47fDF7C04e369a0b3295b2e",
+            "decimals": 18,
+            "logoURI": "https://i.pinimg.com/736x/8b/d6/b8/8bd6b815b7fad253c9b4d23fab437a1c.jpg",
+            "name": "Moxie:kbdor.base.eth-base",
+            "symbol": "Moxie:kbdor.base.eth-base"
         }
     ],
     "version": {
