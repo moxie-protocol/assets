@@ -15220,6 +15220,13 @@
             "logoURI": "https://i.imgur.com/0TaxTu3.jpg",
             "name": "Moxie:cuonggiau2-fc",
             "symbol": "Moxie:cuonggiau2-fc"
+        },
+        {
+            "address": "0xB78b39332c914616F25A0C0d127638d76eFE9c68",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fhVuAV3.jpg",
+            "name": "Moxie:echovenus22-fc",
+            "symbol": "Moxie:echovenus22-fc"
         }
     ],
     "version": {
