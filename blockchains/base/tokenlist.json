@@ -14289,6 +14289,13 @@
             "logoURI": "https://i.imgur.com/oDIqpIx.jpg",
             "name": "Moxie:virgoeth-fc",
             "symbol": "Moxie:virgoeth-fc"
+        },
+        {
+            "address": "0xBcB6632669b30c912E6ec2afDa3d925F5f41E087",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5IramFp.jpg",
+            "name": "Moxie:kertanegara-fc",
+            "symbol": "Moxie:kertanegara-fc"
         }
     ],
     "version": {
