@@ -16242,6 +16242,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiaglxm5by42tud3as3dnoh74rwr2ubegddf37w6zcee4dfmfs2twi",
             "name": "Moxie:fachriezz-fc",
             "symbol": "Moxie:fachriezz-fc"
+        },
+        {
+            "address": "0x9018C2A8f49cF39d2ceDc487631482838B4eed1b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0abf826-866e-4e4a-c9c9-bd207e4bfc00/rectcrop3",
+            "name": "Moxie:yalsssjpnih-fc",
+            "symbol": "Moxie:yalsssjpnih-fc"
         }
     ],
     "version": {
