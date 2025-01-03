@@ -16340,6 +16340,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825531350272606208/y3bH2W8u.jpg",
             "name": "Moxie:kabxrou-x",
             "symbol": "Moxie:kabxrou-x"
+        },
+        {
+            "address": "0x8111Cb58325B5F483e4281d01422Ddb4534Db5a3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eff5b87-426f-496d-5d4d-9c55b75e9e00/rectcrop3",
+            "name": "Moxie:meaura-fc",
+            "symbol": "Moxie:meaura-fc"
         }
     ],
     "version": {
