@@ -12707,6 +12707,13 @@
             "logoURI": "https://axeuvquj7sfbdzmlujn3pag6n6ztrztbj2gdgy4fihiri5wufkka.arweave.net/BclKwon8ihHli6Jbt4Deb7M45mFOjDNjhUHRFHbUKpQ/",
             "name": "Moxie:ainulyaqin-fc",
             "symbol": "Moxie:ainulyaqin-fc"
+        },
+        {
+            "address": "0x94aaF4eecab1D6C636e9cD5288ccd835067c6CC5",
+            "decimals": 18,
+            "logoURI": "https://img.freepik.com/premium-photo/purple-dog-with-purple-logo-that-says-dog_910054-21207.jpg",
+            "name": "Moxie:ethpop.eth-ens",
+            "symbol": "Moxie:ethpop.eth-ens"
         }
     ],
     "version": {
