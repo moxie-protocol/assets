@@ -13638,6 +13638,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:alipapa-fc",
             "symbol": "Moxie:alipapa-fc"
+        },
+        {
+            "address": "0xE222fF9921f5D1cb9DB013E0bf587C687dF77D2c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1648173220221296640/uAvwgVKR.jpg",
+            "name": "Moxie:MuchamadAn93831-x",
+            "symbol": "Moxie:MuchamadAn93831-x"
         }
     ],
     "version": {
