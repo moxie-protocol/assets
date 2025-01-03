@@ -13022,6 +13022,13 @@
             "logoURI": "https://lh3.googleusercontent.com/-j2p69g-yhEQ/AAAAAAAAAAI/AAAAAAAAABw/QkAzfV67nXE/s46-c-k-no/photo.jpg",
             "name": "Moxie:yadiblx.base.eth-base",
             "symbol": "Moxie:yadiblx.base.eth-base"
+        },
+        {
+            "address": "0x08595edCD1D493988D0CE3B10070315Cd536Cce7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16a57aef-2c7a-46e0-b433-2fb8b4e87200/rectcrop3",
+            "name": "Moxie:ronanih-fc",
+            "symbol": "Moxie:ronanih-fc"
         }
     ],
     "version": {
