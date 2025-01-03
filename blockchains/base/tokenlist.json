@@ -14751,6 +14751,13 @@
             "logoURI": "https://i.imgur.com/GK5q7CN.jpg",
             "name": "Moxie:afrdsss-fc",
             "symbol": "Moxie:afrdsss-fc"
+        },
+        {
+            "address": "0x0CbF25189eF9C990EdcBd859a04cc5676922C977",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/l5xTAFu.jpg",
+            "name": "Moxie:liottaxhen-fc",
+            "symbol": "Moxie:liottaxhen-fc"
         }
     ],
     "version": {
