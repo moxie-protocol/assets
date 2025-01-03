@@ -16459,6 +16459,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6de2fae5-97d1-4175-d247-87b207f6f900/rectcrop3",
             "name": "Moxie:zxbyzz-fc",
             "symbol": "Moxie:zxbyzz-fc"
+        },
+        {
+            "address": "0x6e48a940AdC5cb894619ABC898533bcc635F2A2F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1810262742026297344/cgMYqiZE.jpg",
+            "name": "Moxie:bitcoin_i_-x",
+            "symbol": "Moxie:bitcoin_i_-x"
         }
     ],
     "version": {
