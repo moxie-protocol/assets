@@ -14527,6 +14527,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1837222131077369856/_1zL4tqp.jpg",
             "name": "Moxie:dropsuryaa-x",
             "symbol": "Moxie:dropsuryaa-x"
+        },
+        {
+            "address": "0xAc14C4AF4c5d7B196AF42404d13F6012EE5A4579",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1824417290051543040/MzlivPDK.jpg",
+            "name": "Moxie:JeparaFiki-x",
+            "symbol": "Moxie:JeparaFiki-x"
         }
     ],
     "version": {
