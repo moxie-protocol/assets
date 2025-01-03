@@ -16200,6 +16200,13 @@
             "logoURI": "https://i.imgur.com/a29OIxF.jpg",
             "name": "Moxie:sev7en-fc",
             "symbol": "Moxie:sev7en-fc"
+        },
+        {
+            "address": "0xa3a9eF8EA88a6eB9CfdC7141D281Df3541dA4F1D",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigrjhlxgm3bg4iuwl6dmszldnq636mz54hdpwyvibnzdrfum2uyjy",
+            "name": "Moxie:bounds-fc",
+            "symbol": "Moxie:bounds-fc"
         }
     ],
     "version": {
