@@ -15591,6 +15591,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871961329873174529/BrMMFpQK.png",
             "name": "Moxie:lenhan15121978-x",
             "symbol": "Moxie:lenhan15121978-x"
+        },
+        {
+            "address": "0x04C8350A59A2b96F32E3b9F6015155a74b3235E8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/j0NU8Oe.jpg",
+            "name": "Moxie:abercio-fc",
+            "symbol": "Moxie:abercio-fc"
         }
     ],
     "version": {
