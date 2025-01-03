@@ -16158,6 +16158,13 @@
             "logoURI": "https://i.imgur.com/g1WBLje.jpg",
             "name": "Moxie:gusde-fc",
             "symbol": "Moxie:gusde-fc"
+        },
+        {
+            "address": "0x8634Ce180A01Ac7615fAC081C4218A540C68f980",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+            "name": "Moxie:ilhamx-fc",
+            "symbol": "Moxie:ilhamx-fc"
         }
     ],
     "version": {
