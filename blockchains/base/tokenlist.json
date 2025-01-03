@@ -15087,6 +15087,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6ae0540-3636-44c2-95cb-c8c7176b3100/rectcrop3",
             "name": "Moxie:justeraaa-fc",
             "symbol": "Moxie:justeraaa-fc"
+        },
+        {
+            "address": "0x1bFDa5d6f07F2f6c7952cdA889d09589db54E889",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1EZ3Szg.jpg",
+            "name": "Moxie:jepehkapan-fc",
+            "symbol": "Moxie:jepehkapan-fc"
         }
     ],
     "version": {
