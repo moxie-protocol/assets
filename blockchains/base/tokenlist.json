@@ -13232,6 +13232,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1779898069943037952/03DWjvCJ.jpg",
             "name": "Moxie:kaku81994-x",
             "symbol": "Moxie:kaku81994-x"
+        },
+        {
+            "address": "0x656d05206Fe51021dC4E2Bc5FA847407334CEcF8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4744da75-d86b-439f-1055-cb458f0eb800/rectcrop3",
+            "name": "Moxie:yanzc-fc",
+            "symbol": "Moxie:yanzc-fc"
         }
     ],
     "version": {
