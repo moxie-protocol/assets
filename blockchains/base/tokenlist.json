@@ -15360,6 +15360,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93998ede-8293-4337-ac5f-c2c065cb4e00/rectcrop3",
             "name": "Moxie:duceros1368-fc",
             "symbol": "Moxie:duceros1368-fc"
+        },
+        {
+            "address": "0xeF8DBaCf40216762F0aeB2914Ce97BeEE6eDD662",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/0E06_1vDjqI8XYDDlIdvndqLQqnNArJxbEIXIwfTmcMcOaQPeGiocqOY4-0c6rBnpVf6zfCASL9tFP_0DpKET26DgDyFZuQm1RSG?w=500\u0026auto=format",
+            "name": "Moxie:fanesta404-fc",
+            "symbol": "Moxie:fanesta404-fc"
         }
     ],
     "version": {
