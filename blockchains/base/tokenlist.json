@@ -12945,6 +12945,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
             "name": "Moxie:az16-fc",
             "symbol": "Moxie:az16-fc"
+        },
+        {
+            "address": "0xA7a820E48137bA0BeA9FfCc2Ae380289310a3da7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/PxADfu8.jpeg",
+            "name": "Moxie:merrykillua-fc",
+            "symbol": "Moxie:merrykillua-fc"
         }
     ],
     "version": {
