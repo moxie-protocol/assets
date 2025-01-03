@@ -15661,6 +15661,13 @@
             "logoURI": "https://i.imgur.com/1DeUL3I.jpg",
             "name": "Moxie:balxyz-fc",
             "symbol": "Moxie:balxyz-fc"
+        },
+        {
+            "address": "0xB4Eb5dD0991AC69990cB3Ff9f488bDc2B2bb805F",
+            "decimals": 18,
+            "logoURI": "https://media.firefly.land/farcaster/E93661DF-130E-4CE1-8AAC-5F909EE54A36.png",
+            "name": "Moxie:ozengk.eth-fc",
+            "symbol": "Moxie:ozengk.eth-fc"
         }
     ],
     "version": {
