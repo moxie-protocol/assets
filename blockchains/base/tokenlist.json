@@ -12581,6 +12581,13 @@
             "logoURI": "https://i.imgur.com/Dl2hTpd.jpg",
             "name": "Moxie:aconk72-fc",
             "symbol": "Moxie:aconk72-fc"
+        },
+        {
+            "address": "0x388F01ceE8898D4fe6D22F56d48e544adAe14C6b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ALbZmaY.gif",
+            "name": "Moxie:diar-fc",
+            "symbol": "Moxie:diar-fc"
         }
     ],
     "version": {
