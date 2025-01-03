@@ -13428,6 +13428,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb08a0cb-dfde-4840-75af-8dc0d8933200/rectcrop3",
             "name": "Moxie:web3bweb3btc-fc",
             "symbol": "Moxie:web3bweb3btc-fc"
+        },
+        {
+            "address": "0x8aD1fB21F4abBe39dD985F77A6150cd9874cFF10",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1827881692360769536/UL9zAVbb.jpg",
+            "name": "Moxie:Erdinherdiansy7-x",
+            "symbol": "Moxie:Erdinherdiansy7-x"
         }
     ],
     "version": {
