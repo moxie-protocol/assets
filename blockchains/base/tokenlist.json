@@ -15430,6 +15430,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6101209d-792b-40c6-0ded-8a29a0a20600/rectcrop3",
             "name": "Moxie:lucif-fc",
             "symbol": "Moxie:lucif-fc"
+        },
+        {
+            "address": "0x5Ef29797E9d1cd168A6bb22B1CfB844eE320d530",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1816646075173785600/DCdgyKg8.jpg",
+            "name": "Moxie:Jeanthe1st-x",
+            "symbol": "Moxie:Jeanthe1st-x"
         }
     ],
     "version": {
