@@ -15654,6 +15654,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3068be6c-77b3-4e9d-7cfd-180f9fbf2e00/rectcrop3",
             "name": "Moxie:hikmal2003-fc",
             "symbol": "Moxie:hikmal2003-fc"
+        },
+        {
+            "address": "0xd5141b96AdCbb40b38534bA9bE9597A64F3A1C72",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1DeUL3I.jpg",
+            "name": "Moxie:balxyz-fc",
+            "symbol": "Moxie:balxyz-fc"
         }
     ],
     "version": {
