@@ -15619,6 +15619,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1707442628621697024/z2q_Rm1L.jpg",
             "name": "Moxie:GreenMetaversee-x",
             "symbol": "Moxie:GreenMetaversee-x"
+        },
+        {
+            "address": "0xa2Ff89889a7545fD565c663F30C812C38BE359C4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1835506593674473472/FVvSs2rm.jpg",
+            "name": "Moxie:acilpiw_-x",
+            "symbol": "Moxie:acilpiw_-x"
         }
     ],
     "version": {
