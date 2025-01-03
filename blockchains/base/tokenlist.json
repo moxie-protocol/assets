@@ -14660,6 +14660,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3da7b1ca-2298-4b5f-7eed-feb3072c4c00/rectcrop3",
             "name": "Moxie:ryann-fc",
             "symbol": "Moxie:ryann-fc"
+        },
+        {
+            "address": "0xBF23030E9b6fA4c0aa2af9C6f3945206Cb10e7C9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79b2d2cb-8307-4dad-163d-6b94f33c6200/rectcrop3",
+            "name": "Moxie:bronxyz-fc",
+            "symbol": "Moxie:bronxyz-fc"
         }
     ],
     "version": {
