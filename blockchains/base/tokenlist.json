@@ -16165,6 +16165,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:ilhamx-fc",
             "symbol": "Moxie:ilhamx-fc"
+        },
+        {
+            "address": "0xeC56D9269730ebd0b0F896Ff6159FF07a7eD926D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52783ebb-d65c-4d77-b599-263f93a2ee00/rectcrop3",
+            "name": "Moxie:fahim-lannister-fc",
+            "symbol": "Moxie:fahim-lannister-fc"
         }
     ],
     "version": {
