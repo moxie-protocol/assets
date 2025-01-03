@@ -15696,6 +15696,13 @@
             "logoURI": "https://i.pinimg.com/736x/8b/d6/b8/8bd6b815b7fad253c9b4d23fab437a1c.jpg",
             "name": "Moxie:kbdor.base.eth-base",
             "symbol": "Moxie:kbdor.base.eth-base"
+        },
+        {
+            "address": "0xb814034225F9E441d8a4702c11c0a00F9ba75128",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1819281484462899200/bNfBuNok.png",
+            "name": "Moxie:OneFirts59633-x",
+            "symbol": "Moxie:OneFirts59633-x"
         }
     ],
     "version": {
