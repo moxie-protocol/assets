@@ -13589,6 +13589,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857476250325159936/n3NcPxSw.jpg",
             "name": "Moxie:sabreetooth1124-x",
             "symbol": "Moxie:sabreetooth1124-x"
+        },
+        {
+            "address": "0xD57DBD8787956865aE8A02e090a5EB8b1D15e730",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiegrnialwu66u3nwzkn4gik4i2x2h4ip7y3w2dlymzlpxb5lrqbom",
+            "name": "Moxie:padma-fc",
+            "symbol": "Moxie:padma-fc"
         }
     ],
     "version": {
