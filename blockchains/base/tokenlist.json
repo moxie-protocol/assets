@@ -14324,6 +14324,13 @@
             "logoURI": "https://i.imgur.com/dc3bzz9.jpg",
             "name": "Moxie:deknanda-fc",
             "symbol": "Moxie:deknanda-fc"
+        },
+        {
+            "address": "0x6Da00B523eCD1315784b15b5631A613f94da73Da",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c527b3a0-c001-4128-3540-57eb55255500/original",
+            "name": "Moxie:brorich-fc",
+            "symbol": "Moxie:brorich-fc"
         }
     ],
     "version": {
