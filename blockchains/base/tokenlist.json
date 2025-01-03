@@ -15010,6 +15010,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicllgedqibgkdlvzig2g6ntaevt7yo53jtpc3lckk4a5lnr23ndby",
             "name": "Moxie:digbick69-fc",
             "symbol": "Moxie:digbick69-fc"
+        },
+        {
+            "address": "0xB976a56521E5F570Bc30F46051e56994e282fde0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1752647702389964800/O1uB1HKo.jpg",
+            "name": "Moxie:mdhasib444-x",
+            "symbol": "Moxie:mdhasib444-x"
         }
     ],
     "version": {
