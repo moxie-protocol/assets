@@ -13540,6 +13540,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94d3e0fb-ac1f-4239-132a-a5f4fcf60700/rectcrop3",
             "name": "Moxie:probal08-fc",
             "symbol": "Moxie:probal08-fc"
+        },
+        {
+            "address": "0x3600b85650FE856e81Cf0DC7aC1C2055914599bE",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "r13",
+            "symbol": "fid:372304"
         }
     ],
     "version": {
