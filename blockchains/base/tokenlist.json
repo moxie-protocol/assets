@@ -15045,6 +15045,13 @@
             "logoURI": "https://gamek.mediacdn.vn/133514250583805952/2024/10/8/one-piece-gear-5-1024x576-1728291206900490612782-1728360935408-17283609373881840454844.jpg",
             "name": "Moxie:lufyi.eth-ens",
             "symbol": "Moxie:lufyi.eth-ens"
+        },
+        {
+            "address": "0x7C85123324F2a72fA14f4241dBe1dd82Ba3C1E51",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795992963904122881/903mDsFW.jpg",
+            "name": "Moxie:Lionel1508-x",
+            "symbol": "Moxie:Lionel1508-x"
         }
     ],
     "version": {
