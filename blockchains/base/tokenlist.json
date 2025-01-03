@@ -13393,6 +13393,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1800140318068867072/OCRoKDfw.jpg",
             "name": "Moxie:AdamSagitrius-x",
             "symbol": "Moxie:AdamSagitrius-x"
+        },
+        {
+            "address": "0x6cf061D6fb45bAef68Fa4B8Ab21c83Cb04a62Aa1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pVz6dKq.jpg",
+            "name": "Moxie:tanjibro-fc",
+            "symbol": "Moxie:tanjibro-fc"
         }
     ],
     "version": {
