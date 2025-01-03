@@ -13134,6 +13134,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9aa49422-66f6-4b00-b3ea-dbd120884b00/rectcrop3",
             "name": "Moxie:khodox69-fc",
             "symbol": "Moxie:khodox69-fc"
+        },
+        {
+            "address": "0x7Ec4bAbE477E353e155CD98A895293b32ff656df",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0jyenWw.jpg",
+            "name": "Moxie:hapzari-fc",
+            "symbol": "Moxie:hapzari-fc"
         }
     ],
     "version": {
