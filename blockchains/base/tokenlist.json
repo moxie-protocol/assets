@@ -13246,6 +13246,13 @@
             "logoURI": null,
             "name": "ayeshaa917",
             "symbol": "fid:645057"
+        },
+        {
+            "address": "0x8275D2CebaB6F8B3870De3EedC3657cB1BC47ea7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ca63818-4fa9-49ed-1e88-87500179bd00/original",
+            "name": "Moxie:bangbun-fc",
+            "symbol": "Moxie:bangbun-fc"
         }
     ],
     "version": {
