@@ -13533,6 +13533,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867088792198451204/PqxFQ20s.jpg",
             "name": "Moxie:TGhozan-x",
             "symbol": "Moxie:TGhozan-x"
+        },
+        {
+            "address": "0x50FC515f452F80f93bF9be964BE2733af008F685",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94d3e0fb-ac1f-4239-132a-a5f4fcf60700/rectcrop3",
+            "name": "Moxie:probal08-fc",
+            "symbol": "Moxie:probal08-fc"
         }
     ],
     "version": {
