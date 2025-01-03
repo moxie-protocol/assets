@@ -13792,6 +13792,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11dc871c-c5d8-4fe3-06b7-fcadd9a55d00/rectcrop3",
             "name": "Moxie:mfnh-fc",
             "symbol": "Moxie:mfnh-fc"
+        },
+        {
+            "address": "0x78a8Cc3320d1477036aD0621922476cdf2c2CF00",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1614633795478769664/ck9gci8l.jpg",
+            "name": "Moxie:quath93-x",
+            "symbol": "Moxie:quath93-x"
         }
     ],
     "version": {
