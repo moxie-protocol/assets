@@ -15108,6 +15108,13 @@
             "logoURI": "https://i.imgur.com/7i8zZbV.jpg",
             "name": "Moxie:empeh-fc",
             "symbol": "Moxie:empeh-fc"
+        },
+        {
+            "address": "0xfD6b78CcEf7d3E72Db96141ba53DC75c43FeaF03",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tBu5uVw.jpg",
+            "name": "Moxie:zkpussync-fc",
+            "symbol": "Moxie:zkpussync-fc"
         }
     ],
     "version": {
