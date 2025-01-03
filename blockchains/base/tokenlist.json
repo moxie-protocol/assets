@@ -14982,6 +14982,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3f46034-6703-4323-f2de-c675ff8cbb00/original",
             "name": "Moxie:anggamonkill-fc",
             "symbol": "Moxie:anggamonkill-fc"
+        },
+        {
+            "address": "0x9cfBA24Ad2F46259bde0DB8382eF0713C47862B4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97968057-58cd-48e5-6238-a25681ac4a00/rectcrop3",
+            "name": "Moxie:0330-fc",
+            "symbol": "Moxie:0330-fc"
         }
     ],
     "version": {
