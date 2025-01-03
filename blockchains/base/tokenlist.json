@@ -13484,6 +13484,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/baee53ff-fd2f-44d7-9429-72cef73dfe00/rectcrop3",
             "name": "Moxie:antirugpull-fc",
             "symbol": "Moxie:antirugpull-fc"
+        },
+        {
+            "address": "0x1781ee6ff3783D8D183ca9d49bCf7F93cD45c66e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809331593418616833/mmZ0Crk2.jpg",
+            "name": "Moxie:ViLun12-x",
+            "symbol": "Moxie:ViLun12-x"
         }
     ],
     "version": {
