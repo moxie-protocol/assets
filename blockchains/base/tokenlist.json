@@ -14856,6 +14856,13 @@
             "logoURI": "https://arweave.net/kiXJOxj02f-atP9Oilem7fLEkJIYvl9nnqIBqrbxziE/",
             "name": "Moxie:0xazzura-fc",
             "symbol": "Moxie:0xazzura-fc"
+        },
+        {
+            "address": "0x967e6CC0800888A6135C6cd4D9BaDa0EC5168e73",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeig7kkq5tks6ymdris3etg47rz5zcn2ltbzjuh3v6k3oqf7e2kzsr4/6036",
+            "name": "Moxie:chainsmokers-fc",
+            "symbol": "Moxie:chainsmokers-fc"
         }
     ],
     "version": {
