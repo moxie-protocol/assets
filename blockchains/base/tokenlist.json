@@ -15199,6 +15199,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:0990-fc",
             "symbol": "Moxie:0990-fc"
+        },
+        {
+            "address": "0xdcea06E8f1770aEc1B12DA1d7f7f497A0b524360",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53e2635f-de47-4c54-0ccc-919df2715e00/rectcrop3",
+            "name": "Moxie:misyanto-email3-fc",
+            "symbol": "Moxie:misyanto-email3-fc"
         }
     ],
     "version": {
