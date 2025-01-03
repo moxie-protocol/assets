@@ -15276,6 +15276,13 @@
             "logoURI": "https://i.imgur.com/k94IH9v.jpg",
             "name": "Moxie:asmraxd-fc",
             "symbol": "Moxie:asmraxd-fc"
+        },
+        {
+            "address": "0x7AEB9178fc057f831B9599D6c38e6b994D9A86D5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1752592459803262976/zy2HZYzj.jpg",
+            "name": "Moxie:x0_sasa-x",
+            "symbol": "Moxie:x0_sasa-x"
         }
     ],
     "version": {
