@@ -12462,6 +12462,13 @@
             "logoURI": null,
             "name": "bakkah",
             "symbol": "fid:323201"
+        },
+        {
+            "address": "0x83F19f761d6cB6Baf1AE71E368C45d48118bC0d2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1851719573856489472/du2QguXI.jpg",
+            "name": "Moxie:KangSempru-x",
+            "symbol": "Moxie:KangSempru-x"
         }
     ],
     "version": {
