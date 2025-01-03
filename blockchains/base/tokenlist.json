@@ -13771,6 +13771,13 @@
             "logoURI": null,
             "name": "muth",
             "symbol": "fid:250720"
+        },
+        {
+            "address": "0x8AFA02aDc270cD2CCeB482F1c4A95769eE3e17F5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828524012521046016/R9xxnwew.jpg",
+            "name": "Moxie:AlfiTri121281-x",
+            "symbol": "Moxie:AlfiTri121281-x"
         }
     ],
     "version": {
