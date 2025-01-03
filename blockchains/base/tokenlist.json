@@ -15479,6 +15479,13 @@
             "logoURI": "https://tse1.mm.bing.net/th?id=OIP.-umw0latsGob_kKoABmC2QHaEL\u0026pid=Api\u0026P=0\u0026h=180",
             "name": "Moxie:ranznft.base.eth-base",
             "symbol": "Moxie:ranznft.base.eth-base"
+        },
+        {
+            "address": "0x517FE0C88ba53F5597bdBa27eBC7EFb75C30049D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ace93335-e16d-456a-e549-369b52112000/original",
+            "name": "Moxie:tzhu-fc",
+            "symbol": "Moxie:tzhu-fc"
         }
     ],
     "version": {
