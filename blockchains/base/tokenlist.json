@@ -16298,6 +16298,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9957d992-9de0-4f1d-312f-0742ae8eec00/original",
             "name": "Moxie:selenka-fc",
             "symbol": "Moxie:selenka-fc"
+        },
+        {
+            "address": "0xC5cf7242b28434323B8aF0Ea6f2DAC672773B34d",
+            "decimals": 18,
+            "logoURI": "https://rainbow.mypinata.cloud/ipfs/QmXj8v2BU85wWNF8e61myD5NnxanDcKqPw6r21UA4tp7Ar",
+            "name": "Moxie:moojok.eth-ens",
+            "symbol": "Moxie:moojok.eth-ens"
         }
     ],
     "version": {
