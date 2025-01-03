@@ -16375,6 +16375,13 @@
             "logoURI": "https://arweave.net/tv6yN_zJMapXXdZYB4gnniqreX3R6vt_wItwLCBWiCM/",
             "name": "Moxie:moonattack-fc",
             "symbol": "Moxie:moonattack-fc"
+        },
+        {
+            "address": "0x60BdCbc56C703C5DC5A54495E6D9b24f3176000E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IBjtMit.jpg",
+            "name": "Moxie:solanasergio-fc",
+            "symbol": "Moxie:solanasergio-fc"
         }
     ],
     "version": {
