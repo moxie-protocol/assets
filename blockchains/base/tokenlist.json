@@ -14457,6 +14457,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdebc59c-684d-4c33-f5b2-d6fad3759500/original",
             "name": "Moxie:yutux-fc",
             "symbol": "Moxie:yutux-fc"
+        },
+        {
+            "address": "0x15044efc0F68FA98FA2cDEc70fE857f1268D3adc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1833324744453853187/rmgCgRaN.jpg",
+            "name": "Moxie:Qreffte-x",
+            "symbol": "Moxie:Qreffte-x"
         }
     ],
     "version": {
