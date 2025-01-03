@@ -14198,6 +14198,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1405804149438967808/kwOAElPT.jpg",
             "name": "Moxie:Fajarbaharix-x",
             "symbol": "Moxie:Fajarbaharix-x"
+        },
+        {
+            "address": "0x65B685f73D25673713c75B7b6180bC26CF15409a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/aL7Hl0H.jpg",
+            "name": "Moxie:rifkibandung-fc",
+            "symbol": "Moxie:rifkibandung-fc"
         }
     ],
     "version": {
