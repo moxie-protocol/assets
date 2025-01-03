@@ -15402,6 +15402,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870117052532551680/Ol5aMvju.jpg",
             "name": "Moxie:KamuMamang-x",
             "symbol": "Moxie:KamuMamang-x"
+        },
+        {
+            "address": "0xbC82800c7Fd1874D3538B2D7566fC21574f41002",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiadgqpq5wwfelyjrw4ga3pugpycjiegikoigpv7np4qx7rnge3oke",
+            "name": "Moxie:zhafranarzaq-fc",
+            "symbol": "Moxie:zhafranarzaq-fc"
         }
     ],
     "version": {
