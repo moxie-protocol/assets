@@ -15038,6 +15038,13 @@
             "logoURI": "https://i.imgur.com/1D5FIrf.jpg",
             "name": "Moxie:scarletzer-fc",
             "symbol": "Moxie:scarletzer-fc"
+        },
+        {
+            "address": "0xB0c1ad5E02eFcBaf9E78a5929ec434A70F267F8C",
+            "decimals": 18,
+            "logoURI": "https://gamek.mediacdn.vn/133514250583805952/2024/10/8/one-piece-gear-5-1024x576-1728291206900490612782-1728360935408-17283609373881840454844.jpg",
+            "name": "Moxie:lufyi.eth-ens",
+            "symbol": "Moxie:lufyi.eth-ens"
         }
     ],
     "version": {
