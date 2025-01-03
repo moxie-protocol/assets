@@ -16326,6 +16326,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c72d26e-a6f8-4cc5-ec67-6c9e6a0bee00/rectcrop3",
             "name": "Moxie:el0nmusk-fc",
             "symbol": "Moxie:el0nmusk-fc"
+        },
+        {
+            "address": "0xF35Fe3131b073E3746DE5F04477D4978894E77A1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/897c98c0-7f4f-4acb-84c4-4f95c8e53a00/original",
+            "name": "Moxie:mazizyahya-fc",
+            "symbol": "Moxie:mazizyahya-fc"
         }
     ],
     "version": {
