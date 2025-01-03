@@ -15857,6 +15857,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifvyamp7qywpvyet5gecnbgwqelza7zbdzvy5nabaox4u55eskxye",
             "name": "Moxie:yusufadi33-fc",
             "symbol": "Moxie:yusufadi33-fc"
+        },
+        {
+            "address": "0x8BA298341458f648f1a04354D45C444bD883683f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f0ca182-a2f6-4ec9-ec93-d9da79651d00/rectcrop3",
+            "name": "Moxie:yaswinta-fc",
+            "symbol": "Moxie:yaswinta-fc"
         }
     ],
     "version": {
