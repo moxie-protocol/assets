@@ -13218,6 +13218,13 @@
             "logoURI": "https://i.imgur.com/turaZ68.png",
             "name": "Moxie:crxa-fc",
             "symbol": "Moxie:crxa-fc"
+        },
+        {
+            "address": "0x5eE744C17F48F6F9F71dD621f01912E354A55E2c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bfb0aae2-a378-4ad2-b861-256132088300/rectcrop3",
+            "name": "Moxie:loaders-fc",
+            "symbol": "Moxie:loaders-fc"
         }
     ],
     "version": {
