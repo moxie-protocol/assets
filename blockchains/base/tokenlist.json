@@ -15164,6 +15164,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1809369860188864512/Nb2IV1t9.jpg",
             "name": "Moxie:Ricktx12-x",
             "symbol": "Moxie:Ricktx12-x"
+        },
+        {
+            "address": "0x03a9A34770778A5D22128E666ebb6c641E5D5155",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4L1JVKr.jpg",
+            "name": "Moxie:arisothenk-fc",
+            "symbol": "Moxie:arisothenk-fc"
         }
     ],
     "version": {
