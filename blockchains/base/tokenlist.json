@@ -13645,6 +13645,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1648173220221296640/uAvwgVKR.jpg",
             "name": "Moxie:MuchamadAn93831-x",
             "symbol": "Moxie:MuchamadAn93831-x"
+        },
+        {
+            "address": "0xd078077dd458435b1Ad925b528aE25529e404Ead",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/s0fvdll.png",
+            "name": "Moxie:tamcr-fc",
+            "symbol": "Moxie:tamcr-fc"
         }
     ],
     "version": {
