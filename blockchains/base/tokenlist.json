@@ -14828,6 +14828,13 @@
             "logoURI": "https://i.imgur.com/fgZzZTN.jpg",
             "name": "Moxie:0x456-fc",
             "symbol": "Moxie:0x456-fc"
+        },
+        {
+            "address": "0xdDD3Eb4A19e8e16A9FAa6A0D8685A0F8c27B5776",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/club0xloot",
+            "symbol": "cid:club0xloot"
         }
     ],
     "version": {
