@@ -16004,6 +16004,13 @@
             "logoURI": "https://i.imgur.com/hxhcy27.jpg",
             "name": "Moxie:karltzy-fc",
             "symbol": "Moxie:karltzy-fc"
+        },
+        {
+            "address": "0xb87593E32D22C72694B1b03857802d173bFA2881",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f7e57d2-ff5b-408b-e5c5-60cbca8ba400/rectcrop3",
+            "name": "Moxie:botoex789-fc",
+            "symbol": "Moxie:botoex789-fc"
         }
     ],
     "version": {
