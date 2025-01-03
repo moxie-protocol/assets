@@ -15234,6 +15234,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828227737133424641/HVwQzEHE.jpg",
             "name": "Moxie:tejo2000-x",
             "symbol": "Moxie:tejo2000-x"
+        },
+        {
+            "address": "0xCa550e11EF7Cc8b9fBB649bD25E2058657e27711",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d272d57-4f3d-4072-9f29-029f61f70f00/rectcrop3",
+            "name": "Moxie:honzecrypt-fc",
+            "symbol": "Moxie:honzecrypt-fc"
         }
     ],
     "version": {
