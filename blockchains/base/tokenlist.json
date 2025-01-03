@@ -15290,6 +15290,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843322077652365313/cLiOc4sx.jpg",
             "name": "Moxie:EL3NG-x",
             "symbol": "Moxie:EL3NG-x"
+        },
+        {
+            "address": "0xEDB16BB97aC3C7A468ca53aCcD935eDDc771be34",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/418f3087-d990-4734-3205-beb32d68a000/rectcrop3",
+            "name": "Moxie:xaptainmagma-fc",
+            "symbol": "Moxie:xaptainmagma-fc"
         }
     ],
     "version": {
