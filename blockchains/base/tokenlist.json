@@ -16550,6 +16550,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/178865e5-2007-4193-8585-93b2fd30a200/rectcrop3",
             "name": "Moxie:dasipenz-fc",
             "symbol": "Moxie:dasipenz-fc"
+        },
+        {
+            "address": "0xFbb2A178d4A103411756FC8114998E51E30b3781",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1801714234944065538/jTkZHW3i.jpg",
+            "name": "Moxie:PadliCruell-x",
+            "symbol": "Moxie:PadliCruell-x"
         }
     ],
     "version": {
