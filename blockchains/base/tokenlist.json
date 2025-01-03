@@ -16438,6 +16438,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b525799-4d26-48e5-dc00-b7cfa6961f00/rectcrop3",
             "name": "Moxie:akbarrrnp-fc",
             "symbol": "Moxie:akbarrrnp-fc"
+        },
+        {
+            "address": "0x45B5Cb4Fda943FF8c0F9648Bfb7a05A67a96B981",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3176d32-2248-4b77-705e-cebf0472b800/rectcrop3",
+            "name": "Moxie:waylose1223-fc",
+            "symbol": "Moxie:waylose1223-fc"
         }
     ],
     "version": {
