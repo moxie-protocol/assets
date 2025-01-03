@@ -13414,6 +13414,13 @@
             "logoURI": "https://i.imgur.com/CwKKPbM.jpg",
             "name": "Moxie:sedative-fc",
             "symbol": "Moxie:sedative-fc"
+        },
+        {
+            "address": "0x1C2bd93df2df27d2100EC4B191A2e97E77FADC61",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97b8145e-ed1a-4c9b-cc52-7b7e7354f100/rectcrop3",
+            "name": "Moxie:fuyiea-fc",
+            "symbol": "Moxie:fuyiea-fc"
         }
     ],
     "version": {
