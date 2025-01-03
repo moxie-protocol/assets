@@ -14310,6 +14310,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1865636399325843456/h_AcsGVD.jpg",
             "name": "Moxie:Fur_qanc-x",
             "symbol": "Moxie:Fur_qanc-x"
+        },
+        {
+            "address": "0xcBaC3155317c21602Cb2eD2C9879D83fdF1d39Ad",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21e59159-b352-44ab-afc7-a2adf9146400/rectcrop3",
+            "name": "Moxie:dark1bot-fc",
+            "symbol": "Moxie:dark1bot-fc"
         }
     ],
     "version": {
