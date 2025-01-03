@@ -14954,6 +14954,13 @@
             "logoURI": null,
             "name": "cryocn",
             "symbol": "fid:905528"
+        },
+        {
+            "address": "0x8F08C12f626eF309ab04Fcf2196Be3eC35eBD3e3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/668FzWo.jpg",
+            "name": "Moxie:aurochsss-fc",
+            "symbol": "Moxie:aurochsss-fc"
         }
     ],
     "version": {
