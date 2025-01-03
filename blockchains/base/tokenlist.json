@@ -14926,6 +14926,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1798576713598967810/tPT7dskc.jpg",
             "name": "Moxie:yapijan-x",
             "symbol": "Moxie:yapijan-x"
+        },
+        {
+            "address": "0x18AC3a5973085A3155e3cc814c0DF60619D11490",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/rsJ8pFTy/download.jpg",
+            "name": "Moxie:86868.base.eth-base",
+            "symbol": "Moxie:86868.base.eth-base"
         }
     ],
     "version": {
