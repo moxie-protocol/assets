@@ -13785,6 +13785,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866829077979832320/JlwpgbgQ.jpg",
             "name": "Moxie:airdropindoid-x",
             "symbol": "Moxie:airdropindoid-x"
+        },
+        {
+            "address": "0xD16b1511e21755a4900889a14f07DAe39FabA95C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11dc871c-c5d8-4fe3-06b7-fcadd9a55d00/rectcrop3",
+            "name": "Moxie:mfnh-fc",
+            "symbol": "Moxie:mfnh-fc"
         }
     ],
     "version": {
