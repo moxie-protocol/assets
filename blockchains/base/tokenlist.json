@@ -14870,6 +14870,13 @@
             "logoURI": "https://i.imgur.com/LBypuHO.jpg",
             "name": "Moxie:yariscnc-fc",
             "symbol": "Moxie:yariscnc-fc"
+        },
+        {
+            "address": "0x194e9a6C812e2dE4CFa0C9D19B540f084A09B1dc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1782361956806168576/XFLfRjAJ.jpg",
+            "name": "Moxie:MarmansyahAzura-x",
+            "symbol": "Moxie:MarmansyahAzura-x"
         }
     ],
     "version": {
