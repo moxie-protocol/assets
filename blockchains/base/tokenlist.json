@@ -12812,6 +12812,13 @@
             "logoURI": "https://i.imgur.com/NkXWkzV.jpg",
             "name": "Moxie:adehariyanto-fc",
             "symbol": "Moxie:adehariyanto-fc"
+        },
+        {
+            "address": "0x838D94AF8F586cCaA4Da4a9E6051bC325d509888",
+            "decimals": 18,
+            "logoURI": "https://d36dyfa66n4hli.cloudfront.net/prod/v1/cdnImage?source=https%3A%2F%2Fna-assets.pinit.io%2F5iUkFc49y2J8U2D2t8yvuJa5gm1oJz8ZpEJGUej8MN9k%2F04185302-3551-42c0-a1fa-17a5f9ee2f8e%2F996\u0026size=300x300",
+            "name": "Moxie:Voztoy-gt",
+            "symbol": "Moxie:Voztoy-gt"
         }
     ],
     "version": {
