@@ -13421,6 +13421,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97b8145e-ed1a-4c9b-cc52-7b7e7354f100/rectcrop3",
             "name": "Moxie:fuyiea-fc",
             "symbol": "Moxie:fuyiea-fc"
+        },
+        {
+            "address": "0xC0Fa5C4AEe6a21cA86b4Ba5e86CC90f7fbDb5888",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eb08a0cb-dfde-4840-75af-8dc0d8933200/rectcrop3",
+            "name": "Moxie:web3bweb3btc-fc",
+            "symbol": "Moxie:web3bweb3btc-fc"
         }
     ],
     "version": {
