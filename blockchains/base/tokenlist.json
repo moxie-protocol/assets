@@ -13379,6 +13379,13 @@
             "logoURI": null,
             "name": "meq",
             "symbol": "fid:462073"
+        },
+        {
+            "address": "0xeFb534b0153f718e7dC4224248492E15f7eD073b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DOXYERS.jpg",
+            "name": "Moxie:plauto-fc",
+            "symbol": "Moxie:plauto-fc"
         }
     ],
     "version": {
