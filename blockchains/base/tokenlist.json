@@ -14177,6 +14177,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dcd07dc1-e850-4b5c-abad-b5862a04bd00/original",
             "name": "Moxie:mmshy-fc",
             "symbol": "Moxie:mmshy-fc"
+        },
+        {
+            "address": "0xbA0ABaf1B1c8602d2CeA6Fe082A14239cdd67Ce4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lmxBTyh.jpg",
+            "name": "Moxie:onunblocked-fc",
+            "symbol": "Moxie:onunblocked-fc"
         }
     ],
     "version": {
