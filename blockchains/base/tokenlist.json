@@ -15934,6 +15934,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/597c027f-0580-4ae0-4776-9fc12ca41700/rectcrop3",
             "name": "Moxie:sylvehunter-fc",
             "symbol": "Moxie:sylvehunter-fc"
+        },
+        {
+            "address": "0xa561821A8c7B1C698978f44D08B32b5D0Df2e368",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/G44TDj2.jpg",
+            "name": "Moxie:mozennn-fc",
+            "symbol": "Moxie:mozennn-fc"
         }
     ],
     "version": {
