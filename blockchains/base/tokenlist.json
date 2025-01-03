@@ -12791,6 +12791,13 @@
             "logoURI": "https://i.imgur.com/ZfNMPrm.jpg",
             "name": "Moxie:manzx-fc",
             "symbol": "Moxie:manzx-fc"
+        },
+        {
+            "address": "0xd776CE3c6E22b73267075A4421b38E859D658940",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LB3ysWm.jpg",
+            "name": "Moxie:biomusik3-fc",
+            "symbol": "Moxie:biomusik3-fc"
         }
     ],
     "version": {
