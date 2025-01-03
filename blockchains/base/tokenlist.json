@@ -12952,6 +12952,13 @@
             "logoURI": "https://i.imgur.com/PxADfu8.jpeg",
             "name": "Moxie:merrykillua-fc",
             "symbol": "Moxie:merrykillua-fc"
+        },
+        {
+            "address": "0x2cd4a12F1d2884bAaDdA1D5983f1c0b451A7d6a8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wJ1mEWE.jpg",
+            "name": "Moxie:huugin-fc",
+            "symbol": "Moxie:huugin-fc"
         }
     ],
     "version": {
