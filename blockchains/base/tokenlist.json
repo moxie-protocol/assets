@@ -12616,6 +12616,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1596708431326769152/-cY0dG1M.jpg",
             "name": "Moxie:vibicer-x",
             "symbol": "Moxie:vibicer-x"
+        },
+        {
+            "address": "0xD09E2b2C67CE84d655795ca051eC4682EDbCc26E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1827722998042025984/yG7BAK12.jpg",
+            "name": "Moxie:sixtysecond0508-x",
+            "symbol": "Moxie:sixtysecond0508-x"
         }
     ],
     "version": {
