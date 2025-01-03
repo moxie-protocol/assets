@@ -14821,6 +14821,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c21400a-25f5-4c8f-54bb-2de757ac4100/original",
             "name": "Moxie:tonyteo-fc",
             "symbol": "Moxie:tonyteo-fc"
+        },
+        {
+            "address": "0x8B126C566323994e7E75131f5CF0a65da57b0ee1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fgZzZTN.jpg",
+            "name": "Moxie:0x456-fc",
+            "symbol": "Moxie:0x456-fc"
         }
     ],
     "version": {
