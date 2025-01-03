@@ -12721,6 +12721,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829105605803720704/ZvbNLK3Y.jpg",
             "name": "Moxie:AlifPratam25962-x",
             "symbol": "Moxie:AlifPratam25962-x"
+        },
+        {
+            "address": "0xe787f24a8a204c2dFb588BAa50cA2C80D740D4C1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qxtqDf2.jpg",
+            "name": "Moxie:r3kt-fc",
+            "symbol": "Moxie:r3kt-fc"
         }
     ],
     "version": {
