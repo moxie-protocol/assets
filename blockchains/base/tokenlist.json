@@ -13687,6 +13687,13 @@
             "logoURI": null,
             "name": "0xjoko",
             "symbol": "fid:401793"
+        },
+        {
+            "address": "0xA548115FaF6F48A6B5694d0b2b3953Ef6e759A0e",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
+            "name": "Moxie:samuraivn-fc",
+            "symbol": "Moxie:samuraivn-fc"
         }
     ],
     "version": {
