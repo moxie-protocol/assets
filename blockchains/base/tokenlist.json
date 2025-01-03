@@ -15472,6 +15472,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeieursvv6yjwnwhlwxz6iogs6fr52y3k7urhljzjiqti4n2bkuobve",
             "name": "Moxie:accybr-fc",
             "symbol": "Moxie:accybr-fc"
+        },
+        {
+            "address": "0x1416840B1dfD5560f636E8C7ebFF2961a76F3DAc",
+            "decimals": 18,
+            "logoURI": "https://tse1.mm.bing.net/th?id=OIP.-umw0latsGob_kKoABmC2QHaEL\u0026pid=Api\u0026P=0\u0026h=180",
+            "name": "Moxie:ranznft.base.eth-base",
+            "symbol": "Moxie:ranznft.base.eth-base"
         }
     ],
     "version": {
