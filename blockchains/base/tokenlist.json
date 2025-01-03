@@ -12966,6 +12966,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1751510409696186368/Bllin7UL.png",
             "name": "Moxie:MOHDFAIZ2006-x",
             "symbol": "Moxie:MOHDFAIZ2006-x"
+        },
+        {
+            "address": "0xB811d8C6A4c8910d22F420e0DE6Aef959278B483",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/XVuQfm2.jpg",
+            "name": "Moxie:bennycrypt4-fc",
+            "symbol": "Moxie:bennycrypt4-fc"
         }
     ],
     "version": {
