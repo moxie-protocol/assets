@@ -15962,6 +15962,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872147715108577280/VR_e8V9N.jpg",
             "name": "Moxie:Ngophuongthao2k-x",
             "symbol": "Moxie:Ngophuongthao2k-x"
+        },
+        {
+            "address": "0x6a6226E2a9f88Bba6ba40cF0eC7B981F69739eE6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6MVEywd.jpg",
+            "name": "Moxie:sanez-fc",
+            "symbol": "Moxie:sanez-fc"
         }
     ],
     "version": {
