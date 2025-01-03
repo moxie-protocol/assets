@@ -13169,6 +13169,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1691731388939251712/OL9aXOSr.png",
             "name": "Moxie:hajilusuh-x",
             "symbol": "Moxie:hajilusuh-x"
+        },
+        {
+            "address": "0x8B8484A2034CACBfAa48c88Ea63E5934Cb3913AB",
+            "decimals": 18,
+            "logoURI": "https://media.firefly.land/farcaster/4bbab523-38a5-4dc1-8492-a981ee82a98d.png",
+            "name": "Moxie:alecto-fc",
+            "symbol": "Moxie:alecto-fc"
         }
     ],
     "version": {
