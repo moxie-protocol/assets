@@ -15745,6 +15745,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86bdd78a-5839-4cd8-62a3-fc7f4857c400/rectcrop3",
             "name": "Moxie:nathing-fc",
             "symbol": "Moxie:nathing-fc"
+        },
+        {
+            "address": "0x6377F9D76269fa9F503c8d7af47b789147c6480f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1819318558385455104/pGSPs52d.jpg",
+            "name": "Moxie:cryptohunter175-x",
+            "symbol": "Moxie:cryptohunter175-x"
         }
     ],
     "version": {
