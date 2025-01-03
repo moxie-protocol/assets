@@ -13106,6 +13106,13 @@
             "logoURI": "https://i.imgur.com/HD5nv7X.jpg",
             "name": "Moxie:dejant-fc",
             "symbol": "Moxie:dejant-fc"
+        },
+        {
+            "address": "0x7C96393f83feddbd5C8698E7ec7596945b7ed900",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "rian2500",
+            "symbol": "fid:870457"
         }
     ],
     "version": {
