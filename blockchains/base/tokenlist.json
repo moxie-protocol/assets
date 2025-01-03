@@ -16515,6 +16515,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1704201134540476417/ZHUB5F1V.jpg",
             "name": "Moxie:0xRinRin48-x",
             "symbol": "Moxie:0xRinRin48-x"
+        },
+        {
+            "address": "0x0475beD4bA9204E81D0BFD16e1759b3cAdeF65B9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1667627170364293122/b5nLLQxI.jpg",
+            "name": "Moxie:b4yuanjs-x",
+            "symbol": "Moxie:b4yuanjs-x"
         }
     ],
     "version": {
