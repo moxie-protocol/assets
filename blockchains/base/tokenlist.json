@@ -13827,6 +13827,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d60f0a2-1edd-4253-11de-b134f1394100/rectcrop3",
             "name": "Moxie:jakpar-fc",
             "symbol": "Moxie:jakpar-fc"
+        },
+        {
+            "address": "0xCd2bF8e23158E6f6B282E4893a2BFd239d0e6B0a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9b19f5f-e091-40a6-6bd8-6d764b597c00/rectcrop3",
+            "name": "Moxie:billbell-fc",
+            "symbol": "Moxie:billbell-fc"
         }
     ],
     "version": {
