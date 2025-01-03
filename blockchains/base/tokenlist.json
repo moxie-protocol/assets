@@ -15626,6 +15626,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1835506593674473472/FVvSs2rm.jpg",
             "name": "Moxie:acilpiw_-x",
             "symbol": "Moxie:acilpiw_-x"
+        },
+        {
+            "address": "0x3b4e41013848432a3ca7C0B222459d9A31605A13",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52fb05ac-9738-43e8-01dc-3ce7c921e000/rectcrop3",
+            "name": "Moxie:risseun-fc",
+            "symbol": "Moxie:risseun-fc"
         }
     ],
     "version": {
