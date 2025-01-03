@@ -14436,6 +14436,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2942a0aa-2569-455f-9f2d-401b71bb1d00/rectcrop3",
             "name": "Moxie:r021-fc",
             "symbol": "Moxie:r021-fc"
+        },
+        {
+            "address": "0xd69C1BA1c64A5Ea4494088dC6D0E3083ec29EB3e",
+            "decimals": 18,
+            "logoURI": "https://cdn.donmai.us/sample/31/cc/__ijichi_nijika_bocchi_the_rock_drawn_by_myvia_mokols__sample-31cce1b35183747399600b66febeadd4.jpg",
+            "name": "Moxie:alifianadexe.eth-ens",
+            "symbol": "Moxie:alifianadexe.eth-ens"
         }
     ],
     "version": {
