@@ -15941,6 +15941,13 @@
             "logoURI": "https://i.imgur.com/G44TDj2.jpg",
             "name": "Moxie:mozennn-fc",
             "symbol": "Moxie:mozennn-fc"
+        },
+        {
+            "address": "0x8e63D1E5E317B4957b5D72a498A6224F33ef8c53",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1575177978085920768/htNo9gT_.png",
+            "name": "Moxie:AegugI-x",
+            "symbol": "Moxie:AegugI-x"
         }
     ],
     "version": {
