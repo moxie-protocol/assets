@@ -14114,6 +14114,13 @@
             "logoURI": "https://i.imgur.com/i3EuTDm.jpg",
             "name": "Moxie:worldbtc-fc",
             "symbol": "Moxie:worldbtc-fc"
+        },
+        {
+            "address": "0xc6bA9e1E49Ad53c66C6875bB00B866135ca445BD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1825144368472424449/0qGPghvD.jpg",
+            "name": "Moxie:danywarpath55-x",
+            "symbol": "Moxie:danywarpath55-x"
         }
     ],
     "version": {
