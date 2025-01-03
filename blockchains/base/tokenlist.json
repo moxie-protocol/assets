@@ -12868,6 +12868,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870565871137218560/Oq-OrzUs.jpg",
             "name": "Moxie:art_useless-x",
             "symbol": "Moxie:art_useless-x"
+        },
+        {
+            "address": "0x6E8795aEE87B4e3A0B2e9163FBF255c3185ADEdD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/292ca923-eef3-4c79-b286-bd64f5a73b00/rectcrop3",
+            "name": "Moxie:aliciastephie-fc",
+            "symbol": "Moxie:aliciastephie-fc"
         }
     ],
     "version": {
