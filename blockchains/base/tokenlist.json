@@ -14296,6 +14296,13 @@
             "logoURI": "https://i.imgur.com/5IramFp.jpg",
             "name": "Moxie:kertanegara-fc",
             "symbol": "Moxie:kertanegara-fc"
+        },
+        {
+            "address": "0xA678eAebb694c0eAB3eC4167eF85e9453e8534e4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15518bc0-1981-41b1-bd27-21f63f34a500/rectcrop3",
+            "name": "Moxie:junaaa-fc",
+            "symbol": "Moxie:junaaa-fc"
         }
     ],
     "version": {
