@@ -14555,6 +14555,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a72c4f9b-26d0-46b9-01d0-eb5d080c5d00/rectcrop3",
             "name": "Moxie:jarvzx-fc",
             "symbol": "Moxie:jarvzx-fc"
+        },
+        {
+            "address": "0x06F7a0C8d115d78c82Dac476ce7acE8427031258",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "btxz",
+            "symbol": "fid:300132"
         }
     ],
     "version": {
