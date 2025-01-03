@@ -15255,6 +15255,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06d25e0b-3dd7-43ef-3979-ae676cce8500/original",
             "name": "Moxie:reiplush-fc",
             "symbol": "Moxie:reiplush-fc"
+        },
+        {
+            "address": "0x19c3d63471629e21bb42356145875a2ADB012E24",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidq3ptrj7mcwurkftchgrchhca4f6g3fpgg7qr3ithfjpt32pgorm",
+            "name": "Moxie:shonn-fc",
+            "symbol": "Moxie:shonn-fc"
         }
     ],
     "version": {
