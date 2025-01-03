@@ -13575,6 +13575,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1767168787739189249/J_UgDfVN.jpg",
             "name": "Moxie:Ekipryg28-x",
             "symbol": "Moxie:Ekipryg28-x"
+        },
+        {
+            "address": "0x810290C651dC7b32F4b2a7487E17D228c9666dee",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdffccc3-bb6f-40f8-886f-90e01bf83b00/rectcrop3",
+            "name": "Moxie:pricess-fc",
+            "symbol": "Moxie:pricess-fc"
         }
     ],
     "version": {
