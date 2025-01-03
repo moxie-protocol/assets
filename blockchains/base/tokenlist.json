@@ -13190,6 +13190,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifxldhd37mojm4z5byoyiek64pwtoc324tls5t3lxe2wkeg2wk77u",
             "name": "Moxie:mollypop-fc",
             "symbol": "Moxie:mollypop-fc"
+        },
+        {
+            "address": "0xE504ddf27d878BDFcfCe80DBBF57Fa025ba458F9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8e94fba-46f8-426e-f049-92c275c09d00/rectcrop3",
+            "name": "Moxie:almahera-fc",
+            "symbol": "Moxie:almahera-fc"
         }
     ],
     "version": {
