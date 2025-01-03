@@ -16305,6 +16305,13 @@
             "logoURI": "https://rainbow.mypinata.cloud/ipfs/QmXj8v2BU85wWNF8e61myD5NnxanDcKqPw6r21UA4tp7Ar",
             "name": "Moxie:moojok.eth-ens",
             "symbol": "Moxie:moojok.eth-ens"
+        },
+        {
+            "address": "0x88F0B55F072185F4735A5Dd5F5F217aa8f3DE7EE",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "pry",
+            "symbol": "fid:748514"
         }
     ],
     "version": {
