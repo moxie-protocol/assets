@@ -14002,6 +14002,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fbabc3b-c932-4e44-f9f1-31b7a6476e00/original",
             "name": "Moxie:danblue-fc",
             "symbol": "Moxie:danblue-fc"
+        },
+        {
+            "address": "0xd052C98C2fa6B2913E990f7Af7b6f983045A747D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b1f80a55-e79e-4d56-305a-1dd15eb70000/rectcrop3",
+            "name": "Moxie:buajingan-fc",
+            "symbol": "Moxie:buajingan-fc"
         }
     ],
     "version": {
