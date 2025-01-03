@@ -15822,6 +15822,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867172446987804672/uQCU3kNM.jpg",
             "name": "Moxie:Albedo151446-x",
             "symbol": "Moxie:Albedo151446-x"
+        },
+        {
+            "address": "0x47A792A642784377E7e3DD0671Cbc9eD53fe85CE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/taq9Ctk.jpg",
+            "name": "Moxie:analyzer-fc",
+            "symbol": "Moxie:analyzer-fc"
         }
     ],
     "version": {
