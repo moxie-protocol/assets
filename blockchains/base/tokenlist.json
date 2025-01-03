@@ -15521,6 +15521,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbbD5JvuBzycS1Jkig8fNHhfPoDYXVCRKXn4mPFrWP5yh/2009.png",
             "name": "Moxie:riegoerizalde-fc",
             "symbol": "Moxie:riegoerizalde-fc"
+        },
+        {
+            "address": "0x2D6aB3875c8CC9892b94aEaE84DdD06A6b33B07B",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+            "name": "Moxie:allzabbar-fc",
+            "symbol": "Moxie:allzabbar-fc"
         }
     ],
     "version": {
