@@ -16277,6 +16277,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/175a2ac4-acc6-4f11-0011-c3434be3a500/rectcrop3",
             "name": "Moxie:numerijez-fc",
             "symbol": "Moxie:numerijez-fc"
+        },
+        {
+            "address": "0x1531828b5827f1d96002F6f58D4556ce35BC0419",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba58e984-e395-40a7-61ab-7d93a90e9d00/rectcrop3",
+            "name": "Moxie:kiraa-fc",
+            "symbol": "Moxie:kiraa-fc"
         }
     ],
     "version": {
