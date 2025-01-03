@@ -12469,6 +12469,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851719573856489472/du2QguXI.jpg",
             "name": "Moxie:KangSempru-x",
             "symbol": "Moxie:KangSempru-x"
+        },
+        {
+            "address": "0x0BE22661B4DEC1fFF5385164a81ebcCBf7cc0400",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e264535-ae17-4c3b-a607-0070aa0e8a00/original",
+            "name": "Moxie:jayplayco-fc",
+            "symbol": "Moxie:jayplayco-fc"
         }
     ],
     "version": {
