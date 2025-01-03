@@ -16235,6 +16235,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1806116743506780160/8_MuTL5r.jpg",
             "name": "Moxie:rocketrock36224-x",
             "symbol": "Moxie:rocketrock36224-x"
+        },
+        {
+            "address": "0x717c6D10216EbCCAd149F6DEA969D8302c3882d5",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiaglxm5by42tud3as3dnoh74rwr2ubegddf37w6zcee4dfmfs2twi",
+            "name": "Moxie:fachriezz-fc",
+            "symbol": "Moxie:fachriezz-fc"
         }
     ],
     "version": {
