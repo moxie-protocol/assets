@@ -13015,6 +13015,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abfccb80-78f9-4510-05b8-921aa5abf800/rectcrop3",
             "name": "Moxie:junazk-fc",
             "symbol": "Moxie:junazk-fc"
+        },
+        {
+            "address": "0xa6bBdEFc527C0EA9D7B249F2A8077a498DC84b89",
+            "decimals": 18,
+            "logoURI": "https://lh3.googleusercontent.com/-j2p69g-yhEQ/AAAAAAAAAAI/AAAAAAAAABw/QkAzfV67nXE/s46-c-k-no/photo.jpg",
+            "name": "Moxie:yadiblx.base.eth-base",
+            "symbol": "Moxie:yadiblx.base.eth-base"
         }
     ],
     "version": {
