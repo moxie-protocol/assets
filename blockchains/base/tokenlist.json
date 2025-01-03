@@ -16466,6 +16466,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1810262742026297344/cgMYqiZE.jpg",
             "name": "Moxie:bitcoin_i_-x",
             "symbol": "Moxie:bitcoin_i_-x"
+        },
+        {
+            "address": "0xA6813853650e4BF37F6433a7f95267Fbd71F6647",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Ba3G6GF.jpg",
+            "name": "Moxie:kaushar2-fc",
+            "symbol": "Moxie:kaushar2-fc"
         }
     ],
     "version": {
