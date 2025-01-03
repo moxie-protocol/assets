@@ -12770,6 +12770,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d24bed56-cf0a-46a0-d41f-fb2894bb7f00/rectcrop3",
             "name": "Moxie:skaytez-fc",
             "symbol": "Moxie:skaytez-fc"
+        },
+        {
+            "address": "0x82847CaCcB1916C4C0E1De8a6924738C97224471",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17071557-a36d-4d3b-d740-c9e454fb9f00/rectcrop3",
+            "name": "Moxie:revanku-fc",
+            "symbol": "Moxie:revanku-fc"
         }
     ],
     "version": {
