@@ -16354,6 +16354,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4175cbc9-4e4b-4b08-8978-363d7115e500/rectcrop3",
             "name": "Moxie:parsmoon-fc",
             "symbol": "Moxie:parsmoon-fc"
+        },
+        {
+            "address": "0x8E92fBf8cdA7f389b1Cb7016CC1353ccc4cc47D5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b553bb1-fe21-46b9-4c7b-e730fe85c400/rectcrop3",
+            "name": "Moxie:ijal-fc",
+            "symbol": "Moxie:ijal-fc"
         }
     ],
     "version": {
