@@ -15801,6 +15801,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1643266409517158401/sgaGTvUO.jpg",
             "name": "Moxie:abc3181997-x",
             "symbol": "Moxie:abc3181997-x"
+        },
+        {
+            "address": "0x9221E482BD086771fc00404D18DAC6E99F659FB6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/F5kEL5y.jpg",
+            "name": "Moxie:duts-fc",
+            "symbol": "Moxie:duts-fc"
         }
     ],
     "version": {
