@@ -16347,6 +16347,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0eff5b87-426f-496d-5d4d-9c55b75e9e00/rectcrop3",
             "name": "Moxie:meaura-fc",
             "symbol": "Moxie:meaura-fc"
+        },
+        {
+            "address": "0xAFa1B24Fd764d83Fa45B661481d6164e9c1183bC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4175cbc9-4e4b-4b08-8978-363d7115e500/rectcrop3",
+            "name": "Moxie:parsmoon-fc",
+            "symbol": "Moxie:parsmoon-fc"
         }
     ],
     "version": {
