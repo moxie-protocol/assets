@@ -13141,6 +13141,13 @@
             "logoURI": "https://i.imgur.com/0jyenWw.jpg",
             "name": "Moxie:hapzari-fc",
             "symbol": "Moxie:hapzari-fc"
+        },
+        {
+            "address": "0x2Eb7a1A846FdE36ccfa925c6D03c4806Bd48FCd8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2vTyYlx.jpg",
+            "name": "Moxie:refuseaddict-fc",
+            "symbol": "Moxie:refuseaddict-fc"
         }
     ],
     "version": {
