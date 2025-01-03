@@ -14975,6 +14975,13 @@
             "logoURI": "https://t4.ftcdn.net/jpg/05/65/48/31/360_F_565483129_M8bzZlq6w4NhJRtJ9C6mzowkCVDOSWMU.jpg",
             "name": "Moxie:drift.base.eth-base",
             "symbol": "Moxie:drift.base.eth-base"
+        },
+        {
+            "address": "0x580bD2fAe0058C7dd41788E97d1d31a42a0f09E2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3f46034-6703-4323-f2de-c675ff8cbb00/original",
+            "name": "Moxie:anggamonkill-fc",
+            "symbol": "Moxie:anggamonkill-fc"
         }
     ],
     "version": {
