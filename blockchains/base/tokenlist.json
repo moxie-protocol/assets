@@ -15283,6 +15283,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1752592459803262976/zy2HZYzj.jpg",
             "name": "Moxie:x0_sasa-x",
             "symbol": "Moxie:x0_sasa-x"
+        },
+        {
+            "address": "0x7DA047a1C645f514C2e9e8bC8925f9b4FA27457F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1843322077652365313/cLiOc4sx.jpg",
+            "name": "Moxie:EL3NG-x",
+            "symbol": "Moxie:EL3NG-x"
         }
     ],
     "version": {
