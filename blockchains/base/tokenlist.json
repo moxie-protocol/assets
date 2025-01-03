@@ -13036,6 +13036,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06262e18-1e7f-49c8-49a6-7e00221af800/rectcrop3",
             "name": "Moxie:drezkate-fc",
             "symbol": "Moxie:drezkate-fc"
+        },
+        {
+            "address": "0x1F828F84D074bDD285b675f717ebBF8D7CC203d2",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/APK_sfTXXNXXON4y3mUZmHcKkBSqrCQnz4iKa10WbC0/",
+            "name": "Moxie:xyorii-fc",
+            "symbol": "Moxie:xyorii-fc"
         }
     ],
     "version": {
