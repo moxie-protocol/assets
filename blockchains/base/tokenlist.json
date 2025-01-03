@@ -14254,6 +14254,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/449e6833-87d0-4137-1dfa-2496494fa000/rectcrop3",
             "name": "Moxie:nst-fc",
             "symbol": "Moxie:nst-fc"
+        },
+        {
+            "address": "0xd41E9541c452dB09C4BB72ea6CbF558A7Da046b1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4e3edf7-b2b8-4a66-3886-804d68590000/rectcrop3",
+            "name": "Moxie:0xgibr4n-fc",
+            "symbol": "Moxie:0xgibr4n-fc"
         }
     ],
     "version": {
