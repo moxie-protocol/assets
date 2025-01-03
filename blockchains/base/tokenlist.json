@@ -15248,6 +15248,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3bc72dbc-874a-44eb-0b3a-ab2cb74ace00/rectcrop3",
             "name": "Moxie:sergomaken-fc",
             "symbol": "Moxie:sergomaken-fc"
+        },
+        {
+            "address": "0x7eD921e083a389c66D85218ee2663F33Ab8cd40E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06d25e0b-3dd7-43ef-3979-ae676cce8500/original",
+            "name": "Moxie:reiplush-fc",
+            "symbol": "Moxie:reiplush-fc"
         }
     ],
     "version": {
