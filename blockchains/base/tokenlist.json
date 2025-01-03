@@ -15325,6 +15325,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1789340761940459520/nQkHOUFJ.jpg",
             "name": "Moxie:Cryptohub17-x",
             "symbol": "Moxie:Cryptohub17-x"
+        },
+        {
+            "address": "0x78cC7cdcfD9fC1B95daadBEC23E4afba51ae38df",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1862851117480079360/ts2u219k.jpg",
+            "name": "Moxie:Huang_Haoer-x",
+            "symbol": "Moxie:Huang_Haoer-x"
         }
     ],
     "version": {
