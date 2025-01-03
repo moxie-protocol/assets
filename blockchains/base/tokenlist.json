@@ -13505,6 +13505,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1793120023218917376/yz8e8ZEu.png",
             "name": "Moxie:Sshahidshaan-x",
             "symbol": "Moxie:Sshahidshaan-x"
+        },
+        {
+            "address": "0xa832aE6B83A4323737BAF655b1B9Cb737D150136",
+            "decimals": 18,
+            "logoURI": "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg",
+            "name": "Moxie:tntanvir.eth-ens",
+            "symbol": "Moxie:tntanvir.eth-ens"
         }
     ],
     "version": {
