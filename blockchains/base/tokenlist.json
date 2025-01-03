@@ -12637,6 +12637,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:masehhjpg-x",
             "symbol": "Moxie:masehhjpg-x"
+        },
+        {
+            "address": "0xd03eB07EC654b29bbedac387C9dE217A1310a5F2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/767635106680799233/vYWK78RX.jpg",
+            "name": "Moxie:adykarinda-x",
+            "symbol": "Moxie:adykarinda-x"
         }
     ],
     "version": {
