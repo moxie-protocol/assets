@@ -15682,6 +15682,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36b0f503-c1be-4645-c44c-03a2122c4900/original",
             "name": "Moxie:phat-pt-fc",
             "symbol": "Moxie:phat-pt-fc"
+        },
+        {
+            "address": "0xb8634156C18Dc851ceF5397181fD667Fd41b8C40",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a15968a-b2bb-4d7d-5d5c-737d354c6800/rectcrop3",
+            "name": "Moxie:azet-fc",
+            "symbol": "Moxie:azet-fc"
         }
     ],
     "version": {
