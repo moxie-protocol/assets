@@ -14226,6 +14226,13 @@
             "logoURI": "https://i.imgur.com/vCTKJkG.jpg",
             "name": "Moxie:mecharys-fc",
             "symbol": "Moxie:mecharys-fc"
+        },
+        {
+            "address": "0x21E5e187E45818Aa9fF6706F941002863BE7014f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1788738827244482560/RaxsMsc4.jpg",
+            "name": "Moxie:Jr1994862369-x",
+            "symbol": "Moxie:Jr1994862369-x"
         }
     ],
     "version": {
