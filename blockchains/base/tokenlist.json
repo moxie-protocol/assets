@@ -16032,6 +16032,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1875210283427430400/7Y0VCRlS.jpg",
             "name": "Moxie:onni_chain-x",
             "symbol": "Moxie:onni_chain-x"
+        },
+        {
+            "address": "0xac9b0dbdB8a52eefF932Ff47B849967a744e4006",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "khadijaahmadi",
+            "symbol": "fid:897691"
         }
     ],
     "version": {
