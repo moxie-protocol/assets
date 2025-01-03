@@ -12518,6 +12518,13 @@
             "logoURI": "https://i.imgur.com/vN83pVE.jpg",
             "name": "Moxie:kajoljr-fc",
             "symbol": "Moxie:kajoljr-fc"
+        },
+        {
+            "address": "0xbc33547f51587B7c81Ec2753bDa1B4ac8Ecb61D9",
+            "decimals": 18,
+            "logoURI": "https://www.burung.org/",
+            "name": "Moxie:idrops.eth-ens",
+            "symbol": "Moxie:idrops.eth-ens"
         }
     ],
     "version": {
