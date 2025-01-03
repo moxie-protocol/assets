@@ -12672,6 +12672,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/35146438-3285-4847-01a6-347007627e00/rectcrop3",
             "name": "Moxie:zoro5423-fc",
             "symbol": "Moxie:zoro5423-fc"
+        },
+        {
+            "address": "0xfc626C68e6cF3fe376AE02743FB30671045a18bB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f115e846-f65e-430f-addd-2895c8f87800/rectcrop3",
+            "name": "Moxie:iram-fc",
+            "symbol": "Moxie:iram-fc"
         }
     ],
     "version": {
