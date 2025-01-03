@@ -15318,6 +15318,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1750255651081867264/_Pf2nZsn.jpg",
             "name": "Moxie:Muhamma61971239-x",
             "symbol": "Moxie:Muhamma61971239-x"
+        },
+        {
+            "address": "0xe74173e9Faa9dA68324930CCA7cf40738731526e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1789340761940459520/nQkHOUFJ.jpg",
+            "name": "Moxie:Cryptohub17-x",
+            "symbol": "Moxie:Cryptohub17-x"
         }
     ],
     "version": {
