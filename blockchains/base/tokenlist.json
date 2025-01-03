@@ -14765,6 +14765,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiedq6w7khduwu73tksp2hnlmkseddzsjdoquloyvak2roju2zopqu",
             "name": "Moxie:shann2151-fc",
             "symbol": "Moxie:shann2151-fc"
+        },
+        {
+            "address": "0x547728B329035658Dd722835467F4BF5eabc9Bf3",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/ke1NT3kq-AYi5xlVal1aBwlxaWWZ3PNTYuCrRLiqBCI/",
+            "name": "Moxie:rynald-fc",
+            "symbol": "Moxie:rynald-fc"
         }
     ],
     "version": {
