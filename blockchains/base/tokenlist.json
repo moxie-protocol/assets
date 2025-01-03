@@ -14282,6 +14282,13 @@
             "logoURI": "https://i.imgur.com/239jnGl.jpg",
             "name": "Moxie:alnxq3-fc",
             "symbol": "Moxie:alnxq3-fc"
+        },
+        {
+            "address": "0x048835fB7d1686CceD8b0aCf190B0F5441a84065",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oDIqpIx.jpg",
+            "name": "Moxie:virgoeth-fc",
+            "symbol": "Moxie:virgoeth-fc"
         }
     ],
     "version": {
