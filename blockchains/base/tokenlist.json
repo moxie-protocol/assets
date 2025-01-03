@@ -14611,6 +14611,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/105c0cd6-6a1c-47be-21a0-30be7a794900/rectcrop3",
             "name": "Moxie:cenah-fc",
             "symbol": "Moxie:cenah-fc"
+        },
+        {
+            "address": "0x781B3BeCaF80e8F5727d444FfC318aE17a00f08c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/XhO06MF.jpg",
+            "name": "Moxie:izzaa-fc",
+            "symbol": "Moxie:izzaa-fc"
         }
     ],
     "version": {
