@@ -15528,6 +15528,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
             "name": "Moxie:allzabbar-fc",
             "symbol": "Moxie:allzabbar-fc"
+        },
+        {
+            "address": "0x0CF665620332668C26150b99eD217f18976553DB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1636002488297066498/nnLWLPVH.jpg",
+            "name": "Moxie:Gerardle29-x",
+            "symbol": "Moxie:Gerardle29-x"
         }
     ],
     "version": {
