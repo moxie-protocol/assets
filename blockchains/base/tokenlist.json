@@ -14065,6 +14065,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ee1ecef-8381-4945-4631-120e14120f00/rectcrop3",
             "name": "Moxie:maspey-fc",
             "symbol": "Moxie:maspey-fc"
+        },
+        {
+            "address": "0x93Bb245Df2b2bbadb72e46551d7Db3c0f6420838",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7748fe3b-53c4-441b-5ad6-fa45d47fe100/rectcrop3",
+            "name": "Moxie:satria666-fc",
+            "symbol": "Moxie:satria666-fc"
         }
     ],
     "version": {
