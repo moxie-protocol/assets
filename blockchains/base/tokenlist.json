@@ -16578,6 +16578,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/823a5688-59b3-4efb-e384-8d3225c19800/rectcrop3",
             "name": "Moxie:z0ra-fc",
             "symbol": "Moxie:z0ra-fc"
+        },
+        {
+            "address": "0xD9e45995955793C81e41572001A67c0074002B94",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48788bc0-1ac9-40c8-1493-e454a145fb00/rectcrop3",
+            "name": "Moxie:syns-fc",
+            "symbol": "Moxie:syns-fc"
         }
     ],
     "version": {
