@@ -15913,6 +15913,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f9be2ec2-85a5-46a2-2784-9edf3efae900/rectcrop3",
             "name": "Moxie:princeivn-fc",
             "symbol": "Moxie:princeivn-fc"
+        },
+        {
+            "address": "0xF8e93A231F2777dF41738e9180c11B3E18c96f75",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee49daca-4fa0-49ff-334b-952ced523300/original",
+            "name": "Moxie:xanxan-fc",
+            "symbol": "Moxie:xanxan-fc"
         }
     ],
     "version": {
