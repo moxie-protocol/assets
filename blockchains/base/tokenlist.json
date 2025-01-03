@@ -14135,6 +14135,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23a01a92-380b-4409-4e22-43a648f21200/rectcrop3",
             "name": "Moxie:adeyemiky-fc",
             "symbol": "Moxie:adeyemiky-fc"
+        },
+        {
+            "address": "0x5c2185C516B4f1EFF93b6c60fF8f8268063370DD",
+            "decimals": 18,
+            "logoURI": "https://t4.ftcdn.net/jpg/04/61/67/63/360_F_461676386_JAB9DgisuF97g2w0lurbTGy4LpE5CUe6.jpg",
+            "name": "Moxie:mez666.eth-ens",
+            "symbol": "Moxie:mez666.eth-ens"
         }
     ],
     "version": {
