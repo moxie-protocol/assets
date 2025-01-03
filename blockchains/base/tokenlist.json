@@ -14520,6 +14520,13 @@
             "logoURI": "https://i.imgur.com/iU4mjQM.jpg",
             "name": "Moxie:maulana123-fc",
             "symbol": "Moxie:maulana123-fc"
+        },
+        {
+            "address": "0xd852fd00F43f8A1ED9adE78650330E5dC06d89d6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1837222131077369856/_1zL4tqp.jpg",
+            "name": "Moxie:dropsuryaa-x",
+            "symbol": "Moxie:dropsuryaa-x"
         }
     ],
     "version": {
