@@ -12567,6 +12567,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1767314553787068416/Wj1FRo2P.jpg",
             "name": "Moxie:arbXeth-x",
             "symbol": "Moxie:arbXeth-x"
+        },
+        {
+            "address": "0x9e7B1e30AbC7d8DC11032A456108dcE60FE16a4c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1691824366953111552/zOHFiMBi.png",
+            "name": "Moxie:Rpwl29-x",
+            "symbol": "Moxie:Rpwl29-x"
         }
     ],
     "version": {
