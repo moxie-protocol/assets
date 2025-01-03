@@ -12847,6 +12847,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1734249441392275456/w9R5D8IB.jpg",
             "name": "Moxie:haerul_ras62738-x",
             "symbol": "Moxie:haerul_ras62738-x"
+        },
+        {
+            "address": "0xD52Ebb248eF4E1A6b8dF78b70feC2594b8F7941c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xGCuv6V.jpg",
+            "name": "Moxie:strinx-fc",
+            "symbol": "Moxie:strinx-fc"
         }
     ],
     "version": {
