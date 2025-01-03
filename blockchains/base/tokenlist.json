@@ -13974,6 +13974,13 @@
             "logoURI": "https://i.imgur.com/gswVIVs.jpg",
             "name": "Moxie:ajinomicin-fc",
             "symbol": "Moxie:ajinomicin-fc"
+        },
+        {
+            "address": "0x3d6b13eD297865a860701825476Aa518c13f3AB0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fba182f-74de-490c-ceb2-97b349af6400/rectcrop3",
+            "name": "Moxie:3dbijanalavi-fc",
+            "symbol": "Moxie:3dbijanalavi-fc"
         }
     ],
     "version": {
