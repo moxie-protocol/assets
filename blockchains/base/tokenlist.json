@@ -14359,6 +14359,13 @@
             "logoURI": "https://i.imgur.com/N12e5qx.jpg",
             "name": "Moxie:ramaleyha-fc",
             "symbol": "Moxie:ramaleyha-fc"
+        },
+        {
+            "address": "0x5fF440A4bc660BC81dA861D54Bc9878ECA9D88FD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1733548059903098880/-Tw0b3ie.jpg",
+            "name": "Moxie:Afterlife13_-x",
+            "symbol": "Moxie:Afterlife13_-x"
         }
     ],
     "version": {
