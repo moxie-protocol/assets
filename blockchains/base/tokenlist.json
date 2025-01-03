@@ -15906,6 +15906,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3392b34-7c05-4933-1d07-03da1117c700/original",
             "name": "Moxie:krivaldi-fc",
             "symbol": "Moxie:krivaldi-fc"
+        },
+        {
+            "address": "0xF14eaCd9ab074521e6cE1b22E1e581E2A1307931",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f9be2ec2-85a5-46a2-2784-9edf3efae900/rectcrop3",
+            "name": "Moxie:princeivn-fc",
+            "symbol": "Moxie:princeivn-fc"
         }
     ],
     "version": {
