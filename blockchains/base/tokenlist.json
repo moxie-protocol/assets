@@ -16424,6 +16424,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1848020284936216576/ZQChpTUO.jpg",
             "name": "Moxie:temmiewayne-x",
             "symbol": "Moxie:temmiewayne-x"
+        },
+        {
+            "address": "0x358335aae09459Ad243C3fc5A35e18Ac05CC154A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867094708306186240/wKP8E0iz.jpg",
+            "name": "Moxie:thexcorsim-x",
+            "symbol": "Moxie:thexcorsim-x"
         }
     ],
     "version": {
