@@ -13946,6 +13946,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97ccf7c3-fbfb-45d4-a241-c4307839a600/original",
             "name": "Moxie:nikoone-fc",
             "symbol": "Moxie:nikoone-fc"
+        },
+        {
+            "address": "0xa3a4496A2bd900970502ad13797007B6CA388d96",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "yedai",
+            "symbol": "fid:308587"
         }
     ],
     "version": {
