@@ -13365,6 +13365,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ca5c872-393b-4fb4-338d-503bdd558100/rectcrop3",
             "name": "Moxie:corolaroz-fc",
             "symbol": "Moxie:corolaroz-fc"
+        },
+        {
+            "address": "0x4dc595a51c2D8B5cCCAce526ce5187dB798cEcb9",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihwwhgvawlovgoj4hfl3p6fpjqd64owzqys3t557vh55oa7r3egp4",
+            "name": "Moxie:upidun-fc",
+            "symbol": "Moxie:upidun-fc"
         }
     ],
     "version": {
