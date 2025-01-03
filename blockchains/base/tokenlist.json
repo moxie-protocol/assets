@@ -15983,6 +15983,13 @@
             "logoURI": "https://i.imgur.com/J2viP83.jpg",
             "name": "Moxie:filo-fc",
             "symbol": "Moxie:filo-fc"
+        },
+        {
+            "address": "0x670317ceD73042Cc0d5c132561b03ee665E1EC9d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5d4442c7-86e1-4dfb-49b4-2df2a5453100/rectcrop3",
+            "name": "Moxie:mamatdrop-fc",
+            "symbol": "Moxie:mamatdrop-fc"
         }
     ],
     "version": {
