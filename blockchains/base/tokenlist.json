@@ -15416,6 +15416,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/169df3ef-c055-4ccd-cd7b-f14187541a00/rectcrop3",
             "name": "Moxie:jodi219-fc",
             "symbol": "Moxie:jodi219-fc"
+        },
+        {
+            "address": "0x1d539C3606492b3C20df561ee025A7996281fAfa",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bSmHaKf.jpg",
+            "name": "Moxie:chyouzhishu-fc",
+            "symbol": "Moxie:chyouzhishu-fc"
         }
     ],
     "version": {
