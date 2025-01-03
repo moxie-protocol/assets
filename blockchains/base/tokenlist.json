@@ -14044,6 +14044,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38a87b24-d4e3-4f78-b3fb-fd4a7fba5900/rectcrop3",
             "name": "Moxie:rishmantha-fc",
             "symbol": "Moxie:rishmantha-fc"
+        },
+        {
+            "address": "0x0e5E97F4939375231bFaC5afD767e47E8b9b9Bbd",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4ldFlmP.jpg",
+            "name": "Moxie:akatsukixhokage-fc",
+            "symbol": "Moxie:akatsukixhokage-fc"
         }
     ],
     "version": {
