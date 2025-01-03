@@ -13554,6 +13554,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21684958-b363-40c2-d922-014861e1a100/rectcrop3",
             "name": "Moxie:noteku29-fc",
             "symbol": "Moxie:noteku29-fc"
+        },
+        {
+            "address": "0xA98943063E0b2ce992e77C4B5b2E56B881CceA0B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0939198-9376-408a-b55d-a5cc19c1dd00/rectcrop3",
+            "name": "Moxie:deryansugiri-fc",
+            "symbol": "Moxie:deryansugiri-fc"
         }
     ],
     "version": {
