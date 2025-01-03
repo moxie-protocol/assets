@@ -13925,6 +13925,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1621418473221144576/qDtc_6UW.jpg",
             "name": "Moxie:ontor2023-x",
             "symbol": "Moxie:ontor2023-x"
+        },
+        {
+            "address": "0x496624C98FBE351239f7333C0BC0e5BfC21Bc263",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1563429291794505729/m4KX9odo.png",
+            "name": "Moxie:Soraaa_01-x",
+            "symbol": "Moxie:Soraaa_01-x"
         }
     ],
     "version": {
