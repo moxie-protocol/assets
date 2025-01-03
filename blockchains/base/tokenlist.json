@@ -12910,6 +12910,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0ea9ee-5f23-475b-e8ce-e1c39574dc00/rectcrop3",
             "name": "Moxie:astergordon-fc",
             "symbol": "Moxie:astergordon-fc"
+        },
+        {
+            "address": "0xA9D57cfbCd95D3DA5ad6577FfD84c88fDD3E08db",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d85516a9-22a3-4e62-c1c8-1ad59bbcca00/rectcrop3",
+            "name": "Moxie:dowproject.eth-fc",
+            "symbol": "Moxie:dowproject.eth-fc"
         }
     ],
     "version": {
