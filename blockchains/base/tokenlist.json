@@ -15157,6 +15157,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3972d4d0-efbe-4e29-4606-308950e9e700/rectcrop3",
             "name": "Moxie:pk-fc",
             "symbol": "Moxie:pk-fc"
+        },
+        {
+            "address": "0x7CAD6A57CD565bB8D8Fe1EC17aDdDe4f87eEEf66",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809369860188864512/Nb2IV1t9.jpg",
+            "name": "Moxie:Ricktx12-x",
+            "symbol": "Moxie:Ricktx12-x"
         }
     ],
     "version": {
