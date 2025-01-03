@@ -16571,6 +16571,13 @@
             "logoURI": "https://i.imgur.com/OD7nWff.jpg",
             "name": "Moxie:seaswap-fc",
             "symbol": "Moxie:seaswap-fc"
+        },
+        {
+            "address": "0xA5cB8068da0371431C15425948716773c779c02a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/823a5688-59b3-4efb-e384-8d3225c19800/rectcrop3",
+            "name": "Moxie:z0ra-fc",
+            "symbol": "Moxie:z0ra-fc"
         }
     ],
     "version": {
