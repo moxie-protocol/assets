@@ -14863,6 +14863,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeig7kkq5tks6ymdris3etg47rz5zcn2ltbzjuh3v6k3oqf7e2kzsr4/6036",
             "name": "Moxie:chainsmokers-fc",
             "symbol": "Moxie:chainsmokers-fc"
+        },
+        {
+            "address": "0xc624794e9734068413F2508feC2A5f0226109704",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LBypuHO.jpg",
+            "name": "Moxie:yariscnc-fc",
+            "symbol": "Moxie:yariscnc-fc"
         }
     ],
     "version": {
