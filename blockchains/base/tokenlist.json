@@ -15836,6 +15836,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
             "name": "Moxie:godofmoney-fc",
             "symbol": "Moxie:godofmoney-fc"
+        },
+        {
+            "address": "0x4c608aCc3548dA11f8271b9b1A1E2b3b090C1159",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NO0EIIb.jpg",
+            "name": "Moxie:taufikexe-fc",
+            "symbol": "Moxie:taufikexe-fc"
         }
     ],
     "version": {
