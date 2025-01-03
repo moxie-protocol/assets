@@ -12693,6 +12693,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1102483289053392897/yj07Eo-c.jpg",
             "name": "Moxie:Mamz_L-x",
             "symbol": "Moxie:Mamz_L-x"
+        },
+        {
+            "address": "0xEba95CAb2092A97DAaeF4EabE5bf27e401dce885",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rLQfv8u.jpg",
+            "name": "Moxie:minhhoai.eth-fc",
+            "symbol": "Moxie:minhhoai.eth-fc"
         }
     ],
     "version": {
