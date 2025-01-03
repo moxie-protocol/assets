@@ -15213,6 +15213,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1792579142774644736/TKBJ3qYi.jpg",
             "name": "Moxie:hoangquantrader-x",
             "symbol": "Moxie:hoangquantrader-x"
+        },
+        {
+            "address": "0x82e053D39f2f11b44c105Aa6a440a0F293a91385",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0TaxTu3.jpg",
+            "name": "Moxie:cuonggiau2-fc",
+            "symbol": "Moxie:cuonggiau2-fc"
         }
     ],
     "version": {
