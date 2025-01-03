@@ -13085,6 +13085,13 @@
             "logoURI": "https://arweave.net/tv6yN_zJMapXXdZYB4gnniqreX3R6vt_wItwLCBWiCM/",
             "name": "Moxie:kage02-fc",
             "symbol": "Moxie:kage02-fc"
+        },
+        {
+            "address": "0x582Dc70871026bd08f4dB066A7f6F59924760780",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28dd23bb-bb1c-4115-ea37-e0f16e6ae100/rectcrop3",
+            "name": "Moxie:pullandbear-fc",
+            "symbol": "Moxie:pullandbear-fc"
         }
     ],
     "version": {
