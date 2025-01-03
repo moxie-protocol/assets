@@ -14380,6 +14380,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/453146339438641152/LwQJ3vLP.jpeg",
             "name": "Moxie:ThinkPad16-x",
             "symbol": "Moxie:ThinkPad16-x"
+        },
+        {
+            "address": "0xD4BC5aF85481264CCc7ddB569188a900Bd5A9806",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3CepYCa.jpg",
+            "name": "Moxie:668-fc",
+            "symbol": "Moxie:668-fc"
         }
     ],
     "version": {
