@@ -13225,6 +13225,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bfb0aae2-a378-4ad2-b861-256132088300/rectcrop3",
             "name": "Moxie:loaders-fc",
             "symbol": "Moxie:loaders-fc"
+        },
+        {
+            "address": "0xfa5b9dC1De982401561087c56622791d7d7BD572",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1779898069943037952/03DWjvCJ.jpg",
+            "name": "Moxie:kaku81994-x",
+            "symbol": "Moxie:kaku81994-x"
         }
     ],
     "version": {
