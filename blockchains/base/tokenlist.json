@@ -12511,6 +12511,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef2350f-bdce-4bfc-9f53-82a365b13f00/original",
             "name": "Moxie:kukkui-fc",
             "symbol": "Moxie:kukkui-fc"
+        },
+        {
+            "address": "0x97F6ee16aD68B53F030C8Fc77447Fb3DcC75e77a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vN83pVE.jpg",
+            "name": "Moxie:kajoljr-fc",
+            "symbol": "Moxie:kajoljr-fc"
         }
     ],
     "version": {
