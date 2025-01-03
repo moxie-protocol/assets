@@ -13547,6 +13547,13 @@
             "logoURI": null,
             "name": "r13",
             "symbol": "fid:372304"
+        },
+        {
+            "address": "0x50B18232FBF06CE2F926E61427f0D58F6EBcce58",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21684958-b363-40c2-d922-014861e1a100/rectcrop3",
+            "name": "Moxie:noteku29-fc",
+            "symbol": "Moxie:noteku29-fc"
         }
     ],
     "version": {
