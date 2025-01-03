@@ -14905,6 +14905,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4d0d3463-7c48-4d01-e7c3-73652dc2db00/rectcrop3",
             "name": "Moxie:web3face-fc",
             "symbol": "Moxie:web3face-fc"
+        },
+        {
+            "address": "0x36347f61C103345C67B611bddcBd7006fF61f3F0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9fc4683-058c-4f3a-96f9-4d61c28b2300/rectcrop3",
+            "name": "Moxie:0xzin-fc",
+            "symbol": "Moxie:0xzin-fc"
         }
     ],
     "version": {
