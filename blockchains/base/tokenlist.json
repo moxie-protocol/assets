@@ -13876,6 +13876,13 @@
             "logoURI": "https://i.imgur.com/ZGjvgnu.jpg",
             "name": "Moxie:ebau-fc",
             "symbol": "Moxie:ebau-fc"
+        },
+        {
+            "address": "0xDF55bbEf193cb2778573F433922BBaB9480E3b08",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1450497324082466822/bow2Nxkp.jpg",
+            "name": "Moxie:merrcyy0-x",
+            "symbol": "Moxie:merrcyy0-x"
         }
     ],
     "version": {
