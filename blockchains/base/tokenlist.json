@@ -16536,6 +16536,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21ee1521-9567-49ef-a8d9-b491f786f900/rectcrop3",
             "name": "Moxie:jacak-fc",
             "symbol": "Moxie:jacak-fc"
+        },
+        {
+            "address": "0x8ff7117df58f4E5b98179bF049cBb16C48f26512",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8b55c499-eb80-48c5-e335-54310f196600/rectcrop3",
+            "name": "Moxie:teloz-fc",
+            "symbol": "Moxie:teloz-fc"
         }
     ],
     "version": {
