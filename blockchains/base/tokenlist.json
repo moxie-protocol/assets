@@ -14170,6 +14170,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ce291eb-3be6-4897-3040-04d71be57700/rectcrop3",
             "name": "Moxie:brainlyy-fc",
             "symbol": "Moxie:brainlyy-fc"
+        },
+        {
+            "address": "0x332e7537fc80C48d1F24d18A991D19407ab150F3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dcd07dc1-e850-4b5c-abad-b5862a04bd00/original",
+            "name": "Moxie:mmshy-fc",
+            "symbol": "Moxie:mmshy-fc"
         }
     ],
     "version": {
