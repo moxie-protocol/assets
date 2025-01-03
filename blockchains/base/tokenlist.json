@@ -14492,6 +14492,13 @@
             "logoURI": "https://i.imgur.com/10WROBt.jpg",
             "name": "Moxie:kunciinggris-fc",
             "symbol": "Moxie:kunciinggris-fc"
+        },
+        {
+            "address": "0xD8236ddc296b69918a830465BB25C372F19e3B69",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26bbc115-27e4-47b7-6e05-9090a2811700/rectcrop3",
+            "name": "Moxie:catflow-fc",
+            "symbol": "Moxie:catflow-fc"
         }
     ],
     "version": {
