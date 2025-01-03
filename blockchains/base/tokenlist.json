@@ -15374,6 +15374,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/999a2dbf-97b2-4896-1c4e-e801ecbba400/original",
             "name": "Moxie:0xmogajepe-fc",
             "symbol": "Moxie:0xmogajepe-fc"
+        },
+        {
+            "address": "0xF4236117206263a6AFdB29838abd2CcE95178122",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/Np1c6WM3rPy6IkN5-iVhtHKbVC5owGJKfxIvZcjam8Y/",
+            "name": "Moxie:imdev.eth-fc",
+            "symbol": "Moxie:imdev.eth-fc"
         }
     ],
     "version": {
