@@ -14807,6 +14807,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866806732879781888/-sJ4eYoG.jpg",
             "name": "Moxie:oxacheron8-x",
             "symbol": "Moxie:oxacheron8-x"
+        },
+        {
+            "address": "0xc49269DdB9f8cCA1B5281E537235AE36fAB267a6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd8bcbfd-1459-4a78-e8ff-7522ac2e5100/rectcrop3",
+            "name": "Moxie:trollz-fc",
+            "symbol": "Moxie:trollz-fc"
         }
     ],
     "version": {
