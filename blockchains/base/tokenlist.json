@@ -14639,6 +14639,13 @@
             "logoURI": "https://i.imgur.com/5CM0GUY.jpg",
             "name": "Moxie:davidjr-fc",
             "symbol": "Moxie:davidjr-fc"
+        },
+        {
+            "address": "0xf80485561F45D1C06cFf0c8FA2E2fb40138B87D8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vVodl4b.jpg",
+            "name": "Moxie:virabawo-fc",
+            "symbol": "Moxie:virabawo-fc"
         }
     ],
     "version": {
