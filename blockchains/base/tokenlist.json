@@ -14429,6 +14429,13 @@
             "logoURI": "https://i.imgur.com/vF8nxkZ.jpg",
             "name": "Moxie:babysharkz-fc",
             "symbol": "Moxie:babysharkz-fc"
+        },
+        {
+            "address": "0xb4a7eFDB957cC6c430BF8B03A8872106f74eF681",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2942a0aa-2569-455f-9f2d-401b71bb1d00/rectcrop3",
+            "name": "Moxie:r021-fc",
+            "symbol": "Moxie:r021-fc"
         }
     ],
     "version": {
