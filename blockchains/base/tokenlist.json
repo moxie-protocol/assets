@@ -14919,6 +14919,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ba28373-a7e4-4665-717f-b8ac7fefa100/rectcrop3",
             "name": "Moxie:eeve985-fc",
             "symbol": "Moxie:eeve985-fc"
+        },
+        {
+            "address": "0x86812374CA1143549A9Ea848fD61Fe6d7fc4586a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798576713598967810/tPT7dskc.jpg",
+            "name": "Moxie:yapijan-x",
+            "symbol": "Moxie:yapijan-x"
         }
     ],
     "version": {
