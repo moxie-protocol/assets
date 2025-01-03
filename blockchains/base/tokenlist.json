@@ -13813,6 +13813,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bf8cbe5-e1d7-4f47-3cc2-00bd036e4200/rectcrop3",
             "name": "Moxie:stefank888-fc",
             "symbol": "Moxie:stefank888-fc"
+        },
+        {
+            "address": "0x10aFf618D4B5B10208D7779905F8a113cc3fFA85",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cae2731b-7012-4236-1c64-d6bb984df000/rectcrop3",
+            "name": "Moxie:zefryx17-fc",
+            "symbol": "Moxie:zefryx17-fc"
         }
     ],
     "version": {
