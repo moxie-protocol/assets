@@ -14576,6 +14576,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4928559b-8a90-4e01-c7a1-c3846253f700/rectcrop3",
             "name": "Moxie:faxso-fc",
             "symbol": "Moxie:faxso-fc"
+        },
+        {
+            "address": "0x71fb11e7A717617c393592d800874Ab3fA05AfBD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sm9JipF.jpg",
+            "name": "Moxie:yugo13-fc",
+            "symbol": "Moxie:yugo13-fc"
         }
     ],
     "version": {
