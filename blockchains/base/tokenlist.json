@@ -13561,6 +13561,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0939198-9376-408a-b55d-a5cc19c1dd00/rectcrop3",
             "name": "Moxie:deryansugiri-fc",
             "symbol": "Moxie:deryansugiri-fc"
+        },
+        {
+            "address": "0x457B2C5c2EEc2F0C121ac3D3ae9058e9a5d5139a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "klxz",
+            "symbol": "fid:427763"
         }
     ],
     "version": {
