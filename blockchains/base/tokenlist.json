@@ -13162,6 +13162,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8a54a3a-3ea9-4d0c-ecdb-1aa78c82ed00/rectcrop3",
             "name": "Moxie:dilapuspita-fc",
             "symbol": "Moxie:dilapuspita-fc"
+        },
+        {
+            "address": "0x92f885669Dc007b1264f4D336C225a11C56A5536",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1691731388939251712/OL9aXOSr.png",
+            "name": "Moxie:hajilusuh-x",
+            "symbol": "Moxie:hajilusuh-x"
         }
     ],
     "version": {
