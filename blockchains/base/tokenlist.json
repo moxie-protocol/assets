@@ -12861,6 +12861,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1772396464473608192/NcPHymJ4.jpg",
             "name": "Moxie:intabluue-x",
             "symbol": "Moxie:intabluue-x"
+        },
+        {
+            "address": "0xa9D3134DD9e242034204303e802a60134b5b5691",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870565871137218560/Oq-OrzUs.jpg",
+            "name": "Moxie:art_useless-x",
+            "symbol": "Moxie:art_useless-x"
         }
     ],
     "version": {
