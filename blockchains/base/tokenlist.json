@@ -12784,6 +12784,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1127964368593833984/A_2sRKsw.jpg",
             "name": "Moxie:Bagi0s-x",
             "symbol": "Moxie:Bagi0s-x"
+        },
+        {
+            "address": "0x24Ce8385E0Cb7094c299aba9C0B068887E8e2633",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZfNMPrm.jpg",
+            "name": "Moxie:manzx-fc",
+            "symbol": "Moxie:manzx-fc"
         }
     ],
     "version": {
