@@ -15633,6 +15633,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52fb05ac-9738-43e8-01dc-3ce7c921e000/rectcrop3",
             "name": "Moxie:risseun-fc",
             "symbol": "Moxie:risseun-fc"
+        },
+        {
+            "address": "0xAf1179e844C7eD106F8Ad9889c4c8835877Fd5B6",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "oxhaiba",
+            "symbol": "fid:242308"
         }
     ],
     "version": {
