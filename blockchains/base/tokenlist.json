@@ -12805,6 +12805,13 @@
             "logoURI": "https://i.imgur.com/ThTHcV6.jpg",
             "name": "Moxie:ekapermana-fc",
             "symbol": "Moxie:ekapermana-fc"
+        },
+        {
+            "address": "0x97A45d80e8124bA376f1F7eb067B51FCDd9077CC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NkXWkzV.jpg",
+            "name": "Moxie:adehariyanto-fc",
+            "symbol": "Moxie:adehariyanto-fc"
         }
     ],
     "version": {
