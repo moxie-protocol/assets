@@ -13694,6 +13694,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
             "name": "Moxie:samuraivn-fc",
             "symbol": "Moxie:samuraivn-fc"
+        },
+        {
+            "address": "0x5d03AcE75467FaE57Af3A7B2E1CC8eD8121Aa6e0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c37e4c86-6084-41f3-90ed-2e6bb115f100/rectcrop3",
+            "name": "Moxie:jepriyatna-fc",
+            "symbol": "Moxie:jepriyatna-fc"
         }
     ],
     "version": {
