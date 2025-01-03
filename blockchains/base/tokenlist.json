@@ -12658,6 +12658,13 @@
             "logoURI": "https://i.imgur.com/eraUyAe.jpg",
             "name": "Moxie:57mal-fc",
             "symbol": "Moxie:57mal-fc"
+        },
+        {
+            "address": "0xB42990a0D6b27DEa8a94d082e917C7322B4BDCeA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/j5XyQ7M.jpg",
+            "name": "Moxie:moonton-fc",
+            "symbol": "Moxie:moonton-fc"
         }
     ],
     "version": {
