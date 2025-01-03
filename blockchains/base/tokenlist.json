@@ -15339,6 +15339,13 @@
             "logoURI": "https://i.imgur.com/QFbg0GN.jpg",
             "name": "Moxie:ohmaygot-fc",
             "symbol": "Moxie:ohmaygot-fc"
+        },
+        {
+            "address": "0xE900589226843C9B6F21397BF5a9F813c1FDD3eC",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1245336485915537408/rAZRQ9hN.jpg",
+            "name": "Moxie:Yanuardias-x",
+            "symbol": "Moxie:Yanuardias-x"
         }
     ],
     "version": {
