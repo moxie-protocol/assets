@@ -13596,6 +13596,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiegrnialwu66u3nwzkn4gik4i2x2h4ip7y3w2dlymzlpxb5lrqbom",
             "name": "Moxie:padma-fc",
             "symbol": "Moxie:padma-fc"
+        },
+        {
+            "address": "0x1120Cb7DB2823624B3E310056f924E04a406F8B1",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "madm",
+            "symbol": "fid:431311"
         }
     ],
     "version": {
