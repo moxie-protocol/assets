@@ -12714,6 +12714,13 @@
             "logoURI": "https://img.freepik.com/premium-photo/purple-dog-with-purple-logo-that-says-dog_910054-21207.jpg",
             "name": "Moxie:ethpop.eth-ens",
             "symbol": "Moxie:ethpop.eth-ens"
+        },
+        {
+            "address": "0xc8529C2d512968fa49165Ae806d1A6c8D74F2bC5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829105605803720704/ZvbNLK3Y.jpg",
+            "name": "Moxie:AlifPratam25962-x",
+            "symbol": "Moxie:AlifPratam25962-x"
         }
     ],
     "version": {
