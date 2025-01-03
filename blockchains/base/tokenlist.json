@@ -15493,6 +15493,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1806605759691857920/_H2qflBQ.jpg",
             "name": "Moxie:ctt_fan28383-x",
             "symbol": "Moxie:ctt_fan28383-x"
+        },
+        {
+            "address": "0x72136e284dFB91dfaBfF2968735Da4745bF06893",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795627271409328128/E_iyRA-r.jpg",
+            "name": "Moxie:cidKagenou_af-x",
+            "symbol": "Moxie:cidKagenou_af-x"
         }
     ],
     "version": {
