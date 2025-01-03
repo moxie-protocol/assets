@@ -12476,6 +12476,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e264535-ae17-4c3b-a607-0070aa0e8a00/original",
             "name": "Moxie:jayplayco-fc",
             "symbol": "Moxie:jayplayco-fc"
+        },
+        {
+            "address": "0x95116669a4b50Dd4Ae4EBe03053d84EA7fdfd07a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "celtics",
+            "symbol": "fid:862329"
         }
     ],
     "version": {
