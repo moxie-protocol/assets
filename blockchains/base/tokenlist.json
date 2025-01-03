@@ -12588,6 +12588,13 @@
             "logoURI": "https://i.imgur.com/ALbZmaY.gif",
             "name": "Moxie:diar-fc",
             "symbol": "Moxie:diar-fc"
+        },
+        {
+            "address": "0x83ce6B3e6D73846B1253980C4be8f92fd8c18FBc",
+            "decimals": 18,
+            "logoURI": "https://kl3kwu43vgwlm52ox2s2gv4bo6yhll3lj53sfwoj54vknutiaewq.arweave.net/UvarU5uprLZ3Tr6lo1eBd7B1r2tPdyLZye8qptJoAS0/",
+            "name": "Moxie:k1nant1k1nant1-fc",
+            "symbol": "Moxie:k1nant1k1nant1-fc"
         }
     ],
     "version": {
