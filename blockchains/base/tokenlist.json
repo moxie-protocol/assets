@@ -13701,6 +13701,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c37e4c86-6084-41f3-90ed-2e6bb115f100/rectcrop3",
             "name": "Moxie:jepriyatna-fc",
             "symbol": "Moxie:jepriyatna-fc"
+        },
+        {
+            "address": "0xa11Ea87F6eafc0B9aB9FC726F293C3ada9f76DC3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7ee4bb2-4b4b-46af-627b-0b07f9b09200/rectcrop3",
+            "name": "Moxie:xyorami-fc",
+            "symbol": "Moxie:xyorami-fc"
         }
     ],
     "version": {
