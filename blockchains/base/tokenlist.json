@@ -13806,6 +13806,13 @@
             "logoURI": "https://i.imgur.com/feMN8pr.jpg",
             "name": "Moxie:yandex-fc",
             "symbol": "Moxie:yandex-fc"
+        },
+        {
+            "address": "0xf03728eb12EE9d09E016244Fe3f11a60843026e0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bf8cbe5-e1d7-4f47-3cc2-00bd036e4200/rectcrop3",
+            "name": "Moxie:stefank888-fc",
+            "symbol": "Moxie:stefank888-fc"
         }
     ],
     "version": {
