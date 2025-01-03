@@ -14968,6 +14968,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1807370164327026688/r82Y-ZxF.jpg",
             "name": "Moxie:Razumnny-x",
             "symbol": "Moxie:Razumnny-x"
+        },
+        {
+            "address": "0x93aB58b9c50952c3ae47e42a123dB036B81dFe17",
+            "decimals": 18,
+            "logoURI": "https://t4.ftcdn.net/jpg/05/65/48/31/360_F_565483129_M8bzZlq6w4NhJRtJ9C6mzowkCVDOSWMU.jpg",
+            "name": "Moxie:drift.base.eth-base",
+            "symbol": "Moxie:drift.base.eth-base"
         }
     ],
     "version": {
