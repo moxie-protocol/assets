@@ -16060,6 +16060,13 @@
             "logoURI": "https://l3img-secondary.b-cdn.net/ipfs/QmWj9AgNb2v7TxckHhAvzXgi3oC7ANTaFoQ8y3YvktxaLw?width=156\u0026optimizer=image",
             "name": "Moxie:febby.base.eth-base",
             "symbol": "Moxie:febby.base.eth-base"
+        },
+        {
+            "address": "0x121AC948a21A65406Ed2e1E528b2D73C30fFFa4c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f896a675-456f-466a-ff3b-ebb39f13f200/rectcrop3",
+            "name": "Moxie:haxorbroken-fc",
+            "symbol": "Moxie:haxorbroken-fc"
         }
     ],
     "version": {
