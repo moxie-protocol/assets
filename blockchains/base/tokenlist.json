@@ -15507,6 +15507,13 @@
             "logoURI": "https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg",
             "name": "Moxie:whisperem.base.eth-base",
             "symbol": "Moxie:whisperem.base.eth-base"
+        },
+        {
+            "address": "0xa3cB71C6deA4bc52aff86b4DdAD8C9354eb42544",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wqcVtrR.jpg",
+            "name": "Moxie:salabend-fc",
+            "symbol": "Moxie:salabend-fc"
         }
     ],
     "version": {
