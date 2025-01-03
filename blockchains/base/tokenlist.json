@@ -15304,6 +15304,13 @@
             "logoURI": "https://i.imgur.com/0DX1QT0.jpg",
             "name": "Moxie:mdpump-fc",
             "symbol": "Moxie:mdpump-fc"
+        },
+        {
+            "address": "0x00320111f982d12C435a66D2d97a4f5Aa6c20456",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57f8ac00-b309-4cf4-c45d-112e6ce64300/rectcrop3",
+            "name": "Moxie:bananawet-fc",
+            "symbol": "Moxie:bananawet-fc"
         }
     ],
     "version": {
