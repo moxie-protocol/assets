@@ -14541,6 +14541,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/faa65749-5d25-45e5-554e-87131eca7500/rectcrop3",
             "name": "Moxie:twiz-fc",
             "symbol": "Moxie:twiz-fc"
+        },
+        {
+            "address": "0x8043De047D4F56002cF629942d8e242d542B92fE",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1856422361702248451/xCWJpJa8.jpg",
+            "name": "Moxie:popehierophant-x",
+            "symbol": "Moxie:popehierophant-x"
         }
     ],
     "version": {
