@@ -15829,6 +15829,13 @@
             "logoURI": "https://i.imgur.com/taq9Ctk.jpg",
             "name": "Moxie:analyzer-fc",
             "symbol": "Moxie:analyzer-fc"
+        },
+        {
+            "address": "0x3ba6BD0cfB907f6eA8b93902f6B64C00807F56Da",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
+            "name": "Moxie:godofmoney-fc",
+            "symbol": "Moxie:godofmoney-fc"
         }
     ],
     "version": {
