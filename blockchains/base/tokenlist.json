@@ -15948,6 +15948,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1575177978085920768/htNo9gT_.png",
             "name": "Moxie:AegugI-x",
             "symbol": "Moxie:AegugI-x"
+        },
+        {
+            "address": "0x2aD17FB84B08620ce414f7481D9DeDc9fE8D6804",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6bc6eb3-f0d9-4967-0955-abb4e2be0d00/rectcrop3",
+            "name": "Moxie:datlam68-fc",
+            "symbol": "Moxie:datlam68-fc"
         }
     ],
     "version": {
