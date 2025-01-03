@@ -14107,6 +14107,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1750397965808848898/hnGQFsFO.jpg",
             "name": "Moxie:SusiLaw10418042-x",
             "symbol": "Moxie:SusiLaw10418042-x"
+        },
+        {
+            "address": "0xc79542C2B1C63be2B4d20531dF1BBD2B2CEC4C98",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/i3EuTDm.jpg",
+            "name": "Moxie:worldbtc-fc",
+            "symbol": "Moxie:worldbtc-fc"
         }
     ],
     "version": {
