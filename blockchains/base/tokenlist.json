@@ -15843,6 +15843,13 @@
             "logoURI": "https://i.imgur.com/NO0EIIb.jpg",
             "name": "Moxie:taufikexe-fc",
             "symbol": "Moxie:taufikexe-fc"
+        },
+        {
+            "address": "0x0D4c5F657c07c8Ad82Cd8a93B2290732bD483f92",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FT1hqHM.jpg",
+            "name": "Moxie:anwar123-fc",
+            "symbol": "Moxie:anwar123-fc"
         }
     ],
     "version": {
