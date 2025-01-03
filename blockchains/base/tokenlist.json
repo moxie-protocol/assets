@@ -13113,6 +13113,13 @@
             "logoURI": null,
             "name": "rian2500",
             "symbol": "fid:870457"
+        },
+        {
+            "address": "0x51DD241Fb9a67958F05AEdFC7b59b7a6eE311d19",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1827749646107897856/wMO95jvh.jpg",
+            "name": "Moxie:azril7490686737-x",
+            "symbol": "Moxie:azril7490686737-x"
         }
     ],
     "version": {
