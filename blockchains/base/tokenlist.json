@@ -14086,6 +14086,13 @@
             "logoURI": "https://i.imgur.com/dwfMrc9.jpg",
             "name": "Moxie:rakhsst-fc",
             "symbol": "Moxie:rakhsst-fc"
+        },
+        {
+            "address": "0xC575c09bdc813C94a31275e2EEA7C3aFdB74675d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798013184781299712/F6JJBXq3.jpg",
+            "name": "Moxie:KandiSisil-x",
+            "symbol": "Moxie:KandiSisil-x"
         }
     ],
     "version": {
