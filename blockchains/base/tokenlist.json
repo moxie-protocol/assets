@@ -16270,6 +16270,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad64baf1-22f2-446d-642b-749083489200/rectcrop3",
             "name": "Moxie:xboxx-fc",
             "symbol": "Moxie:xboxx-fc"
+        },
+        {
+            "address": "0x7A1fe1c3178883BD85520a20ffEe07cAC46fA6F5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/175a2ac4-acc6-4f11-0011-c3434be3a500/rectcrop3",
+            "name": "Moxie:numerijez-fc",
+            "symbol": "Moxie:numerijez-fc"
         }
     ],
     "version": {
