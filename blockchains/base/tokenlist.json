@@ -14569,6 +14569,13 @@
             "logoURI": "https://pbs.twimg.com/media/GFNHzJgaMAAEcJ0?format=jpg\u0026name=medium",
             "name": "Moxie:bogia.base.eth-base",
             "symbol": "Moxie:bogia.base.eth-base"
+        },
+        {
+            "address": "0xbb0ECD81Ef6EBfd347CbD96c414cd18a0Daf9A7d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4928559b-8a90-4e01-c7a1-c3846253f700/rectcrop3",
+            "name": "Moxie:faxso-fc",
+            "symbol": "Moxie:faxso-fc"
         }
     ],
     "version": {
