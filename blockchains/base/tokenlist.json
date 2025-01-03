@@ -15066,6 +15066,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18d41307-3a8f-4e9f-60c7-681f7044f200/rectcrop3",
             "name": "Moxie:matthews-fc",
             "symbol": "Moxie:matthews-fc"
+        },
+        {
+            "address": "0xBCDf5460F0317941dd2e63E1999f3d3F4cbB98b9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a2b39b5-c8fe-42bc-2c56-0732b9742e00/rectcrop3",
+            "name": "Moxie:marvelg27-fc",
+            "symbol": "Moxie:marvelg27-fc"
         }
     ],
     "version": {
