@@ -15577,6 +15577,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1682209884903976960/CDJ9jMpP.jpg",
             "name": "Moxie:ShahnazCheragh3-x",
             "symbol": "Moxie:ShahnazCheragh3-x"
+        },
+        {
+            "address": "0x158166b9aD7dbb8e3B36939DaCbA8566b908c7F3",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/94Gk9WQ/gfgf45d.jpg",
+            "name": "Moxie:megadone-fc",
+            "symbol": "Moxie:megadone-fc"
         }
     ],
     "version": {
