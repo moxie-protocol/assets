@@ -13995,6 +13995,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1658020170923913216/kiBr0-p3.jpg",
             "name": "Moxie:SnowLxrd-x",
             "symbol": "Moxie:SnowLxrd-x"
+        },
+        {
+            "address": "0xDB4A4A4Cbb0D961bD91A9B8e0BA862FCB8b7Df37",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fbabc3b-c932-4e44-f9f1-31b7a6476e00/original",
+            "name": "Moxie:danblue-fc",
+            "symbol": "Moxie:danblue-fc"
         }
     ],
     "version": {
