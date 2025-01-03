@@ -15367,6 +15367,13 @@
             "logoURI": "https://i.seadn.io/gae/0E06_1vDjqI8XYDDlIdvndqLQqnNArJxbEIXIwfTmcMcOaQPeGiocqOY4-0c6rBnpVf6zfCASL9tFP_0DpKET26DgDyFZuQm1RSG?w=500\u0026auto=format",
             "name": "Moxie:fanesta404-fc",
             "symbol": "Moxie:fanesta404-fc"
+        },
+        {
+            "address": "0xE1714f2253B4092B9EA454069154ba978d0BABd0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/999a2dbf-97b2-4896-1c4e-e801ecbba400/original",
+            "name": "Moxie:0xmogajepe-fc",
+            "symbol": "Moxie:0xmogajepe-fc"
         }
     ],
     "version": {
