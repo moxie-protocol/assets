@@ -14604,6 +14604,13 @@
             "logoURI": "https://i.imgur.com/eDnnmFN.jpg",
             "name": "Moxie:swelde-fc",
             "symbol": "Moxie:swelde-fc"
+        },
+        {
+            "address": "0x0CBF00F2Cf8CB1417f78469703cb2574eD1CD2E7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/105c0cd6-6a1c-47be-21a0-30be7a794900/rectcrop3",
+            "name": "Moxie:cenah-fc",
+            "symbol": "Moxie:cenah-fc"
         }
     ],
     "version": {
