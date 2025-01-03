@@ -14212,6 +14212,13 @@
             "logoURI": "https://i.postimg.cc/XNcdG9CJ/imresizer-1735878128376.jpg",
             "name": "Moxie:wazirxin.eth-ens",
             "symbol": "Moxie:wazirxin.eth-ens"
+        },
+        {
+            "address": "0xe7a7877DeEb08aE7b469D0D7bEee2A2F69C199bb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1713123789150777344/Oat4mLuy.jpg",
+            "name": "Moxie:anhkymmo83-x",
+            "symbol": "Moxie:anhkymmo83-x"
         }
     ],
     "version": {
