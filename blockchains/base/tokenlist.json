@@ -13064,6 +13064,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5cdebe90-8a45-43ea-3eb4-02f6e9f1a800/rectcrop3",
             "name": "Moxie:amarudinn-fc",
             "symbol": "Moxie:amarudinn-fc"
+        },
+        {
+            "address": "0x4A0AD2308eb2b3faEe2c3D6A27D7e9D823Dbf356",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidutmxic67vzkd7hjr5truzl6ij4pjgw77lmjoadxll67xcpnlmna/2128",
+            "name": "Moxie:herusucipto-fc",
+            "symbol": "Moxie:herusucipto-fc"
         }
     ],
     "version": {
