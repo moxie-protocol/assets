@@ -14989,6 +14989,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97968057-58cd-48e5-6238-a25681ac4a00/rectcrop3",
             "name": "Moxie:0330-fc",
             "symbol": "Moxie:0330-fc"
+        },
+        {
+            "address": "0x63eFfab43fb27902e484395CFA99b615A4851Cd9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/q4EX9c4.jpg",
+            "name": "Moxie:korncorona-fc",
+            "symbol": "Moxie:korncorona-fc"
         }
     ],
     "version": {
