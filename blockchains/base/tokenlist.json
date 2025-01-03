@@ -14877,6 +14877,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1782361956806168576/XFLfRjAJ.jpg",
             "name": "Moxie:MarmansyahAzura-x",
             "symbol": "Moxie:MarmansyahAzura-x"
+        },
+        {
+            "address": "0x0c09822558Cfce8f49d8945D58Bc4eE51F66A480",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3da9566-9612-42a2-17bd-b080bac17800/rectcrop3",
+            "name": "Moxie:noeclay-fc",
+            "symbol": "Moxie:noeclay-fc"
         }
     ],
     "version": {
