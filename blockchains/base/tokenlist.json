@@ -13211,6 +13211,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843380142292512771/jszh-MaY.jpg",
             "name": "Moxie:airdropspender-x",
             "symbol": "Moxie:airdropspender-x"
+        },
+        {
+            "address": "0x6d65afA5aa06CD0dbE099dc023659eA17247a6F4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/turaZ68.png",
+            "name": "Moxie:crxa-fc",
+            "symbol": "Moxie:crxa-fc"
         }
     ],
     "version": {
