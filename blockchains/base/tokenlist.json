@@ -13239,6 +13239,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4744da75-d86b-439f-1055-cb458f0eb800/rectcrop3",
             "name": "Moxie:yanzc-fc",
             "symbol": "Moxie:yanzc-fc"
+        },
+        {
+            "address": "0xf61DcB8e6215B4b5aeCcEcB5479e9Ad7b9ffcC89",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ayeshaa917",
+            "symbol": "fid:645057"
         }
     ],
     "version": {
