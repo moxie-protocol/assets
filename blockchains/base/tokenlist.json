@@ -13722,6 +13722,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1818188210604003328/qRknM3-6.jpg",
             "name": "Moxie:lionliyat-x",
             "symbol": "Moxie:lionliyat-x"
+        },
+        {
+            "address": "0x38fbd74efa62cdc8954ca5F575Eb5a26980Dca1C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "meme-lovers.eth",
+            "symbol": "fid:247966"
         }
     ],
     "version": {
