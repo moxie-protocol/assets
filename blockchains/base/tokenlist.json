@@ -14814,6 +14814,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd8bcbfd-1459-4a78-e8ff-7522ac2e5100/rectcrop3",
             "name": "Moxie:trollz-fc",
             "symbol": "Moxie:trollz-fc"
+        },
+        {
+            "address": "0x8791c9cCC00B9347BbAE1d8162c476fF811af923",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c21400a-25f5-4c8f-54bb-2de757ac4100/original",
+            "name": "Moxie:tonyteo-fc",
+            "symbol": "Moxie:tonyteo-fc"
         }
     ],
     "version": {
