@@ -14387,6 +14387,13 @@
             "logoURI": "https://i.imgur.com/3CepYCa.jpg",
             "name": "Moxie:668-fc",
             "symbol": "Moxie:668-fc"
+        },
+        {
+            "address": "0x62b6EF7Fec99761B0532701E1ef8E1090b32b156",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
+            "name": "Moxie:thanh232-fc",
+            "symbol": "Moxie:thanh232-fc"
         }
     ],
     "version": {
