@@ -14947,6 +14947,13 @@
             "logoURI": null,
             "name": "ethercaster",
             "symbol": "fid:905567"
+        },
+        {
+            "address": "0x87dA8e54A38822Bc14aB1a52fF279b3310FAF79E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "cryocn",
+            "symbol": "fid:905528"
         }
     ],
     "version": {
