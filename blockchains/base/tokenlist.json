@@ -15850,6 +15850,13 @@
             "logoURI": "https://i.imgur.com/FT1hqHM.jpg",
             "name": "Moxie:anwar123-fc",
             "symbol": "Moxie:anwar123-fc"
+        },
+        {
+            "address": "0xCa10e3D8b0e291731650774Bd26C067b45070Fa2",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifvyamp7qywpvyet5gecnbgwqelza7zbdzvy5nabaox4u55eskxye",
+            "name": "Moxie:yusufadi33-fc",
+            "symbol": "Moxie:yusufadi33-fc"
         }
     ],
     "version": {
