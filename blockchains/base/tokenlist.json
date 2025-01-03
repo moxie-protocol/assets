@@ -14268,6 +14268,13 @@
             "logoURI": "https://i.imgur.com/pSLZAsf.jpg",
             "name": "Moxie:habibvanh-fc",
             "symbol": "Moxie:habibvanh-fc"
+        },
+        {
+            "address": "0x1Ae08ACf3B27a44Cb32886a6639aD787b728A4a8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1729469047115567104/DzG4ql8L.jpg",
+            "name": "Moxie:Gopalway-x",
+            "symbol": "Moxie:Gopalway-x"
         }
     ],
     "version": {
