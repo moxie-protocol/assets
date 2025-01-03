@@ -15024,6 +15024,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c86dafdb-ae47-46ba-a042-d7790ded5100/rectcrop3",
             "name": "Moxie:ustama-fc",
             "symbol": "Moxie:ustama-fc"
+        },
+        {
+            "address": "0x8da15637436eABa71DbA1222cafAE1E7FD84DB77",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/1vD65qP.jpg",
+            "name": "Moxie:shidiq182-fc",
+            "symbol": "Moxie:shidiq182-fc"
         }
     ],
     "version": {
