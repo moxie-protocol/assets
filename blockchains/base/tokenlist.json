@@ -12574,6 +12574,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1691824366953111552/zOHFiMBi.png",
             "name": "Moxie:Rpwl29-x",
             "symbol": "Moxie:Rpwl29-x"
+        },
+        {
+            "address": "0xB9cB51466AB23bcf351D5a2B82AdB61369834a7a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Dl2hTpd.jpg",
+            "name": "Moxie:aconk72-fc",
+            "symbol": "Moxie:aconk72-fc"
         }
     ],
     "version": {
