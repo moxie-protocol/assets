@@ -14415,6 +14415,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1842854515973976064/zNAqOsx1.png",
             "name": "Moxie:PATELJI11378754-x",
             "symbol": "Moxie:PATELJI11378754-x"
+        },
+        {
+            "address": "0xbeA1dD51AdC20bC784412D19Fb6AD6FCAFD5B5DC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/MbN0AzJ.jpg",
+            "name": "Moxie:kyuuds-fc",
+            "symbol": "Moxie:kyuuds-fc"
         }
     ],
     "version": {
