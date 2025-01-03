@@ -13939,6 +13939,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a3419a0-6cc5-4282-947d-64ae00372600/rectcrop3",
             "name": "Moxie:ranzan-fc",
             "symbol": "Moxie:ranzan-fc"
+        },
+        {
+            "address": "0xF20C27075bc5962f22F1A96B240cd0d2CEb1d220",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/97ccf7c3-fbfb-45d4-a241-c4307839a600/original",
+            "name": "Moxie:nikoone-fc",
+            "symbol": "Moxie:nikoone-fc"
         }
     ],
     "version": {
