@@ -13358,6 +13358,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1446410256276328452/UmjU-Ht6.jpg",
             "name": "Moxie:FalsSing-x",
             "symbol": "Moxie:FalsSing-x"
+        },
+        {
+            "address": "0x46C0AE921E74ebB65E364ECCc0565995B05c1750",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ca5c872-393b-4fb4-338d-503bdd558100/rectcrop3",
+            "name": "Moxie:corolaroz-fc",
+            "symbol": "Moxie:corolaroz-fc"
         }
     ],
     "version": {
