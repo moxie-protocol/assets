@@ -15458,6 +15458,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1814193627301896192/E9UE6Gyv.jpg",
             "name": "Moxie:kurniajaya248-x",
             "symbol": "Moxie:kurniajaya248-x"
+        },
+        {
+            "address": "0x0022c7FD09FCB40Abd0ABFa2EE44F0D584FcCD06",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c916ec7-58e9-4596-c8d7-e88d305d5000/rectcrop3",
+            "name": "Moxie:morenoo-fc",
+            "symbol": "Moxie:morenoo-fc"
         }
     ],
     "version": {
