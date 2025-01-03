@@ -15465,6 +15465,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c916ec7-58e9-4596-c8d7-e88d305d5000/rectcrop3",
             "name": "Moxie:morenoo-fc",
             "symbol": "Moxie:morenoo-fc"
+        },
+        {
+            "address": "0x5c83ec9Ac0E61EF6Be03575D88842fB321B7F4F1",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeieursvv6yjwnwhlwxz6iogs6fr52y3k7urhljzjiqti4n2bkuobve",
+            "name": "Moxie:accybr-fc",
+            "symbol": "Moxie:accybr-fc"
         }
     ],
     "version": {
