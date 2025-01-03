@@ -12854,6 +12854,13 @@
             "logoURI": "https://i.imgur.com/xGCuv6V.jpg",
             "name": "Moxie:strinx-fc",
             "symbol": "Moxie:strinx-fc"
+        },
+        {
+            "address": "0x47547A5fec0C916Ccc5260DbC7a0aC0DbBC0373F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1772396464473608192/NcPHymJ4.jpg",
+            "name": "Moxie:intabluue-x",
+            "symbol": "Moxie:intabluue-x"
         }
     ],
     "version": {
