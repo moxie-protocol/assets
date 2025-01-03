@@ -16207,6 +16207,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigrjhlxgm3bg4iuwl6dmszldnq636mz54hdpwyvibnzdrfum2uyjy",
             "name": "Moxie:bounds-fc",
             "symbol": "Moxie:bounds-fc"
+        },
+        {
+            "address": "0xA14907814111D516556713C911eaFA08729F1E9E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc4e5dfa-e6fe-4305-2e60-78b511eba400/rectcrop3",
+            "name": "Moxie:aldysyaputra-fc",
+            "symbol": "Moxie:aldysyaputra-fc"
         }
     ],
     "version": {
