@@ -15787,6 +15787,13 @@
             "logoURI": "https://i.imgur.com/tp2lPUY.jpg",
             "name": "Moxie:0xbinbong-fc",
             "symbol": "Moxie:0xbinbong-fc"
+        },
+        {
+            "address": "0x2F3E292C26Cdc9CDeD0711b0F40F73D6d21f2B80",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1534803192755548162/l4XtE0H3.jpg",
+            "name": "Moxie:choichovuiso2-x",
+            "symbol": "Moxie:choichovuiso2-x"
         }
     ],
     "version": {
