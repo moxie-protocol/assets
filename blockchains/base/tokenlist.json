@@ -13323,6 +13323,13 @@
             "logoURI": "https://i.imgur.com/daOJi1R.jpg",
             "name": "Moxie:aisa-fc",
             "symbol": "Moxie:aisa-fc"
+        },
+        {
+            "address": "0xf382Ed04d33400f7798da053f2953BB7B224aD09",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9491c7be-a767-42c8-7da0-4919d724ad00/original",
+            "name": "Moxie:jumi-fc",
+            "symbol": "Moxie:jumi-fc"
         }
     ],
     "version": {
