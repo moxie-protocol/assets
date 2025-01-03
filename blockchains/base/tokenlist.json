@@ -13008,6 +13008,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d962aa3e-e037-4b4b-aecd-37094a02c000/rectcrop3",
             "name": "Moxie:randydrop02-fc",
             "symbol": "Moxie:randydrop02-fc"
+        },
+        {
+            "address": "0xb9ccD379a7442825Ea48F198ad50733568e0D151",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/abfccb80-78f9-4510-05b8-921aa5abf800/rectcrop3",
+            "name": "Moxie:junazk-fc",
+            "symbol": "Moxie:junazk-fc"
         }
     ],
     "version": {
