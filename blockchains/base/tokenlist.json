@@ -14478,6 +14478,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b0b4c74-5810-4b3c-d281-f37fd4cf8000/rectcrop3",
             "name": "Moxie:buzzbrek-fc",
             "symbol": "Moxie:buzzbrek-fc"
+        },
+        {
+            "address": "0x30b7d36a4123d56E34aE173a546443c2a092a8BD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1744635014560784384/2bQBBGaK.jpg",
+            "name": "Moxie:AfikHalaludin-x",
+            "symbol": "Moxie:AfikHalaludin-x"
         }
     ],
     "version": {
