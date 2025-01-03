@@ -12959,6 +12959,13 @@
             "logoURI": "https://i.imgur.com/wJ1mEWE.jpg",
             "name": "Moxie:huugin-fc",
             "symbol": "Moxie:huugin-fc"
+        },
+        {
+            "address": "0xB0f142eEC4037F503089cBf04D57eA3cC8199D97",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1751510409696186368/Bllin7UL.png",
+            "name": "Moxie:MOHDFAIZ2006-x",
+            "symbol": "Moxie:MOHDFAIZ2006-x"
         }
     ],
     "version": {
