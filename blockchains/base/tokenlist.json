@@ -15766,6 +15766,13 @@
             "logoURI": "https://i.ibb.co.com/6JJ64sz/spreadicons.jpg",
             "name": "Moxie:rusmina-fc",
             "symbol": "Moxie:rusmina-fc"
+        },
+        {
+            "address": "0x12bc3fa959Bb00FB194b1fFdF168DB6fD1aC23b2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c825b57-c8a9-4b33-8797-448a9871a100/rectcrop3",
+            "name": "Moxie:zecya1-fc",
+            "symbol": "Moxie:zecya1-fc"
         }
     ],
     "version": {
