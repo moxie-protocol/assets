@@ -14933,6 +14933,13 @@
             "logoURI": "https://i.postimg.cc/rsJ8pFTy/download.jpg",
             "name": "Moxie:86868.base.eth-base",
             "symbol": "Moxie:86868.base.eth-base"
+        },
+        {
+            "address": "0x33a96dE8A548c73760a6c45E0B213a9a54d2697e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lb2LKhP.jpg",
+            "name": "Moxie:minchan-fc",
+            "symbol": "Moxie:minchan-fc"
         }
     ],
     "version": {
