@@ -13988,6 +13988,13 @@
             "logoURI": "https://i.imgur.com/oRhJlHz.jpg",
             "name": "Moxie:airdrop3ltd-fc",
             "symbol": "Moxie:airdrop3ltd-fc"
+        },
+        {
+            "address": "0x58A5AD05e88C23f7fc3dC9ca0743981b9c8B8fa3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1658020170923913216/kiBr0-p3.jpg",
+            "name": "Moxie:SnowLxrd-x",
+            "symbol": "Moxie:SnowLxrd-x"
         }
     ],
     "version": {
