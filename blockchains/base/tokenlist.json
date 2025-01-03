@@ -15864,6 +15864,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f0ca182-a2f6-4ec9-ec93-d9da79651d00/rectcrop3",
             "name": "Moxie:yaswinta-fc",
             "symbol": "Moxie:yaswinta-fc"
+        },
+        {
+            "address": "0x64e9e731f654A4758BBca3b3DC6e3B92cce18255",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f15aebb3-a997-49db-1b11-d400ac6bbb00/rectcrop3",
+            "name": "Moxie:riki0701-fc",
+            "symbol": "Moxie:riki0701-fc"
         }
     ],
     "version": {
