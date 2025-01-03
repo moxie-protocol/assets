@@ -14366,6 +14366,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1733548059903098880/-Tw0b3ie.jpg",
             "name": "Moxie:Afterlife13_-x",
             "symbol": "Moxie:Afterlife13_-x"
+        },
+        {
+            "address": "0x440917a3569A9dB875cfDa1DF4583b14cbDe4B0e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/y1An99Z.jpg",
+            "name": "Moxie:uny-fc",
+            "symbol": "Moxie:uny-fc"
         }
     ],
     "version": {
