@@ -14156,6 +14156,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1798378625068347392/gR5RmDIG.jpg",
             "name": "Moxie:Degenontop-x",
             "symbol": "Moxie:Degenontop-x"
+        },
+        {
+            "address": "0x5D13D9f30C9198A475d451C68a58D7E8693EBa73",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc89483b-d41a-48b2-199d-3778e79b2300/rectcrop3",
+            "name": "Moxie:iqbalsbstn-fc",
+            "symbol": "Moxie:iqbalsbstn-fc"
         }
     ],
     "version": {
