@@ -14702,6 +14702,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859127843500027905/Ox2GYdDv.jpg",
             "name": "Moxie:0xR1225HQ-x",
             "symbol": "Moxie:0xR1225HQ-x"
+        },
+        {
+            "address": "0x162bcf9697046bF777249E6cd34cd8bcdA0cC15e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf6f0535-c7e3-4389-8879-53f1aeed5600/original",
+            "name": "Moxie:nft777-fc",
+            "symbol": "Moxie:nft777-fc"
         }
     ],
     "version": {
