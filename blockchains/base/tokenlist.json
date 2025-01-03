@@ -14506,6 +14506,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825465713051783168/Ne4Euipu.jpg",
             "name": "Moxie:bagate07-x",
             "symbol": "Moxie:bagate07-x"
+        },
+        {
+            "address": "0xe785377Ab150f842f4DDb0E3821D443c5d0AC280",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RZxkEvg.jpg",
+            "name": "Moxie:9o9o-fc",
+            "symbol": "Moxie:9o9o-fc"
         }
     ],
     "version": {
