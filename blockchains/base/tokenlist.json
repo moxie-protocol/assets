@@ -12903,6 +12903,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifghysu2za5ve2u5gvfl6gcugp4ytx74aovpia7pf2ebwj2rgmme4",
             "name": "Moxie:familiabitcoin-fc",
             "symbol": "Moxie:familiabitcoin-fc"
+        },
+        {
+            "address": "0x23b52ddd8BDF46Aaf346E3A7A13359585c3D6383",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0ea9ee-5f23-475b-e8ce-e1c39574dc00/rectcrop3",
+            "name": "Moxie:astergordon-fc",
+            "symbol": "Moxie:astergordon-fc"
         }
     ],
     "version": {
