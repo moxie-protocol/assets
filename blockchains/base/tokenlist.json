@@ -13519,6 +13519,13 @@
             "logoURI": null,
             "name": "chiikawa01",
             "symbol": "fid:931527"
+        },
+        {
+            "address": "0x989EA47F26204755c3C4872390FBD9Fe4643Cb26",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e7d46ee5-ec03-4a82-2528-6575172e5f00/rectcrop3",
+            "name": "Moxie:azizghozan-fc",
+            "symbol": "Moxie:azizghozan-fc"
         }
     ],
     "version": {
