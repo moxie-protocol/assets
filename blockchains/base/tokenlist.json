@@ -13316,6 +13316,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/336dacbd-2687-4e5b-91b7-e4506867eb00/rectcrop3",
             "name": "Moxie:shivika-fc",
             "symbol": "Moxie:shivika-fc"
+        },
+        {
+            "address": "0xcfC70ef717c08d6E7292C26a8603Ac06F083c55f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/daOJi1R.jpg",
+            "name": "Moxie:aisa-fc",
+            "symbol": "Moxie:aisa-fc"
         }
     ],
     "version": {
