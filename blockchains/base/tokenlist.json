@@ -13848,6 +13848,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1387725187227942914/BtosJiDB.jpg",
             "name": "Moxie:ThinNguynng1-x",
             "symbol": "Moxie:ThinNguynng1-x"
+        },
+        {
+            "address": "0x248D199c5f24826fB0616C1DF193597D57aF7b2d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1566066002718523394/-7hoxQ2C.jpg",
+            "name": "Moxie:NganDuo65355317-x",
+            "symbol": "Moxie:NganDuo65355317-x"
         }
     ],
     "version": {
