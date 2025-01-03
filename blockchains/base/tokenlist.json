@@ -12546,6 +12546,13 @@
             "logoURI": "https://i.imgur.com/1wHyBN5.jpg",
             "name": "Moxie:indrarg88-fc",
             "symbol": "Moxie:indrarg88-fc"
+        },
+        {
+            "address": "0x29F99389D7123a63c660F48428Cbb4482702202e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d7e13a14-2686-4ca5-87d1-247bfbad0e00/rectcrop3",
+            "name": "Moxie:jerinxzone-fc",
+            "symbol": "Moxie:jerinxzone-fc"
         }
     ],
     "version": {
