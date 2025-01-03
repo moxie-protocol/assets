@@ -12525,6 +12525,13 @@
             "logoURI": "https://www.burung.org/",
             "name": "Moxie:idrops.eth-ens",
             "symbol": "Moxie:idrops.eth-ens"
+        },
+        {
+            "address": "0x198b008D4848c091849D4b639d4E14a72Ee51C13",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6TeEDKC.jpg",
+            "name": "Moxie:bayuadibhaskara-fc",
+            "symbol": "Moxie:bayuadibhaskara-fc"
         }
     ],
     "version": {
