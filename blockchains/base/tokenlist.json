@@ -14583,6 +14583,13 @@
             "logoURI": "https://i.imgur.com/sm9JipF.jpg",
             "name": "Moxie:yugo13-fc",
             "symbol": "Moxie:yugo13-fc"
+        },
+        {
+            "address": "0x550f94923AF55333f81990A89E2E3a6313599ae5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee77101f-4e69-4cb6-7c2f-4732e8cb7c00/rectcrop3",
+            "name": "Moxie:ezioath-fc",
+            "symbol": "Moxie:ezioath-fc"
         }
     ],
     "version": {
