@@ -16018,6 +16018,13 @@
             "logoURI": null,
             "name": "cellocome",
             "symbol": "fid:895454"
+        },
+        {
+            "address": "0x68a4146B283cB81b9732a007e6D4d49D534173F7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/accd4bfa-1b98-41f9-37f6-36fac339b100/rectcrop3",
+            "name": "Moxie:vindez-fc",
+            "symbol": "Moxie:vindez-fc"
         }
     ],
     "version": {
