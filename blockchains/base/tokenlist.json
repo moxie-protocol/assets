@@ -15535,6 +15535,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1636002488297066498/nnLWLPVH.jpg",
             "name": "Moxie:Gerardle29-x",
             "symbol": "Moxie:Gerardle29-x"
+        },
+        {
+            "address": "0x644D9f8783AbD22443E376c9540156cce45A988A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1835286360808476672/6BT1mE5u.jpg",
+            "name": "Moxie:sorryyeejp-x",
+            "symbol": "Moxie:sorryyeejp-x"
         }
     ],
     "version": {
