@@ -14184,6 +14184,13 @@
             "logoURI": "https://i.imgur.com/lmxBTyh.jpg",
             "name": "Moxie:onunblocked-fc",
             "symbol": "Moxie:onunblocked-fc"
+        },
+        {
+            "address": "0x4FB056BbBA2C75ee0352c0C5b88739eD7aF89ac2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8rpDLNx.jpg",
+            "name": "Moxie:willvnct-fc",
+            "symbol": "Moxie:willvnct-fc"
         }
     ],
     "version": {
