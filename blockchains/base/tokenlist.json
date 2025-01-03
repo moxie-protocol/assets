@@ -14513,6 +14513,13 @@
             "logoURI": "https://i.imgur.com/RZxkEvg.jpg",
             "name": "Moxie:9o9o-fc",
             "symbol": "Moxie:9o9o-fc"
+        },
+        {
+            "address": "0x892fAA336246CbB60136Cb21Be9aE8f0e4dC2F7F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/iU4mjQM.jpg",
+            "name": "Moxie:maulana123-fc",
+            "symbol": "Moxie:maulana123-fc"
         }
     ],
     "version": {
