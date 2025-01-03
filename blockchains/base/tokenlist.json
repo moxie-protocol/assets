@@ -14205,6 +14205,13 @@
             "logoURI": "https://i.imgur.com/aL7Hl0H.jpg",
             "name": "Moxie:rifkibandung-fc",
             "symbol": "Moxie:rifkibandung-fc"
+        },
+        {
+            "address": "0xDFB3254d252C94DBd0C51aA555Fd5A7CB759841f",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/XNcdG9CJ/imresizer-1735878128376.jpg",
+            "name": "Moxie:wazirxin.eth-ens",
+            "symbol": "Moxie:wazirxin.eth-ens"
         }
     ],
     "version": {
