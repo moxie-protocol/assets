@@ -16214,6 +16214,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc4e5dfa-e6fe-4305-2e60-78b511eba400/rectcrop3",
             "name": "Moxie:aldysyaputra-fc",
             "symbol": "Moxie:aldysyaputra-fc"
+        },
+        {
+            "address": "0xe4b5BF6e3156526dF807b4C082062509F3fDE2fe",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9CSBhWk.jpg",
+            "name": "Moxie:fkr1905-fc",
+            "symbol": "Moxie:fkr1905-fc"
         }
     ],
     "version": {
