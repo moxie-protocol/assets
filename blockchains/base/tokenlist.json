@@ -15129,6 +15129,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc702680-257f-4001-42de-224943dfa100/rectcrop3",
             "name": "Moxie:iruwae-fc",
             "symbol": "Moxie:iruwae-fc"
+        },
+        {
+            "address": "0x2c4997F6078c75d4e57CAD8F0Aede1e6F755D45A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1750311307159687168/An9YPfgo.jpg",
+            "name": "Moxie:0xipanx-x",
+            "symbol": "Moxie:0xipanx-x"
         }
     ],
     "version": {
