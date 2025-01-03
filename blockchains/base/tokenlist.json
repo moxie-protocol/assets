@@ -13491,6 +13491,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1809331593418616833/mmZ0Crk2.jpg",
             "name": "Moxie:ViLun12-x",
             "symbol": "Moxie:ViLun12-x"
+        },
+        {
+            "address": "0x6292072F389D6c40F46fd19ba9cD01872a289475",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "bigdegenenergy",
+            "symbol": "fid:931289"
         }
     ],
     "version": {
