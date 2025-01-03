@@ -13652,6 +13652,13 @@
             "logoURI": "https://i.imgur.com/s0fvdll.png",
             "name": "Moxie:tamcr-fc",
             "symbol": "Moxie:tamcr-fc"
+        },
+        {
+            "address": "0x5E7b2A77006E47389D0b4ae9d2E8C62d530a6690",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nda",
+            "symbol": "fid:442640"
         }
     ],
     "version": {
