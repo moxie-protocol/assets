@@ -15969,6 +15969,13 @@
             "logoURI": "https://i.imgur.com/6MVEywd.jpg",
             "name": "Moxie:sanez-fc",
             "symbol": "Moxie:sanez-fc"
+        },
+        {
+            "address": "0xdb9a971ddf8341AfC6ed1bFfF1a2e27f6931B73e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad5689ed-a90f-48d0-ebb5-42e4c4911e00/rectcrop3",
+            "name": "Moxie:fmona-fc",
+            "symbol": "Moxie:fmona-fc"
         }
     ],
     "version": {
