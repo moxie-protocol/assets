@@ -13288,6 +13288,13 @@
             "logoURI": "https://i.imgur.com/fxUElXy.jpg",
             "name": "Moxie:curtis465-fc",
             "symbol": "Moxie:curtis465-fc"
+        },
+        {
+            "address": "0x0f2c905800bcCa825a23613a62504c921B049d5C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cea81afb-ed6d-4c28-b25c-57c7eb3ccc00/rectcrop3",
+            "name": "Moxie:praveenpmmp-fc",
+            "symbol": "Moxie:praveenpmmp-fc"
         }
     ],
     "version": {
