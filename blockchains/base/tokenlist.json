@@ -14373,6 +14373,13 @@
             "logoURI": "https://i.imgur.com/y1An99Z.jpg",
             "name": "Moxie:uny-fc",
             "symbol": "Moxie:uny-fc"
+        },
+        {
+            "address": "0xF15543289AC5A7D0db06b4F412Cc29044c8df358",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/453146339438641152/LwQJ3vLP.jpeg",
+            "name": "Moxie:ThinkPad16-x",
+            "symbol": "Moxie:ThinkPad16-x"
         }
     ],
     "version": {
