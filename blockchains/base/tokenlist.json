@@ -12735,6 +12735,13 @@
             "logoURI": "https://i.imgur.com/MvQHu8l.jpg",
             "name": "Moxie:ech3lonn-fc",
             "symbol": "Moxie:ech3lonn-fc"
+        },
+        {
+            "address": "0x57bd6b52AE5F9bC89041c192318044Af03594631",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xSK2P2G.jpg",
+            "name": "Moxie:yolloz-fc",
+            "symbol": "Moxie:yolloz-fc"
         }
     ],
     "version": {
