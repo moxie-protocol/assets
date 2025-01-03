@@ -13477,6 +13477,13 @@
             "logoURI": "https://i.imgur.com/B4ivE1u.jpg",
             "name": "Moxie:xerx-fc",
             "symbol": "Moxie:xerx-fc"
+        },
+        {
+            "address": "0x5aE23B1F1644d3F27362b33c0Ba4b648bAc309D6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/baee53ff-fd2f-44d7-9429-72cef73dfe00/rectcrop3",
+            "name": "Moxie:antirugpull-fc",
+            "symbol": "Moxie:antirugpull-fc"
         }
     ],
     "version": {
