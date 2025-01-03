@@ -15675,6 +15675,13 @@
             "logoURI": null,
             "name": "awsome",
             "symbol": "fid:762691"
+        },
+        {
+            "address": "0x15455D2Fd200c71eC7B181663866e2392c09bCe3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36b0f503-c1be-4645-c44c-03a2122c4900/original",
+            "name": "Moxie:phat-pt-fc",
+            "symbol": "Moxie:phat-pt-fc"
         }
     ],
     "version": {
