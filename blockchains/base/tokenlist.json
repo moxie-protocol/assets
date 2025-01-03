@@ -15815,6 +15815,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1774160020260679680/5CDCaELt.jpg",
             "name": "Moxie:zaza10k4real-x",
             "symbol": "Moxie:zaza10k4real-x"
+        },
+        {
+            "address": "0x45A2d65cfe765958665E853245f44CABEcf8de61",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867172446987804672/uQCU3kNM.jpg",
+            "name": "Moxie:Albedo151446-x",
+            "symbol": "Moxie:Albedo151446-x"
         }
     ],
     "version": {
