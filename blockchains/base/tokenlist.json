@@ -13078,6 +13078,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866840869418176515/jWsox-IT.jpg",
             "name": "Moxie:ruben931767-x",
             "symbol": "Moxie:ruben931767-x"
+        },
+        {
+            "address": "0x788294219f829cF1622fEEBaD66a829B3F3f27d2",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/tv6yN_zJMapXXdZYB4gnniqreX3R6vt_wItwLCBWiCM/",
+            "name": "Moxie:kage02-fc",
+            "symbol": "Moxie:kage02-fc"
         }
     ],
     "version": {
