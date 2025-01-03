@@ -13330,6 +13330,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9491c7be-a767-42c8-7da0-4919d724ad00/original",
             "name": "Moxie:jumi-fc",
             "symbol": "Moxie:jumi-fc"
+        },
+        {
+            "address": "0x69ac92189A18a907dF03383caBE3904c3DC9bcF2",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeigublncbmln2vaar6snhxumcryxjk5vtgzxvseqonqaplfx2hqzky",
+            "name": "Moxie:mayanktanwar7-fc",
+            "symbol": "Moxie:mayanktanwar7-fc"
         }
     ],
     "version": {
