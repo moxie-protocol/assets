@@ -13904,6 +13904,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2cd013d3-1af1-485b-7ae1-1f6a11ee3a00/rectcrop3",
             "name": "Moxie:dwikifadhilah-fc",
             "symbol": "Moxie:dwikifadhilah-fc"
+        },
+        {
+            "address": "0x3D64d96e41f20ae11d879D76F48a9aAB13d5c3f3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8c3d032-1132-4ae3-4fe2-550bbafb2f00/rectcrop3",
+            "name": "Moxie:fatureth-fc",
+            "symbol": "Moxie:fatureth-fc"
         }
     ],
     "version": {
