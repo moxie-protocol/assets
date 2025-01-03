@@ -13624,6 +13624,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1413424590760538114/7Xwzd_sP.jpg",
             "name": "Moxie:miihaelkeehl032-x",
             "symbol": "Moxie:miihaelkeehl032-x"
+        },
+        {
+            "address": "0x018ef1018aDacc81Bc2E6ceA18cC8d48AF905fAA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1742912639230185472/Sr6oc0c4.jpg",
+            "name": "Moxie:baroci31-x",
+            "symbol": "Moxie:baroci31-x"
         }
     ],
     "version": {
