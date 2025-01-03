@@ -14786,6 +14786,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1818132101566496769/QRCSLfCc.png",
             "name": "Moxie:CryptoXeanReal-x",
             "symbol": "Moxie:CryptoXeanReal-x"
+        },
+        {
+            "address": "0x46fa800d0E5618B9023a218A01cF7BF1592F9efd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f15290c5-6745-4a87-74b5-eea57c29a900/rectcrop3",
+            "name": "Moxie:0xmorph111-fc",
+            "symbol": "Moxie:0xmorph111-fc"
         }
     ],
     "version": {
