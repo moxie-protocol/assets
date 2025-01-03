@@ -14562,6 +14562,13 @@
             "logoURI": null,
             "name": "btxz",
             "symbol": "fid:300132"
+        },
+        {
+            "address": "0xa74f29b2F4689f1f3B035F9c304ee2F9Cf3b9562",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/media/GFNHzJgaMAAEcJ0?format=jpg\u0026name=medium",
+            "name": "Moxie:bogia.base.eth-base",
+            "symbol": "Moxie:bogia.base.eth-base"
         }
     ],
     "version": {
