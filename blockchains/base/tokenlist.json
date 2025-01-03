@@ -16592,6 +16592,13 @@
             "logoURI": "https://i.imgur.com/3ZODltS.jpg",
             "name": "Moxie:labibawaw-fc",
             "symbol": "Moxie:labibawaw-fc"
+        },
+        {
+            "address": "0x518f9AC3cC15ecD20A8d7de50270f79788B59892",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/472d4d49-bf46-47c4-688a-eaf6e4c93b00/rectcrop3",
+            "name": "Moxie:valentines-fc",
+            "symbol": "Moxie:valentines-fc"
         }
     ],
     "version": {
