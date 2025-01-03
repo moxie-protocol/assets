@@ -12987,6 +12987,13 @@
             "logoURI": "https://i.imgur.com/tvSGOZh.jpg",
             "name": "Moxie:galieh-fc",
             "symbol": "Moxie:galieh-fc"
+        },
+        {
+            "address": "0xdcf103730d2f203B6000acd551CacB9DD75Dc30D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e7de48d-579c-4f15-91c0-736b1af2e400/rectcrop3",
+            "name": "Moxie:zeenouth-fc",
+            "symbol": "Moxie:zeenouth-fc"
         }
     ],
     "version": {
