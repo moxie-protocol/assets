@@ -12595,6 +12595,13 @@
             "logoURI": "https://kl3kwu43vgwlm52ox2s2gv4bo6yhll3lj53sfwoj54vknutiaewq.arweave.net/UvarU5uprLZ3Tr6lo1eBd7B1r2tPdyLZye8qptJoAS0/",
             "name": "Moxie:k1nant1k1nant1-fc",
             "symbol": "Moxie:k1nant1k1nant1-fc"
+        },
+        {
+            "address": "0xf45607376d1923BD200b5161792Cf71991bB8A15",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Yha6TRc.jpg",
+            "name": "Moxie:fhy-fc",
+            "symbol": "Moxie:fhy-fc"
         }
     ],
     "version": {
