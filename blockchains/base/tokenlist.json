@@ -13344,6 +13344,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0113a69c-33b9-447f-6246-3e0aea455200/rectcrop3",
             "name": "Moxie:teco-fc",
             "symbol": "Moxie:teco-fc"
+        },
+        {
+            "address": "0xA57636F536400bd494B21A8a8d26Cf2d41Da1B13",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2cad85f-17ce-4662-a880-c3438db09500/original",
+            "name": "Moxie:testingusername-fc",
+            "symbol": "Moxie:testingusername-fc"
         }
     ],
     "version": {
