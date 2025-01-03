@@ -12497,6 +12497,13 @@
             "logoURI": "https://i.imgur.com/e3yjkyI.jpg",
             "name": "Moxie:aris111-fc",
             "symbol": "Moxie:aris111-fc"
+        },
+        {
+            "address": "0x7B9580709692e2fe34c5ba647d06F182878F8c2F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c228609f-94cc-4e03-0dd4-da4a8e325400/rectcrop3",
+            "name": "Moxie:fivex-fc",
+            "symbol": "Moxie:fivex-fc"
         }
     ],
     "version": {
