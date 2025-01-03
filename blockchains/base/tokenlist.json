@@ -13743,6 +13743,13 @@
             "logoURI": "https://i.imgur.com/ZSRecWU.jpg",
             "name": "Moxie:dhimsjp-fc",
             "symbol": "Moxie:dhimsjp-fc"
+        },
+        {
+            "address": "0x38855D79579E20340e2B687163A2ab67bF127a5D",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2vPpZ3A.jpg",
+            "name": "Moxie:iky--fc",
+            "symbol": "Moxie:iky--fc"
         }
     ],
     "version": {
