@@ -16137,6 +16137,13 @@
             "logoURI": "https://i.seadn.io/gae/D9ukZXcl22Cu-fxFmJ9Kk52AFahaHNCGHZi4xWE0qd0BbxlOkDQK0R6QzM36LQjtAlFfFLzTJtgtqbEAnkcPdQJjNhhka2RwNpJ9yw?w=500\u0026auto=format",
             "name": "Moxie:nantu-fc",
             "symbol": "Moxie:nantu-fc"
+        },
+        {
+            "address": "0x1bb10DA3218EBb8EB6B72972338D477b9c7f9f87",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73ed602c-199f-40c4-82d5-174a5941fe00/original",
+            "name": "Moxie:gusdewiratama-fc",
+            "symbol": "Moxie:gusdewiratama-fc"
         }
     ],
     "version": {
