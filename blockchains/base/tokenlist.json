@@ -12931,6 +12931,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863898542483619840/L1HOh5Xi.jpg",
             "name": "Moxie:ecnew24-x",
             "symbol": "Moxie:ecnew24-x"
+        },
+        {
+            "address": "0xE750dE8a3860396616Ea293bf23EE0D713A2ED5b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871166198362095616/td5ZboVT.png",
+            "name": "Moxie:thirupathy0814-x",
+            "symbol": "Moxie:thirupathy0814-x"
         }
     ],
     "version": {
