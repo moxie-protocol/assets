@@ -13834,6 +13834,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9b19f5f-e091-40a6-6bd8-6d764b597c00/rectcrop3",
             "name": "Moxie:billbell-fc",
             "symbol": "Moxie:billbell-fc"
+        },
+        {
+            "address": "0xDE4f88Ae0DA2653C553BdF926bE9aceF8A410b62",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/AUuJKG3.jpg",
+            "name": "Moxie:jpmaxx-fc",
+            "symbol": "Moxie:jpmaxx-fc"
         }
     ],
     "version": {
