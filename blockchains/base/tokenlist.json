@@ -15878,6 +15878,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/275cb00e-60d4-442c-2bde-a92ce6dc5e00/rectcrop3",
             "name": "Moxie:antonnn-fc",
             "symbol": "Moxie:antonnn-fc"
+        },
+        {
+            "address": "0xDBD49BeFc6a8A4638a388FCBCf8F5455993AeC84",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KCl8chL.jpg",
+            "name": "Moxie:xbot-fc",
+            "symbol": "Moxie:xbot-fc"
         }
     ],
     "version": {
