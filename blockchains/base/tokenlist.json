@@ -15059,6 +15059,13 @@
             "logoURI": "https://i.imgur.com/2ZsxKPO.jpg",
             "name": "Moxie:daoofcrypt-fc",
             "symbol": "Moxie:daoofcrypt-fc"
+        },
+        {
+            "address": "0x6B2241e81bc479b6048E4d81888Bc89587b07B4F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18d41307-3a8f-4e9f-60c7-681f7044f200/rectcrop3",
+            "name": "Moxie:matthews-fc",
+            "symbol": "Moxie:matthews-fc"
         }
     ],
     "version": {
