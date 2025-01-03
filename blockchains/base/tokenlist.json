@@ -16172,6 +16172,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52783ebb-d65c-4d77-b599-263f93a2ee00/rectcrop3",
             "name": "Moxie:fahim-lannister-fc",
             "symbol": "Moxie:fahim-lannister-fc"
+        },
+        {
+            "address": "0xc6a2A13560Bd785dC25b2b76fCb31BC8D8fFe05e",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:johnzhadow-x",
+            "symbol": "Moxie:johnzhadow-x"
         }
     ],
     "version": {
