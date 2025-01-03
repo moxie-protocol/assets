@@ -15381,6 +15381,13 @@
             "logoURI": "https://arweave.net/Np1c6WM3rPy6IkN5-iVhtHKbVC5owGJKfxIvZcjam8Y/",
             "name": "Moxie:imdev.eth-fc",
             "symbol": "Moxie:imdev.eth-fc"
+        },
+        {
+            "address": "0x207Be7fDf22cC5754F5C22F11057bA323002bC30",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dOZfPmG.jpg",
+            "name": "Moxie:nafisah-fc",
+            "symbol": "Moxie:nafisah-fc"
         }
     ],
     "version": {
