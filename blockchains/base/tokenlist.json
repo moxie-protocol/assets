@@ -13820,6 +13820,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cae2731b-7012-4236-1c64-d6bb984df000/rectcrop3",
             "name": "Moxie:zefryx17-fc",
             "symbol": "Moxie:zefryx17-fc"
+        },
+        {
+            "address": "0x371502F56263EF9F746Be1cbC2EcFD214D7f5E4c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d60f0a2-1edd-4253-11de-b134f1394100/rectcrop3",
+            "name": "Moxie:jakpar-fc",
+            "symbol": "Moxie:jakpar-fc"
         }
     ],
     "version": {
