@@ -15395,6 +15395,13 @@
             "logoURI": "https://cdn.discordapp.com/attachments/1070925185722626088/1324533926324338699/Untitled_design-15.png?ex=67787fd8\u0026is=67772e58\u0026hm=7196ba5b9d154fd8694305f8d778214807852e48b2b76f153214036b8298c632\u0026",
             "name": "Moxie:monkiflows-x",
             "symbol": "Moxie:monkiflows-x"
+        },
+        {
+            "address": "0x36396a52b057F4416BAd6293340F3D541449D634",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870117052532551680/Ol5aMvju.jpg",
+            "name": "Moxie:KamuMamang-x",
+            "symbol": "Moxie:KamuMamang-x"
         }
     ],
     "version": {
