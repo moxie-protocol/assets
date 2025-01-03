@@ -16193,6 +16193,13 @@
             "logoURI": null,
             "name": "hassanaz25",
             "symbol": "fid:918931"
+        },
+        {
+            "address": "0x5e82B3d92aD167efc75a12c6eeF30bbBe69d0557",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/a29OIxF.jpg",
+            "name": "Moxie:sev7en-fc",
+            "symbol": "Moxie:sev7en-fc"
         }
     ],
     "version": {
