@@ -15143,6 +15143,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
             "name": "Moxie:voor03-fc",
             "symbol": "Moxie:voor03-fc"
+        },
+        {
+            "address": "0x7B5a1984e0991Fc8F486bd442341E19D561D0a00",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0519b35-d8e8-4549-9ada-4ed6b8a05f00/original",
+            "name": "Moxie:yuuta-fc",
+            "symbol": "Moxie:yuuta-fc"
         }
     ],
     "version": {
