@@ -15094,6 +15094,13 @@
             "logoURI": "https://i.imgur.com/1EZ3Szg.jpg",
             "name": "Moxie:jepehkapan-fc",
             "symbol": "Moxie:jepehkapan-fc"
+        },
+        {
+            "address": "0x9bD42fA7D155871787A6C6c9F666662C4F379fC7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dHfnT98.jpg",
+            "name": "Moxie:alkaline-fc",
+            "symbol": "Moxie:alkaline-fc"
         }
     ],
     "version": {
