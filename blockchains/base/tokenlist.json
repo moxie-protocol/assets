@@ -16123,6 +16123,13 @@
             "logoURI": "https://i.imgur.com/88qUwvv.jpg",
             "name": "Moxie:l0l-fc",
             "symbol": "Moxie:l0l-fc"
+        },
+        {
+            "address": "0x42d5D58D3fddCEAd1EFf4d2D43E5962a27b459D4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c5656d6a-897d-4ec5-f922-80679fc25700/rectcrop3",
+            "name": "Moxie:algianm11-fc",
+            "symbol": "Moxie:algianm11-fc"
         }
     ],
     "version": {
