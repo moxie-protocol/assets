@@ -12833,6 +12833,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867980550360772608/TpiWsIyA.jpg",
             "name": "Moxie:4thNativeSon-x",
             "symbol": "Moxie:4thNativeSon-x"
+        },
+        {
+            "address": "0x801eb6BC9bAddF4A819bAD1896c95e704e14634b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867875643473735680/9Ecmxdz1.png",
+            "name": "Moxie:ziolenamikaze-x",
+            "symbol": "Moxie:ziolenamikaze-x"
         }
     ],
     "version": {
