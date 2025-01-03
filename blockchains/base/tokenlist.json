@@ -12749,6 +12749,13 @@
             "logoURI": "https://i.imgur.com/WDFCY4n.jpg",
             "name": "Moxie:adisty-fc",
             "symbol": "Moxie:adisty-fc"
+        },
+        {
+            "address": "0x080be736EfbA1d6dbD979b229674742C7950580c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1776857974738432000/Ya-P7X5P.png",
+            "name": "Moxie:rajnishkkoo-x",
+            "symbol": "Moxie:rajnishkkoo-x"
         }
     ],
     "version": {
