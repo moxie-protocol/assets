@@ -12798,6 +12798,13 @@
             "logoURI": "https://i.imgur.com/LB3ysWm.jpg",
             "name": "Moxie:biomusik3-fc",
             "symbol": "Moxie:biomusik3-fc"
+        },
+        {
+            "address": "0xAB55843c3bf4C19862bE80d560Ef6935778A4f7F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ThTHcV6.jpg",
+            "name": "Moxie:ekapermana-fc",
+            "symbol": "Moxie:ekapermana-fc"
         }
     ],
     "version": {
