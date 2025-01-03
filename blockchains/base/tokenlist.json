@@ -13148,6 +13148,13 @@
             "logoURI": "https://i.imgur.com/2vTyYlx.jpg",
             "name": "Moxie:refuseaddict-fc",
             "symbol": "Moxie:refuseaddict-fc"
+        },
+        {
+            "address": "0x99C67a3AD7562D1dDDdFB4A16F2B0AbdB7265386",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xjOWH9R.jpg",
+            "name": "Moxie:chairilraynaldi-fc",
+            "symbol": "Moxie:chairilraynaldi-fc"
         }
     ],
     "version": {
