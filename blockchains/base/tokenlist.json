@@ -14674,6 +14674,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/140670d0-be0d-45a3-7020-a046efac3500/rectcrop3",
             "name": "Moxie:agugun-fc",
             "symbol": "Moxie:agugun-fc"
+        },
+        {
+            "address": "0x7621a43968Acb40ed66Cc5bb2eDeBdc2FD0Ff50E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1641105535918538753/FqPcfvu-.jpg",
+            "name": "Moxie:hanluong15-x",
+            "symbol": "Moxie:hanluong15-x"
         }
     ],
     "version": {
