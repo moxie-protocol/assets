@@ -13183,6 +13183,13 @@
             "logoURI": "https://arweave.net/ejp5oT6X2toaDAf_65IHwZHExJM1VUD97RkGbA5Ne6g/",
             "name": "Moxie:hifnijn-fc",
             "symbol": "Moxie:hifnijn-fc"
+        },
+        {
+            "address": "0xf377b2d0e317A7154DeeD20C653b4f88299a5a38",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifxldhd37mojm4z5byoyiek64pwtoc324tls5t3lxe2wkeg2wk77u",
+            "name": "Moxie:mollypop-fc",
+            "symbol": "Moxie:mollypop-fc"
         }
     ],
     "version": {
