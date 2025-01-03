@@ -16074,6 +16074,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a3a51d23-1c2f-48ce-ed35-f819050eb300/original",
             "name": "Moxie:0xmonnn-fc",
             "symbol": "Moxie:0xmonnn-fc"
+        },
+        {
+            "address": "0x074Fc224BC71f46A71b524490318405a4e14701B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1823252873204895744/C1-PVfD2.jpg",
+            "name": "Moxie:rhotim1-x",
+            "symbol": "Moxie:rhotim1-x"
         }
     ],
     "version": {
