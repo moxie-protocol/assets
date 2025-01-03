@@ -16396,6 +16396,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc3c0d67-6607-4ffd-1c6a-313d990e7e00/original",
             "name": "Moxie:ilidan-fc",
             "symbol": "Moxie:ilidan-fc"
+        },
+        {
+            "address": "0x60ccC46055CDEA05249794e90C7C12A24600ed2c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a718c5d-0c29-4455-ee15-ef81cf464d00/rectcrop3",
+            "name": "Moxie:malljb234-fc",
+            "symbol": "Moxie:malljb234-fc"
         }
     ],
     "version": {
