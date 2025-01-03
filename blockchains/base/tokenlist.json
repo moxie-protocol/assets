@@ -16473,6 +16473,13 @@
             "logoURI": "https://i.imgur.com/Ba3G6GF.jpg",
             "name": "Moxie:kaushar2-fc",
             "symbol": "Moxie:kaushar2-fc"
+        },
+        {
+            "address": "0x1e1059517DF6988F05db06253c6B7dfF81D7f932",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc2ea62d-c6fb-4794-40df-e32b4b737b00/original",
+            "name": "Moxie:axium.eth-fc",
+            "symbol": "Moxie:axium.eth-fc"
         }
     ],
     "version": {
