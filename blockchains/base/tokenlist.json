@@ -15192,6 +15192,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9ce9fa23-5889-448a-dd31-2aaabfc14a00/rectcrop3",
             "name": "Moxie:bebelove-fc",
             "symbol": "Moxie:bebelove-fc"
+        },
+        {
+            "address": "0x8224b4E38E6919791417dc3F66F6fF60055bc8A1",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+            "name": "Moxie:0990-fc",
+            "symbol": "Moxie:0990-fc"
         }
     ],
     "version": {
