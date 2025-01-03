@@ -13799,6 +13799,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1614633795478769664/ck9gci8l.jpg",
             "name": "Moxie:quath93-x",
             "symbol": "Moxie:quath93-x"
+        },
+        {
+            "address": "0x001243c03d264ff6F75f170876C5Be90c81F87d8",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/feMN8pr.jpg",
+            "name": "Moxie:yandex-fc",
+            "symbol": "Moxie:yandex-fc"
         }
     ],
     "version": {
