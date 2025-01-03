@@ -12630,6 +12630,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1804440916998156288/DD49NjpR.jpg",
             "name": "Moxie:dwidrop2024-x",
             "symbol": "Moxie:dwidrop2024-x"
+        },
+        {
+            "address": "0x0dCC4A2983D78E8Db88034B7Ff439b31eB79093c",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:masehhjpg-x",
+            "symbol": "Moxie:masehhjpg-x"
         }
     ],
     "version": {
