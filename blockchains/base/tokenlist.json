@@ -16291,6 +16291,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1802335327841046528/PVNmWGJ7.jpg",
             "name": "Moxie:Sandraubagzext-x",
             "symbol": "Moxie:Sandraubagzext-x"
+        },
+        {
+            "address": "0xb0E6E74d7A82400e6E9aDff244F9c27D2eEBD70c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9957d992-9de0-4f1d-312f-0742ae8eec00/original",
+            "name": "Moxie:selenka-fc",
+            "symbol": "Moxie:selenka-fc"
         }
     ],
     "version": {
