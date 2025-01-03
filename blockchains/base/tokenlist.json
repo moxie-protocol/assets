@@ -12609,6 +12609,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846586488437485568/Z7rvUDjT.png",
             "name": "Moxie:PejuangOppo-x",
             "symbol": "Moxie:PejuangOppo-x"
+        },
+        {
+            "address": "0x14c50C745E727FFDBA8520805EECD27C111eBE2F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1596708431326769152/-cY0dG1M.jpg",
+            "name": "Moxie:vibicer-x",
+            "symbol": "Moxie:vibicer-x"
         }
     ],
     "version": {
