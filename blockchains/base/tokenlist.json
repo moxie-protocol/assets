@@ -14590,6 +14590,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee77101f-4e69-4cb6-7c2f-4732e8cb7c00/rectcrop3",
             "name": "Moxie:ezioath-fc",
             "symbol": "Moxie:ezioath-fc"
+        },
+        {
+            "address": "0x44fb20611D23e9c931f31f3519f837EF3cCE1b0e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1773072250390085632/kg3rAZA8.jpg",
+            "name": "Moxie:Geri0015-x",
+            "symbol": "Moxie:Geri0015-x"
         }
     ],
     "version": {
