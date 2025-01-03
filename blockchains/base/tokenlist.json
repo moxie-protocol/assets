@@ -13372,6 +13372,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeihwwhgvawlovgoj4hfl3p6fpjqd64owzqys3t557vh55oa7r3egp4",
             "name": "Moxie:upidun-fc",
             "symbol": "Moxie:upidun-fc"
+        },
+        {
+            "address": "0xc74d5129837312c060a503B3A42950171073eD23",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "meq",
+            "symbol": "fid:462073"
         }
     ],
     "version": {
