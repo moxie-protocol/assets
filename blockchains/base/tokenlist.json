@@ -15150,6 +15150,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0519b35-d8e8-4549-9ada-4ed6b8a05f00/original",
             "name": "Moxie:yuuta-fc",
             "symbol": "Moxie:yuuta-fc"
+        },
+        {
+            "address": "0x34A52afc17fA147b092F6054717ECf170e546C7F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3972d4d0-efbe-4e29-4606-308950e9e700/rectcrop3",
+            "name": "Moxie:pk-fc",
+            "symbol": "Moxie:pk-fc"
         }
     ],
     "version": {
