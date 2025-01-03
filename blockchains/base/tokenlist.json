@@ -13757,6 +13757,13 @@
             "logoURI": "https://i.imgur.com/2nD1zBD.jpg",
             "name": "Moxie:kimjp-fc",
             "symbol": "Moxie:kimjp-fc"
+        },
+        {
+            "address": "0x7ce7BaE8e3eE89Fe7c83e127EC2838EF17E47732",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/853547638427328512/4wLA9QzS.jpg",
+            "name": "Moxie:Fauzan_zero17-x",
+            "symbol": "Moxie:Fauzan_zero17-x"
         }
     ],
     "version": {
