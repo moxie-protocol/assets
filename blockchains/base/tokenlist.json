@@ -15640,6 +15640,13 @@
             "logoURI": null,
             "name": "oxhaiba",
             "symbol": "fid:242308"
+        },
+        {
+            "address": "0xBfA45Dec75dDB233B912c9AA443d3154B37526c9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af5df11a-340c-474d-3e3c-85be798e0800/rectcrop3",
+            "name": "Moxie:itsmedhn-fc",
+            "symbol": "Moxie:itsmedhn-fc"
         }
     ],
     "version": {
