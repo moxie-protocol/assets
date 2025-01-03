@@ -15346,6 +15346,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1245336485915537408/rAZRQ9hN.jpg",
             "name": "Moxie:Yanuardias-x",
             "symbol": "Moxie:Yanuardias-x"
+        },
+        {
+            "address": "0x8718984C8a88436085d8dCD94635Cf872859D0c4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/db313f44-dae1-483c-3ca5-682cbdd10100/rectcrop3",
+            "name": "Moxie:lipu7-fc",
+            "symbol": "Moxie:lipu7-fc"
         }
     ],
     "version": {
