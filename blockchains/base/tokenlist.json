@@ -14016,6 +14016,13 @@
             "logoURI": "https://i.imgur.com/4BNzGXU.jpg",
             "name": "Moxie:strangebed-fc",
             "symbol": "Moxie:strangebed-fc"
+        },
+        {
+            "address": "0x382153F1a99234b0B2e6f348EA5d1Fcb65409057",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a27099ae-837c-451f-34de-65b0a8714f00/rectcrop3",
+            "name": "Moxie:yuginmoon-fc",
+            "symbol": "Moxie:yuginmoon-fc"
         }
     ],
     "version": {
