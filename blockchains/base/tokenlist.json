@@ -13862,6 +13862,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:falsanx667-fc",
             "symbol": "Moxie:falsanx667-fc"
+        },
+        {
+            "address": "0x0Dc683184bE9BFa0f3132A28a8eFB357D4B6B2E4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/B7H5hpb.jpg",
+            "name": "Moxie:ukaritakino-fc",
+            "symbol": "Moxie:ukaritakino-fc"
         }
     ],
     "version": {
