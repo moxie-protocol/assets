@@ -16368,6 +16368,13 @@
             "logoURI": "https://i.imgur.com/aIRb1u5.jpg",
             "name": "Moxie:glevv-fc",
             "symbol": "Moxie:glevv-fc"
+        },
+        {
+            "address": "0x9ce2578ddd658dcC2B6F73319bcc1FC8281C73F4",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/tv6yN_zJMapXXdZYB4gnniqreX3R6vt_wItwLCBWiCM/",
+            "name": "Moxie:moonattack-fc",
+            "symbol": "Moxie:moonattack-fc"
         }
     ],
     "version": {
