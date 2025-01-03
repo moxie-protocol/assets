@@ -14709,6 +14709,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf6f0535-c7e3-4389-8879-53f1aeed5600/original",
             "name": "Moxie:nft777-fc",
             "symbol": "Moxie:nft777-fc"
+        },
+        {
+            "address": "0x3FB32dB64C2EFed57d2dA65Da20CeC95e6B354fd",
+            "decimals": 18,
+            "logoURI": "https://www.moxie.xyz/images/create-fta/curves/moderate.svg",
+            "name": "Moxie:base00.base.eth-base",
+            "symbol": "Moxie:base00.base.eth-base"
         }
     ],
     "version": {
