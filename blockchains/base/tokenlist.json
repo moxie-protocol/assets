@@ -13400,6 +13400,13 @@
             "logoURI": "https://i.imgur.com/pVz6dKq.jpg",
             "name": "Moxie:tanjibro-fc",
             "symbol": "Moxie:tanjibro-fc"
+        },
+        {
+            "address": "0x8e1e6921F482A3F4508CB4C1D14d420CA6c932f9",
+            "decimals": 18,
+            "logoURI": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-cool-sphere-1170x780.jpg",
+            "name": "Moxie:120388.eth-ens",
+            "symbol": "Moxie:120388.eth-ens"
         }
     ],
     "version": {
