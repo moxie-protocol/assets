@@ -14009,6 +14009,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b1f80a55-e79e-4d56-305a-1dd15eb70000/rectcrop3",
             "name": "Moxie:buajingan-fc",
             "symbol": "Moxie:buajingan-fc"
+        },
+        {
+            "address": "0x8013E7c08c65804c822cF981a41B58Ba125315e0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4BNzGXU.jpg",
+            "name": "Moxie:strangebed-fc",
+            "symbol": "Moxie:strangebed-fc"
         }
     ],
     "version": {
