@@ -14443,6 +14443,13 @@
             "logoURI": "https://cdn.donmai.us/sample/31/cc/__ijichi_nijika_bocchi_the_rock_drawn_by_myvia_mokols__sample-31cce1b35183747399600b66febeadd4.jpg",
             "name": "Moxie:alifianadexe.eth-ens",
             "symbol": "Moxie:alifianadexe.eth-ens"
+        },
+        {
+            "address": "0x1388d4bFb81c0eB3d7AEF2B7BaF6A00179897810",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FSUI87S.jpg",
+            "name": "Moxie:jarotdisini-fc",
+            "symbol": "Moxie:jarotdisini-fc"
         }
     ],
     "version": {
