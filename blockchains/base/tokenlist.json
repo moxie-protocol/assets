@@ -13281,6 +13281,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0dc8f97e-af2b-4aee-3701-58b957a0bd00/rectcrop3",
             "name": "Moxie:upt-fc",
             "symbol": "Moxie:upt-fc"
+        },
+        {
+            "address": "0x22cb41E4CFEb56753345063C14c5912d6f3118b1",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fxUElXy.jpg",
+            "name": "Moxie:curtis465-fc",
+            "symbol": "Moxie:curtis465-fc"
         }
     ],
     "version": {
