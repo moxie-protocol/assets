@@ -13512,6 +13512,13 @@
             "logoURI": "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg",
             "name": "Moxie:tntanvir.eth-ens",
             "symbol": "Moxie:tntanvir.eth-ens"
+        },
+        {
+            "address": "0x81C6c129348619c70507dCE7D7C7b06D655F2C5a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "chiikawa01",
+            "symbol": "fid:931527"
         }
     ],
     "version": {
