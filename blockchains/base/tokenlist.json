@@ -13680,6 +13680,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/056ad71a-d5b8-44df-ac8c-96d097f64b00/original",
             "name": "Moxie:afreza-fc",
             "symbol": "Moxie:afreza-fc"
+        },
+        {
+            "address": "0x55Ee0670509cB460557c05FbA6DC6e81f30207e9",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "0xjoko",
+            "symbol": "fid:401793"
         }
     ],
     "version": {
