@@ -13099,6 +13099,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1790737568113537024/78_Vg3QZ.jpg",
             "name": "Moxie:88Samit-x",
             "symbol": "Moxie:88Samit-x"
+        },
+        {
+            "address": "0xe25a2981B0008C85e41E06Fe279E67AC39bf2233",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HD5nv7X.jpg",
+            "name": "Moxie:dejant-fc",
+            "symbol": "Moxie:dejant-fc"
         }
     ],
     "version": {
