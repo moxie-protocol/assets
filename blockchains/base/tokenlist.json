@@ -16508,6 +16508,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6dcd23a8-b00f-492a-ad52-c8c19fbc3900/original",
             "name": "Moxie:antonpmd-fc",
             "symbol": "Moxie:antonpmd-fc"
+        },
+        {
+            "address": "0xabAA9Cb837a6C6d4F685DA27eba0Eb66e9eF39a8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1704201134540476417/ZHUB5F1V.jpg",
+            "name": "Moxie:0xRinRin48-x",
+            "symbol": "Moxie:0xRinRin48-x"
         }
     ],
     "version": {
