@@ -14849,6 +14849,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c85599dc-7cdd-44fe-b80c-95ff9e30b700/rectcrop3",
             "name": "Moxie:viviaiyuceria-fc",
             "symbol": "Moxie:viviaiyuceria-fc"
+        },
+        {
+            "address": "0xB825bD7193C13b785E065cCF2A7434BB027b89Df",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/kiXJOxj02f-atP9Oilem7fLEkJIYvl9nnqIBqrbxziE/",
+            "name": "Moxie:0xazzura-fc",
+            "symbol": "Moxie:0xazzura-fc"
         }
     ],
     "version": {
