@@ -15388,6 +15388,13 @@
             "logoURI": "https://i.imgur.com/dOZfPmG.jpg",
             "name": "Moxie:nafisah-fc",
             "symbol": "Moxie:nafisah-fc"
+        },
+        {
+            "address": "0xCA8328C892F7fF0bFa66De562D5f5644f8AE2b5F",
+            "decimals": 18,
+            "logoURI": "https://cdn.discordapp.com/attachments/1070925185722626088/1324533926324338699/Untitled_design-15.png?ex=67787fd8\u0026is=67772e58\u0026hm=7196ba5b9d154fd8694305f8d778214807852e48b2b76f153214036b8298c632\u0026",
+            "name": "Moxie:monkiflows-x",
+            "symbol": "Moxie:monkiflows-x"
         }
     ],
     "version": {
