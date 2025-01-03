@@ -14961,6 +14961,13 @@
             "logoURI": "https://i.imgur.com/668FzWo.jpg",
             "name": "Moxie:aurochsss-fc",
             "symbol": "Moxie:aurochsss-fc"
+        },
+        {
+            "address": "0x82aF27e15C969348329a223cCc0dF16AF3059a62",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1807370164327026688/r82Y-ZxF.jpg",
+            "name": "Moxie:Razumnny-x",
+            "symbol": "Moxie:Razumnny-x"
         }
     ],
     "version": {
