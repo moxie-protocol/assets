@@ -14772,6 +14772,13 @@
             "logoURI": "https://arweave.net/ke1NT3kq-AYi5xlVal1aBwlxaWWZ3PNTYuCrRLiqBCI/",
             "name": "Moxie:rynald-fc",
             "symbol": "Moxie:rynald-fc"
+        },
+        {
+            "address": "0x6cBFA7468abae887b64A2127318D6D0ae6470CEa",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibkohk7unjep45voecrbqk434oeguevdmokkzuxpsfmf3jwy4qmsm",
+            "name": "Moxie:bualandr-fc",
+            "symbol": "Moxie:bualandr-fc"
         }
     ],
     "version": {
