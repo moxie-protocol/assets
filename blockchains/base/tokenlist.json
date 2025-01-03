@@ -14758,6 +14758,13 @@
             "logoURI": "https://i.imgur.com/l5xTAFu.jpg",
             "name": "Moxie:liottaxhen-fc",
             "symbol": "Moxie:liottaxhen-fc"
+        },
+        {
+            "address": "0x73d91d0Bc55b567E39E290D20d7534bc91c09B4D",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiedq6w7khduwu73tksp2hnlmkseddzsjdoquloyvak2roju2zopqu",
+            "name": "Moxie:shann2151-fc",
+            "symbol": "Moxie:shann2151-fc"
         }
     ],
     "version": {
