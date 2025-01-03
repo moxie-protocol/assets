@@ -13659,6 +13659,13 @@
             "logoURI": null,
             "name": "nda",
             "symbol": "fid:442640"
+        },
+        {
+            "address": "0xeaDdB6d739a858805Ba10409d2c90cf5b26AD179",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c7d75d9-4d5d-43b2-9464-fcf522ca4600/rectcrop3",
+            "name": "Moxie:brasikowais-fc",
+            "symbol": "Moxie:brasikowais-fc"
         }
     ],
     "version": {
