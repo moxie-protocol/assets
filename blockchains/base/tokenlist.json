@@ -14317,6 +14317,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/21e59159-b352-44ab-afc7-a2adf9146400/rectcrop3",
             "name": "Moxie:dark1bot-fc",
             "symbol": "Moxie:dark1bot-fc"
+        },
+        {
+            "address": "0xEBE649Be056EDB54ee6073D2dd774d1dF1a658f2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dc3bzz9.jpg",
+            "name": "Moxie:deknanda-fc",
+            "symbol": "Moxie:deknanda-fc"
         }
     ],
     "version": {
