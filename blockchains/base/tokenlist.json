@@ -14653,6 +14653,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1823091582524178432/0uajUesi.jpg",
             "name": "Moxie:andrew_syaw-x",
             "symbol": "Moxie:andrew_syaw-x"
+        },
+        {
+            "address": "0x5E2C429667773e2c123B561c4428be61e959eA90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3da7b1ca-2298-4b5f-7eed-feb3072c4c00/rectcrop3",
+            "name": "Moxie:ryann-fc",
+            "symbol": "Moxie:ryann-fc"
         }
     ],
     "version": {
