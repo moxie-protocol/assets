@@ -15605,6 +15605,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04d2e9b6-75b0-48ef-d5c7-8a10175c3f00/rectcrop3",
             "name": "Moxie:yooi-fc",
             "symbol": "Moxie:yooi-fc"
+        },
+        {
+            "address": "0x3ff4D80e8658Ebe4d1d12698B79FB43500b17c54",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e6c358a-1534-4ff2-20f3-f76083ac1000/rectcrop3",
+            "name": "Moxie:bgyoed-fc",
+            "symbol": "Moxie:bgyoed-fc"
         }
     ],
     "version": {
