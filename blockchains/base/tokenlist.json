@@ -14023,6 +14023,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a27099ae-837c-451f-34de-65b0a8714f00/rectcrop3",
             "name": "Moxie:yuginmoon-fc",
             "symbol": "Moxie:yuginmoon-fc"
+        },
+        {
+            "address": "0x8e7CFc1F796128AAd6e4fab7CA04826998686E19",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1774697113710178305/vis5GbCB.jpg",
+            "name": "Moxie:Zucdick-x",
+            "symbol": "Moxie:Zucdick-x"
         }
     ],
     "version": {
