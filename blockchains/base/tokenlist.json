@@ -15885,6 +15885,13 @@
             "logoURI": "https://i.imgur.com/KCl8chL.jpg",
             "name": "Moxie:xbot-fc",
             "symbol": "Moxie:xbot-fc"
+        },
+        {
+            "address": "0x7A6a26eE20DA347A4E5A004450399a3418cFd67f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1d87f76-2cab-48f0-394c-409b7ae9fa00/rectcrop3",
+            "name": "Moxie:vitbeo-fc",
+            "symbol": "Moxie:vitbeo-fc"
         }
     ],
     "version": {
