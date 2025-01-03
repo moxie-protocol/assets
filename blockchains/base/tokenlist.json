@@ -15997,6 +15997,13 @@
             "logoURI": "https://th.bing.com/th/id/OIP.1mWTVgfWcUkF0bBsMn5ckAHaFi?w=240\u0026h=180\u0026c=7\u0026r=0\u0026o=5\u0026pid=1.7",
             "name": "Moxie:iadxo.eth-ens",
             "symbol": "Moxie:iadxo.eth-ens"
+        },
+        {
+            "address": "0x502a058d5778Bee1317979de9355340B9B8Dfc38",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hxhcy27.jpg",
+            "name": "Moxie:karltzy-fc",
+            "symbol": "Moxie:karltzy-fc"
         }
     ],
     "version": {
