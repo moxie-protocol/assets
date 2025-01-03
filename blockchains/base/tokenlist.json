@@ -14632,6 +14632,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1850239660129488897/tmixh7Zu.jpg",
             "name": "Moxie:ImLucky_eth-x",
             "symbol": "Moxie:ImLucky_eth-x"
+        },
+        {
+            "address": "0x0DE59bb894E81a915a6F9974Ef7475E53d5c8C93",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5CM0GUY.jpg",
+            "name": "Moxie:davidjr-fc",
+            "symbol": "Moxie:davidjr-fc"
         }
     ],
     "version": {
