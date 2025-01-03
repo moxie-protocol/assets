@@ -14261,6 +14261,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4e3edf7-b2b8-4a66-3886-804d68590000/rectcrop3",
             "name": "Moxie:0xgibr4n-fc",
             "symbol": "Moxie:0xgibr4n-fc"
+        },
+        {
+            "address": "0x2a5ED59dA3eBa1e27CA4f5e986C0C1d6664878B2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pSLZAsf.jpg",
+            "name": "Moxie:habibvanh-fc",
+            "symbol": "Moxie:habibvanh-fc"
         }
     ],
     "version": {
