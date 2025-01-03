@@ -12623,6 +12623,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1827722998042025984/yG7BAK12.jpg",
             "name": "Moxie:sixtysecond0508-x",
             "symbol": "Moxie:sixtysecond0508-x"
+        },
+        {
+            "address": "0x5a94ecaeBFbBeab7768CDDe4B8894CaAe6816a1A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1804440916998156288/DD49NjpR.jpg",
+            "name": "Moxie:dwidrop2024-x",
+            "symbol": "Moxie:dwidrop2024-x"
         }
     ],
     "version": {
