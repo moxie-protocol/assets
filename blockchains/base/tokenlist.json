@@ -16312,6 +16312,13 @@
             "logoURI": null,
             "name": "pry",
             "symbol": "fid:748514"
+        },
+        {
+            "address": "0x475dE794652BcBD9dcc4C9295C7acFd7918d416F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YKmNfvW.png",
+            "name": "Moxie:paklek027-fc",
+            "symbol": "Moxie:paklek027-fc"
         }
     ],
     "version": {
