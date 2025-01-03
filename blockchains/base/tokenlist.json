@@ -12700,6 +12700,13 @@
             "logoURI": "https://i.imgur.com/rLQfv8u.jpg",
             "name": "Moxie:minhhoai.eth-fc",
             "symbol": "Moxie:minhhoai.eth-fc"
+        },
+        {
+            "address": "0x5e222Edd3083443080951E28F856213d46A68243",
+            "decimals": 18,
+            "logoURI": "https://axeuvquj7sfbdzmlujn3pag6n6ztrztbj2gdgy4fihiri5wufkka.arweave.net/BclKwon8ihHli6Jbt4Deb7M45mFOjDNjhUHRFHbUKpQ/",
+            "name": "Moxie:ainulyaqin-fc",
+            "symbol": "Moxie:ainulyaqin-fc"
         }
     ],
     "version": {
