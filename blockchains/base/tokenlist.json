@@ -14051,6 +14051,13 @@
             "logoURI": "https://i.imgur.com/4ldFlmP.jpg",
             "name": "Moxie:akatsukixhokage-fc",
             "symbol": "Moxie:akatsukixhokage-fc"
+        },
+        {
+            "address": "0xcD40fc5899aD48f08Cb0e847A9119b363939c645",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a0bce388-a7ae-4662-a438-c616bf6f0900/rectcrop3",
+            "name": "Moxie:waze-fc",
+            "symbol": "Moxie:waze-fc"
         }
     ],
     "version": {
