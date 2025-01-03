@@ -13274,6 +13274,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:reskesCRYPTO-x",
             "symbol": "Moxie:reskesCRYPTO-x"
+        },
+        {
+            "address": "0x75fE449a8999D6D3DC79AbeEbCFE7a49E42bc35e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0dc8f97e-af2b-4aee-3701-58b957a0bd00/rectcrop3",
+            "name": "Moxie:upt-fc",
+            "symbol": "Moxie:upt-fc"
         }
     ],
     "version": {
