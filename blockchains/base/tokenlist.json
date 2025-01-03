@@ -13050,6 +13050,13 @@
             "logoURI": "https://i.imgur.com/n5PJ2ym.jpg",
             "name": "Moxie:asuraville-fc",
             "symbol": "Moxie:asuraville-fc"
+        },
+        {
+            "address": "0x3bECa662dA8BA1df296a9BEEf3C49eC0174E81B3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866074233698455552/sGiT9bFt.jpg",
+            "name": "Moxie:redropx-x",
+            "symbol": "Moxie:redropx-x"
         }
     ],
     "version": {
