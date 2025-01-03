@@ -12994,6 +12994,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e7de48d-579c-4f15-91c0-736b1af2e400/rectcrop3",
             "name": "Moxie:zeenouth-fc",
             "symbol": "Moxie:zeenouth-fc"
+        },
+        {
+            "address": "0x183Ca31A65Fc9F04Bd80E88C200566Cfe1aB0537",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1706672574988795904/ZqolZq0M.jpg",
+            "name": "Moxie:LeePeli19CM-x",
+            "symbol": "Moxie:LeePeli19CM-x"
         }
     ],
     "version": {
