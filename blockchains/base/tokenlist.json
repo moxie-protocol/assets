@@ -15752,6 +15752,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1819318558385455104/pGSPs52d.jpg",
             "name": "Moxie:cryptohunter175-x",
             "symbol": "Moxie:cryptohunter175-x"
+        },
+        {
+            "address": "0x0797aad3F1b4B156699C4F97a006131555E46F99",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4712a09-bf8b-4c06-1acb-3ed7123ff100/rectcrop3",
+            "name": "Moxie:gmonlogy-fc",
+            "symbol": "Moxie:gmonlogy-fc"
         }
     ],
     "version": {
