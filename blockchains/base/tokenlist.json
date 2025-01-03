@@ -14912,6 +14912,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9fc4683-058c-4f3a-96f9-4d61c28b2300/rectcrop3",
             "name": "Moxie:0xzin-fc",
             "symbol": "Moxie:0xzin-fc"
+        },
+        {
+            "address": "0x78b5bf1F6305E94db36E1B2Eae1DBcFc4971a1d0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ba28373-a7e4-4665-717f-b8ac7fefa100/rectcrop3",
+            "name": "Moxie:eeve985-fc",
+            "symbol": "Moxie:eeve985-fc"
         }
     ],
     "version": {
