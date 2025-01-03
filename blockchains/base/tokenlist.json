@@ -14149,6 +14149,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872575189294436352/EVYSTt89.jpg",
             "name": "Moxie:Racoyo0805-x",
             "symbol": "Moxie:Racoyo0805-x"
+        },
+        {
+            "address": "0xe78f6Ee1129cA3fF6Fdea1C5aAbdcDFf96Da2454",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798378625068347392/gR5RmDIG.jpg",
+            "name": "Moxie:Degenontop-x",
+            "symbol": "Moxie:Degenontop-x"
         }
     ],
     "version": {
