@@ -13456,6 +13456,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
             "name": "Moxie:longlonglk-fc",
             "symbol": "Moxie:longlonglk-fc"
+        },
+        {
+            "address": "0x0B28363fF00B7877aD542Ae74E5D3Aadf78C55C5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1847491917527076868/h2p06cEU.jpg",
+            "name": "Moxie:vbarajas1959-x",
+            "symbol": "Moxie:vbarajas1959-x"
         }
     ],
     "version": {
