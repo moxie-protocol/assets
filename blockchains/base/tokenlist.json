@@ -13253,6 +13253,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ca63818-4fa9-49ed-1e88-87500179bd00/original",
             "name": "Moxie:bangbun-fc",
             "symbol": "Moxie:bangbun-fc"
+        },
+        {
+            "address": "0x4C7EFe7c1a048dea1e1AE2D02665A0d01D14653d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1699997207737569280/rtaJpjOK.jpg",
+            "name": "Moxie:Donidjnar-x",
+            "symbol": "Moxie:Donidjnar-x"
         }
     ],
     "version": {
