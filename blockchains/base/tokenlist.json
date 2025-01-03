@@ -12651,6 +12651,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1804008323710357512/oPqA5K_x.jpg",
             "name": "Moxie:mstomatololo-x",
             "symbol": "Moxie:mstomatololo-x"
+        },
+        {
+            "address": "0x7d4CD6a947C2Cd2D680E3222184aC8884E1b2516",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eraUyAe.jpg",
+            "name": "Moxie:57mal-fc",
+            "symbol": "Moxie:57mal-fc"
         }
     ],
     "version": {
