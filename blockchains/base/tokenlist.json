@@ -16011,6 +16011,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f7e57d2-ff5b-408b-e5c5-60cbca8ba400/rectcrop3",
             "name": "Moxie:botoex789-fc",
             "symbol": "Moxie:botoex789-fc"
+        },
+        {
+            "address": "0x917E3Da7F879fe6209D87f129b622C927901315d",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "cellocome",
+            "symbol": "fid:895454"
         }
     ],
     "version": {
