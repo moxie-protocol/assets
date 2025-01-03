@@ -15598,6 +15598,13 @@
             "logoURI": "https://i.imgur.com/j0NU8Oe.jpg",
             "name": "Moxie:abercio-fc",
             "symbol": "Moxie:abercio-fc"
+        },
+        {
+            "address": "0x0b39DE155CB12e81f68A5fD140a4a21068A793B0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04d2e9b6-75b0-48ef-d5c7-8a10175c3f00/rectcrop3",
+            "name": "Moxie:yooi-fc",
+            "symbol": "Moxie:yooi-fc"
         }
     ],
     "version": {
