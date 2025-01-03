@@ -13043,6 +13043,13 @@
             "logoURI": "https://arweave.net/APK_sfTXXNXXON4y3mUZmHcKkBSqrCQnz4iKa10WbC0/",
             "name": "Moxie:xyorii-fc",
             "symbol": "Moxie:xyorii-fc"
+        },
+        {
+            "address": "0x90B51F7E6cD51180A25f141DE15C798e16a22232",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/n5PJ2ym.jpg",
+            "name": "Moxie:asuraville-fc",
+            "symbol": "Moxie:asuraville-fc"
         }
     ],
     "version": {
