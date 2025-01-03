@@ -12896,6 +12896,13 @@
             "logoURI": "https://i.imgur.com/OaLOiXZ.jpg",
             "name": "Moxie:farhankemal23-fc",
             "symbol": "Moxie:farhankemal23-fc"
+        },
+        {
+            "address": "0x40AdEf611aB1e0a070e3dB2Cbf3DcF930A1CE4C5",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreifghysu2za5ve2u5gvfl6gcugp4ytx74aovpia7pf2ebwj2rgmme4",
+            "name": "Moxie:familiabitcoin-fc",
+            "symbol": "Moxie:familiabitcoin-fc"
         }
     ],
     "version": {
