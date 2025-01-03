@@ -16088,6 +16088,13 @@
             "logoURI": "https://i.imgur.com/rin4AwX.jpg",
             "name": "Moxie:kenmonkey-fc",
             "symbol": "Moxie:kenmonkey-fc"
+        },
+        {
+            "address": "0xdb85CBC02e2e56E6125AA7B9fD66B9d027d952cf",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeibykwiyjp3tt3mdf5mlzqfgfpbvnesf4lqcnavbh4s7etennfalua",
+            "name": "Moxie:mixue-fc",
+            "symbol": "Moxie:mixue-fc"
         }
     ],
     "version": {
