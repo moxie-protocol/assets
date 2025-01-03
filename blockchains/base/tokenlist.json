@@ -14128,6 +14128,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/91054790-89bb-43b0-f059-43ea3c8aab00/rectcrop3",
             "name": "Moxie:maddogs-fc",
             "symbol": "Moxie:maddogs-fc"
+        },
+        {
+            "address": "0x911Ef720fF467A5ba0DB02fc15314bC3cEE12CeE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23a01a92-380b-4409-4e22-43a648f21200/rectcrop3",
+            "name": "Moxie:adeyemiky-fc",
+            "symbol": "Moxie:adeyemiky-fc"
         }
     ],
     "version": {
