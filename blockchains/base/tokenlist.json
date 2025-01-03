@@ -16389,6 +16389,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1787513474110849024/NhPd3p0x.jpg",
             "name": "Moxie:Acewyrcrypto2nd-x",
             "symbol": "Moxie:Acewyrcrypto2nd-x"
+        },
+        {
+            "address": "0x1887B5abCEEA2C20B1c6c13cA9bbfC50A828c7a9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc3c0d67-6607-4ffd-1c6a-313d990e7e00/original",
+            "name": "Moxie:ilidan-fc",
+            "symbol": "Moxie:ilidan-fc"
         }
     ],
     "version": {
