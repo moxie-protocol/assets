@@ -15920,6 +15920,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee49daca-4fa0-49ff-334b-952ced523300/original",
             "name": "Moxie:xanxan-fc",
             "symbol": "Moxie:xanxan-fc"
+        },
+        {
+            "address": "0x9bAd1FfA988E6A1C9e09518aC73181CBe664a4A8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1594877133016342530/0V__Ez6b.jpg",
+            "name": "Moxie:maituetien-x",
+            "symbol": "Moxie:maituetien-x"
         }
     ],
     "version": {
