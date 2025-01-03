@@ -13029,6 +13029,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16a57aef-2c7a-46e0-b433-2fb8b4e87200/rectcrop3",
             "name": "Moxie:ronanih-fc",
             "symbol": "Moxie:ronanih-fc"
+        },
+        {
+            "address": "0xb624Ae5f333B9b3f233fd377a5993D8eefe4a153",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06262e18-1e7f-49c8-49a6-7e00221af800/rectcrop3",
+            "name": "Moxie:drezkate-fc",
+            "symbol": "Moxie:drezkate-fc"
         }
     ],
     "version": {
