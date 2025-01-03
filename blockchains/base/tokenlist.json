@@ -16585,6 +16585,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48788bc0-1ac9-40c8-1493-e454a145fb00/rectcrop3",
             "name": "Moxie:syns-fc",
             "symbol": "Moxie:syns-fc"
+        },
+        {
+            "address": "0x62b01Fea75FFD0e6C69556f2C2059260528E737b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3ZODltS.jpg",
+            "name": "Moxie:labibawaw-fc",
+            "symbol": "Moxie:labibawaw-fc"
         }
     ],
     "version": {
