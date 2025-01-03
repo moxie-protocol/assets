@@ -13155,6 +13155,13 @@
             "logoURI": "https://i.imgur.com/xjOWH9R.jpg",
             "name": "Moxie:chairilraynaldi-fc",
             "symbol": "Moxie:chairilraynaldi-fc"
+        },
+        {
+            "address": "0x59BA3FB195Cf222bdC6cBdaBA878Fd360fed12ba",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f8a54a3a-3ea9-4d0c-ecdb-1aa78c82ed00/rectcrop3",
+            "name": "Moxie:dilapuspita-fc",
+            "symbol": "Moxie:dilapuspita-fc"
         }
     ],
     "version": {
