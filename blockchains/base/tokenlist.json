@@ -15892,6 +15892,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1d87f76-2cab-48f0-394c-409b7ae9fa00/rectcrop3",
             "name": "Moxie:vitbeo-fc",
             "symbol": "Moxie:vitbeo-fc"
+        },
+        {
+            "address": "0x2f8B38fAd4fa18Cc1949c21a3dF0560502f37318",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SRjjELk.jpg",
+            "name": "Moxie:sygnum-fc",
+            "symbol": "Moxie:sygnum-fc"
         }
     ],
     "version": {
