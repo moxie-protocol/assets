@@ -14499,6 +14499,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26bbc115-27e4-47b7-6e05-9090a2811700/rectcrop3",
             "name": "Moxie:catflow-fc",
             "symbol": "Moxie:catflow-fc"
+        },
+        {
+            "address": "0x8AA237351462148328cE9Bc4f167f4Bda0ab3Ba3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1825465713051783168/Ne4Euipu.jpg",
+            "name": "Moxie:bagate07-x",
+            "symbol": "Moxie:bagate07-x"
         }
     ],
     "version": {
