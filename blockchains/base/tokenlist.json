@@ -14093,6 +14093,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1798013184781299712/F6JJBXq3.jpg",
             "name": "Moxie:KandiSisil-x",
             "symbol": "Moxie:KandiSisil-x"
+        },
+        {
+            "address": "0x2Ad9c22F9B827C7Ed3Bd1EA6C5C18988AAa8e180",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1761544285885980672/UOaQgNHK.jpg",
+            "name": "Moxie:youcanseem3-x",
+            "symbol": "Moxie:youcanseem3-x"
         }
     ],
     "version": {
