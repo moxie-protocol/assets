@@ -16067,6 +16067,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f896a675-456f-466a-ff3b-ebb39f13f200/rectcrop3",
             "name": "Moxie:haxorbroken-fc",
             "symbol": "Moxie:haxorbroken-fc"
+        },
+        {
+            "address": "0x425c7E96CdFCfa9642aE86e3acD58Cfa7bcA16C4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a3a51d23-1c2f-48ce-ed35-f819050eb300/original",
+            "name": "Moxie:0xmonnn-fc",
+            "symbol": "Moxie:0xmonnn-fc"
         }
     ],
     "version": {
