@@ -13470,6 +13470,13 @@
             "logoURI": "https://i.imgur.com/h1YidX2.jpg",
             "name": "Moxie:canhkina-fc",
             "symbol": "Moxie:canhkina-fc"
+        },
+        {
+            "address": "0x8B6cBC553bE22700B57217FAeCacE454EFB5cBda",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/B4ivE1u.jpg",
+            "name": "Moxie:xerx-fc",
+            "symbol": "Moxie:xerx-fc"
         }
     ],
     "version": {
