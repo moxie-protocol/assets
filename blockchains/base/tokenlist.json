@@ -13918,6 +13918,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/813eade3-df08-4122-f448-f6c3551db200/original",
             "name": "Moxie:0xvuc-fc",
             "symbol": "Moxie:0xvuc-fc"
+        },
+        {
+            "address": "0xbE8A7514099E0E578861148CBF5FbFf2BbeD3897",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1621418473221144576/qDtc_6UW.jpg",
+            "name": "Moxie:ontor2023-x",
+            "symbol": "Moxie:ontor2023-x"
         }
     ],
     "version": {
