@@ -13351,6 +13351,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2cad85f-17ce-4662-a880-c3438db09500/original",
             "name": "Moxie:testingusername-fc",
             "symbol": "Moxie:testingusername-fc"
+        },
+        {
+            "address": "0x81e1d3335a5003C1378E8743e65b805c8120D8F3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1446410256276328452/UmjU-Ht6.jpg",
+            "name": "Moxie:FalsSing-x",
+            "symbol": "Moxie:FalsSing-x"
         }
     ],
     "version": {
