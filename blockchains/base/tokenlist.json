@@ -15122,6 +15122,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dfd9881d-04f6-48ea-b635-517d8a714a00/rectcrop3",
             "name": "Moxie:ucum-fc",
             "symbol": "Moxie:ucum-fc"
+        },
+        {
+            "address": "0x5Ca84439c7277FC228cc1d46F34f97011a5058d4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc702680-257f-4001-42de-224943dfa100/rectcrop3",
+            "name": "Moxie:iruwae-fc",
+            "symbol": "Moxie:iruwae-fc"
         }
     ],
     "version": {
