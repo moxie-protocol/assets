@@ -17439,6 +17439,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15411bdf-8558-46e8-8461-8b4ae2ece700/rectcrop3",
             "name": "Moxie:selamanyacinta6-fc",
             "symbol": "Moxie:selamanyacinta6-fc"
+        },
+        {
+            "address": "0x3F8E340d562E294Df9D161b29afa5492E2219Ec8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2af6700-63c9-4909-35d7-034397831900/original",
+            "name": "Moxie:yumeko-fc",
+            "symbol": "Moxie:yumeko-fc"
         }
     ],
     "version": {
