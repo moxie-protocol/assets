@@ -17530,6 +17530,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1167254723809792002/CoeoVG43.jpg",
             "name": "Moxie:MatMamatMat-x",
             "symbol": "Moxie:MatMamatMat-x"
+        },
+        {
+            "address": "0xFAC9a5955C80e6bC8581125A3A76F17F1a2Ff6d6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Pz3K4Mu.jpg",
+            "name": "Moxie:monstera27-fc",
+            "symbol": "Moxie:monstera27-fc"
         }
     ],
     "version": {
