@@ -18412,6 +18412,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTCfLAvxndRbMVoLFQ3sxPacJkWLCbpv211kez6tqsqx8/2232.webp",
             "name": "Moxie:airdrop6868-fc",
             "symbol": "Moxie:airdrop6868-fc"
+        },
+        {
+            "address": "0xc3FEb93925BcDb4780CF55D1BA3c108510702e29",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Abel28aaa-x",
+            "symbol": "Moxie:Abel28aaa-x"
         }
     ],
     "version": {
