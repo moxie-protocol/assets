@@ -17880,6 +17880,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2492b93d-b155-487d-69bc-fb027e7beb00/rectcrop3",
             "name": "Moxie:saeron-fc",
             "symbol": "Moxie:saeron-fc"
+        },
+        {
+            "address": "0xB609830820130837656c48501772c32DB7F270d3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1812679115108937728/ioErE6Z2.jpg",
+            "name": "Moxie:Gojo_web3-x",
+            "symbol": "Moxie:Gojo_web3-x"
         }
     ],
     "version": {
