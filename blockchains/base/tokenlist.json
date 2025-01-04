@@ -18223,6 +18223,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/2675184535/9134ea2b9fbaae6781c7c1ef1c6c5158.jpeg",
             "name": "Moxie:CrystyBer-x",
             "symbol": "Moxie:CrystyBer-x"
+        },
+        {
+            "address": "0xb8A0c5Bdb8a55f7CEd90d96115a98F28DE5EFBB0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874822518797914113/NbIwgzwZ.jpg",
+            "name": "Moxie:MadBySouljaBoy-x",
+            "symbol": "Moxie:MadBySouljaBoy-x"
         }
     ],
     "version": {
