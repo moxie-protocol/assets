@@ -18097,6 +18097,13 @@
             "logoURI": "https://pixlr.com/images/index/ai-image-generator-one.webp",
             "name": "Moxie:smual.eth-ens",
             "symbol": "Moxie:smual.eth-ens"
+        },
+        {
+            "address": "0xE1dC3Bd990d422E3838A40a00A4D14f687A7C99E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29b91cbe-939d-4e95-f659-1412d7018200/rectcrop3",
+            "name": "Moxie:thevish-fc",
+            "symbol": "Moxie:thevish-fc"
         }
     ],
     "version": {
