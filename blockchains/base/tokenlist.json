@@ -16760,6 +16760,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8c049cb-8b6c-4263-2a3a-34b941bf9100/original",
             "name": "Moxie:truongnguyen-fc",
             "symbol": "Moxie:truongnguyen-fc"
+        },
+        {
+            "address": "0xa2a3F3D3C9E0033E9d13D8804E0A62332Bef3643",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "hztory",
+            "symbol": "fid:590067"
         }
     ],
     "version": {
