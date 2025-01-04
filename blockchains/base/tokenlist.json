@@ -18216,6 +18216,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1765436796081418240/n9rzJ--n.jpg",
             "name": "Moxie:flenzy22-x",
             "symbol": "Moxie:flenzy22-x"
+        },
+        {
+            "address": "0x1325722c318b91E3f1d1e77FF8FD0f54782E60f5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/2675184535/9134ea2b9fbaae6781c7c1ef1c6c5158.jpeg",
+            "name": "Moxie:CrystyBer-x",
+            "symbol": "Moxie:CrystyBer-x"
         }
     ],
     "version": {
