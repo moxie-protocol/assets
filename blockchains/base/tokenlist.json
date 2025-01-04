@@ -16732,6 +16732,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873115713814315008/Bvi5p8rJ.jpg",
             "name": "Moxie:thuha47r13469-x",
             "symbol": "Moxie:thuha47r13469-x"
+        },
+        {
+            "address": "0x473408b2d9073545bf8C6cDb2A2F23dD69F374E9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40801fa4-ae0b-47e2-7b3a-07708f5dbe00/rectcrop3",
+            "name": "Moxie:aibots-fc",
+            "symbol": "Moxie:aibots-fc"
         }
     ],
     "version": {
