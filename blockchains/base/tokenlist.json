@@ -18608,6 +18608,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a11b64ec-e187-4783-2de0-87f69c9a5e00/original",
             "name": "Moxie:chowlie.eth-fc",
             "symbol": "Moxie:chowlie.eth-fc"
+        },
+        {
+            "address": "0x6De5758150c7d778AF62119D056fdd910cfDb9CA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1800875602205126656/iM1_bpz8.jpg",
+            "name": "Moxie:ipengweb3-x",
+            "symbol": "Moxie:ipengweb3-x"
         }
     ],
     "version": {
