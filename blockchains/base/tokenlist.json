@@ -18321,6 +18321,13 @@
             "logoURI": "https://ibb.co.com/c193J7J",
             "name": "Moxie:adeirawaniwan.base.eth-base",
             "symbol": "Moxie:adeirawaniwan.base.eth-base"
+        },
+        {
+            "address": "0x41cb6d79Aa205C260b2B0CfBa572bf2E59f3ba0e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/112c534d-c7aa-42f4-e086-1c043f2b7000/rectcrop3",
+            "name": "Moxie:akintomiwa-fc",
+            "symbol": "Moxie:akintomiwa-fc"
         }
     ],
     "version": {
