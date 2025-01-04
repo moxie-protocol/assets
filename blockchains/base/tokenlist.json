@@ -17719,6 +17719,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1835576157628243968/9aPTBq2f.jpg",
             "name": "Moxie:rifanArya7-x",
             "symbol": "Moxie:rifanArya7-x"
+        },
+        {
+            "address": "0x9BC709BeE5E2C38A5B73159f2BfE8B19C2F96bCe",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54252dc4-231b-4858-a490-3e21c20ae500/rectcrop3",
+            "name": "Moxie:prvorg-fc",
+            "symbol": "Moxie:prvorg-fc"
         }
     ],
     "version": {
