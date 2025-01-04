@@ -17985,6 +17985,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1805530489341755392/DqO18YHn.jpg",
             "name": "Moxie:FahmiTrian2197-x",
             "symbol": "Moxie:FahmiTrian2197-x"
+        },
+        {
+            "address": "0x611D8A9460f5c023E14Aa69633a31D8a3dc9246E",
+            "decimals": 18,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/41/Beetlejuice_onstage.jpg",
+            "name": "Moxie:beetlejuicee-fc",
+            "symbol": "Moxie:beetlejuicee-fc"
         }
     ],
     "version": {
