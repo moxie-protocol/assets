@@ -17173,6 +17173,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/353e6a9a-be02-4073-f9a1-f140c3221b00/rectcrop3",
             "name": "Moxie:roftzed-fc",
             "symbol": "Moxie:roftzed-fc"
+        },
+        {
+            "address": "0xEc0416b5449EFD3DA67d9f06Ec643E40728f7808",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f6d1767-80c5-4a74-4db6-e128dc25ad00/rectcrop3",
+            "name": "Moxie:modboost-fc",
+            "symbol": "Moxie:modboost-fc"
         }
     ],
     "version": {
