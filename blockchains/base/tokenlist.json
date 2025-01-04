@@ -18188,6 +18188,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1825115523488620544/mIIk5BJE.jpg",
             "name": "Moxie:CasmirDr-x",
             "symbol": "Moxie:CasmirDr-x"
+        },
+        {
+            "address": "0x2444E58c55a3235c77B2f93589A3c6C2A4c5Ad88",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co/0DPx7zn/IMG-3529.png",
+            "name": "Moxie:heyuguys.eth-ens",
+            "symbol": "Moxie:heyuguys.eth-ens"
         }
     ],
     "version": {
