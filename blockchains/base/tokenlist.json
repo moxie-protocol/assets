@@ -17236,6 +17236,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873408915179794432/RSVCHZB3_400x400.jpg",
             "name": "Moxie:airdropfind.base.eth-base",
             "symbol": "Moxie:airdropfind.base.eth-base"
+        },
+        {
+            "address": "0x8581bEB4CEb25C51E36F0a04eC8f002A2f816969",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867088703233069062/ZgWfnSQn.jpg",
+            "name": "Moxie:CharleJP-x",
+            "symbol": "Moxie:CharleJP-x"
         }
     ],
     "version": {
