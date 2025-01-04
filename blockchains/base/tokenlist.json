@@ -16739,6 +16739,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40801fa4-ae0b-47e2-7b3a-07708f5dbe00/rectcrop3",
             "name": "Moxie:aibots-fc",
             "symbol": "Moxie:aibots-fc"
+        },
+        {
+            "address": "0x91014Ca358A782C060769198C2b124a18ac8e881",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869011500565991424/Nu2tt0WV.jpg",
+            "name": "Moxie:BasedVana-x",
+            "symbol": "Moxie:BasedVana-x"
         }
     ],
     "version": {
