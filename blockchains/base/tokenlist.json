@@ -17404,6 +17404,13 @@
             "logoURI": "https://i.imgur.com/OYQtctm.jpg",
             "name": "Moxie:keponihye-fc",
             "symbol": "Moxie:keponihye-fc"
+        },
+        {
+            "address": "0x999b4226cDF43CE461d24177870d6DB6F0F0eDd2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a49b5c8b-0421-48c0-457f-2ac4c183de00/rectcrop3",
+            "name": "Moxie:exelword-fc",
+            "symbol": "Moxie:exelword-fc"
         }
     ],
     "version": {
