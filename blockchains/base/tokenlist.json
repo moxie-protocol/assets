@@ -18111,6 +18111,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1275713882670206977/_4tBtPug.jpg",
             "name": "Moxie:Mirajul76229978-x",
             "symbol": "Moxie:Mirajul76229978-x"
+        },
+        {
+            "address": "0x63224b65E120d0eCb586F6D09E0299C42DD4172E",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiclpom4blkvad2keije5p7kuqbmzokm3cynpa44xboiemxfnwnoui",
+            "name": "Moxie:2101x.eth-fc",
+            "symbol": "Moxie:2101x.eth-fc"
         }
     ],
     "version": {
