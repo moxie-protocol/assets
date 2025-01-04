@@ -17782,6 +17782,13 @@
             "logoURI": "https://i.imgur.com/csOhSzB.jpg",
             "name": "Moxie:freval56-fc",
             "symbol": "Moxie:freval56-fc"
+        },
+        {
+            "address": "0xA2bb7A8665aaa85Aae3c29a28528Ae8C6d498B66",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/34jjtug.jpg",
+            "name": "Moxie:hanzzrn-fc",
+            "symbol": "Moxie:hanzzrn-fc"
         }
     ],
     "version": {
