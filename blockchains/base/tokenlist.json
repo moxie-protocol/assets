@@ -17012,6 +17012,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6bd0746c-a3ad-4421-15bc-c24387f32200/rectcrop3",
             "name": "Moxie:seapump-fc",
             "symbol": "Moxie:seapump-fc"
+        },
+        {
+            "address": "0x4000F60EF75D3D84ac92401e257e6d717fa023E8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1167669756457050112/hkVNaLnv.jpg",
+            "name": "Moxie:igoy__-x",
+            "symbol": "Moxie:igoy__-x"
         }
     ],
     "version": {
