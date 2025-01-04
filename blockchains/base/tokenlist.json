@@ -17131,6 +17131,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da87c98c-d236-4e5b-2398-2a9c26b3de00/rectcrop3",
             "name": "Moxie:exyusme26-fc",
             "symbol": "Moxie:exyusme26-fc"
+        },
+        {
+            "address": "0xb47Af126c7fDAa1A80960E4757FD577b03F740af",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/hH7gclq.jpg",
+            "name": "Moxie:anggasullivan11-fc",
+            "symbol": "Moxie:anggasullivan11-fc"
         }
     ],
     "version": {
