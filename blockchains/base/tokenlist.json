@@ -17558,6 +17558,13 @@
             "logoURI": null,
             "name": "agung-ume",
             "symbol": "fid:298488"
+        },
+        {
+            "address": "0x761A16d1fFCDaBE50f28CF73ec8D9771a4a8704e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GA2WwKX.jpg",
+            "name": "Moxie:foundereth-fc",
+            "symbol": "Moxie:foundereth-fc"
         }
     ],
     "version": {
