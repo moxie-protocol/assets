@@ -17691,6 +17691,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2155848-ead3-4b5e-b61a-59202da21600/rectcrop3",
             "name": "Moxie:xnownx-fc",
             "symbol": "Moxie:xnownx-fc"
+        },
+        {
+            "address": "0x8669C1FA6b41AD824E7459c83054C9a364C93FAc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1775223860947976192/bLYeX2hv.jpg",
+            "name": "Moxie:markas_jb-x",
+            "symbol": "Moxie:markas_jb-x"
         }
     ],
     "version": {
