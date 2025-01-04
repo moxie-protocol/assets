@@ -17446,6 +17446,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2af6700-63c9-4909-35d7-034397831900/original",
             "name": "Moxie:yumeko-fc",
             "symbol": "Moxie:yumeko-fc"
+        },
+        {
+            "address": "0x82E11D7965BA90e27bd3294b0e3Bec0156af3a23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d8b5b96-e0f0-4784-5bb3-b50f56c43100/rectcrop3",
+            "name": "Moxie:ernxto-fc",
+            "symbol": "Moxie:ernxto-fc"
         }
     ],
     "version": {
