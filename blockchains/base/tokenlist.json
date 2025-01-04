@@ -17292,6 +17292,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1875295845052018688/ndWg4s0W.jpg",
             "name": "Moxie:remzingvlad-x",
             "symbol": "Moxie:remzingvlad-x"
+        },
+        {
+            "address": "0xA919a11EC806B21365c37b1C865903e92c01a3B2",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/6JJ64sz/spreadicons.jpg",
+            "name": "Moxie:sanbrox-fc",
+            "symbol": "Moxie:sanbrox-fc"
         }
     ],
     "version": {
