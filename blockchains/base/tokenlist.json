@@ -16851,6 +16851,13 @@
             "logoURI": null,
             "name": "kelvinlee",
             "symbol": "fid:784830"
+        },
+        {
+            "address": "0x6435D8a8227A2dF87780800B4d31bE047aD3CAA5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6adbf978-00ae-4f34-92d3-e505ef128500/rectcrop3",
+            "name": "Moxie:zhigonk77-fc",
+            "symbol": "Moxie:zhigonk77-fc"
         }
     ],
     "version": {
