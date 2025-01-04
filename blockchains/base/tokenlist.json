@@ -17453,6 +17453,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d8b5b96-e0f0-4784-5bb3-b50f56c43100/rectcrop3",
             "name": "Moxie:ernxto-fc",
             "symbol": "Moxie:ernxto-fc"
+        },
+        {
+            "address": "0x6a6b68284B848A2d6F4083bD472354Ce13d221bE",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/p9a5EFC.jpg",
+            "name": "Moxie:elonn-fc",
+            "symbol": "Moxie:elonn-fc"
         }
     ],
     "version": {
