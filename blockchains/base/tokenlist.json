@@ -16669,6 +16669,13 @@
             "logoURI": "https://i.imgur.com/iXIJTpX.jpg",
             "name": "Moxie:tuuyl-fc",
             "symbol": "Moxie:tuuyl-fc"
+        },
+        {
+            "address": "0xD29c757f4572C30f87480A9B66F6f221F1D195EB",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "foisal1",
+            "symbol": "fid:883074"
         }
     ],
     "version": {
