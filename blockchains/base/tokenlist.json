@@ -18272,6 +18272,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/554722381227638784/6STVjDPc.jpeg",
             "name": "Moxie:gaby_roth-x",
             "symbol": "Moxie:gaby_roth-x"
+        },
+        {
+            "address": "0x89b3888090880E475d2F847a968D4c8e8729B182",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53b1b3e9-64b0-4f17-f653-e2a48c644100/rectcrop3",
+            "name": "Moxie:dechemist-fc",
+            "symbol": "Moxie:dechemist-fc"
         }
     ],
     "version": {
