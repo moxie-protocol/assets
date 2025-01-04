@@ -17341,6 +17341,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828953315381784577/J0r0_nYX.jpg",
             "name": "Moxie:lucats_w3-x",
             "symbol": "Moxie:lucats_w3-x"
+        },
+        {
+            "address": "0xeA752e0d49baf8f2250dCa3091a34FCb7A27FCF9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/l2avxeO.jpg",
+            "name": "Moxie:alanf72-fc",
+            "symbol": "Moxie:alanf72-fc"
         }
     ],
     "version": {
