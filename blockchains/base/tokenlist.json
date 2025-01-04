@@ -16872,6 +16872,13 @@
             "logoURI": null,
             "name": "mayka",
             "symbol": "fid:877034"
+        },
+        {
+            "address": "0xcD50c5ed08d60Dc5Ceb64083C3b8E320144C48c3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15342b69-43eb-4269-fb48-dc061eb55600/rectcrop3",
+            "name": "Moxie:fath1897-fc",
+            "symbol": "Moxie:fath1897-fc"
         }
     ],
     "version": {
