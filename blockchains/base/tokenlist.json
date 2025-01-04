@@ -17649,6 +17649,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:RanggaJanuar8-x",
             "symbol": "Moxie:RanggaJanuar8-x"
+        },
+        {
+            "address": "0x7f915a783b8761c925CB6B5270cA8F84cfd87E69",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6e26109-1a47-4943-5e92-d3164c304900/rectcrop3",
+            "name": "Moxie:shewnstic1-fc",
+            "symbol": "Moxie:shewnstic1-fc"
         }
     ],
     "version": {
