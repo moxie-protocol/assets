@@ -18580,6 +18580,13 @@
             "logoURI": "https://i.postimg.cc/x8ZJ5mz2/SPACEAI.jpg",
             "name": "Moxie:spaceworldai.base.eth-base",
             "symbol": "Moxie:spaceworldai.base.eth-base"
+        },
+        {
+            "address": "0xec3aE3e38d010550570C5897bc5ea831592a475b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0630e644-4ef7-4815-6fa2-8bee29287500/rectcrop3",
+            "name": "Moxie:mimaduddinj-fc",
+            "symbol": "Moxie:mimaduddinj-fc"
         }
     ],
     "version": {
