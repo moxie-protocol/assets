@@ -16879,6 +16879,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15342b69-43eb-4269-fb48-dc061eb55600/rectcrop3",
             "name": "Moxie:fath1897-fc",
             "symbol": "Moxie:fath1897-fc"
+        },
+        {
+            "address": "0x3FC1De3E24b4457A76dC0A4cE8EE8027EFc8E36c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YRqXScD.jpeg",
+            "name": "Moxie:ciskekbanana-fc",
+            "symbol": "Moxie:ciskekbanana-fc"
         }
     ],
     "version": {
