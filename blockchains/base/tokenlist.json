@@ -17208,6 +17208,13 @@
             "logoURI": "https://i.postimg.cc/0NTMPt9b/IMG-20250101-WA0231.jpg",
             "name": "Moxie:shajeer.base.eth-base",
             "symbol": "Moxie:shajeer.base.eth-base"
+        },
+        {
+            "address": "0x86B6E85bcf5fD12E41224c0554EBDeaf165d9B09",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867612372564590592/iCh6qF49.jpg",
+            "name": "Moxie:clanktardio-x",
+            "symbol": "Moxie:clanktardio-x"
         }
     ],
     "version": {
