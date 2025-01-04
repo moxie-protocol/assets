@@ -17971,6 +17971,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72d236f9-fea6-4289-8bf6-9e2b6cc84200/rectcrop3",
             "name": "Moxie:silviuasy-fc",
             "symbol": "Moxie:silviuasy-fc"
+        },
+        {
+            "address": "0x7D22a226dA9F6dA5e402BBd00C65164bA4c0A589",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cb87023-3108-4a8f-c418-111e76b93400/rectcrop3",
+            "name": "Moxie:basebot-fc",
+            "symbol": "Moxie:basebot-fc"
         }
     ],
     "version": {
