@@ -17117,6 +17117,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1f5d648-42bf-48be-b36e-5b8ec8d63b00/rectcrop3",
             "name": "Moxie:rivernity-fc",
             "symbol": "Moxie:rivernity-fc"
+        },
+        {
+            "address": "0xE4db3f72EC90eaDec463f6a74Bf22C7D6443Ad76",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1827051191643017216/QzyCa0do.jpg",
+            "name": "Moxie:Gyneun-x",
+            "symbol": "Moxie:Gyneun-x"
         }
     ],
     "version": {
