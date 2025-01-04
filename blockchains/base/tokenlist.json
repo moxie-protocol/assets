@@ -16662,6 +16662,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1754740080617586688/ulHbYWdh.png",
             "name": "Moxie:Flabiaseona-x",
             "symbol": "Moxie:Flabiaseona-x"
+        },
+        {
+            "address": "0x9D166ea6B1f1f6FF108aA9925f17DfC3693A257A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/iXIJTpX.jpg",
+            "name": "Moxie:tuuyl-fc",
+            "symbol": "Moxie:tuuyl-fc"
         }
     ],
     "version": {
