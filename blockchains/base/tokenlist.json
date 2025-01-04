@@ -17621,6 +17621,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1777059296762535936/YlttP1no.jpg",
             "name": "Moxie:jm_web3-x",
             "symbol": "Moxie:jm_web3-x"
+        },
+        {
+            "address": "0x7D09fC636BF73FBd7eDAAD2E1B6f0cc66883D3a9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1834900657909743616/8uAV00Di.jpg",
+            "name": "Moxie:YMaida20796-x",
+            "symbol": "Moxie:YMaida20796-x"
         }
     ],
     "version": {
