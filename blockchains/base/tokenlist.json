@@ -16711,6 +16711,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0fc0650-bb51-432f-bf00-6bc774cedc00/rectcrop3",
             "name": "Moxie:ejaaskhan-fc",
             "symbol": "Moxie:ejaaskhan-fc"
+        },
+        {
+            "address": "0x9424d08D40160f540034716fb2930610C6Ec1a26",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/892c8075-ea6f-4e53-20b8-3c749320d100/rectcrop3",
+            "name": "Moxie:toolkit-fc",
+            "symbol": "Moxie:toolkit-fc"
         }
     ],
     "version": {
