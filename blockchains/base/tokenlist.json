@@ -16844,6 +16844,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53cd8144-ddce-4eff-ab3f-c9a50dbf8800/original",
             "name": "Moxie:baocaosu-fc",
             "symbol": "Moxie:baocaosu-fc"
+        },
+        {
+            "address": "0x6D25BF5Cd260f9faF6719a9B72e1eb2797a50BCb",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "kelvinlee",
+            "symbol": "fid:784830"
         }
     ],
     "version": {
