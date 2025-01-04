@@ -18601,6 +18601,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/755dc0a1-ab10-4cf2-4872-94a763bd6b00/rectcrop3",
             "name": "Moxie:nita-jak-fc",
             "symbol": "Moxie:nita-jak-fc"
+        },
+        {
+            "address": "0x1E6Ab18182d681f7d034732C6e08083f9f47CBCF",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a11b64ec-e187-4783-2de0-87f69c9a5e00/original",
+            "name": "Moxie:chowlie.eth-fc",
+            "symbol": "Moxie:chowlie.eth-fc"
         }
     ],
     "version": {
