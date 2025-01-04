@@ -17250,6 +17250,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a228115f-1584-49e8-c0b8-59daefdb1100/rectcrop3",
             "name": "Moxie:musimax-fc",
             "symbol": "Moxie:musimax-fc"
+        },
+        {
+            "address": "0xA915C415Ac7184f5861112A9Fb36369f5B06B393",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1826194197407203328/vaoA02HX.jpg",
+            "name": "Moxie:rizkiganteng225-x",
+            "symbol": "Moxie:rizkiganteng225-x"
         }
     ],
     "version": {
