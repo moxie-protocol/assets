@@ -17320,6 +17320,13 @@
             "logoURI": "https://i.ibb.co.com/cgZMk6v/ff45y.jpg",
             "name": "Moxie:roxbin-fc",
             "symbol": "Moxie:roxbin-fc"
+        },
+        {
+            "address": "0x2bFa566623B6AbFa397f28F159AbB7c9C57cC837",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YA0OTeH.jpg",
+            "name": "Moxie:g4rrzx-fc",
+            "symbol": "Moxie:g4rrzx-fc"
         }
     ],
     "version": {
