@@ -18090,6 +18090,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864409439245107200/xeM1Ghom.jpg",
             "name": "Moxie:BoyB14619-x",
             "symbol": "Moxie:BoyB14619-x"
+        },
+        {
+            "address": "0xB098A57386911Cb1e55f0c2d881e291BF4B9857a",
+            "decimals": 18,
+            "logoURI": "https://pixlr.com/images/index/ai-image-generator-one.webp",
+            "name": "Moxie:smual.eth-ens",
+            "symbol": "Moxie:smual.eth-ens"
         }
     ],
     "version": {
