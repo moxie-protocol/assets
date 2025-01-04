@@ -17425,6 +17425,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a7b1e95-6d39-4153-d892-883c5bee8700/rectcrop3",
             "name": "Moxie:pikabu123-fc",
             "symbol": "Moxie:pikabu123-fc"
+        },
+        {
+            "address": "0xfA9F50092D5A0261B426b817082943E046B9Ae97",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ef6bf96-cc43-43cf-d00e-0228641a3500/rectcrop3",
+            "name": "Moxie:manmann-fc",
+            "symbol": "Moxie:manmann-fc"
         }
     ],
     "version": {
