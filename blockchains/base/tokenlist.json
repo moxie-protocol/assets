@@ -17516,6 +17516,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5136c371-db51-4d66-b17b-57d4971ea500/original",
             "name": "Moxie:mrskipeers-fc",
             "symbol": "Moxie:mrskipeers-fc"
+        },
+        {
+            "address": "0x7a1089693d953E177787f10ad8bCb85236ACf40c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/aUdEjRi.jpg",
+            "name": "Moxie:adikur21-fc",
+            "symbol": "Moxie:adikur21-fc"
         }
     ],
     "version": {
