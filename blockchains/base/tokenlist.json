@@ -17929,6 +17929,13 @@
             "logoURI": null,
             "name": "stockbrother1",
             "symbol": "fid:623418"
+        },
+        {
+            "address": "0xD15b90C6701f034E2cEACA250A69Ecb44960d635",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ln11X7y.jpg",
+            "name": "Moxie:mojtaba-fc",
+            "symbol": "Moxie:mojtaba-fc"
         }
     ],
     "version": {
