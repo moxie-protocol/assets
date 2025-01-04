@@ -17362,6 +17362,13 @@
             "logoURI": "https://i.imgur.com/10G6UEI.jpeg",
             "name": "Moxie:mideypounds.base.eth-base",
             "symbol": "Moxie:mideypounds.base.eth-base"
+        },
+        {
+            "address": "0x22f240dcCFA6D4d1dc12533763A68Ae41Ad4359f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe57b35e-cb84-4dd3-c485-3fd95e710a00/original",
+            "name": "Moxie:kimdotcom-fc",
+            "symbol": "Moxie:kimdotcom-fc"
         }
     ],
     "version": {
