@@ -17537,6 +17537,13 @@
             "logoURI": "https://i.imgur.com/Pz3K4Mu.jpg",
             "name": "Moxie:monstera27-fc",
             "symbol": "Moxie:monstera27-fc"
+        },
+        {
+            "address": "0x01cD0F8Fa2963E719A66E59b7d74B52E329eEC2A",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
+            "name": "Moxie:boyakbar2024-fc",
+            "symbol": "Moxie:boyakbar2024-fc"
         }
     ],
     "version": {
