@@ -16998,6 +16998,13 @@
             "logoURI": "https://i.ytimg.com/vi/EdyUjRtwcTc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB\u0026rs=AOn4CLCsUt1pTxaeiyiZfU4hQzsPuiqa1g",
             "name": "Moxie:syifaul.base.eth-base",
             "symbol": "Moxie:syifaul.base.eth-base"
+        },
+        {
+            "address": "0x82adb3f152dae6E7f5A28E6b7c58f108C42bbB6d",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/kqtB8Lr/gfg4w.jpg",
+            "name": "Moxie:genaplha-fc",
+            "symbol": "Moxie:genaplha-fc"
         }
     ],
     "version": {
