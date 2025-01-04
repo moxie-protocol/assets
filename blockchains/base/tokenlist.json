@@ -16746,6 +16746,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869011500565991424/Nu2tt0WV.jpg",
             "name": "Moxie:BasedVana-x",
             "symbol": "Moxie:BasedVana-x"
+        },
+        {
+            "address": "0xdCc7C1Ec7C6A3896ae2a72eAC56df2ec9E295BC8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1802845887959646208/Dh1Rct1g.jpg",
+            "name": "Moxie:Hystheria1-x",
+            "symbol": "Moxie:Hystheria1-x"
         }
     ],
     "version": {
