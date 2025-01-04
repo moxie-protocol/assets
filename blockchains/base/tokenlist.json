@@ -18307,6 +18307,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41b32622-25fa-4de3-1945-21b813756e00/rectcrop3",
             "name": "Moxie:shawninou-fc",
             "symbol": "Moxie:shawninou-fc"
+        },
+        {
+            "address": "0x5F1F6EAA05dF064eC2B5D176Afa1D2410a6D1AA3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef1444e-811e-464d-017c-cdb29fa43600/rectcrop3",
+            "name": "Moxie:attasson-fc",
+            "symbol": "Moxie:attasson-fc"
         }
     ],
     "version": {
