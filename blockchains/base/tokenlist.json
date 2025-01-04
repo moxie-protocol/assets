@@ -17005,6 +17005,13 @@
             "logoURI": "https://i.ibb.co.com/kqtB8Lr/gfg4w.jpg",
             "name": "Moxie:genaplha-fc",
             "symbol": "Moxie:genaplha-fc"
+        },
+        {
+            "address": "0xD00136d6cFDA23f9Ae248DEb2669bcb8e49F7338",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6bd0746c-a3ad-4421-15bc-c24387f32200/rectcrop3",
+            "name": "Moxie:seapump-fc",
+            "symbol": "Moxie:seapump-fc"
         }
     ],
     "version": {
