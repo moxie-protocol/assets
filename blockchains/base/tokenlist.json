@@ -17887,6 +17887,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1812679115108937728/ioErE6Z2.jpg",
             "name": "Moxie:Gojo_web3-x",
             "symbol": "Moxie:Gojo_web3-x"
+        },
+        {
+            "address": "0x12fFd23901Bd59921Dab4d62635B1c181A58E213",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/680af396-eb57-4306-3f16-585c0f9e8700/rectcrop3",
+            "name": "Moxie:mranalyzer-fc",
+            "symbol": "Moxie:mranalyzer-fc"
         }
     ],
     "version": {
