@@ -18391,6 +18391,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53880bdd-241e-49c8-c96f-36bab82edc00/rectcrop3",
             "name": "Moxie:mkurd-fc",
             "symbol": "Moxie:mkurd-fc"
+        },
+        {
+            "address": "0x77e32773bed25a028Cd2eE7b8D0106dED8175558",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1738544649458085888/F4hb3t_O.jpg",
+            "name": "Moxie:dms_said-x",
+            "symbol": "Moxie:dms_said-x"
         }
     ],
     "version": {
