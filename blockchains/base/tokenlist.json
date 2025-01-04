@@ -17229,6 +17229,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8ba42ad-06de-4868-2a4a-dcd2e7364a00/rectcrop3",
             "name": "Moxie:trem0r-fc",
             "symbol": "Moxie:trem0r-fc"
+        },
+        {
+            "address": "0x0A7eFA69C414Bd26aD1133C49fc790eb7e2b4dfe",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873408915179794432/RSVCHZB3_400x400.jpg",
+            "name": "Moxie:airdropfind.base.eth-base",
+            "symbol": "Moxie:airdropfind.base.eth-base"
         }
     ],
     "version": {
