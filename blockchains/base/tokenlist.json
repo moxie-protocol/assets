@@ -17964,6 +17964,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e94a2e06-8fae-4af0-0a64-584cdcc56700/rectcrop3",
             "name": "Moxie:blvckgem-fc",
             "symbol": "Moxie:blvckgem-fc"
+        },
+        {
+            "address": "0xC6ce2be493DB6c439a51aC6978938e653A0DE8c4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/72d236f9-fea6-4289-8bf6-9e2b6cc84200/rectcrop3",
+            "name": "Moxie:silviuasy-fc",
+            "symbol": "Moxie:silviuasy-fc"
         }
     ],
     "version": {
