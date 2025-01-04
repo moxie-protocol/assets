@@ -17194,6 +17194,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fef7854-cb51-48c0-69ee-ff3e8f906600/rectcrop3",
             "name": "Moxie:swaregst17-fc",
             "symbol": "Moxie:swaregst17-fc"
+        },
+        {
+            "address": "0x802922f75e40ae7C257166e89f600AF4dE7A8715",
+            "decimals": 18,
+            "logoURI": "https://bafybeie3a7brgfxr7kljqa4csbfv3xdqw2aedg3uepfrfznligftnt27nu.ipfs.w3s.link/0.png",
+            "name": "Moxie:shah1-fc",
+            "symbol": "Moxie:shah1-fc"
         }
     ],
     "version": {
