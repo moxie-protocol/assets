@@ -17488,6 +17488,13 @@
             "logoURI": "https://i.imgur.com/HPkfH2C.png",
             "name": "Moxie:avocado-fc",
             "symbol": "Moxie:avocado-fc"
+        },
+        {
+            "address": "0x70dD80eaD1566d5F91792BAe6b3eBC2ca1A69f80",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KtscZJr.jpg",
+            "name": "Moxie:zainurridick-fc",
+            "symbol": "Moxie:zainurridick-fc"
         }
     ],
     "version": {
