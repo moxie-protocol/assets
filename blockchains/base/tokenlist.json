@@ -18573,6 +18573,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab1d7074-3fb4-4b22-360a-bbe8804d3d00/original",
             "name": "Moxie:kosminskyalex.eth-fc",
             "symbol": "Moxie:kosminskyalex.eth-fc"
+        },
+        {
+            "address": "0x9968c9C94c435d61a9aeF7F92AB7c76Be38ca856",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/x8ZJ5mz2/SPACEAI.jpg",
+            "name": "Moxie:spaceworldai.base.eth-base",
+            "symbol": "Moxie:spaceworldai.base.eth-base"
         }
     ],
     "version": {
