@@ -16655,6 +16655,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c2256e6-41f7-4707-5855-39e3a0713800/rectcrop3",
             "name": "Moxie:clankerbase-fc",
             "symbol": "Moxie:clankerbase-fc"
+        },
+        {
+            "address": "0xF27cC858C3800FF3b0817Ca2A393dC875F36882e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1754740080617586688/ulHbYWdh.png",
+            "name": "Moxie:Flabiaseona-x",
+            "symbol": "Moxie:Flabiaseona-x"
         }
     ],
     "version": {
