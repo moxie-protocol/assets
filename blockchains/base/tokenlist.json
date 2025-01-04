@@ -17222,6 +17222,13 @@
             "logoURI": "https://i.imgur.com/LGEKIkp.jpg",
             "name": "Moxie:farshads-fc",
             "symbol": "Moxie:farshads-fc"
+        },
+        {
+            "address": "0x3F1c44d7FCacec7EEEb20890e672440E684DdA23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e8ba42ad-06de-4868-2a4a-dcd2e7364a00/rectcrop3",
+            "name": "Moxie:trem0r-fc",
+            "symbol": "Moxie:trem0r-fc"
         }
     ],
     "version": {
