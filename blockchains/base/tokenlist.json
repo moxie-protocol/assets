@@ -17166,6 +17166,13 @@
             "logoURI": "https://i.imgur.com/hFbbWDo.jpg",
             "name": "Moxie:ddat-fc",
             "symbol": "Moxie:ddat-fc"
+        },
+        {
+            "address": "0xC0C6077c809c3ff999349527213260b9B51A182a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/353e6a9a-be02-4073-f9a1-f140c3221b00/rectcrop3",
+            "name": "Moxie:roftzed-fc",
+            "symbol": "Moxie:roftzed-fc"
         }
     ],
     "version": {
