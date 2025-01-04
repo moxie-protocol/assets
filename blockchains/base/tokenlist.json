@@ -18419,6 +18419,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:Abel28aaa-x",
             "symbol": "Moxie:Abel28aaa-x"
+        },
+        {
+            "address": "0xdC5EC2d76Bde7a874a77149C8415Fba03bdE1a3F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1013229073/96619746.png",
+            "name": "Moxie:xBeliebers-x",
+            "symbol": "Moxie:xBeliebers-x"
         }
     ],
     "version": {
