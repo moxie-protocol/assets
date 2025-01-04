@@ -18384,6 +18384,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:magalimatilla-x",
             "symbol": "Moxie:magalimatilla-x"
+        },
+        {
+            "address": "0x6A8b7933Efd4FaC110F25332B7D1DC9E6e83F777",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53880bdd-241e-49c8-c96f-36bab82edc00/rectcrop3",
+            "name": "Moxie:mkurd-fc",
+            "symbol": "Moxie:mkurd-fc"
         }
     ],
     "version": {
