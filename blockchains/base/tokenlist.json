@@ -17775,6 +17775,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/98a6ad4b-32a6-4f86-e054-0ffda0711b00/rectcrop3",
             "name": "Moxie:akeyy10s-fc",
             "symbol": "Moxie:akeyy10s-fc"
+        },
+        {
+            "address": "0x0cC9990C9754e3B11B5C7C272E5CE51819346c83",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/csOhSzB.jpg",
+            "name": "Moxie:freval56-fc",
+            "symbol": "Moxie:freval56-fc"
         }
     ],
     "version": {
