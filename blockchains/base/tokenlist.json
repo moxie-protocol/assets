@@ -18356,6 +18356,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/911208015264665602/ja6si-zZ.jpg",
             "name": "Moxie:Miiikaa9-x",
             "symbol": "Moxie:Miiikaa9-x"
+        },
+        {
+            "address": "0x9587dc752BC079b59AEA6d9a5e529fDc716661CF",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Z5wbaDU.png",
+            "name": "Moxie:kaushal-fc",
+            "symbol": "Moxie:kaushal-fc"
         }
     ],
     "version": {
