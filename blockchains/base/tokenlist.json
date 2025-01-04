@@ -17201,6 +17201,13 @@
             "logoURI": "https://bafybeie3a7brgfxr7kljqa4csbfv3xdqw2aedg3uepfrfznligftnt27nu.ipfs.w3s.link/0.png",
             "name": "Moxie:shah1-fc",
             "symbol": "Moxie:shah1-fc"
+        },
+        {
+            "address": "0xE02c835087Ec0FB31f0cFC43e1710B01cfB392fD",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/0NTMPt9b/IMG-20250101-WA0231.jpg",
+            "name": "Moxie:shajeer.base.eth-base",
+            "symbol": "Moxie:shajeer.base.eth-base"
         }
     ],
     "version": {
