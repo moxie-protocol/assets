@@ -17726,6 +17726,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/54252dc4-231b-4858-a490-3e21c20ae500/rectcrop3",
             "name": "Moxie:prvorg-fc",
             "symbol": "Moxie:prvorg-fc"
+        },
+        {
+            "address": "0x1D9089Cdf0157E4f715cB0FD1d896a37A37C9384",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebe107dc-1ce7-4888-2941-f900681a5f00/rectcrop3",
+            "name": "Moxie:skymavis007-fc",
+            "symbol": "Moxie:skymavis007-fc"
         }
     ],
     "version": {
