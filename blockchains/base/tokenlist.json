@@ -16599,6 +16599,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/472d4d49-bf46-47c4-688a-eaf6e4c93b00/rectcrop3",
             "name": "Moxie:valentines-fc",
             "symbol": "Moxie:valentines-fc"
+        },
+        {
+            "address": "0xEBc3D7BB1D139928fe8B6D2dD56256DD7C48c073",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/wzjdahA.jpg",
+            "name": "Moxie:febs-fc",
+            "symbol": "Moxie:febs-fc"
         }
     ],
     "version": {
