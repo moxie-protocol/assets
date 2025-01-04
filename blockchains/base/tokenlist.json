@@ -18426,6 +18426,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1013229073/96619746.png",
             "name": "Moxie:xBeliebers-x",
             "symbol": "Moxie:xBeliebers-x"
+        },
+        {
+            "address": "0xE49628D330Ea4B48a656d728D9f3cDeb5974C7e9",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:daddyporsiempre-x",
+            "symbol": "Moxie:daddyporsiempre-x"
         }
     ],
     "version": {
