@@ -18552,6 +18552,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1773656055987277824/vWSdYtI8.jpg",
             "name": "Moxie:Faridka64362243-x",
             "symbol": "Moxie:Faridka64362243-x"
+        },
+        {
+            "address": "0xBDB86dd03D57e34EbaC8286C26d3cC8076EffbAA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/H37i2pn.jpg",
+            "name": "Moxie:harycyx-fc",
+            "symbol": "Moxie:harycyx-fc"
         }
     ],
     "version": {
