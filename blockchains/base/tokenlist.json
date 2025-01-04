@@ -16942,6 +16942,13 @@
             "logoURI": "https://i.imgur.com/46iJVCM.jpg",
             "name": "Moxie:kids89tb-fc",
             "symbol": "Moxie:kids89tb-fc"
+        },
+        {
+            "address": "0x8Dc0C2F9090de9D68b3f28B86F1a515b1Ee31324",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6bf80b17-a9d5-49c2-0910-954f91e76800/rectcrop3",
+            "name": "Moxie:bayuerlangga-fc",
+            "symbol": "Moxie:bayuerlangga-fc"
         }
     ],
     "version": {
