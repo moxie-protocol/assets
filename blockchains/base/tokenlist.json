@@ -16991,6 +16991,13 @@
             "logoURI": "https://i.imgur.com/WTULMTH.jpg",
             "name": "Moxie:papsky-fc",
             "symbol": "Moxie:papsky-fc"
+        },
+        {
+            "address": "0x5279bCfe7d61d9867bD9097E9a1E42fcAb988505",
+            "decimals": 18,
+            "logoURI": "https://i.ytimg.com/vi/EdyUjRtwcTc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB\u0026rs=AOn4CLCsUt1pTxaeiyiZfU4hQzsPuiqa1g",
+            "name": "Moxie:syifaul.base.eth-base",
+            "symbol": "Moxie:syifaul.base.eth-base"
         }
     ],
     "version": {
