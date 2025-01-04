@@ -17299,6 +17299,13 @@
             "logoURI": "https://i.ibb.co.com/6JJ64sz/spreadicons.jpg",
             "name": "Moxie:sanbrox-fc",
             "symbol": "Moxie:sanbrox-fc"
+        },
+        {
+            "address": "0xC1FDE5979F79FE227F83cB6162b96Bce6eb56e2d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7678213-dcde-4ab9-fd7a-2661c2bb5400/rectcrop3",
+            "name": "Moxie:mahdifarcast-fc",
+            "symbol": "Moxie:mahdifarcast-fc"
         }
     ],
     "version": {
