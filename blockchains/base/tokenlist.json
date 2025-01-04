@@ -18041,6 +18041,13 @@
             "logoURI": "https://i.imgur.com/EX03qvA.jpg",
             "name": "Moxie:onnyh-fc",
             "symbol": "Moxie:onnyh-fc"
+        },
+        {
+            "address": "0x60801540aaC68aee2461001Da11D3E4d18AA5E85",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e99bc9a6-c06f-451b-eafa-6f070d54b300/rectcrop3",
+            "name": "Moxie:melliot-fc",
+            "symbol": "Moxie:melliot-fc"
         }
     ],
     "version": {
