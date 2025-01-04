@@ -17859,6 +17859,13 @@
             "logoURI": "https://i.imgur.com/NXxvauG.jpg",
             "name": "Moxie:bangchezz-fc",
             "symbol": "Moxie:bangchezz-fc"
+        },
+        {
+            "address": "0x33d118e0BF1C24eB831fB43ac7bF11ad858833DB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IcpxcDK.jpg",
+            "name": "Moxie:chandelierxyz-fc",
+            "symbol": "Moxie:chandelierxyz-fc"
         }
     ],
     "version": {
