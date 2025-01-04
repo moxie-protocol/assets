@@ -18538,6 +18538,13 @@
             "logoURI": "https://i.imgur.com/LJiTrHR.jpg",
             "name": "Moxie:rizlrns-fc",
             "symbol": "Moxie:rizlrns-fc"
+        },
+        {
+            "address": "0x5edCB24E1b68a021FF8b1E9b9c4663bFA77c0D1c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/de82a88f-07f9-462f-c66e-0f880ecdaa00/rectcrop3",
+            "name": "Moxie:cryptovers-fc",
+            "symbol": "Moxie:cryptovers-fc"
         }
     ],
     "version": {
