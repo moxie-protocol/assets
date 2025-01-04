@@ -16970,6 +16970,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23768fa2-43e6-44c7-3c68-d72e338eb900/rectcrop3",
             "name": "Moxie:injking.eth-fc",
             "symbol": "Moxie:injking.eth-fc"
+        },
+        {
+            "address": "0xCFeda3ad27A359641409B4fdFDae71Ed4B173fE8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1657735878519975938/ayXSoPC3.jpg",
+            "name": "Moxie:KuroAshi87-x",
+            "symbol": "Moxie:KuroAshi87-x"
         }
     ],
     "version": {
