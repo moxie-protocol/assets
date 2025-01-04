@@ -18377,6 +18377,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/574203857812721664/c3NpOpb4.jpeg",
             "name": "Moxie:Flvia55409770-x",
             "symbol": "Moxie:Flvia55409770-x"
+        },
+        {
+            "address": "0x29916b743D37876fd342De0dbaB4F1d0a9f1481c",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:magalimatilla-x",
+            "symbol": "Moxie:magalimatilla-x"
         }
     ],
     "version": {
