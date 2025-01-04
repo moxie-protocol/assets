@@ -18461,6 +18461,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1814395062442438660/WnUQqsxF.jpg",
             "name": "Moxie:BagasSanjaya171-x",
             "symbol": "Moxie:BagasSanjaya171-x"
+        },
+        {
+            "address": "0xf8bD8b645c041888234b87b3A71C4068310DF8f8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/479449379435053056/ADx3TdXu.jpeg",
+            "name": "Moxie:yeralith-x",
+            "symbol": "Moxie:yeralith-x"
         }
     ],
     "version": {
