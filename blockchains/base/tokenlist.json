@@ -17257,6 +17257,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1826194197407203328/vaoA02HX.jpg",
             "name": "Moxie:rizkiganteng225-x",
             "symbol": "Moxie:rizkiganteng225-x"
+        },
+        {
+            "address": "0x934F211E2BC97c5D6592774db96f0b8CE14f2373",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1692335904952860672/TUKN6QZP.jpg",
+            "name": "Moxie:zoldhan22-x",
+            "symbol": "Moxie:zoldhan22-x"
         }
     ],
     "version": {
