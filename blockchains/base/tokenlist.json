@@ -18510,6 +18510,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1490215433177239554/ECO9VGrx.jpg",
             "name": "Moxie:efati_reza-x",
             "symbol": "Moxie:efati_reza-x"
+        },
+        {
+            "address": "0x8DB5162b3eeE45D00e1470e49B6DaAFBf9C4727c",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/aiTwqdiAGYEdukXHEF_4Y711uYXzn_5xuPcyErb89DA/",
+            "name": "Moxie:mbaqerr-fc",
+            "symbol": "Moxie:mbaqerr-fc"
         }
     ],
     "version": {
