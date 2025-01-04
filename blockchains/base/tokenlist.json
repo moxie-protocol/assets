@@ -17355,6 +17355,13 @@
             "logoURI": "https://i.imgur.com/KF2h5D3.jpg",
             "name": "Moxie:nininguyen-fc",
             "symbol": "Moxie:nininguyen-fc"
+        },
+        {
+            "address": "0x131Ae8B3C6eE6d222894302Bf66CAc18C9830227",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/10G6UEI.jpeg",
+            "name": "Moxie:mideypounds.base.eth-base",
+            "symbol": "Moxie:mideypounds.base.eth-base"
         }
     ],
     "version": {
