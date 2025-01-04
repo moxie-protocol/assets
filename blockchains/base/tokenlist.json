@@ -16900,6 +16900,13 @@
             "logoURI": "https://i.imgur.com/OpDniEx.jpg",
             "name": "Moxie:dionsurya-fc",
             "symbol": "Moxie:dionsurya-fc"
+        },
+        {
+            "address": "0x3B14C067d5433511746E2Bf1F630994448A13259",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c49fcd9a-bd9c-4793-b671-17cd4e991900/rectcrop3",
+            "name": "Moxie:yudes-fc",
+            "symbol": "Moxie:yudes-fc"
         }
     ],
     "version": {
