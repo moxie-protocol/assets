@@ -18447,6 +18447,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/3642101584/c6cb70edd2efec93807cf2088f19b7e0.jpeg",
             "name": "Moxie:Mikfada-x",
             "symbol": "Moxie:Mikfada-x"
+        },
+        {
+            "address": "0xD41539D45f2DaE0636Cbf6De94A861A04BCAB456",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1822076700781424640/hRc0A5fI.jpg",
+            "name": "Moxie:Gregio101-x",
+            "symbol": "Moxie:Gregio101-x"
         }
     ],
     "version": {
