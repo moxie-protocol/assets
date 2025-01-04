@@ -17215,6 +17215,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867612372564590592/iCh6qF49.jpg",
             "name": "Moxie:clanktardio-x",
             "symbol": "Moxie:clanktardio-x"
+        },
+        {
+            "address": "0xB352d67E4021A253585FdE0d18f0B40cBFBfD7D9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LGEKIkp.jpg",
+            "name": "Moxie:farshads-fc",
+            "symbol": "Moxie:farshads-fc"
         }
     ],
     "version": {
