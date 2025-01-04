@@ -17145,6 +17145,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832225492843577344/VqjKRsaq.jpg",
             "name": "Moxie:Vnl_97-x",
             "symbol": "Moxie:Vnl_97-x"
+        },
+        {
+            "address": "0x87e4c0476B979f3b1c5AA14D474E9D780E690dB8",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiale3nayavqmilonz4l63zyz2dpvhobao5y5zki4h2l6qxfg2uhqq",
+            "name": "Moxie:yusufjp-fc",
+            "symbol": "Moxie:yusufjp-fc"
         }
     ],
     "version": {
