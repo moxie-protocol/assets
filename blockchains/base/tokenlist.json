@@ -17635,6 +17635,13 @@
             "logoURI": "https://i.imgur.com/5UeXzN1.png",
             "name": "Moxie:laaav-fc",
             "symbol": "Moxie:laaav-fc"
+        },
+        {
+            "address": "0x51766962Ab7246Bf510E443b5C4874769DE648F4",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67425e93-b26f-4177-3216-ee1652afdd00/rectcrop3",
+            "name": "Moxie:xinhero-fc",
+            "symbol": "Moxie:xinhero-fc"
         }
     ],
     "version": {
