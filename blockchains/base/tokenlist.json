@@ -16893,6 +16893,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6b79ad4-5d4e-4e03-016c-1cf23dacc700/rectcrop3",
             "name": "Moxie:huynhhoangphu95-fc",
             "symbol": "Moxie:huynhhoangphu95-fc"
+        },
+        {
+            "address": "0xd775F11185ace086954dc82E30676a21aB640c16",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OpDniEx.jpg",
+            "name": "Moxie:dionsurya-fc",
+            "symbol": "Moxie:dionsurya-fc"
         }
     ],
     "version": {
