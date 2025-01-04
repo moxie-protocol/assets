@@ -17901,6 +17901,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0931e7d-0967-49db-5c29-77e5e9f9d000/rectcrop3",
             "name": "Moxie:fatkuryk-fc",
             "symbol": "Moxie:fatkuryk-fc"
+        },
+        {
+            "address": "0xB0fE05364d8AB7fb44963a0B8DfF02BCd0B889C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/762f0046-683a-4ed6-0b3c-610b1346dd00/rectcrop3",
+            "name": "Moxie:mixy-fc",
+            "symbol": "Moxie:mixy-fc"
         }
     ],
     "version": {
