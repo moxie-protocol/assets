@@ -18314,6 +18314,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ef1444e-811e-464d-017c-cdb29fa43600/rectcrop3",
             "name": "Moxie:attasson-fc",
             "symbol": "Moxie:attasson-fc"
+        },
+        {
+            "address": "0x26c7230E0980E1E7c73d36d77Aa0dbfc8a7A734C",
+            "decimals": 18,
+            "logoURI": "https://ibb.co.com/c193J7J",
+            "name": "Moxie:adeirawaniwan.base.eth-base",
+            "symbol": "Moxie:adeirawaniwan.base.eth-base"
         }
     ],
     "version": {
