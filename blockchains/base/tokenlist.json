@@ -17089,6 +17089,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreicmtcswrid4vj6u6lhral3dwoj5yhsq7s33l7rgog3y4oj44be57i",
             "name": "Moxie:georli-fc",
             "symbol": "Moxie:georli-fc"
+        },
+        {
+            "address": "0x5014F5642aA81975597912ff8Ca6E3D0F81D85ad",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/825dd9f3-735b-4461-b94a-f5e689fe6000/original",
+            "name": "Moxie:captodod-fc",
+            "symbol": "Moxie:captodod-fc"
         }
     ],
     "version": {
