@@ -16648,6 +16648,13 @@
             "logoURI": "https://arweave.net/w-I4x-2QqqU4DO1rwWWJTmdt4t0QoUBiuL2y9fIq83g/",
             "name": "Moxie:alkoxy-fc",
             "symbol": "Moxie:alkoxy-fc"
+        },
+        {
+            "address": "0x854C14fb3368B0d32cfFcde632B51CCC535ed117",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c2256e6-41f7-4707-5855-39e3a0713800/rectcrop3",
+            "name": "Moxie:clankerbase-fc",
+            "symbol": "Moxie:clankerbase-fc"
         }
     ],
     "version": {
