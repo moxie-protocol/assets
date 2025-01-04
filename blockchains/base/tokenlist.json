@@ -17096,6 +17096,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/825dd9f3-735b-4461-b94a-f5e689fe6000/original",
             "name": "Moxie:captodod-fc",
             "symbol": "Moxie:captodod-fc"
+        },
+        {
+            "address": "0x1D57F24b5363f26D787d82503B22eFC1381b5257",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/3tzb84e.jpg",
+            "name": "Moxie:rains-fc",
+            "symbol": "Moxie:rains-fc"
         }
     ],
     "version": {
