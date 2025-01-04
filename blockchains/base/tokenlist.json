@@ -17271,6 +17271,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1824883192148660224/bJj7ccO3.png",
             "name": "Moxie:FfgcfGddf-x",
             "symbol": "Moxie:FfgcfGddf-x"
+        },
+        {
+            "address": "0xd5F22cd205a64655998780Cd9183a0A12C503fA6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867090765861752833/KKEYURyl.jpg",
+            "name": "Moxie:Brandobrendi-x",
+            "symbol": "Moxie:Brandobrendi-x"
         }
     ],
     "version": {
