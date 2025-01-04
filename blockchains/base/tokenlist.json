@@ -17943,6 +17943,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870728144103014400/ruuB1SF9.jpg",
             "name": "Moxie:DarksunRayz-x",
             "symbol": "Moxie:DarksunRayz-x"
+        },
+        {
+            "address": "0x8986783D1Aa25391b514db8C58D587D691D45420",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1771900180885098496/_WRbBapk.jpg",
+            "name": "Moxie:asep_7fold-x",
+            "symbol": "Moxie:asep_7fold-x"
         }
     ],
     "version": {
