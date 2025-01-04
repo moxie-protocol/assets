@@ -16634,6 +16634,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c51e1e3-c6fc-4467-7167-4bab5d4b2c00/rectcrop3",
             "name": "Moxie:ghostonbase-fc",
             "symbol": "Moxie:ghostonbase-fc"
+        },
+        {
+            "address": "0xedcEEa0f8191193aaA63725DC3eAb64bE69BC260",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Aau3Aqe.jpg",
+            "name": "Moxie:faizkhoiri-fc",
+            "symbol": "Moxie:faizkhoiri-fc"
         }
     ],
     "version": {
