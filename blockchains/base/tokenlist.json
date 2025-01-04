@@ -18230,6 +18230,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874822518797914113/NbIwgzwZ.jpg",
             "name": "Moxie:MadBySouljaBoy-x",
             "symbol": "Moxie:MadBySouljaBoy-x"
+        },
+        {
+            "address": "0xCcb920cdBD6af6B5103b227897b82cC99D043F74",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1722439699397316608/N93mgaIj.jpg",
+            "name": "Moxie:Joel_irala-x",
+            "symbol": "Moxie:Joel_irala-x"
         }
     ],
     "version": {
