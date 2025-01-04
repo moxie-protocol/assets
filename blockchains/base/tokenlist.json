@@ -18209,6 +18209,13 @@
             "logoURI": "https://i.imgur.com/OQ4V7Wg.jpg",
             "name": "Moxie:aryasona-fc",
             "symbol": "Moxie:aryasona-fc"
+        },
+        {
+            "address": "0x09f5d84756Ed396FAa919C5120B06147ba9530DB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1765436796081418240/n9rzJ--n.jpg",
+            "name": "Moxie:flenzy22-x",
+            "symbol": "Moxie:flenzy22-x"
         }
     ],
     "version": {
