@@ -18013,6 +18013,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867092840213516288/954Y7iB2.jpg",
             "name": "Moxie:monalnisa-x",
             "symbol": "Moxie:monalnisa-x"
+        },
+        {
+            "address": "0x91f0e214a1E3B6929b0d53Ab7181D0Cae5A1d792",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c8d80166-8310-408a-19ee-1dbb140d0100/rectcrop3",
+            "name": "Moxie:yudhapratama-fc",
+            "symbol": "Moxie:yudhapratama-fc"
         }
     ],
     "version": {
