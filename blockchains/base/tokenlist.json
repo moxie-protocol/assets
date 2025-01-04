@@ -18118,6 +18118,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiclpom4blkvad2keije5p7kuqbmzokm3cynpa44xboiemxfnwnoui",
             "name": "Moxie:2101x.eth-fc",
             "symbol": "Moxie:2101x.eth-fc"
+        },
+        {
+            "address": "0x0AC3B2250c567682Bfe8a3AE65a9fbD99C101f1f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05ac108a-12ef-43c3-1ee1-d8a849d45b00/rectcrop3",
+            "name": "Moxie:toka-fc",
+            "symbol": "Moxie:toka-fc"
         }
     ],
     "version": {
