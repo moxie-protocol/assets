@@ -17852,6 +17852,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6850a29d-5aae-4e97-0075-197681c66b00/rectcrop3",
             "name": "Moxie:anaxoxo-fc",
             "symbol": "Moxie:anaxoxo-fc"
+        },
+        {
+            "address": "0xEb5122ab694DB6F1c051C82F169c3ad3066cf128",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NXxvauG.jpg",
+            "name": "Moxie:bangchezz-fc",
+            "symbol": "Moxie:bangchezz-fc"
         }
     ],
     "version": {
