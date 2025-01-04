@@ -16914,6 +16914,13 @@
             "logoURI": "https://i.imgur.com/8QOrW9R.jpg",
             "name": "Moxie:daifuku69-fc",
             "symbol": "Moxie:daifuku69-fc"
+        },
+        {
+            "address": "0xD5d638281AEA9ED988379c64E201E1D700E7986D",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dYn4CAA.png",
+            "name": "Moxie:alchidess-fc",
+            "symbol": "Moxie:alchidess-fc"
         }
     ],
     "version": {
