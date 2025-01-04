@@ -18300,6 +18300,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0320f4ad-f6b9-4935-c0e5-99bef29a7100/rectcrop3",
             "name": "Moxie:paperhand0x-fc",
             "symbol": "Moxie:paperhand0x-fc"
+        },
+        {
+            "address": "0x653be1A566d4dE8eeAcDC241e041400a2BbFBfd3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41b32622-25fa-4de3-1945-21b813756e00/rectcrop3",
+            "name": "Moxie:shawninou-fc",
+            "symbol": "Moxie:shawninou-fc"
         }
     ],
     "version": {
