@@ -17313,6 +17313,13 @@
             "logoURI": "https://i.imgur.com/Imo2eK0.jpg",
             "name": "Moxie:vincenzocassano-fc",
             "symbol": "Moxie:vincenzocassano-fc"
+        },
+        {
+            "address": "0x18e6b5cE54Bc100e0c6c9F6f6427E3De56b41B84",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/cgZMk6v/ff45y.jpg",
+            "name": "Moxie:roxbin-fc",
+            "symbol": "Moxie:roxbin-fc"
         }
     ],
     "version": {
