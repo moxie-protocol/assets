@@ -18034,6 +18034,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/055a4b05-180d-4739-0574-cd55ad10d100/rectcrop3",
             "name": "Moxie:duckbase-fc",
             "symbol": "Moxie:duckbase-fc"
+        },
+        {
+            "address": "0xb88D04082eF847fb4Fdd4b23b15Ba5CdbF518E9f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/EX03qvA.jpg",
+            "name": "Moxie:onnyh-fc",
+            "symbol": "Moxie:onnyh-fc"
         }
     ],
     "version": {
