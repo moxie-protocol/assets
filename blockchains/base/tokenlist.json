@@ -17243,6 +17243,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867088703233069062/ZgWfnSQn.jpg",
             "name": "Moxie:CharleJP-x",
             "symbol": "Moxie:CharleJP-x"
+        },
+        {
+            "address": "0xdec7fdC8Df6eC8d09f24d0F37d6358357552351E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a228115f-1584-49e8-c0b8-59daefdb1100/rectcrop3",
+            "name": "Moxie:musimax-fc",
+            "symbol": "Moxie:musimax-fc"
         }
     ],
     "version": {
