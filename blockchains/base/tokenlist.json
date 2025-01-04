@@ -16984,6 +16984,13 @@
             "logoURI": "https://i.imgur.com/5KAxqcn.png",
             "name": "Moxie:kyy13-fc",
             "symbol": "Moxie:kyy13-fc"
+        },
+        {
+            "address": "0x180E6E54CAA9BeF34e537cD8b8d469AF4082B792",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WTULMTH.jpg",
+            "name": "Moxie:papsky-fc",
+            "symbol": "Moxie:papsky-fc"
         }
     ],
     "version": {
