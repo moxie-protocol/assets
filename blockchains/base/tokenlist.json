@@ -17789,6 +17789,13 @@
             "logoURI": "https://i.imgur.com/34jjtug.jpg",
             "name": "Moxie:hanzzrn-fc",
             "symbol": "Moxie:hanzzrn-fc"
+        },
+        {
+            "address": "0x37302b97904495ED87Ac8f628d7c74E3042379Fa",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/887838298856488960/zbwhalIY.jpg",
+            "name": "Moxie:jumalasaputra-x",
+            "symbol": "Moxie:jumalasaputra-x"
         }
     ],
     "version": {
