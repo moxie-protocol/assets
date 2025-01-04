@@ -16907,6 +16907,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c49fcd9a-bd9c-4793-b671-17cd4e991900/rectcrop3",
             "name": "Moxie:yudes-fc",
             "symbol": "Moxie:yudes-fc"
+        },
+        {
+            "address": "0x0C3eC7c77511eAbae5402078c4D421A6e12189Da",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8QOrW9R.jpg",
+            "name": "Moxie:daifuku69-fc",
+            "symbol": "Moxie:daifuku69-fc"
         }
     ],
     "version": {
