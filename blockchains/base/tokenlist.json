@@ -17831,6 +17831,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1823234447468335104/F_XiELDt.jpg",
             "name": "Moxie:bee_lukman-x",
             "symbol": "Moxie:bee_lukman-x"
+        },
+        {
+            "address": "0xfdCC29B572bc653a566785169c7aA3d7ce8da4E7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6858b18-dd0f-4e93-5354-4d402991ba00/rectcrop3",
+            "name": "Moxie:abstaina-fc",
+            "symbol": "Moxie:abstaina-fc"
         }
     ],
     "version": {
