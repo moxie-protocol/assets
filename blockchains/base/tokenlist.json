@@ -18160,6 +18160,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a77b4cef-4c96-427c-43df-dcad4f3d2100/original",
             "name": "Moxie:jenny0.eth-fc",
             "symbol": "Moxie:jenny0.eth-fc"
+        },
+        {
+            "address": "0xd73413B88f553B15375922c11aff9Ec8DB5b6cd4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1818604546953801728/k06T-KPw.jpg",
+            "name": "Moxie:lateef_mojeed-x",
+            "symbol": "Moxie:lateef_mojeed-x"
         }
     ],
     "version": {
