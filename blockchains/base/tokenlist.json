@@ -18622,6 +18622,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9843a0d2-34ed-4f5a-dd19-ebde822df100/rectcrop3",
             "name": "Moxie:tigiwrap-fc",
             "symbol": "Moxie:tigiwrap-fc"
+        },
+        {
+            "address": "0xf27b92fbd576BB716Fe7902e171Cf8CDcC7ae35b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/IAJNh81.jpg",
+            "name": "Moxie:shehusmall-fc",
+            "symbol": "Moxie:shehusmall-fc"
         }
     ],
     "version": {
