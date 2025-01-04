@@ -18258,6 +18258,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1769256208660049920/b-yzEld6.jpg",
             "name": "Moxie:AStrangeHippie-x",
             "symbol": "Moxie:AStrangeHippie-x"
+        },
+        {
+            "address": "0xb2aE209A3D7536668a96178B4b194532161Bbc33",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/956379995756167168/rg8AbIP7.jpg",
+            "name": "Moxie:JDavidM16GD-x",
+            "symbol": "Moxie:JDavidM16GD-x"
         }
     ],
     "version": {
