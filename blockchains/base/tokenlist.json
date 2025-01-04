@@ -18517,6 +18517,13 @@
             "logoURI": "https://arweave.net/aiTwqdiAGYEdukXHEF_4Y711uYXzn_5xuPcyErb89DA/",
             "name": "Moxie:mbaqerr-fc",
             "symbol": "Moxie:mbaqerr-fc"
+        },
+        {
+            "address": "0xE5aF6b3d81BA43eFc525BcD7558FBeBDbda2014D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/582a21a7-4733-4636-7e31-ae64b978c400/rectcrop3",
+            "name": "Moxie:milou09-fc",
+            "symbol": "Moxie:milou09-fc"
         }
     ],
     "version": {
