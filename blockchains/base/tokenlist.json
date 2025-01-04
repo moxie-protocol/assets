@@ -16809,6 +16809,13 @@
             "logoURI": "https://i.imgur.com/WWy3gPC.jpg",
             "name": "Moxie:muslim-fc",
             "symbol": "Moxie:muslim-fc"
+        },
+        {
+            "address": "0xF63C6E985bEAC96EABedF678565131722A9637FD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1764474443546669056/1ZJgm9Uy.jpg",
+            "name": "Moxie:quoctruong34133-x",
+            "symbol": "Moxie:quoctruong34133-x"
         }
     ],
     "version": {
