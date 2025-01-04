@@ -17474,6 +17474,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1821903875869233152/NsefBk4d.jpg",
             "name": "Moxie:milogogool-x",
             "symbol": "Moxie:milogogool-x"
+        },
+        {
+            "address": "0xf4e17f0F14C726D4C9143AF2D5b79c81e10878a2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/H6Ue6Hv.jpg",
+            "name": "Moxie:0xdiki-fc",
+            "symbol": "Moxie:0xdiki-fc"
         }
     ],
     "version": {
