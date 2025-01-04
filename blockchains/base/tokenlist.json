@@ -17754,6 +17754,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1b21355-98ee-4f25-aed9-07eafb1c5500/rectcrop3",
             "name": "Moxie:0x0jp-fc",
             "symbol": "Moxie:0x0jp-fc"
+        },
+        {
+            "address": "0x686AC21C114680927F4a1781b88403dA7e4d3372",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d94a6ebc-0652-4353-8515-76e9c4fc9400/rectcrop3",
+            "name": "Moxie:fauzannr-fc",
+            "symbol": "Moxie:fauzannr-fc"
         }
     ],
     "version": {
