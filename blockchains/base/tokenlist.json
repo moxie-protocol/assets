@@ -16606,6 +16606,13 @@
             "logoURI": "https://i.imgur.com/wzjdahA.jpg",
             "name": "Moxie:febs-fc",
             "symbol": "Moxie:febs-fc"
+        },
+        {
+            "address": "0x468438952C0012b2e7Fc070C035605AE74F8D97a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6bda6f47-a538-4093-eb8d-a31237f0c200/original",
+            "name": "Moxie:poetra1993-fc",
+            "symbol": "Moxie:poetra1993-fc"
         }
     ],
     "version": {
