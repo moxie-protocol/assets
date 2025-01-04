@@ -18559,6 +18559,13 @@
             "logoURI": "https://i.imgur.com/H37i2pn.jpg",
             "name": "Moxie:harycyx-fc",
             "symbol": "Moxie:harycyx-fc"
+        },
+        {
+            "address": "0xC1774BF0ed7503eBf2519a3631AD3D281e607b63",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec02ba21-808f-432d-0abb-e738a241a700/original",
+            "name": "Moxie:miladniki-fc",
+            "symbol": "Moxie:miladniki-fc"
         }
     ],
     "version": {
