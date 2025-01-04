@@ -18132,6 +18132,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864587082066255872/8Qc4--hp.jpg",
             "name": "Moxie:mulla_peez28-x",
             "symbol": "Moxie:mulla_peez28-x"
+        },
+        {
+            "address": "0x0477D8888c98300b348A9a245FF3185cC28C5e0D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795518127213543424/-OvkMUGQ.jpg",
+            "name": "Moxie:callmerichking-x",
+            "symbol": "Moxie:callmerichking-x"
         }
     ],
     "version": {
