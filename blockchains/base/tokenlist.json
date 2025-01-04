@@ -16641,6 +16641,13 @@
             "logoURI": "https://i.imgur.com/Aau3Aqe.jpg",
             "name": "Moxie:faizkhoiri-fc",
             "symbol": "Moxie:faizkhoiri-fc"
+        },
+        {
+            "address": "0x48ae31f2f7ced62D2956944f4Acde3Eeae867977",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/w-I4x-2QqqU4DO1rwWWJTmdt4t0QoUBiuL2y9fIq83g/",
+            "name": "Moxie:alkoxy-fc",
+            "symbol": "Moxie:alkoxy-fc"
         }
     ],
     "version": {
