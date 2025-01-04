@@ -17411,6 +17411,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a49b5c8b-0421-48c0-457f-2ac4c183de00/rectcrop3",
             "name": "Moxie:exelword-fc",
             "symbol": "Moxie:exelword-fc"
+        },
+        {
+            "address": "0x996b06fb5BF5671846FEE0aeA9C219a306FC55b3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/165ca100-b8b2-4f4e-ea82-3a7c3ddba800/rectcrop3",
+            "name": "Moxie:bascool-fc",
+            "symbol": "Moxie:bascool-fc"
         }
     ],
     "version": {
