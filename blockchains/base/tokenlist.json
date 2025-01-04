@@ -18195,6 +18195,13 @@
             "logoURI": "https://i.ibb.co/0DPx7zn/IMG-3529.png",
             "name": "Moxie:heyuguys.eth-ens",
             "symbol": "Moxie:heyuguys.eth-ens"
+        },
+        {
+            "address": "0xDdE9Eab8A5a6240cD30E0Bd3aD268c021e093604",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1611219689870618625/FQFEK82J.jpg",
+            "name": "Moxie:hestii202-x",
+            "symbol": "Moxie:hestii202-x"
         }
     ],
     "version": {
