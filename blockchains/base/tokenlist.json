@@ -18363,6 +18363,13 @@
             "logoURI": "https://i.imgur.com/Z5wbaDU.png",
             "name": "Moxie:kaushal-fc",
             "symbol": "Moxie:kaushal-fc"
+        },
+        {
+            "address": "0x4F057fF6E53C9f01D8ebb081c559d17603AFdE95",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5tj9sUw.jpg",
+            "name": "Moxie:bangsriy-fc",
+            "symbol": "Moxie:bangsriy-fc"
         }
     ],
     "version": {
