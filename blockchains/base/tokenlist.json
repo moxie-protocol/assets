@@ -18496,6 +18496,13 @@
             "logoURI": "https://i.imgur.com/GixqW72.jpg",
             "name": "Moxie:dandi387-fc",
             "symbol": "Moxie:dandi387-fc"
+        },
+        {
+            "address": "0xDBAd1D29B21cDFA1fF418E38E22Cb5dD81C7632A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b1af76e6-f788-49cf-4690-944e89096900/rectcrop3",
+            "name": "Moxie:raaj420-fc",
+            "symbol": "Moxie:raaj420-fc"
         }
     ],
     "version": {
