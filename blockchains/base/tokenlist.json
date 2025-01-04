@@ -17628,6 +17628,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1834900657909743616/8uAV00Di.jpg",
             "name": "Moxie:YMaida20796-x",
             "symbol": "Moxie:YMaida20796-x"
+        },
+        {
+            "address": "0xCD84E79E1A25251E620aDAbD9A282AF1d743d7B4",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5UeXzN1.png",
+            "name": "Moxie:laaav-fc",
+            "symbol": "Moxie:laaav-fc"
         }
     ],
     "version": {
