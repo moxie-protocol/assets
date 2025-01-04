@@ -18251,6 +18251,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/488818952278392832/JwQOWCBX.jpeg",
             "name": "Moxie:LorayneBustos-x",
             "symbol": "Moxie:LorayneBustos-x"
+        },
+        {
+            "address": "0x33B77D9c2fCC6ade138Bf37A5F94d4905Fa6e629",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1769256208660049920/b-yzEld6.jpg",
+            "name": "Moxie:AStrangeHippie-x",
+            "symbol": "Moxie:AStrangeHippie-x"
         }
     ],
     "version": {
