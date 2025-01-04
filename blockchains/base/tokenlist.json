@@ -18398,6 +18398,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1738544649458085888/F4hb3t_O.jpg",
             "name": "Moxie:dms_said-x",
             "symbol": "Moxie:dms_said-x"
+        },
+        {
+            "address": "0xD5A38d15482388bdF605c8accd4f5De6C190231a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1743239303310852096/ISnLNFrV.jpg",
+            "name": "Moxie:koluzyi-x",
+            "symbol": "Moxie:koluzyi-x"
         }
     ],
     "version": {
