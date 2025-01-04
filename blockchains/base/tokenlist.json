@@ -17642,6 +17642,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/67425e93-b26f-4177-3216-ee1652afdd00/rectcrop3",
             "name": "Moxie:xinhero-fc",
             "symbol": "Moxie:xinhero-fc"
+        },
+        {
+            "address": "0x2136f21fA96890e91947A6E39ABA82359Bf0da60",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:RanggaJanuar8-x",
+            "symbol": "Moxie:RanggaJanuar8-x"
         }
     ],
     "version": {
