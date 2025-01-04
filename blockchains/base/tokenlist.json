@@ -17523,6 +17523,13 @@
             "logoURI": "https://i.imgur.com/aUdEjRi.jpg",
             "name": "Moxie:adikur21-fc",
             "symbol": "Moxie:adikur21-fc"
+        },
+        {
+            "address": "0x9D64FDEc562693dc2dc6d5A7E844E2De27Eb02b9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1167254723809792002/CoeoVG43.jpg",
+            "name": "Moxie:MatMamatMat-x",
+            "symbol": "Moxie:MatMamatMat-x"
         }
     ],
     "version": {
