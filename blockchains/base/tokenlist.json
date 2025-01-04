@@ -16865,6 +16865,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36569220-6c70-4e08-f314-6fe7e43bca00/rectcrop3",
             "name": "Moxie:phunguyen-fc",
             "symbol": "Moxie:phunguyen-fc"
+        },
+        {
+            "address": "0x33F010869bE9e5b13b4244422D315acF01338179",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mayka",
+            "symbol": "fid:877034"
         }
     ],
     "version": {
