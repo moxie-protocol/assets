@@ -16627,6 +16627,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1805172663150837760/tu-yZ7Fc.jpg",
             "name": "Moxie:yosuaw28-x",
             "symbol": "Moxie:yosuaw28-x"
+        },
+        {
+            "address": "0xAc7027AC9337879f996BCF1287cd7E928B1316Ff",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c51e1e3-c6fc-4467-7167-4bab5d4b2c00/rectcrop3",
+            "name": "Moxie:ghostonbase-fc",
+            "symbol": "Moxie:ghostonbase-fc"
         }
     ],
     "version": {
