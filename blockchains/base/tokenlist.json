@@ -18202,6 +18202,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1611219689870618625/FQFEK82J.jpg",
             "name": "Moxie:hestii202-x",
             "symbol": "Moxie:hestii202-x"
+        },
+        {
+            "address": "0x6ebc6Dee4209CeA4E95399ACf257d2a8A6e7E09b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OQ4V7Wg.jpg",
+            "name": "Moxie:aryasona-fc",
+            "symbol": "Moxie:aryasona-fc"
         }
     ],
     "version": {
