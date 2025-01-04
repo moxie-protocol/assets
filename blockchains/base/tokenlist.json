@@ -18342,6 +18342,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/501234133217968128/xKh4thk8.jpeg",
             "name": "Moxie:maty1318-x",
             "symbol": "Moxie:maty1318-x"
+        },
+        {
+            "address": "0x8dA4b6B5Be267e41356bB5c30D9f8C569BF1E84a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871115005414023168/wpkqV4D3.jpg",
+            "name": "Moxie:mell_is_hot-x",
+            "symbol": "Moxie:mell_is_hot-x"
         }
     ],
     "version": {
