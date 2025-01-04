@@ -16718,6 +16718,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/892c8075-ea6f-4e53-20b8-3c749320d100/rectcrop3",
             "name": "Moxie:toolkit-fc",
             "symbol": "Moxie:toolkit-fc"
+        },
+        {
+            "address": "0x8A4e4265856220CABC76A54dEEc2Dc8882687757",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/JZ30uTZ.jpg",
+            "name": "Moxie:caplin-fc",
+            "symbol": "Moxie:caplin-fc"
         }
     ],
     "version": {
