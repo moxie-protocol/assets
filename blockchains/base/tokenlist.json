@@ -17670,6 +17670,13 @@
             "logoURI": "https://i.imgur.com/MXMarAp.jpg",
             "name": "Moxie:herihirsin-fc",
             "symbol": "Moxie:herihirsin-fc"
+        },
+        {
+            "address": "0x9E61658fD9F1fCDef6cD7F64B1ef8F715AEDbE17",
+            "decimals": 18,
+            "logoURI": "https://superstarsculture.com/wp-content/uploads/2020/05/Pan-Yaung-Chel-1.jpg",
+            "name": "Moxie:btcheroine.base.eth-base",
+            "symbol": "Moxie:btcheroine.base.eth-base"
         }
     ],
     "version": {
