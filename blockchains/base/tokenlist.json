@@ -17334,6 +17334,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aa97583-42d0-41c0-6a12-893d9fc39200/rectcrop3",
             "name": "Moxie:kyojob-fc",
             "symbol": "Moxie:kyojob-fc"
+        },
+        {
+            "address": "0x9E25F370C4eeAd42D5EA3Dee3Fb5788918FC2914",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828953315381784577/J0r0_nYX.jpg",
+            "name": "Moxie:lucats_w3-x",
+            "symbol": "Moxie:lucats_w3-x"
         }
     ],
     "version": {
