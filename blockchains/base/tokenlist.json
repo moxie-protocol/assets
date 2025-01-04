@@ -17614,6 +17614,13 @@
             "logoURI": "https://i.imgur.com/gs40wnI.jpg",
             "name": "Moxie:nandabgc-fc",
             "symbol": "Moxie:nandabgc-fc"
+        },
+        {
+            "address": "0x86265b35CcFB18995ED0faE476aF6B32eEe2d3d6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1777059296762535936/YlttP1no.jpg",
+            "name": "Moxie:jm_web3-x",
+            "symbol": "Moxie:jm_web3-x"
         }
     ],
     "version": {
