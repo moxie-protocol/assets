@@ -17026,6 +17026,13 @@
             "logoURI": "https://i.imgur.com/g3qpEM1.jpg",
             "name": "Moxie:midnightbrian-fc",
             "symbol": "Moxie:midnightbrian-fc"
+        },
+        {
+            "address": "0xb9fCA661306F80412b2aB693D704000a01871e3A",
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/QFgbxR3/gf4df.jpg",
+            "name": "Moxie:dandan7-fc",
+            "symbol": "Moxie:dandan7-fc"
         }
     ],
     "version": {
