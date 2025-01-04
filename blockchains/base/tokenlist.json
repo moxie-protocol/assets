@@ -18328,6 +18328,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/112c534d-c7aa-42f4-e086-1c043f2b7000/rectcrop3",
             "name": "Moxie:akintomiwa-fc",
             "symbol": "Moxie:akintomiwa-fc"
+        },
+        {
+            "address": "0x61B9FF7a2c46968c6b9f5844A3f466538A9Fa615",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5BjWGbS.jpg",
+            "name": "Moxie:naila23-fc",
+            "symbol": "Moxie:naila23-fc"
         }
     ],
     "version": {
