@@ -16837,6 +16837,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1683838332479107079/eTk0n4ef.jpg",
             "name": "Moxie:bung169-x",
             "symbol": "Moxie:bung169-x"
+        },
+        {
+            "address": "0xD9c1126d3132c48AA10119AA88489708d31FbBA2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53cd8144-ddce-4eff-ab3f-c9a50dbf8800/original",
+            "name": "Moxie:baocaosu-fc",
+            "symbol": "Moxie:baocaosu-fc"
         }
     ],
     "version": {
