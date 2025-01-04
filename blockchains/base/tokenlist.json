@@ -17677,6 +17677,13 @@
             "logoURI": "https://superstarsculture.com/wp-content/uploads/2020/05/Pan-Yaung-Chel-1.jpg",
             "name": "Moxie:btcheroine.base.eth-base",
             "symbol": "Moxie:btcheroine.base.eth-base"
+        },
+        {
+            "address": "0xE16A626550bDb62c0F9452D17f8BFeeE231d9328",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b8c7182-05ae-43f8-585f-fb5f1071e600/rectcrop3",
+            "name": "Moxie:verynica-fc",
+            "symbol": "Moxie:verynica-fc"
         }
     ],
     "version": {
