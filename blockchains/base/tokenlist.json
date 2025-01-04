@@ -18566,6 +18566,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ec02ba21-808f-432d-0abb-e738a241a700/original",
             "name": "Moxie:miladniki-fc",
             "symbol": "Moxie:miladniki-fc"
+        },
+        {
+            "address": "0x5EceFB2708fC158434f1C07A571C3192b625501b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab1d7074-3fb4-4b22-360a-bbe8804d3d00/original",
+            "name": "Moxie:kosminskyalex.eth-fc",
+            "symbol": "Moxie:kosminskyalex.eth-fc"
         }
     ],
     "version": {
