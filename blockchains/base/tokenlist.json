@@ -17845,6 +17845,13 @@
             "logoURI": "https://pqknbfoo33nqebunzbd4koibzyqtmlqo7qc3byzj2rv43icjn25a.arweave.net/fBTQlc7e2wIGjchHxTkBziE2Lg78BbDjKdRrzaBJbro/",
             "name": "Moxie:spinmobz-fc",
             "symbol": "Moxie:spinmobz-fc"
+        },
+        {
+            "address": "0x2527CB0BfeC0b9b94E92b455F18fAFe69678d7E0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6850a29d-5aae-4e97-0075-197681c66b00/rectcrop3",
+            "name": "Moxie:anaxoxo-fc",
+            "symbol": "Moxie:anaxoxo-fc"
         }
     ],
     "version": {
