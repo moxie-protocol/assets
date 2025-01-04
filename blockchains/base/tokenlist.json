@@ -18244,6 +18244,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1461273601953308680/gh3oKg98.jpg",
             "name": "Moxie:lehuong0805-x",
             "symbol": "Moxie:lehuong0805-x"
+        },
+        {
+            "address": "0x942E2757Ae06e3802a11ce551fD942B740e179A1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/488818952278392832/JwQOWCBX.jpeg",
+            "name": "Moxie:LorayneBustos-x",
+            "symbol": "Moxie:LorayneBustos-x"
         }
     ],
     "version": {
