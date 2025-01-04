@@ -17397,6 +17397,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e190158-2455-4ee8-8436-83d185875a00/rectcrop3",
             "name": "Moxie:samfury-fc",
             "symbol": "Moxie:samfury-fc"
+        },
+        {
+            "address": "0x034d71fC8Bcc1a26C771577eD24fccFE5b5B9C14",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/OYQtctm.jpg",
+            "name": "Moxie:keponihye-fc",
+            "symbol": "Moxie:keponihye-fc"
         }
     ],
     "version": {
