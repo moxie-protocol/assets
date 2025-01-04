@@ -16704,6 +16704,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3ae057c-6e32-4bb4-d2ea-7a4f0b05ea00/rectcrop3",
             "name": "Moxie:ajerry-fc",
             "symbol": "Moxie:ajerry-fc"
+        },
+        {
+            "address": "0x9ACeb2389115e6fF119F5b5a73F50b5a0375d3e6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d0fc0650-bb51-432f-bf00-6bc774cedc00/rectcrop3",
+            "name": "Moxie:ejaaskhan-fc",
+            "symbol": "Moxie:ejaaskhan-fc"
         }
     ],
     "version": {
