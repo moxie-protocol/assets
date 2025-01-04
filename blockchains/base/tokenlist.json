@@ -18048,6 +18048,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e99bc9a6-c06f-451b-eafa-6f070d54b300/rectcrop3",
             "name": "Moxie:melliot-fc",
             "symbol": "Moxie:melliot-fc"
+        },
+        {
+            "address": "0x5615b0c30A1AFd92B043c436633eaDfE6Bf6c5f1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1171e791-6dae-45ff-5d6c-ef1b97090300/rectcrop3",
+            "name": "Moxie:hbasy-fc",
+            "symbol": "Moxie:hbasy-fc"
         }
     ],
     "version": {
