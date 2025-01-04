@@ -18468,6 +18468,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/479449379435053056/ADx3TdXu.jpeg",
             "name": "Moxie:yeralith-x",
             "symbol": "Moxie:yeralith-x"
+        },
+        {
+            "address": "0x281957464492Bbf8B1E23A108286335eD912C2C0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1781184531724451840/ODvaawXH.jpg",
+            "name": "Moxie:AgnesCastr90779-x",
+            "symbol": "Moxie:AgnesCastr90779-x"
         }
     ],
     "version": {
