@@ -18594,6 +18594,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867109617446293505/ymLlv16U.jpg",
             "name": "Moxie:zetsugatenso-x",
             "symbol": "Moxie:zetsugatenso-x"
+        },
+        {
+            "address": "0x704964bd16848d6dB1Fd62Ed9BF90b48Ca46C93A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/755dc0a1-ab10-4cf2-4872-94a763bd6b00/rectcrop3",
+            "name": "Moxie:nita-jak-fc",
+            "symbol": "Moxie:nita-jak-fc"
         }
     ],
     "version": {
