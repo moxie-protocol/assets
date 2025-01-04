@@ -18006,6 +18006,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b61d9f29-335c-4fc5-1665-fd800f1e5f00/rectcrop3",
             "name": "Moxie:clankbots-fc",
             "symbol": "Moxie:clankbots-fc"
+        },
+        {
+            "address": "0x2Bd86A49b23445af0AFdc1e36b290ff914260c12",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867092840213516288/954Y7iB2.jpg",
+            "name": "Moxie:monalnisa-x",
+            "symbol": "Moxie:monalnisa-x"
         }
     ],
     "version": {
