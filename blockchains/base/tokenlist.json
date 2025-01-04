@@ -17579,6 +17579,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829448981648470016/9CO05ebw.jpg",
             "name": "Moxie:pvlinh143-x",
             "symbol": "Moxie:pvlinh143-x"
+        },
+        {
+            "address": "0xB49781b32918b1Eb72c727243Dd9789338b2d605",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8J0yQxJ.jpg",
+            "name": "Moxie:raidou-fc",
+            "symbol": "Moxie:raidou-fc"
         }
     ],
     "version": {
