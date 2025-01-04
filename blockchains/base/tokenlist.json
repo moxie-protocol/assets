@@ -17565,6 +17565,13 @@
             "logoURI": "https://i.imgur.com/GA2WwKX.jpg",
             "name": "Moxie:foundereth-fc",
             "symbol": "Moxie:foundereth-fc"
+        },
+        {
+            "address": "0xa896Ca8e9Fc4a24e0530E0dF98D2181cD0a6e9D5",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BYexjd5.jpg",
+            "name": "Moxie:ozzyfathur-fc",
+            "symbol": "Moxie:ozzyfathur-fc"
         }
     ],
     "version": {
