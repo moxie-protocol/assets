@@ -16858,6 +16858,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6adbf978-00ae-4f34-92d3-e505ef128500/rectcrop3",
             "name": "Moxie:zhigonk77-fc",
             "symbol": "Moxie:zhigonk77-fc"
+        },
+        {
+            "address": "0x02751B067A6236776181033de8ed39d13ecDBda9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36569220-6c70-4e08-f314-6fe7e43bca00/rectcrop3",
+            "name": "Moxie:phunguyen-fc",
+            "symbol": "Moxie:phunguyen-fc"
         }
     ],
     "version": {
