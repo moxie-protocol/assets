@@ -17306,6 +17306,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7678213-dcde-4ab9-fd7a-2661c2bb5400/rectcrop3",
             "name": "Moxie:mahdifarcast-fc",
             "symbol": "Moxie:mahdifarcast-fc"
+        },
+        {
+            "address": "0xEcDbEf75D462161155CBf186AFC966c8e7c751c6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Imo2eK0.jpg",
+            "name": "Moxie:vincenzocassano-fc",
+            "symbol": "Moxie:vincenzocassano-fc"
         }
     ],
     "version": {
