@@ -16613,6 +16613,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6bda6f47-a538-4093-eb8d-a31237f0c200/original",
             "name": "Moxie:poetra1993-fc",
             "symbol": "Moxie:poetra1993-fc"
+        },
+        {
+            "address": "0x30568d58430cA27411fb5D5386e79b879c46e76d",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pHwjEZ3.jpg",
+            "name": "Moxie:eagleye-fc",
+            "symbol": "Moxie:eagleye-fc"
         }
     ],
     "version": {
