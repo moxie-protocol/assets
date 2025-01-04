@@ -17418,6 +17418,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/165ca100-b8b2-4f4e-ea82-3a7c3ddba800/rectcrop3",
             "name": "Moxie:bascool-fc",
             "symbol": "Moxie:bascool-fc"
+        },
+        {
+            "address": "0xdE5E1CED8E1AB8E42b7F1EC5bBf00bb470f1D464",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a7b1e95-6d39-4153-d892-883c5bee8700/rectcrop3",
+            "name": "Moxie:pikabu123-fc",
+            "symbol": "Moxie:pikabu123-fc"
         }
     ],
     "version": {
