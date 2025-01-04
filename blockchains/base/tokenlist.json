@@ -16921,6 +16921,13 @@
             "logoURI": "https://i.imgur.com/dYn4CAA.png",
             "name": "Moxie:alchidess-fc",
             "symbol": "Moxie:alchidess-fc"
+        },
+        {
+            "address": "0x3B5B94e9b89F437c6dffA0449fAFADAb9f58d9c9",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/5mc7GcreFc2Zu1IXZiaGJLmXWaGGzIYdmWIi5PM6vlTNY5TK8-XvAB3XQL62E6sX_bAy-MJQXLWez5wxgc7jgTydVJar7PZkbmrG?w=500\u0026auto=format",
+            "name": "Moxie:tanoji-fc",
+            "symbol": "Moxie:tanoji-fc"
         }
     ],
     "version": {
