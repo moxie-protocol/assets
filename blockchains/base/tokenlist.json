@@ -17915,6 +17915,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1780631220210339840/2cEif-dn.jpg",
             "name": "Moxie:nfiasari5-x",
             "symbol": "Moxie:nfiasari5-x"
+        },
+        {
+            "address": "0x4481109875FBB59338509bC94D2666782636c374",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d524ae5a-a972-4d37-3851-ce9dd94dae00/rectcrop3",
+            "name": "Moxie:brodatizzy-fc",
+            "symbol": "Moxie:brodatizzy-fc"
         }
     ],
     "version": {
