@@ -18139,6 +18139,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795518127213543424/-OvkMUGQ.jpg",
             "name": "Moxie:callmerichking-x",
             "symbol": "Moxie:callmerichking-x"
+        },
+        {
+            "address": "0xA5C71373257eA8cBeB6197a70dd6581191D3ba2a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7ccebb75-e2fd-452f-b8e1-cf81bdff4500/rectcrop3",
+            "name": "Moxie:ab-dollar1-fc",
+            "symbol": "Moxie:ab-dollar1-fc"
         }
     ],
     "version": {
