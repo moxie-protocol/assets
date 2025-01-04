@@ -17187,6 +17187,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c26e6af-a28c-43df-01c5-b19bac267700/rectcrop3",
             "name": "Moxie:vstarma-fc",
             "symbol": "Moxie:vstarma-fc"
+        },
+        {
+            "address": "0xcCb3115210020b3a9E1C460d77D8f1B89368678c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fef7854-cb51-48c0-69ee-ff3e8f906600/rectcrop3",
+            "name": "Moxie:swaregst17-fc",
+            "symbol": "Moxie:swaregst17-fc"
         }
     ],
     "version": {
