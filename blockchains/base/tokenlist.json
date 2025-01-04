@@ -18265,6 +18265,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/956379995756167168/rg8AbIP7.jpg",
             "name": "Moxie:JDavidM16GD-x",
             "symbol": "Moxie:JDavidM16GD-x"
+        },
+        {
+            "address": "0x6d634aACAFA2b32cdfAc407FAA6B5e39A26bC12e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/554722381227638784/6STVjDPc.jpeg",
+            "name": "Moxie:gaby_roth-x",
+            "symbol": "Moxie:gaby_roth-x"
         }
     ],
     "version": {
