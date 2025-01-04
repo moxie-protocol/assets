@@ -17551,6 +17551,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830307421945823232/NStikdbu.jpg",
             "name": "Moxie:MaikaramaWeb3-x",
             "symbol": "Moxie:MaikaramaWeb3-x"
+        },
+        {
+            "address": "0x559C74a2bab8b5d08b7f0C2a9dDCfFb37dCC9F0d",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "agung-ume",
+            "symbol": "fid:298488"
         }
     ],
     "version": {
