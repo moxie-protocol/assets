@@ -18615,6 +18615,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1800875602205126656/iM1_bpz8.jpg",
             "name": "Moxie:ipengweb3-x",
             "symbol": "Moxie:ipengweb3-x"
+        },
+        {
+            "address": "0x2662044E422C19928fd7F03dC76Ebbb0B9f5ec3e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9843a0d2-34ed-4f5a-dd19-ebde822df100/rectcrop3",
+            "name": "Moxie:tigiwrap-fc",
+            "symbol": "Moxie:tigiwrap-fc"
         }
     ],
     "version": {
