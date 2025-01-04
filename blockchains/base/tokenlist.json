@@ -17082,6 +17082,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1772152174740410368/YatUvaKt.jpg",
             "name": "Moxie:lethoisu2022-x",
             "symbol": "Moxie:lethoisu2022-x"
+        },
+        {
+            "address": "0xa87b795572642707d8979cbE2C39669037CbC48E",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreicmtcswrid4vj6u6lhral3dwoj5yhsq7s33l7rgog3y4oj44be57i",
+            "name": "Moxie:georli-fc",
+            "symbol": "Moxie:georli-fc"
         }
     ],
     "version": {
