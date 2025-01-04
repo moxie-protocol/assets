@@ -18524,6 +18524,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/582a21a7-4733-4636-7e31-ae64b978c400/rectcrop3",
             "name": "Moxie:milou09-fc",
             "symbol": "Moxie:milou09-fc"
+        },
+        {
+            "address": "0xc5c91C225e31791a9dc99fE4F2E6BE2297d1cF88",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/VM1IPs1.jpg",
+            "name": "Moxie:cio25-fc",
+            "symbol": "Moxie:cio25-fc"
         }
     ],
     "version": {
