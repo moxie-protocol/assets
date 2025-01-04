@@ -18125,6 +18125,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/05ac108a-12ef-43c3-1ee1-d8a849d45b00/rectcrop3",
             "name": "Moxie:toka-fc",
             "symbol": "Moxie:toka-fc"
+        },
+        {
+            "address": "0xC1c8530372679a248b1f2f69C170E0fcFBe2cB13",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864587082066255872/8Qc4--hp.jpg",
+            "name": "Moxie:mulla_peez28-x",
+            "symbol": "Moxie:mulla_peez28-x"
         }
     ],
     "version": {
