@@ -16767,6 +16767,13 @@
             "logoURI": null,
             "name": "hztory",
             "symbol": "fid:590067"
+        },
+        {
+            "address": "0x948C3CCa5432e81d61968c62773730835b6aD5dB",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "bar-eth",
+            "symbol": "fid:897445"
         }
     ],
     "version": {
