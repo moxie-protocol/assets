@@ -18279,6 +18279,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53b1b3e9-64b0-4f17-f653-e2a48c644100/rectcrop3",
             "name": "Moxie:dechemist-fc",
             "symbol": "Moxie:dechemist-fc"
+        },
+        {
+            "address": "0x85194bf3A7c2e57CB5d24DE0EBfFb9327D2d1D3f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1672889770161377280/6qdENBtu.jpg",
+            "name": "Moxie:Rstm_0x-x",
+            "symbol": "Moxie:Rstm_0x-x"
         }
     ],
     "version": {
