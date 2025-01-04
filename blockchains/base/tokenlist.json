@@ -17348,6 +17348,13 @@
             "logoURI": "https://i.imgur.com/l2avxeO.jpg",
             "name": "Moxie:alanf72-fc",
             "symbol": "Moxie:alanf72-fc"
+        },
+        {
+            "address": "0x8b676f3Ee33B6FfA2A5Ce16F750F2A618D394081",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KF2h5D3.jpg",
+            "name": "Moxie:nininguyen-fc",
+            "symbol": "Moxie:nininguyen-fc"
         }
     ],
     "version": {
