@@ -18454,6 +18454,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1822076700781424640/hRc0A5fI.jpg",
             "name": "Moxie:Gregio101-x",
             "symbol": "Moxie:Gregio101-x"
+        },
+        {
+            "address": "0x63Bbc82d39f5d57F48A394F46396832d0e73D51F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1814395062442438660/WnUQqsxF.jpg",
+            "name": "Moxie:BagasSanjaya171-x",
+            "symbol": "Moxie:BagasSanjaya171-x"
         }
     ],
     "version": {
