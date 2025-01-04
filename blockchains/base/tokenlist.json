@@ -18181,6 +18181,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1576237076638466048/C3nvb7dV.jpg",
             "name": "Moxie:RysTiK_Ier-x",
             "symbol": "Moxie:RysTiK_Ier-x"
+        },
+        {
+            "address": "0x9ab52a3A4907644AD532FB568957b30b792eE585",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1825115523488620544/mIIk5BJE.jpg",
+            "name": "Moxie:CasmirDr-x",
+            "symbol": "Moxie:CasmirDr-x"
         }
     ],
     "version": {
