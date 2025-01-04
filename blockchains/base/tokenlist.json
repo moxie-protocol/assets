@@ -16795,6 +16795,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/02aca124-c98d-4233-36e3-cbad95657400/original",
             "name": "Moxie:tromtrom-fc",
             "symbol": "Moxie:tromtrom-fc"
+        },
+        {
+            "address": "0xFcc1aa4c50cDA9FCc9d1A4EdD428776247304b34",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48f881f4-c165-47a2-ba45-76a55b2f2600/rectcrop3",
+            "name": "Moxie:tonkingreal-fc",
+            "symbol": "Moxie:tonkingreal-fc"
         }
     ],
     "version": {
