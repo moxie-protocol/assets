@@ -17922,6 +17922,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d524ae5a-a972-4d37-3851-ce9dd94dae00/rectcrop3",
             "name": "Moxie:brodatizzy-fc",
             "symbol": "Moxie:brodatizzy-fc"
+        },
+        {
+            "address": "0xD649295Dbc747435cD8AC6074Fc68dFecB890e0b",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "stockbrother1",
+            "symbol": "fid:623418"
         }
     ],
     "version": {
