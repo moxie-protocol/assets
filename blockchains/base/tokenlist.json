@@ -18027,6 +18027,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiecrcar3roeunzgafeao2h2vn3jwgwafk7o3oyiuexppm2rf2at2e",
             "name": "Moxie:am92-fc",
             "symbol": "Moxie:am92-fc"
+        },
+        {
+            "address": "0x33fdD515B2c7004f033ac57aEE542585AfD167E5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/055a4b05-180d-4739-0574-cd55ad10d100/rectcrop3",
+            "name": "Moxie:duckbase-fc",
+            "symbol": "Moxie:duckbase-fc"
         }
     ],
     "version": {
