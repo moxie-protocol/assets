@@ -17936,6 +17936,13 @@
             "logoURI": "https://i.imgur.com/ln11X7y.jpg",
             "name": "Moxie:mojtaba-fc",
             "symbol": "Moxie:mojtaba-fc"
+        },
+        {
+            "address": "0x28094715d71B711c61E369E198A9dae75A0b427F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870728144103014400/ruuB1SF9.jpg",
+            "name": "Moxie:DarksunRayz-x",
+            "symbol": "Moxie:DarksunRayz-x"
         }
     ],
     "version": {
