@@ -17684,6 +17684,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b8c7182-05ae-43f8-585f-fb5f1071e600/rectcrop3",
             "name": "Moxie:verynica-fc",
             "symbol": "Moxie:verynica-fc"
+        },
+        {
+            "address": "0x794C966d20d32C965D010918eB4DB97994955675",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2155848-ead3-4b5e-b61a-59202da21600/rectcrop3",
+            "name": "Moxie:xnownx-fc",
+            "symbol": "Moxie:xnownx-fc"
         }
     ],
     "version": {
