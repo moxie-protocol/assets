@@ -18489,6 +18489,13 @@
             "logoURI": "https://i.imgur.com/nkwcBND.jpg",
             "name": "Moxie:redyacore-fc",
             "symbol": "Moxie:redyacore-fc"
+        },
+        {
+            "address": "0x3f135a81C543fe8737Fcf6A8833caF4De7ce7A3F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GixqW72.jpg",
+            "name": "Moxie:dandi387-fc",
+            "symbol": "Moxie:dandi387-fc"
         }
     ],
     "version": {
