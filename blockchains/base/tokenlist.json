@@ -16690,6 +16690,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c7a042cc-0734-4696-8379-f3b186393d00/rectcrop3",
             "name": "Moxie:pickmon-fc",
             "symbol": "Moxie:pickmon-fc"
+        },
+        {
+            "address": "0x8e05EC86AF8013E7B435dbd73E3D0FD57AeE1226",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866393229077491712/LgLcERit.jpg",
+            "name": "Moxie:toouchmme-x",
+            "symbol": "Moxie:toouchmme-x"
         }
     ],
     "version": {
