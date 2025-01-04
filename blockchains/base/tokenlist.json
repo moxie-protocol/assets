@@ -16725,6 +16725,13 @@
             "logoURI": "https://i.imgur.com/JZ30uTZ.jpg",
             "name": "Moxie:caplin-fc",
             "symbol": "Moxie:caplin-fc"
+        },
+        {
+            "address": "0x86a1DB8B4e23A9A4D08c7EdfD26E486Cd023201A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873115713814315008/Bvi5p8rJ.jpg",
+            "name": "Moxie:thuha47r13469-x",
+            "symbol": "Moxie:thuha47r13469-x"
         }
     ],
     "version": {
