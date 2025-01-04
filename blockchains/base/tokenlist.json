@@ -16676,6 +16676,13 @@
             "logoURI": null,
             "name": "foisal1",
             "symbol": "fid:883074"
+        },
+        {
+            "address": "0xE907213cD9f10964E0D2993D6BC44678181f4C0F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pdmkuR8.jpg",
+            "name": "Moxie:hliryaei-fc",
+            "symbol": "Moxie:hliryaei-fc"
         }
     ],
     "version": {
