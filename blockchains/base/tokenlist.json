@@ -17999,6 +17999,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1638208817749168130/QgwmxOe4.jpg",
             "name": "Moxie:zucka00-x",
             "symbol": "Moxie:zucka00-x"
+        },
+        {
+            "address": "0xE719cBA9fe3f1cD72A9C172317a0E4862577D4BB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b61d9f29-335c-4fc5-1665-fd800f1e5f00/rectcrop3",
+            "name": "Moxie:clankbots-fc",
+            "symbol": "Moxie:clankbots-fc"
         }
     ],
     "version": {
