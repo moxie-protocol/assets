@@ -16753,6 +16753,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1802845887959646208/Dh1Rct1g.jpg",
             "name": "Moxie:Hystheria1-x",
             "symbol": "Moxie:Hystheria1-x"
+        },
+        {
+            "address": "0xa6c76DB6a05E0B6A533572523cCacb7e7E689Bba",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8c049cb-8b6c-4263-2a3a-34b941bf9100/original",
+            "name": "Moxie:truongnguyen-fc",
+            "symbol": "Moxie:truongnguyen-fc"
         }
     ],
     "version": {
