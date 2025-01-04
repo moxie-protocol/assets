@@ -17432,6 +17432,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ef6bf96-cc43-43cf-d00e-0228641a3500/rectcrop3",
             "name": "Moxie:manmann-fc",
             "symbol": "Moxie:manmann-fc"
+        },
+        {
+            "address": "0xE98040081A97E10068444451Dfa16b05C2216cae",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15411bdf-8558-46e8-8461-8b4ae2ece700/rectcrop3",
+            "name": "Moxie:selamanyacinta6-fc",
+            "symbol": "Moxie:selamanyacinta6-fc"
         }
     ],
     "version": {
