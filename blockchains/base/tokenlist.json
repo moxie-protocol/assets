@@ -17467,6 +17467,13 @@
             "logoURI": "https://preview.redd.it/i-feel-like-gaeuls-styling-is-off-in-ive-or-something-v0-2qptd3v1bv5c1.jpg?width=736\u0026format=pjpg\u0026auto=webp\u0026s=ce5ae9be9ec13cae2c9fc4c08592c5d8e865af24",
             "name": "Moxie:binanceworld.base.eth-base",
             "symbol": "Moxie:binanceworld.base.eth-base"
+        },
+        {
+            "address": "0x4a6Df65F8B3e47746e36B7E7dcC90788F24aED9a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1821903875869233152/NsefBk4d.jpg",
+            "name": "Moxie:milogogool-x",
+            "symbol": "Moxie:milogogool-x"
         }
     ],
     "version": {
