@@ -18475,6 +18475,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1781184531724451840/ODvaawXH.jpg",
             "name": "Moxie:AgnesCastr90779-x",
             "symbol": "Moxie:AgnesCastr90779-x"
+        },
+        {
+            "address": "0x1de1E2A444d95d971093e9b5CE59639a7B8b291a",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:neoersa-x",
+            "symbol": "Moxie:neoersa-x"
         }
     ],
     "version": {
