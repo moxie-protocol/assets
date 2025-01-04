@@ -17040,6 +17040,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1774741568043532288/BvMbbkXi.jpg",
             "name": "Moxie:Ichibal_Desu-x",
             "symbol": "Moxie:Ichibal_Desu-x"
+        },
+        {
+            "address": "0x45E718894AA46D1344f03D9689ad6b42cd72222f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb6fa908-2f5d-42be-bc45-743422d15000/rectcrop3",
+            "name": "Moxie:goldcoin-fc",
+            "symbol": "Moxie:goldcoin-fc"
         }
     ],
     "version": {
