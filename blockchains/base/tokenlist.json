@@ -17152,6 +17152,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiale3nayavqmilonz4l63zyz2dpvhobao5y5zki4h2l6qxfg2uhqq",
             "name": "Moxie:yusufjp-fc",
             "symbol": "Moxie:yusufjp-fc"
+        },
+        {
+            "address": "0x5752d67783c959E990fBb9E04951820304Bc0191",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab8f7380-9363-42a2-78bd-7363905ec200/rectcrop3",
+            "name": "Moxie:warpcastbots-fc",
+            "symbol": "Moxie:warpcastbots-fc"
         }
     ],
     "version": {
