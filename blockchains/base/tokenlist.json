@@ -17544,6 +17544,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/blue.jpg",
             "name": "Moxie:boyakbar2024-fc",
             "symbol": "Moxie:boyakbar2024-fc"
+        },
+        {
+            "address": "0xB31fb297552ec514722835cdb7E2896d33784F67",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830307421945823232/NStikdbu.jpg",
+            "name": "Moxie:MaikaramaWeb3-x",
+            "symbol": "Moxie:MaikaramaWeb3-x"
         }
     ],
     "version": {
