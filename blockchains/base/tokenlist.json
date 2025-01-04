@@ -16928,6 +16928,13 @@
             "logoURI": "https://i.seadn.io/gae/5mc7GcreFc2Zu1IXZiaGJLmXWaGGzIYdmWIi5PM6vlTNY5TK8-XvAB3XQL62E6sX_bAy-MJQXLWez5wxgc7jgTydVJar7PZkbmrG?w=500\u0026auto=format",
             "name": "Moxie:tanoji-fc",
             "symbol": "Moxie:tanoji-fc"
+        },
+        {
+            "address": "0x0F42A09DE70C933b061602d348B28676c1F383d7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870710703247790080/5sgl0_rl.jpg",
+            "name": "Moxie:Keilandboii-x",
+            "symbol": "Moxie:Keilandboii-x"
         }
     ],
     "version": {
