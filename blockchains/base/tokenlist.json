@@ -17761,6 +17761,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d94a6ebc-0652-4353-8515-76e9c4fc9400/rectcrop3",
             "name": "Moxie:fauzannr-fc",
             "symbol": "Moxie:fauzannr-fc"
+        },
+        {
+            "address": "0x705A3f43054b5f41C83C911798bfEc2A2b5cdc19",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e55fb162-493f-47c5-54ce-834d00e25b00/rectcrop3",
+            "name": "Moxie:ludomat-fc",
+            "symbol": "Moxie:ludomat-fc"
         }
     ],
     "version": {
