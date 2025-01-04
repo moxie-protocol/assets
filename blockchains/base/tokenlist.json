@@ -18482,6 +18482,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:neoersa-x",
             "symbol": "Moxie:neoersa-x"
+        },
+        {
+            "address": "0xd7250Be8969c64d79844c0ba37ad9ac20Eb343C6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/nkwcBND.jpg",
+            "name": "Moxie:redyacore-fc",
+            "symbol": "Moxie:redyacore-fc"
         }
     ],
     "version": {
