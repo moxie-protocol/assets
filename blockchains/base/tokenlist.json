@@ -16886,6 +16886,13 @@
             "logoURI": "https://i.imgur.com/YRqXScD.jpeg",
             "name": "Moxie:ciskekbanana-fc",
             "symbol": "Moxie:ciskekbanana-fc"
+        },
+        {
+            "address": "0xa1FAa804c1Cf0b12b0112345E0f7A4032ca98442",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6b79ad4-5d4e-4e03-016c-1cf23dacc700/rectcrop3",
+            "name": "Moxie:huynhhoangphu95-fc",
+            "symbol": "Moxie:huynhhoangphu95-fc"
         }
     ],
     "version": {
