@@ -17747,6 +17747,13 @@
             "logoURI": "https://i.imgur.com/EYXdRp5.jpg",
             "name": "Moxie:drsrangerz-fc",
             "symbol": "Moxie:drsrangerz-fc"
+        },
+        {
+            "address": "0x4A7d19eacCE75ec5C5eAf6BB145b3D6F6bd07Ce9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c1b21355-98ee-4f25-aed9-07eafb1c5500/rectcrop3",
+            "name": "Moxie:0x0jp-fc",
+            "symbol": "Moxie:0x0jp-fc"
         }
     ],
     "version": {
