@@ -17768,6 +17768,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e55fb162-493f-47c5-54ce-834d00e25b00/rectcrop3",
             "name": "Moxie:ludomat-fc",
             "symbol": "Moxie:ludomat-fc"
+        },
+        {
+            "address": "0x35e60F0060aBB1D7eab1C2c818FfEa5fe7189403",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/98a6ad4b-32a6-4f86-e054-0ffda0711b00/rectcrop3",
+            "name": "Moxie:akeyy10s-fc",
+            "symbol": "Moxie:akeyy10s-fc"
         }
     ],
     "version": {
