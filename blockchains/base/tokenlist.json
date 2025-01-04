@@ -16620,6 +16620,13 @@
             "logoURI": "https://i.imgur.com/pHwjEZ3.jpg",
             "name": "Moxie:eagleye-fc",
             "symbol": "Moxie:eagleye-fc"
+        },
+        {
+            "address": "0x30537E5cdC0766D639661C60FE79F2AC075521e6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805172663150837760/tu-yZ7Fc.jpg",
+            "name": "Moxie:yosuaw28-x",
+            "symbol": "Moxie:yosuaw28-x"
         }
     ],
     "version": {
