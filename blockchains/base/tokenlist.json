@@ -17894,6 +17894,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/680af396-eb57-4306-3f16-585c0f9e8700/rectcrop3",
             "name": "Moxie:mranalyzer-fc",
             "symbol": "Moxie:mranalyzer-fc"
+        },
+        {
+            "address": "0x3E308D3F3A1d0249774760712F42aE8f6511eB14",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0931e7d-0967-49db-5c29-77e5e9f9d000/rectcrop3",
+            "name": "Moxie:fatkuryk-fc",
+            "symbol": "Moxie:fatkuryk-fc"
         }
     ],
     "version": {
