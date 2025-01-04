@@ -17460,6 +17460,13 @@
             "logoURI": "https://i.imgur.com/p9a5EFC.jpg",
             "name": "Moxie:elonn-fc",
             "symbol": "Moxie:elonn-fc"
+        },
+        {
+            "address": "0x7bB6586FcbF1C71B09A85a23e9D891204670A6d2",
+            "decimals": 18,
+            "logoURI": "https://preview.redd.it/i-feel-like-gaeuls-styling-is-off-in-ive-or-something-v0-2qptd3v1bv5c1.jpg?width=736\u0026format=pjpg\u0026auto=webp\u0026s=ce5ae9be9ec13cae2c9fc4c08592c5d8e865af24",
+            "name": "Moxie:binanceworld.base.eth-base",
+            "symbol": "Moxie:binanceworld.base.eth-base"
         }
     ],
     "version": {
