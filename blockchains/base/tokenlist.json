@@ -16963,6 +16963,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f37226ba-b55a-4df2-3edf-c2cbd16cb900/rectcrop3",
             "name": "Moxie:faloc-fc",
             "symbol": "Moxie:faloc-fc"
+        },
+        {
+            "address": "0xa5885aD1640662D6319A52D4e868E14b715145d0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23768fa2-43e6-44c7-3c68-d72e338eb900/rectcrop3",
+            "name": "Moxie:injking.eth-fc",
+            "symbol": "Moxie:injking.eth-fc"
         }
     ],
     "version": {
