@@ -18405,6 +18405,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1743239303310852096/ISnLNFrV.jpg",
             "name": "Moxie:koluzyi-x",
             "symbol": "Moxie:koluzyi-x"
+        },
+        {
+            "address": "0x0A1A01A1A656618DFDF48084D43D37c14d474052",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTCfLAvxndRbMVoLFQ3sxPacJkWLCbpv211kez6tqsqx8/2232.webp",
+            "name": "Moxie:airdrop6868-fc",
+            "symbol": "Moxie:airdrop6868-fc"
         }
     ],
     "version": {
