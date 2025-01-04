@@ -16802,6 +16802,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48f881f4-c165-47a2-ba45-76a55b2f2600/rectcrop3",
             "name": "Moxie:tonkingreal-fc",
             "symbol": "Moxie:tonkingreal-fc"
+        },
+        {
+            "address": "0x5Ae906fa9801c8E867F8bec337d5C5f98Ee9E43C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WWy3gPC.jpg",
+            "name": "Moxie:muslim-fc",
+            "symbol": "Moxie:muslim-fc"
         }
     ],
     "version": {
