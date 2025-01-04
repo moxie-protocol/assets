@@ -18433,6 +18433,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:daddyporsiempre-x",
             "symbol": "Moxie:daddyporsiempre-x"
+        },
+        {
+            "address": "0x42A0632039E7ca7Bd42891d7A98EbEF41C397A7e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/eMefe9g.jpg",
+            "name": "Moxie:dacflamez001-fc",
+            "symbol": "Moxie:dacflamez001-fc"
         }
     ],
     "version": {
