@@ -17978,6 +17978,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7cb87023-3108-4a8f-c418-111e76b93400/rectcrop3",
             "name": "Moxie:basebot-fc",
             "symbol": "Moxie:basebot-fc"
+        },
+        {
+            "address": "0x2269F35AAd05d42b51409C458D9C56b4E0F2f04e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805530489341755392/DqO18YHn.jpg",
+            "name": "Moxie:FahmiTrian2197-x",
+            "symbol": "Moxie:FahmiTrian2197-x"
         }
     ],
     "version": {
