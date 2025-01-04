@@ -17390,6 +17390,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95fec98-a255-4177-d7ec-3a4743b47000/rectcrop3",
             "name": "Moxie:stteadynfts-fc",
             "symbol": "Moxie:stteadynfts-fc"
+        },
+        {
+            "address": "0x192cA4E8682891A399A0375De5D1dd42479BeB98",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e190158-2455-4ee8-8436-83d185875a00/rectcrop3",
+            "name": "Moxie:samfury-fc",
+            "symbol": "Moxie:samfury-fc"
         }
     ],
     "version": {
