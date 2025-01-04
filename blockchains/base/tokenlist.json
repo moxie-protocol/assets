@@ -17866,6 +17866,13 @@
             "logoURI": "https://i.imgur.com/IcpxcDK.jpg",
             "name": "Moxie:chandelierxyz-fc",
             "symbol": "Moxie:chandelierxyz-fc"
+        },
+        {
+            "address": "0x8bC6042Ac8A18d7883B4aB6Ff071ad2EBFcC8415",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1875198259976916992/_qK9r44t.jpg",
+            "name": "Moxie:alprasma-x",
+            "symbol": "Moxie:alprasma-x"
         }
     ],
     "version": {
