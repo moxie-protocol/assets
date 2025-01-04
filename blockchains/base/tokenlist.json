@@ -17992,6 +17992,13 @@
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/41/Beetlejuice_onstage.jpg",
             "name": "Moxie:beetlejuicee-fc",
             "symbol": "Moxie:beetlejuicee-fc"
+        },
+        {
+            "address": "0x17704a3bd5BD13D18DaD0425D28DA9E3095B1915",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1638208817749168130/QgwmxOe4.jpg",
+            "name": "Moxie:zucka00-x",
+            "symbol": "Moxie:zucka00-x"
         }
     ],
     "version": {
