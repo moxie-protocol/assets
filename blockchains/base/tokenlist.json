@@ -17285,6 +17285,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a604bdf-405d-4e9c-69e0-cbfe036e6a00/rectcrop3",
             "name": "Moxie:crypto-buck-fc",
             "symbol": "Moxie:crypto-buck-fc"
+        },
+        {
+            "address": "0x4496DE80aafbb2e6434c50d8D87aad7D5d816F74",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1875295845052018688/ndWg4s0W.jpg",
+            "name": "Moxie:remzingvlad-x",
+            "symbol": "Moxie:remzingvlad-x"
         }
     ],
     "version": {
