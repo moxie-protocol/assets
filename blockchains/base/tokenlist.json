@@ -17180,6 +17180,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f6d1767-80c5-4a74-4db6-e128dc25ad00/rectcrop3",
             "name": "Moxie:modboost-fc",
             "symbol": "Moxie:modboost-fc"
+        },
+        {
+            "address": "0x10334E3dac3bfA3E85361637De4eA8c2fD797567",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3c26e6af-a28c-43df-01c5-b19bac267700/rectcrop3",
+            "name": "Moxie:vstarma-fc",
+            "symbol": "Moxie:vstarma-fc"
         }
     ],
     "version": {
