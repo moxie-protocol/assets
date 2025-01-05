@@ -19126,6 +19126,13 @@
             "logoURI": "https://arweave.net/EKx_LIPbhYk_LGpKLetJX473LOO9bcMMim9crRb0hj4/",
             "name": "Moxie:semian13-fc",
             "symbol": "Moxie:semian13-fc"
+        },
+        {
+            "address": "0x2281f5fdBD64fFA4f835497EbB01CDeBc4aC75C1",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmSMRy8uKYHgZgnYyMxyys9MnBr3kTm6X741oZXfXhL624/8381.webp",
+            "name": "Moxie:barber-fc",
+            "symbol": "Moxie:barber-fc"
         }
     ],
     "version": {
