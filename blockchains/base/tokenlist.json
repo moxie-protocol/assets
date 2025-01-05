@@ -19294,6 +19294,13 @@
             "logoURI": null,
             "name": "jubayer00",
             "symbol": "fid:862293"
+        },
+        {
+            "address": "0xb1a0AE76Fe156e7eD28A49CA1c7c3e3A55333817",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidb2nk2tzrufacfat7wswn6g45guo3wyveddm2gp4fhyvfrf7rxza",
+            "name": "Moxie:bookowka-fc",
+            "symbol": "Moxie:bookowka-fc"
         }
     ],
     "version": {
