@@ -19154,6 +19154,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864622381828067328/ohfyxBgb.jpg",
             "name": "Moxie:L21100-x",
             "symbol": "Moxie:L21100-x"
+        },
+        {
+            "address": "0xE4BA13f70c6AddE605C50467f55daC07E5E89EaD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868268352973807616/JXtEgo2_.jpg",
+            "name": "Moxie:JilanSomantri12-x",
+            "symbol": "Moxie:JilanSomantri12-x"
         }
     ],
     "version": {
