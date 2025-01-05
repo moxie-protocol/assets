@@ -19322,6 +19322,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/977073312902893568/icoj2esq.jpg",
             "name": "Moxie:slavagor1758-x",
             "symbol": "Moxie:slavagor1758-x"
+        },
+        {
+            "address": "0x786e95623795c7cCaBB9676e165d2Bea1db7C172",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
+            "name": "Moxie:kakatess-fc",
+            "symbol": "Moxie:kakatess-fc"
         }
     ],
     "version": {
