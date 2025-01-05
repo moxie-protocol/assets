@@ -19420,6 +19420,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7b5afef9-5988-44bb-e8f8-30da67569500/rectcrop3",
             "name": "Moxie:panah-fc",
             "symbol": "Moxie:panah-fc"
+        },
+        {
+            "address": "0x013083FAd01B5c912803F4ecbbBDc1c85E0BaBaB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52687893-ccb5-44b5-230c-a598e4ba8000/rectcrop3",
+            "name": "Moxie:aminras-fc",
+            "symbol": "Moxie:aminras-fc"
         }
     ],
     "version": {
