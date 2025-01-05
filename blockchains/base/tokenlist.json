@@ -19098,6 +19098,13 @@
             "logoURI": "https://blockchainmedia.id/wp-content/uploads/2022/07/Harga-Bitcoin-BTC-Terpaku.jpg",
             "name": "Moxie:jointipisan-gt",
             "symbol": "Moxie:jointipisan-gt"
+        },
+        {
+            "address": "0x0fF1A5F0268a941B697Ffcf62aE9F33e2dC16AC0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xdycyTj.jpg",
+            "name": "Moxie:idrroyale-fc",
+            "symbol": "Moxie:idrroyale-fc"
         }
     ],
     "version": {
