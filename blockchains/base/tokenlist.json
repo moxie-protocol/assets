@@ -19112,6 +19112,13 @@
             "logoURI": "https://imagizer.imageshack.com/img922/1775/3398MO.jpg",
             "name": "Moxie:troudi.base.eth-base",
             "symbol": "Moxie:troudi.base.eth-base"
+        },
+        {
+            "address": "0x044e432CD930fD190133bf071774c40a2676A708",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1588781647662821376/CRhvS_ZF.jpg",
+            "name": "Moxie:lesmanaa23-x",
+            "symbol": "Moxie:lesmanaa23-x"
         }
     ],
     "version": {
