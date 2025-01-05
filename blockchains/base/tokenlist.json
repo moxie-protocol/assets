@@ -18923,6 +18923,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33a6d5a8-06ed-4e1e-85e6-21048265e600/rectcrop3",
             "name": "Moxie:ayaatruhi-fc",
             "symbol": "Moxie:ayaatruhi-fc"
+        },
+        {
+            "address": "0xf75E1A05135Dc56Ce6C6AF9ee1E556F0c56dF50f",
+            "decimals": 18,
+            "logoURI": "https://avatars.githubusercontent.com/u/17905883?s=200\u0026v=4",
+            "name": "Moxie:cygwin.eth-ens",
+            "symbol": "Moxie:cygwin.eth-ens"
         }
     ],
     "version": {
