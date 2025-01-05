@@ -19084,6 +19084,13 @@
             "logoURI": "https://media.istockphoto.com/id/1328212746/fr/vectoriel/mobylette-panneau.jpg?s=2048x2048\u0026w=is\u0026k=20\u0026c=n2xLjksrx6cAw74FJzNuuyOoeqt_eI8EBTg95cjdwGE=",
             "name": "Moxie:galdefr1.base.eth-base",
             "symbol": "Moxie:galdefr1.base.eth-base"
+        },
+        {
+            "address": "0xD9f7b5B71c29C120e30bD517997237CF0f24d839",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Iqdfem6.jpg",
+            "name": "Moxie:cyberbojack-fc",
+            "symbol": "Moxie:cyberbojack-fc"
         }
     ],
     "version": {
