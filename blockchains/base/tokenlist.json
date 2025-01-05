@@ -18825,6 +18825,13 @@
             "logoURI": null,
             "name": "asaduzzaman",
             "symbol": "fid:507332"
+        },
+        {
+            "address": "0x1931e564a354896d55f46107B8E42194B7C1deCE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df1f8e61-4f46-4373-e46f-1a16c297f500/rectcrop3",
+            "name": "Moxie:elhazard-fc",
+            "symbol": "Moxie:elhazard-fc"
         }
     ],
     "version": {
