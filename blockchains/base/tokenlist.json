@@ -19266,6 +19266,13 @@
             "logoURI": "https://i.imgur.com/HIle4i1.jpg",
             "name": "Moxie:febiwewen-fc",
             "symbol": "Moxie:febiwewen-fc"
+        },
+        {
+            "address": "0xD2C8CB4e657aD4E13e69EfA4ba39090A4462Ea55",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "naruto007-eth",
+            "symbol": "fid:885645"
         }
     ],
     "version": {
