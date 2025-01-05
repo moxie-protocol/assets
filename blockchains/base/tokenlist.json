@@ -18979,6 +18979,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851361506618691584/dJ3fDAR5.png",
             "name": "Moxie:SagoEnes42953-x",
             "symbol": "Moxie:SagoEnes42953-x"
+        },
+        {
+            "address": "0x598dd449Fc0cCc4901Bd4d47FF0C44386B9aA364",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "bigdady69",
+            "symbol": "fid:646642"
         }
     ],
     "version": {
