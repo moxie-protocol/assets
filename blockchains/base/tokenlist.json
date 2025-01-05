@@ -19441,6 +19441,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1609ade4-d715-40c7-122b-18e451680500/original",
             "name": "Moxie:kayla-f3-fc",
             "symbol": "Moxie:kayla-f3-fc"
+        },
+        {
+            "address": "0x7fca669Aa927031058989d785dc5004D1457adaa",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0995dd3-b3fd-4bb8-a96b-9df699dc0f00/original",
+            "name": "Moxie:0xspencer-fc",
+            "symbol": "Moxie:0xspencer-fc"
         }
     ],
     "version": {
