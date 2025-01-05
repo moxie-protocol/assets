@@ -19364,6 +19364,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1500575197522497542/QrYv8Pwr.jpg",
             "name": "Moxie:Mathis50652510-x",
             "symbol": "Moxie:Mathis50652510-x"
+        },
+        {
+            "address": "0x21a6e666e22c3DA53973a3236e2E2d1d70e4DA71",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "soyod",
+            "symbol": "fid:886083"
         }
     ],
     "version": {
