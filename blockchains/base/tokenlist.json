@@ -18867,6 +18867,13 @@
             "logoURI": "https://i.imgur.com/dytSWeJ.jpg",
             "name": "Moxie:aditcyn-fc",
             "symbol": "Moxie:aditcyn-fc"
+        },
+        {
+            "address": "0x9Eb2bF2B772F0A0997EDEa8C663115cF388147f7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4049b42f-6462-4f1b-a866-133d1fb62d00/rectcrop3",
+            "name": "Moxie:alex1996-fc",
+            "symbol": "Moxie:alex1996-fc"
         }
     ],
     "version": {
