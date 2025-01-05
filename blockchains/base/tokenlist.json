@@ -19329,6 +19329,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/black.jpg",
             "name": "Moxie:kakatess-fc",
             "symbol": "Moxie:kakatess-fc"
+        },
+        {
+            "address": "0xe26EA8d5f46858ddd657284712Db273c5db02B71",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1777805102952128512/sGZhklGQ.png",
+            "name": "Moxie:imih996302-x",
+            "symbol": "Moxie:imih996302-x"
         }
     ],
     "version": {
