@@ -19616,6 +19616,13 @@
             "logoURI": "https://i.imgur.com/UPbwOYs.jpg",
             "name": "Moxie:0xchamps-fc",
             "symbol": "Moxie:0xchamps-fc"
+        },
+        {
+            "address": "0x809adFF8FfDcdc74A09A8BD8Bf63f04E5D5488AE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0117ac-0597-4e96-1ab0-897e1060dd00/rectcrop3",
+            "name": "Moxie:bygil-fc",
+            "symbol": "Moxie:bygil-fc"
         }
     ],
     "version": {
