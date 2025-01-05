@@ -19448,6 +19448,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c0995dd3-b3fd-4bb8-a96b-9df699dc0f00/original",
             "name": "Moxie:0xspencer-fc",
             "symbol": "Moxie:0xspencer-fc"
+        },
+        {
+            "address": "0x01Bb10416225aA95D22743479EC7581037Da8ee6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QNrdMKk.jpg",
+            "name": "Moxie:hardikna-fc",
+            "symbol": "Moxie:hardikna-fc"
         }
     ],
     "version": {
