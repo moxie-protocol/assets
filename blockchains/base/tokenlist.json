@@ -19455,6 +19455,13 @@
             "logoURI": "https://i.imgur.com/QNrdMKk.jpg",
             "name": "Moxie:hardikna-fc",
             "symbol": "Moxie:hardikna-fc"
+        },
+        {
+            "address": "0x199C0B298D447E7FeE6955d6D91BA2546C87fC4E",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Akntyl01-x",
+            "symbol": "Moxie:Akntyl01-x"
         }
     ],
     "version": {
