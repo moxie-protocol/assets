@@ -18797,6 +18797,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114058ff-44b9-4102-bc72-2e4bfb0ce700/rectcrop3",
             "name": "Moxie:wase1192-fc",
             "symbol": "Moxie:wase1192-fc"
+        },
+        {
+            "address": "0x6A73e65DcAF2Bb9279E20A49788b31B36dbBb90d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867357064206635008/OCL-lUVk.jpg",
+            "name": "Moxie:rheairdrop-x",
+            "symbol": "Moxie:rheairdrop-x"
         }
     ],
     "version": {
