@@ -18762,6 +18762,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a4ddc26-ec7f-452e-032d-759a1a1a7800/rectcrop3",
             "name": "Moxie:richingga.eth-fc",
             "symbol": "Moxie:richingga.eth-fc"
+        },
+        {
+            "address": "0xcad062968Cde9De8C2f3C15b17e934da3A979d67",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1758501799089311745/Dp334ec8.jpg",
+            "name": "Moxie:jujunjunior-x",
+            "symbol": "Moxie:jujunjunior-x"
         }
     ],
     "version": {
