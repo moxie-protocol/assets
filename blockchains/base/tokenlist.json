@@ -18699,6 +18699,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1771756707602915328/973p1Uil.jpg",
             "name": "Moxie:Satzy13-x",
             "symbol": "Moxie:Satzy13-x"
+        },
+        {
+            "address": "0x02FD5e1FD01Bd8e35Bb43B2ce54CD729DFB09ADB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1615223362099503106/67O1msn2.jpg",
+            "name": "Moxie:Nasutio26167361-x",
+            "symbol": "Moxie:Nasutio26167361-x"
         }
     ],
     "version": {
