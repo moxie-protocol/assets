@@ -18783,6 +18783,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/183b3a5d-6410-4df7-29e3-3871ade85c00/rectcrop3",
             "name": "Moxie:ktybr-fc",
             "symbol": "Moxie:ktybr-fc"
+        },
+        {
+            "address": "0xB31bF39c5E1967F964866f84ef94F829d49e898e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fUnOqzc.jpg",
+            "name": "Moxie:rosemixa-fc",
+            "symbol": "Moxie:rosemixa-fc"
         }
     ],
     "version": {
