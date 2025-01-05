@@ -19546,6 +19546,13 @@
             "logoURI": null,
             "name": "pranta1000",
             "symbol": "fid:875885"
+        },
+        {
+            "address": "0xfdAF907ADAAC6B92EFdc9B70D72B289A5e316a57",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2bf95f3-1398-41cb-7e1a-7c7778d97100/rectcrop3",
+            "name": "Moxie:axelda-fc",
+            "symbol": "Moxie:axelda-fc"
         }
     ],
     "version": {
