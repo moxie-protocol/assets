@@ -19427,6 +19427,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/52687893-ccb5-44b5-230c-a598e4ba8000/rectcrop3",
             "name": "Moxie:aminras-fc",
             "symbol": "Moxie:aminras-fc"
+        },
+        {
+            "address": "0xB9a4c754Cf35257d331e4d7C5A710D9B072b3591",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874863854620139520/ZwtuyyoO.jpg",
+            "name": "Moxie:Hekaa156-x",
+            "symbol": "Moxie:Hekaa156-x"
         }
     ],
     "version": {
