@@ -19560,6 +19560,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30218b14-c583-4ffc-608a-62e74caa1900/rectcrop3",
             "name": "Moxie:adnasyattar-fc",
             "symbol": "Moxie:adnasyattar-fc"
+        },
+        {
+            "address": "0x1994D6C5A8C55C5fc64C647102DA76623C1F789C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5GvMJwC.jpg",
+            "name": "Moxie:achmadsanus1-fc",
+            "symbol": "Moxie:achmadsanus1-fc"
         }
     ],
     "version": {
