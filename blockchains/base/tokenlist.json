@@ -19476,6 +19476,13 @@
             "logoURI": "https://i.imgur.com/Pce0x6B.jpg",
             "name": "Moxie:filv851-fc",
             "symbol": "Moxie:filv851-fc"
+        },
+        {
+            "address": "0x2Bff2d0c70970B1319Dd319d68E60BE782b29095",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/220d6887-ed4f-4cca-7552-736b1104e400/rectcrop3",
+            "name": "Moxie:antojiwex-fc",
+            "symbol": "Moxie:antojiwex-fc"
         }
     ],
     "version": {
