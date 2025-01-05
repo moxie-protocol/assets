@@ -18657,6 +18657,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e6617ee3-d63d-4e75-2d56-b56a45b5ef00/rectcrop3",
             "name": "Moxie:skyzo13-fc",
             "symbol": "Moxie:skyzo13-fc"
+        },
+        {
+            "address": "0xDe743946890052A57D66f862D2172bd7241F6fB8",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "luhurdinata",
+            "symbol": "fid:517379"
         }
     ],
     "version": {
