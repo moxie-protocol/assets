@@ -18909,6 +18909,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6e2af40-1798-40c1-b141-d1e9481c5c00/rectcrop3",
             "name": "Moxie:benu22-fc",
             "symbol": "Moxie:benu22-fc"
+        },
+        {
+            "address": "0xc56d314273Af3074354f936D6c270F027f2058f7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d59e1c82-b551-4317-6389-e60f05d84200/rectcrop3",
+            "name": "Moxie:assdead-fc",
+            "symbol": "Moxie:assdead-fc"
         }
     ],
     "version": {
