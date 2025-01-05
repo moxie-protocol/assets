@@ -18944,6 +18944,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1738278878890897409/PFUPbImN.jpg",
             "name": "Moxie:MarjaMhd-x",
             "symbol": "Moxie:MarjaMhd-x"
+        },
+        {
+            "address": "0x4f761c24Fddcf69C76ea38e78F51E407881e9541",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6fdf1cb-39c5-4068-d6b5-643e21108b00/original",
+            "name": "Moxie:ccelra-fc",
+            "symbol": "Moxie:ccelra-fc"
         }
     ],
     "version": {
