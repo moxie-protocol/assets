@@ -18888,6 +18888,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1803395350742573056/Rz1-QvlJ.jpg",
             "name": "Moxie:0kegos-x",
             "symbol": "Moxie:0kegos-x"
+        },
+        {
+            "address": "0x3a25f0500eE82F087AcfA431A111A1f62009a511",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b90fa521-15cd-443a-bc6c-945ac6046000/rectcrop3",
+            "name": "Moxie:zaels-fc",
+            "symbol": "Moxie:zaels-fc"
         }
     ],
     "version": {
