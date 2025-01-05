@@ -19301,6 +19301,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeidb2nk2tzrufacfat7wswn6g45guo3wyveddm2gp4fhyvfrf7rxza",
             "name": "Moxie:bookowka-fc",
             "symbol": "Moxie:bookowka-fc"
+        },
+        {
+            "address": "0x9E34b5ef3a3848cE57a4d44448F172c01Be593b6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1628965690689437697/05HNcpBc.jpg",
+            "name": "Moxie:perfection2210-x",
+            "symbol": "Moxie:perfection2210-x"
         }
     ],
     "version": {
