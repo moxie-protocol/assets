@@ -18636,6 +18636,13 @@
             "logoURI": "https://i.imgur.com/Ga1mvjo.jpg",
             "name": "Moxie:zinc-fc",
             "symbol": "Moxie:zinc-fc"
+        },
+        {
+            "address": "0xc6eBbd9F2d7877AA62EF9518CBcd4AAb1C9421f9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f4bbf1b-e2ff-4c72-cf03-3b4dbd74b200/rectcrop3",
+            "name": "Moxie:kingcook-fc",
+            "symbol": "Moxie:kingcook-fc"
         }
     ],
     "version": {
