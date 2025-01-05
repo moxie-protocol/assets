@@ -18860,6 +18860,13 @@
             "logoURI": "https://i.imgur.com/lWBGgyO.jpg",
             "name": "Moxie:helen95-fc",
             "symbol": "Moxie:helen95-fc"
+        },
+        {
+            "address": "0x570A03f789FdcAfB682420486E319858C0F2d386",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/dytSWeJ.jpg",
+            "name": "Moxie:aditcyn-fc",
+            "symbol": "Moxie:aditcyn-fc"
         }
     ],
     "version": {
