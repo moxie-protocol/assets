@@ -18790,6 +18790,13 @@
             "logoURI": "https://i.imgur.com/fUnOqzc.jpg",
             "name": "Moxie:rosemixa-fc",
             "symbol": "Moxie:rosemixa-fc"
+        },
+        {
+            "address": "0x4A42E468439828c3879b6f06e0D2a10FCacB1871",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114058ff-44b9-4102-bc72-2e4bfb0ce700/rectcrop3",
+            "name": "Moxie:wase1192-fc",
+            "symbol": "Moxie:wase1192-fc"
         }
     ],
     "version": {
