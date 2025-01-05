@@ -19105,6 +19105,13 @@
             "logoURI": "https://i.imgur.com/xdycyTj.jpg",
             "name": "Moxie:idrroyale-fc",
             "symbol": "Moxie:idrroyale-fc"
+        },
+        {
+            "address": "0x54CAE5E5ac6DC8C2DD4616e6C938405634FF922a",
+            "decimals": 18,
+            "logoURI": "https://imagizer.imageshack.com/img922/1775/3398MO.jpg",
+            "name": "Moxie:troudi.base.eth-base",
+            "symbol": "Moxie:troudi.base.eth-base"
         }
     ],
     "version": {
