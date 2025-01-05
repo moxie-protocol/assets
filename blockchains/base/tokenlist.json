@@ -19259,6 +19259,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1821330768372625408/pKZ-6xoP.jpg",
             "name": "Moxie:AbsoluteUknit-x",
             "symbol": "Moxie:AbsoluteUknit-x"
+        },
+        {
+            "address": "0xa3A20ad33e108adAd5a4006Ad5Fdf060856db365",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HIle4i1.jpg",
+            "name": "Moxie:febiwewen-fc",
+            "symbol": "Moxie:febiwewen-fc"
         }
     ],
     "version": {
