@@ -18804,6 +18804,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867357064206635008/OCL-lUVk.jpg",
             "name": "Moxie:rheairdrop-x",
             "symbol": "Moxie:rheairdrop-x"
+        },
+        {
+            "address": "0x4A953120ef30638C38BcdA27B4EA9C5c615533Ee",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1775216638599610368/lMTZcuNJ.jpg",
+            "name": "Moxie:NuelPosh_fx-x",
+            "symbol": "Moxie:NuelPosh_fx-x"
         }
     ],
     "version": {
