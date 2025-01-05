@@ -19287,6 +19287,13 @@
             "logoURI": "https://arweave.net/-piLEJemB3Lj6GcRgm5SqFQxzvaU1ewCYvsjVGOmG3I/",
             "name": "Moxie:reddiablo-fc",
             "symbol": "Moxie:reddiablo-fc"
+        },
+        {
+            "address": "0x1407c64f54F881606951213ce8A971C93eE456A3",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "jubayer00",
+            "symbol": "fid:862293"
         }
     ],
     "version": {
