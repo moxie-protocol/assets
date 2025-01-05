@@ -18748,6 +18748,13 @@
             "logoURI": "https://i.imgur.com/2BFP8xj.png",
             "name": "Moxie:xuanky89.eth-fc",
             "symbol": "Moxie:xuanky89.eth-fc"
+        },
+        {
+            "address": "0xF2177fe120f6B4eE29B689fd2D8AdF2f01B5055b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1851159670401974272/0RAaT4US.jpg",
+            "name": "Moxie:LudoChapa-x",
+            "symbol": "Moxie:LudoChapa-x"
         }
     ],
     "version": {
