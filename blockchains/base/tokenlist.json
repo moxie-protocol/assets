@@ -19511,6 +19511,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84979d8a-1f39-4649-de08-045a5fb97400/rectcrop3",
             "name": "Moxie:fauzi998-fc",
             "symbol": "Moxie:fauzi998-fc"
+        },
+        {
+            "address": "0x199C967eEB406fdb3E42B095c08d67ac840316AD",
+            "decimals": 18,
+            "logoURI": "https://ipfs.io/ipfs/QmTFAZu85hF2bHmpkRmuUjQ1CPhYRTnC8AJHNdVMUN2wsV?filename=piraterie",
+            "name": "Moxie:cryptodrop1-gt",
+            "symbol": "Moxie:cryptodrop1-gt"
         }
     ],
     "version": {
