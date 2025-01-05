@@ -19238,6 +19238,13 @@
             "logoURI": "https://i.imgur.com/tKWBMK7.jpg",
             "name": "Moxie:ryzenknight-fc",
             "symbol": "Moxie:ryzenknight-fc"
+        },
+        {
+            "address": "0x2dE3Fe6f1d719A783Ad4Ee1e9f94fd4bF528687f",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiarx4lfpmgfushhdljepg5ugf25vhyrlcidyza4satcng2cc3aqvi",
+            "name": "Moxie:danip97-fc",
+            "symbol": "Moxie:danip97-fc"
         }
     ],
     "version": {
