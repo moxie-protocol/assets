@@ -19273,6 +19273,13 @@
             "logoURI": null,
             "name": "naruto007-eth",
             "symbol": "fid:885645"
+        },
+        {
+            "address": "0x470Bc6daDFFE2667D669b7Bb9aD58f824bBaf585",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mihad06",
+            "symbol": "fid:532256"
         }
     ],
     "version": {
