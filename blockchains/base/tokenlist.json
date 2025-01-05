@@ -19539,6 +19539,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1817847697174659072/jC5U2Tkp.jpg",
             "name": "Moxie:Khaengkhung-x",
             "symbol": "Moxie:Khaengkhung-x"
+        },
+        {
+            "address": "0xFc30dDa13Dab2dCE21338fe93Ea8d78F05cb368C",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "pranta1000",
+            "symbol": "fid:875885"
         }
     ],
     "version": {
