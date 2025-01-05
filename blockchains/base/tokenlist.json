@@ -18832,6 +18832,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/df1f8e61-4f46-4373-e46f-1a16c297f500/rectcrop3",
             "name": "Moxie:elhazard-fc",
             "symbol": "Moxie:elhazard-fc"
+        },
+        {
+            "address": "0x0d63d88FE79a2599B7D1412d03D62F488Ca698CB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798342865539710976/meYnt3Tv.jpg",
+            "name": "Moxie:KingmaxNft-x",
+            "symbol": "Moxie:KingmaxNft-x"
         }
     ],
     "version": {
