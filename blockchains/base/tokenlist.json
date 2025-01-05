@@ -19133,6 +19133,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmSMRy8uKYHgZgnYyMxyys9MnBr3kTm6X741oZXfXhL624/8381.webp",
             "name": "Moxie:barber-fc",
             "symbol": "Moxie:barber-fc"
+        },
+        {
+            "address": "0xBC8d440996679C694192718b4c605FD3aEF00dd5",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmVdDRnf4AEeW1M7YAHyEERwydJ1jAduwBVsteEerak2rq/104.webp",
+            "name": "Moxie:mda01-fc",
+            "symbol": "Moxie:mda01-fc"
         }
     ],
     "version": {
