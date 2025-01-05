@@ -18930,6 +18930,13 @@
             "logoURI": "https://avatars.githubusercontent.com/u/17905883?s=200\u0026v=4",
             "name": "Moxie:cygwin.eth-ens",
             "symbol": "Moxie:cygwin.eth-ens"
+        },
+        {
+            "address": "0x33Abd7C768Fc315d8d0E0b8D1dd215d5bb3736B2",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YeyG2qt.jpg",
+            "name": "Moxie:lystenlyst-fc",
+            "symbol": "Moxie:lystenlyst-fc"
         }
     ],
     "version": {
