@@ -19588,6 +19588,13 @@
             "logoURI": "https://i.imgur.com/sDsfa3v.jpg",
             "name": "Moxie:ozihatake-fc",
             "symbol": "Moxie:ozihatake-fc"
+        },
+        {
+            "address": "0x7ca074fA3dD33691e56871EE3Dd7414a782549FC",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
+            "name": "Moxie:thien2389-fc",
+            "symbol": "Moxie:thien2389-fc"
         }
     ],
     "version": {
