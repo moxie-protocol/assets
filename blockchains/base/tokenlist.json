@@ -18811,6 +18811,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1775216638599610368/lMTZcuNJ.jpg",
             "name": "Moxie:NuelPosh_fx-x",
             "symbol": "Moxie:NuelPosh_fx-x"
+        },
+        {
+            "address": "0xE0e2873777c81C63d4605E70C62A3d6968913041",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1799063188606275584/dYSQLMNo.png",
+            "name": "Moxie:tina_crypto3-x",
+            "symbol": "Moxie:tina_crypto3-x"
         }
     ],
     "version": {
