@@ -18671,6 +18671,13 @@
             "logoURI": null,
             "name": "denzel146",
             "symbol": "fid:826690"
+        },
+        {
+            "address": "0x65C7E20069222b0380141F84BD78fC49EaFCDdff",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmdJB37ydtHcWZ1GXwr91q7FXcG8jucor8pgVAeJeSM3mS",
+            "name": "Moxie:emmiecrypt-fc",
+            "symbol": "Moxie:emmiecrypt-fc"
         }
     ],
     "version": {
