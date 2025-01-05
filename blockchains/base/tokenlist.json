@@ -19602,6 +19602,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e35d5c2-8888-4bbf-3b60-4d0d81fb5600/rectcrop3",
             "name": "Moxie:penistoken-fc",
             "symbol": "Moxie:penistoken-fc"
+        },
+        {
+            "address": "0x34A6001B327DD17C19939a973b283bF20b6E1225",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0VwiuDN.jpg",
+            "name": "Moxie:shebolang-fc",
+            "symbol": "Moxie:shebolang-fc"
         }
     ],
     "version": {
