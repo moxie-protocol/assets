@@ -19000,6 +19000,13 @@
             "logoURI": null,
             "name": "xdtyo",
             "symbol": "fid:902542"
+        },
+        {
+            "address": "0xf391be3aA1cfA16Ea75bd4DB0cDdC271476bAddB",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "natasa",
+            "symbol": "fid:646581"
         }
     ],
     "version": {
