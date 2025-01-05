@@ -18776,6 +18776,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/orange.jpg",
             "name": "Moxie:imanfir-fc",
             "symbol": "Moxie:imanfir-fc"
+        },
+        {
+            "address": "0x1257f6b32a316bf10A66810Ecc6485e254a4BdAA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/183b3a5d-6410-4df7-29e3-3871ade85c00/rectcrop3",
+            "name": "Moxie:ktybr-fc",
+            "symbol": "Moxie:ktybr-fc"
         }
     ],
     "version": {
