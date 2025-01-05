@@ -19595,6 +19595,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/red.jpg",
             "name": "Moxie:thien2389-fc",
             "symbol": "Moxie:thien2389-fc"
+        },
+        {
+            "address": "0xD5c454C29A1e22ebe64987Af92FBdf3746Af14Df",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e35d5c2-8888-4bbf-3b60-4d0d81fb5600/rectcrop3",
+            "name": "Moxie:penistoken-fc",
+            "symbol": "Moxie:penistoken-fc"
         }
     ],
     "version": {
