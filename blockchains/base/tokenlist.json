@@ -18643,6 +18643,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f4bbf1b-e2ff-4c72-cf03-3b4dbd74b200/rectcrop3",
             "name": "Moxie:kingcook-fc",
             "symbol": "Moxie:kingcook-fc"
+        },
+        {
+            "address": "0x56FDC6a28B333351AFA101592B9b600f1733c90e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867435147551027201/kOI8adwP.jpg",
+            "name": "Moxie:iamodc696i-x",
+            "symbol": "Moxie:iamodc696i-x"
         }
     ],
     "version": {
