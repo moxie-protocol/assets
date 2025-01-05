@@ -19119,6 +19119,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1588781647662821376/CRhvS_ZF.jpg",
             "name": "Moxie:lesmanaa23-x",
             "symbol": "Moxie:lesmanaa23-x"
+        },
+        {
+            "address": "0x7b59E13e270eF06D38372a70Ae85fBd7ae1dFde3",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/EKx_LIPbhYk_LGpKLetJX473LOO9bcMMim9crRb0hj4/",
+            "name": "Moxie:semian13-fc",
+            "symbol": "Moxie:semian13-fc"
         }
     ],
     "version": {
