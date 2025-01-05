@@ -19413,6 +19413,13 @@
             "logoURI": "https://pbs.twimg.com/media/GfeKg9zWEAAM_DU?format=jpg\u0026name=360x360",
             "name": "Moxie:gordi555.base.eth-base",
             "symbol": "Moxie:gordi555.base.eth-base"
+        },
+        {
+            "address": "0x4A030729c69C8F0459Ef65C6BD5F26Cd711922Fc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7b5afef9-5988-44bb-e8f8-30da67569500/rectcrop3",
+            "name": "Moxie:panah-fc",
+            "symbol": "Moxie:panah-fc"
         }
     ],
     "version": {
