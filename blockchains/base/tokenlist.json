@@ -18846,6 +18846,13 @@
             "logoURI": "https://i.imgur.com/oYCGhtA.jpg",
             "name": "Moxie:t7979-fc",
             "symbol": "Moxie:t7979-fc"
+        },
+        {
+            "address": "0x2d14ce59234B2e4136C6A176d1dEE2C98873c74E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4CXpDCa.jpg",
+            "name": "Moxie:kyoosi-fc",
+            "symbol": "Moxie:kyoosi-fc"
         }
     ],
     "version": {
