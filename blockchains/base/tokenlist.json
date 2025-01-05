@@ -19623,6 +19623,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0117ac-0597-4e96-1ab0-897e1060dd00/rectcrop3",
             "name": "Moxie:bygil-fc",
             "symbol": "Moxie:bygil-fc"
+        },
+        {
+            "address": "0x6d6Ed9FcB692CaA2A593768fE542bD315ef4b4cB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fddd7ab3-2012-40b8-686b-2e2cba80cd00/rectcrop3",
+            "name": "Moxie:queenmaya-fc",
+            "symbol": "Moxie:queenmaya-fc"
         }
     ],
     "version": {
