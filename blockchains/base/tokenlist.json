@@ -19035,6 +19035,13 @@
             "logoURI": "https://images.squarespace-cdn.com/content/v1/60f1a490a90ed8713c41c36c/1629223610791-LCBJG5451DRKX4WOB4SP/37-design-powers-url-structure.jpeg",
             "name": "Moxie:cobainhalbaru-gt",
             "symbol": "Moxie:cobainhalbaru-gt"
+        },
+        {
+            "address": "0xE1c100F60507e08bf14547DDa1A2DD685bfa1954",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/anh8Rb4.jpg",
+            "name": "Moxie:rizkiadriansrp-fc",
+            "symbol": "Moxie:rizkiadriansrp-fc"
         }
     ],
     "version": {
