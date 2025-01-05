@@ -19077,6 +19077,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1634857211066486789/CQzzLWid.jpg",
             "name": "Moxie:Conmai8-x",
             "symbol": "Moxie:Conmai8-x"
+        },
+        {
+            "address": "0xA0b698b4701B0D3FEDf0EE3dF79dc4565d3C681e",
+            "decimals": 18,
+            "logoURI": "https://media.istockphoto.com/id/1328212746/fr/vectoriel/mobylette-panneau.jpg?s=2048x2048\u0026w=is\u0026k=20\u0026c=n2xLjksrx6cAw74FJzNuuyOoeqt_eI8EBTg95cjdwGE=",
+            "name": "Moxie:galdefr1.base.eth-base",
+            "symbol": "Moxie:galdefr1.base.eth-base"
         }
     ],
     "version": {
