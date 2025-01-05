@@ -19490,6 +19490,13 @@
             "logoURI": "https://i.imgur.com/usN5HHQ.jpg",
             "name": "Moxie:zaiko-fc",
             "symbol": "Moxie:zaiko-fc"
+        },
+        {
+            "address": "0x53cc0aCCFFe3498A05E46f96dB63EcC181839DC7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/23zJfPE.jpg",
+            "name": "Moxie:hurikane-fc",
+            "symbol": "Moxie:hurikane-fc"
         }
     ],
     "version": {
