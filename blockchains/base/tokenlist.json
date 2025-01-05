@@ -19252,6 +19252,13 @@
             "logoURI": null,
             "name": "collector-eth",
             "symbol": "fid:917046"
+        },
+        {
+            "address": "0x9c7242C91D8e68922FBCd81d1BC7BBccB693bFbb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1821330768372625408/pKZ-6xoP.jpg",
+            "name": "Moxie:AbsoluteUknit-x",
+            "symbol": "Moxie:AbsoluteUknit-x"
         }
     ],
     "version": {
