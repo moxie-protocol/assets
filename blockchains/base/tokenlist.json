@@ -18993,6 +18993,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a435184b-06fa-40db-2a52-cc19c3c29700/rectcrop3",
             "name": "Moxie:phow-fc",
             "symbol": "Moxie:phow-fc"
+        },
+        {
+            "address": "0xB8747185522feEa441D2F4902f1A9FaBfb0c4956",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "xdtyo",
+            "symbol": "fid:902542"
         }
     ],
     "version": {
