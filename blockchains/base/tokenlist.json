@@ -19140,6 +19140,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmVdDRnf4AEeW1M7YAHyEERwydJ1jAduwBVsteEerak2rq/104.webp",
             "name": "Moxie:mda01-fc",
             "symbol": "Moxie:mda01-fc"
+        },
+        {
+            "address": "0x851F4d53aA770e4DCD5F46A849eB236F5422D2e6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7b23dc1-3881-4a3c-1d1d-7dfe5978a700/original",
+            "name": "Moxie:diazmbl-fc",
+            "symbol": "Moxie:diazmbl-fc"
         }
     ],
     "version": {
