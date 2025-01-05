@@ -18902,6 +18902,13 @@
             "logoURI": "https://i.imgur.com/pLAJeI0.jpg",
             "name": "Moxie:nobitx-fc",
             "symbol": "Moxie:nobitx-fc"
+        },
+        {
+            "address": "0xA87c61207a6E7De31cbAa5Ac6A047DE7F8b401C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6e2af40-1798-40c1-b141-d1e9481c5c00/rectcrop3",
+            "name": "Moxie:benu22-fc",
+            "symbol": "Moxie:benu22-fc"
         }
     ],
     "version": {
