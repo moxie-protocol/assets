@@ -19553,6 +19553,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c2bf95f3-1398-41cb-7e1a-7c7778d97100/rectcrop3",
             "name": "Moxie:axelda-fc",
             "symbol": "Moxie:axelda-fc"
+        },
+        {
+            "address": "0xB3523CA647D843E35b3392cd48508c9Fd6d3166B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30218b14-c583-4ffc-608a-62e74caa1900/rectcrop3",
+            "name": "Moxie:adnasyattar-fc",
+            "symbol": "Moxie:adnasyattar-fc"
         }
     ],
     "version": {
