@@ -18769,6 +18769,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1758501799089311745/Dp334ec8.jpg",
             "name": "Moxie:jujunjunior-x",
             "symbol": "Moxie:jujunjunior-x"
+        },
+        {
+            "address": "0x95226936E981b9B156bEA0c9FF4bC8B8FFC41274",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/orange.jpg",
+            "name": "Moxie:imanfir-fc",
+            "symbol": "Moxie:imanfir-fc"
         }
     ],
     "version": {
