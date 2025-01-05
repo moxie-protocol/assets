@@ -19210,6 +19210,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1401325976651436038/F04VZJY1.jpg",
             "name": "Moxie:zahid92045142-x",
             "symbol": "Moxie:zahid92045142-x"
+        },
+        {
+            "address": "0x0621cbE87Ac10d4C02f6C1F298aDd30039A1210b",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1.png",
+            "name": "Moxie:keraspisan-gt",
+            "symbol": "Moxie:keraspisan-gt"
         }
     ],
     "version": {
