@@ -19406,6 +19406,13 @@
             "logoURI": "https://i.imgur.com/5i8fMp2.jpg",
             "name": "Moxie:allanr-fc",
             "symbol": "Moxie:allanr-fc"
+        },
+        {
+            "address": "0x6f5d8e4305711A8b8a7c1B60A4C6eaa2a27C954e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/media/GfeKg9zWEAAM_DU?format=jpg\u0026name=360x360",
+            "name": "Moxie:gordi555.base.eth-base",
+            "symbol": "Moxie:gordi555.base.eth-base"
         }
     ],
     "version": {
