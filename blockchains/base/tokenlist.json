@@ -19392,6 +19392,13 @@
             "logoURI": null,
             "name": "jccbrezzo",
             "symbol": "fid:399420"
+        },
+        {
+            "address": "0x9E3B92Fc0104C566A8AFE215669AAF5900692ffE",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "moksadul",
+            "symbol": "fid:888206"
         }
     ],
     "version": {
