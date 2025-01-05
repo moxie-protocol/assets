@@ -19168,6 +19168,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1836501960972718080/1wuCz1ag.jpg",
             "name": "Moxie:Abbaful1-x",
             "symbol": "Moxie:Abbaful1-x"
+        },
+        {
+            "address": "0xcB9385E703F443f281D4E733a0F92a6B66531Fd6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/JojPS6R.png",
+            "name": "Moxie:jambulmerah-fc",
+            "symbol": "Moxie:jambulmerah-fc"
         }
     ],
     "version": {
