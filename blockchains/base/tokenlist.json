@@ -19518,6 +19518,13 @@
             "logoURI": "https://ipfs.io/ipfs/QmTFAZu85hF2bHmpkRmuUjQ1CPhYRTnC8AJHNdVMUN2wsV?filename=piraterie",
             "name": "Moxie:cryptodrop1-gt",
             "symbol": "Moxie:cryptodrop1-gt"
+        },
+        {
+            "address": "0x8ffF607F5047e481a0442aE928a8B7a91e587095",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65a9aa65-f92e-496a-2a6f-8372595fa000/original",
+            "name": "Moxie:saminkz-fc",
+            "symbol": "Moxie:saminkz-fc"
         }
     ],
     "version": {
