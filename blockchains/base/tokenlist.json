@@ -19245,6 +19245,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiarx4lfpmgfushhdljepg5ugf25vhyrlcidyza4satcng2cc3aqvi",
             "name": "Moxie:danip97-fc",
             "symbol": "Moxie:danip97-fc"
+        },
+        {
+            "address": "0x08619d343368e77e74f05D411D519dAABb401058",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "collector-eth",
+            "symbol": "fid:917046"
         }
     ],
     "version": {
