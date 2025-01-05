@@ -19217,6 +19217,13 @@
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1.png",
             "name": "Moxie:keraspisan-gt",
             "symbol": "Moxie:keraspisan-gt"
+        },
+        {
+            "address": "0x93D9b97ba2d6dF2633D4AF2f8018224b284c8f30",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59d8e7ec-6003-455e-4823-ff36c59ff800/rectcrop3",
+            "name": "Moxie:jimmynur22-fc",
+            "symbol": "Moxie:jimmynur22-fc"
         }
     ],
     "version": {
