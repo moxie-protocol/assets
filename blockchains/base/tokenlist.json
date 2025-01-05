@@ -19147,6 +19147,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7b23dc1-3881-4a3c-1d1d-7dfe5978a700/original",
             "name": "Moxie:diazmbl-fc",
             "symbol": "Moxie:diazmbl-fc"
+        },
+        {
+            "address": "0x2Bcf9E924ED46b135Ee7ef7Ea2194997d51cFa50",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864622381828067328/ohfyxBgb.jpg",
+            "name": "Moxie:L21100-x",
+            "symbol": "Moxie:L21100-x"
         }
     ],
     "version": {
