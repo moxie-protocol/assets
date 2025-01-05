@@ -18755,6 +18755,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1851159670401974272/0RAaT4US.jpg",
             "name": "Moxie:LudoChapa-x",
             "symbol": "Moxie:LudoChapa-x"
+        },
+        {
+            "address": "0x2e4c6C53De7f103e76fA86C0E596EE5BC1056862",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a4ddc26-ec7f-452e-032d-759a1a1a7800/rectcrop3",
+            "name": "Moxie:richingga.eth-fc",
+            "symbol": "Moxie:richingga.eth-fc"
         }
     ],
     "version": {
