@@ -18951,6 +18951,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6fdf1cb-39c5-4068-d6b5-643e21108b00/original",
             "name": "Moxie:ccelra-fc",
             "symbol": "Moxie:ccelra-fc"
+        },
+        {
+            "address": "0x47CCaCC366588EBAb1112f8C4d542C8e6077a16D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3df57c46-c5f0-48d0-4181-0152c2015600/rectcrop3",
+            "name": "Moxie:winy-fc",
+            "symbol": "Moxie:winy-fc"
         }
     ],
     "version": {
