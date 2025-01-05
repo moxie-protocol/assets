@@ -19280,6 +19280,13 @@
             "logoURI": null,
             "name": "mihad06",
             "symbol": "fid:532256"
+        },
+        {
+            "address": "0x61A60b4847F86B2216514EF41d7D8023923666eF",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/-piLEJemB3Lj6GcRgm5SqFQxzvaU1ewCYvsjVGOmG3I/",
+            "name": "Moxie:reddiablo-fc",
+            "symbol": "Moxie:reddiablo-fc"
         }
     ],
     "version": {
