@@ -18706,6 +18706,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1615223362099503106/67O1msn2.jpg",
             "name": "Moxie:Nasutio26167361-x",
             "symbol": "Moxie:Nasutio26167361-x"
+        },
+        {
+            "address": "0xC5788fF01eB2c5348B390FF7ecf799eE6434D2d7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1809520958501449729/an7mFxxC.jpg",
+            "name": "Moxie:mayflower3096-x",
+            "symbol": "Moxie:mayflower3096-x"
         }
     ],
     "version": {
