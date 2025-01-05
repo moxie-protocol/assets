@@ -19231,6 +19231,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/715087d4-e823-4b26-478a-8dec02c65200/rectcrop3",
             "name": "Moxie:bonxgdr-fc",
             "symbol": "Moxie:bonxgdr-fc"
+        },
+        {
+            "address": "0x3F9E55805C0258b800258C819872f13922c5a9D7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tKWBMK7.jpg",
+            "name": "Moxie:ryzenknight-fc",
+            "symbol": "Moxie:ryzenknight-fc"
         }
     ],
     "version": {
