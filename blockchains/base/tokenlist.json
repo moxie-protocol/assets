@@ -19483,6 +19483,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/220d6887-ed4f-4cca-7552-736b1104e400/rectcrop3",
             "name": "Moxie:antojiwex-fc",
             "symbol": "Moxie:antojiwex-fc"
+        },
+        {
+            "address": "0xC772133e7AD47d613c76AC728992C0F66aa6b7bA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/usN5HHQ.jpg",
+            "name": "Moxie:zaiko-fc",
+            "symbol": "Moxie:zaiko-fc"
         }
     ],
     "version": {
