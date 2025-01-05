@@ -18958,6 +18958,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3df57c46-c5f0-48d0-4181-0152c2015600/rectcrop3",
             "name": "Moxie:winy-fc",
             "symbol": "Moxie:winy-fc"
+        },
+        {
+            "address": "0x95A60d142ce8AEB3071D97d0b947B3D12e3a0C47",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/08699daf-9421-48a2-77af-20498bbac300/rectcrop3",
+            "name": "Moxie:baneee-fc",
+            "symbol": "Moxie:baneee-fc"
         }
     ],
     "version": {
