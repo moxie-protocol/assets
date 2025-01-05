@@ -18713,6 +18713,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1809520958501449729/an7mFxxC.jpg",
             "name": "Moxie:mayflower3096-x",
             "symbol": "Moxie:mayflower3096-x"
+        },
+        {
+            "address": "0x86736E7e17A17AC614bF848dd0374195F61A055F",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5gUhg4M.jpg",
+            "name": "Moxie:dexhex-fc",
+            "symbol": "Moxie:dexhex-fc"
         }
     ],
     "version": {
