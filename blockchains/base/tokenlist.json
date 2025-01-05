@@ -18895,6 +18895,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b90fa521-15cd-443a-bc6c-945ac6046000/rectcrop3",
             "name": "Moxie:zaels-fc",
             "symbol": "Moxie:zaels-fc"
+        },
+        {
+            "address": "0xF0d2ee94CCE781174b56FD571EE3945329A3DAd3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/pLAJeI0.jpg",
+            "name": "Moxie:nobitx-fc",
+            "symbol": "Moxie:nobitx-fc"
         }
     ],
     "version": {
