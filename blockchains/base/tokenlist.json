@@ -19385,6 +19385,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61217fd9-47f4-46c2-a901-db26816a1200/rectcrop3",
             "name": "Moxie:majidjeelani-fc",
             "symbol": "Moxie:majidjeelani-fc"
+        },
+        {
+            "address": "0x9A92A5BE2850383AC7719911eb89Ba06C5f7BD8e",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "jccbrezzo",
+            "symbol": "fid:399420"
         }
     ],
     "version": {
