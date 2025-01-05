@@ -19350,6 +19350,13 @@
             "logoURI": "https://i.imgur.com/cWUSOaA.jpg",
             "name": "Moxie:revanu-fc",
             "symbol": "Moxie:revanu-fc"
+        },
+        {
+            "address": "0x4308D8f448B8fE14F0A3BdE51DE7783268bCb396",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Hg8CHm9.png",
+            "name": "Moxie:hoam-fc",
+            "symbol": "Moxie:hoam-fc"
         }
     ],
     "version": {
