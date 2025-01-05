@@ -18853,6 +18853,13 @@
             "logoURI": "https://i.imgur.com/4CXpDCa.jpg",
             "name": "Moxie:kyoosi-fc",
             "symbol": "Moxie:kyoosi-fc"
+        },
+        {
+            "address": "0xE291cC149A6474832EFE18e7d0d0E2e4db62Da06",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lWBGgyO.jpg",
+            "name": "Moxie:helen95-fc",
+            "symbol": "Moxie:helen95-fc"
         }
     ],
     "version": {
