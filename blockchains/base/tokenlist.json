@@ -19343,6 +19343,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d3f290f-e58f-437e-d2b6-26153a55db00/rectcrop3",
             "name": "Moxie:notkyou-fc",
             "symbol": "Moxie:notkyou-fc"
+        },
+        {
+            "address": "0x0AADE0D8f0874B3273594e3382981088A66E204b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/cWUSOaA.jpg",
+            "name": "Moxie:revanu-fc",
+            "symbol": "Moxie:revanu-fc"
         }
     ],
     "version": {
