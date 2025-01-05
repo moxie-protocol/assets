@@ -19574,6 +19574,13 @@
             "logoURI": "https://i.imgur.com/9oCsC8g.jpg",
             "name": "Moxie:zetawarp-fc",
             "symbol": "Moxie:zetawarp-fc"
+        },
+        {
+            "address": "0xA6319B90f759107128115569e7BF675aaf7A97CB",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/da9SVbA.jpg",
+            "name": "Moxie:arachui-fc",
+            "symbol": "Moxie:arachui-fc"
         }
     ],
     "version": {
