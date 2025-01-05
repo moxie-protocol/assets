@@ -19525,6 +19525,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65a9aa65-f92e-496a-2a6f-8372595fa000/original",
             "name": "Moxie:saminkz-fc",
             "symbol": "Moxie:saminkz-fc"
+        },
+        {
+            "address": "0x2a82C01a79e1bD8d711EF61a5139e956078eD1eB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/be60066b-fe30-4714-ed16-d7fe94079600/original",
+            "name": "Moxie:mehrdad41-fc",
+            "symbol": "Moxie:mehrdad41-fc"
         }
     ],
     "version": {
