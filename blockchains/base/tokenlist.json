@@ -18741,6 +18741,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicmybf5e432lk6oxlnaqxpargvercgikez2zarasqts75zw3povyy",
             "name": "Moxie:rynzc-fc",
             "symbol": "Moxie:rynzc-fc"
+        },
+        {
+            "address": "0xf89E1743Cb89f08d5690696683546f7e7AddC42c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2BFP8xj.png",
+            "name": "Moxie:xuanky89.eth-fc",
+            "symbol": "Moxie:xuanky89.eth-fc"
         }
     ],
     "version": {
