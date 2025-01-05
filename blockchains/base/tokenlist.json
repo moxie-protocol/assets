@@ -19462,6 +19462,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:Akntyl01-x",
             "symbol": "Moxie:Akntyl01-x"
+        },
+        {
+            "address": "0x5B0aDb97FE007A8A60E9562E77a9E7786eD6f9D0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xlGuGgY.jpg",
+            "name": "Moxie:380246-fc",
+            "symbol": "Moxie:380246-fc"
         }
     ],
     "version": {
