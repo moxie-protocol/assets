@@ -19357,6 +19357,13 @@
             "logoURI": "https://i.imgur.com/Hg8CHm9.png",
             "name": "Moxie:hoam-fc",
             "symbol": "Moxie:hoam-fc"
+        },
+        {
+            "address": "0xaFBa2E59DCE3A204a518aCc40F6C9D6351Ad5728",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1500575197522497542/QrYv8Pwr.jpg",
+            "name": "Moxie:Mathis50652510-x",
+            "symbol": "Moxie:Mathis50652510-x"
         }
     ],
     "version": {
