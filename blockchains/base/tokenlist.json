@@ -18685,6 +18685,13 @@
             "logoURI": "https://i.imgur.com/U6yxa8f.jpg",
             "name": "Moxie:ozkantr1903-fc",
             "symbol": "Moxie:ozkantr1903-fc"
+        },
+        {
+            "address": "0x58e67303bFF22848AED581b9BdAbfe060fc89921",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:TAHUISITOGEEE-x",
+            "symbol": "Moxie:TAHUISITOGEEE-x"
         }
     ],
     "version": {
