@@ -18664,6 +18664,13 @@
             "logoURI": null,
             "name": "luhurdinata",
             "symbol": "fid:517379"
+        },
+        {
+            "address": "0xee9502beDBc522246963ef8a0B7cAB346e5c530f",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "denzel146",
+            "symbol": "fid:826690"
         }
     ],
     "version": {
