@@ -19609,6 +19609,13 @@
             "logoURI": "https://i.imgur.com/0VwiuDN.jpg",
             "name": "Moxie:shebolang-fc",
             "symbol": "Moxie:shebolang-fc"
+        },
+        {
+            "address": "0xA17a7d8E0034A1545D5B9b1c8def98bcc655E109",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/UPbwOYs.jpg",
+            "name": "Moxie:0xchamps-fc",
+            "symbol": "Moxie:0xchamps-fc"
         }
     ],
     "version": {
