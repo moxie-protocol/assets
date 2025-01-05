@@ -19581,6 +19581,13 @@
             "logoURI": "https://i.imgur.com/da9SVbA.jpg",
             "name": "Moxie:arachui-fc",
             "symbol": "Moxie:arachui-fc"
+        },
+        {
+            "address": "0xCcad8A2094624689B50A7c543940fF97aE989881",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sDsfa3v.jpg",
+            "name": "Moxie:ozihatake-fc",
+            "symbol": "Moxie:ozihatake-fc"
         }
     ],
     "version": {
