@@ -18734,6 +18734,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ce57822-adc9-4046-444d-eb530bff3900/original",
             "name": "Moxie:boofiq-fc",
             "symbol": "Moxie:boofiq-fc"
+        },
+        {
+            "address": "0x94Ca6134D0F2FFD790f087Da770309CE8A10a333",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeicmybf5e432lk6oxlnaqxpargvercgikez2zarasqts75zw3povyy",
+            "name": "Moxie:rynzc-fc",
+            "symbol": "Moxie:rynzc-fc"
         }
     ],
     "version": {
