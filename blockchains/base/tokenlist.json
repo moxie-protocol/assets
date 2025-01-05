@@ -18881,6 +18881,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1635985625882017794/nLRQ-ErD.jpg",
             "name": "Moxie:DionTriAgustia4-x",
             "symbol": "Moxie:DionTriAgustia4-x"
+        },
+        {
+            "address": "0x9b2108BeBcd7f4270B7C404de1B0d386f4828ACb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1803395350742573056/Rz1-QvlJ.jpg",
+            "name": "Moxie:0kegos-x",
+            "symbol": "Moxie:0kegos-x"
         }
     ],
     "version": {
