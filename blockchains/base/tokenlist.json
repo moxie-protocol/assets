@@ -18839,6 +18839,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1798342865539710976/meYnt3Tv.jpg",
             "name": "Moxie:KingmaxNft-x",
             "symbol": "Moxie:KingmaxNft-x"
+        },
+        {
+            "address": "0xE224D04Ba1Fea232Cc52FaF3307888F2197EcD0e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oYCGhtA.jpg",
+            "name": "Moxie:t7979-fc",
+            "symbol": "Moxie:t7979-fc"
         }
     ],
     "version": {
