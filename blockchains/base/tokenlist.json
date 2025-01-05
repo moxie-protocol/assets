@@ -18727,6 +18727,13 @@
             "logoURI": "https://i.imgur.com/vl8iTp7.jpg",
             "name": "Moxie:0xtomp-fc",
             "symbol": "Moxie:0xtomp-fc"
+        },
+        {
+            "address": "0x2BD906F52C9C4037b9f1E8761b348f13695845E6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ce57822-adc9-4046-444d-eb530bff3900/original",
+            "name": "Moxie:boofiq-fc",
+            "symbol": "Moxie:boofiq-fc"
         }
     ],
     "version": {
