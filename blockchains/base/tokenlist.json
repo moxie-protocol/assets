@@ -19224,6 +19224,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/59d8e7ec-6003-455e-4823-ff36c59ff800/rectcrop3",
             "name": "Moxie:jimmynur22-fc",
             "symbol": "Moxie:jimmynur22-fc"
+        },
+        {
+            "address": "0x8953d5208e30631eF2cCB257B9A0f29f3A172247",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/715087d4-e823-4b26-478a-8dec02c65200/rectcrop3",
+            "name": "Moxie:bonxgdr-fc",
+            "symbol": "Moxie:bonxgdr-fc"
         }
     ],
     "version": {
