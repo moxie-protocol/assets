@@ -19399,6 +19399,13 @@
             "logoURI": null,
             "name": "moksadul",
             "symbol": "fid:888206"
+        },
+        {
+            "address": "0x2e87012Ee155E632899d8c0CEF92CDb8749871AC",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5i8fMp2.jpg",
+            "name": "Moxie:allanr-fc",
+            "symbol": "Moxie:allanr-fc"
         }
     ],
     "version": {
