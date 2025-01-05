@@ -19070,6 +19070,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1849901928408612864/1O1GSjyV.jpg",
             "name": "Moxie:LCreArtionAI-x",
             "symbol": "Moxie:LCreArtionAI-x"
+        },
+        {
+            "address": "0x5dC02EcD2355FFaE078D6F48Fa660C5674c506E8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1634857211066486789/CQzzLWid.jpg",
+            "name": "Moxie:Conmai8-x",
+            "symbol": "Moxie:Conmai8-x"
         }
     ],
     "version": {
