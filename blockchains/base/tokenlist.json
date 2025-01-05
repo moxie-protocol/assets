@@ -18629,6 +18629,13 @@
             "logoURI": "https://i.imgur.com/IAJNh81.jpg",
             "name": "Moxie:shehusmall-fc",
             "symbol": "Moxie:shehusmall-fc"
+        },
+        {
+            "address": "0x40C2b7c864114C24F9Aa5B00F3F8f1760F845132",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Ga1mvjo.jpg",
+            "name": "Moxie:zinc-fc",
+            "symbol": "Moxie:zinc-fc"
         }
     ],
     "version": {
