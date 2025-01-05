@@ -18720,6 +18720,13 @@
             "logoURI": "https://i.imgur.com/5gUhg4M.jpg",
             "name": "Moxie:dexhex-fc",
             "symbol": "Moxie:dexhex-fc"
+        },
+        {
+            "address": "0x060d348efC0D4b65D3654eda44c9060ebe0c7049",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vl8iTp7.jpg",
+            "name": "Moxie:0xtomp-fc",
+            "symbol": "Moxie:0xtomp-fc"
         }
     ],
     "version": {
