@@ -19924,6 +19924,13 @@
             "logoURI": "https://i.imgur.com/SpyzQhl.jpg",
             "name": "Moxie:devotra-fc",
             "symbol": "Moxie:devotra-fc"
+        },
+        {
+            "address": "0xbC029707d95a3302be7087Dcc50608B25B7e3B31",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreib625gd57ucreo2ujt35lemlwq4uvxuac2xeermnwhzmr3bno3w4e",
+            "name": "Moxie:fikykyy-fc",
+            "symbol": "Moxie:fikykyy-fc"
         }
     ],
     "version": {
