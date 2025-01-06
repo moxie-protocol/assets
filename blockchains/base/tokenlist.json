@@ -20078,6 +20078,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1862830124489478144/0z1DB42A.jpg",
             "name": "Moxie:AmeerID_-x",
             "symbol": "Moxie:AmeerID_-x"
+        },
+        {
+            "address": "0xBF71C3e0556975826631DCDaf34118BB87C0Ee26",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Wr32G8k.jpg",
+            "name": "Moxie:setting-fc",
+            "symbol": "Moxie:setting-fc"
         }
     ],
     "version": {
