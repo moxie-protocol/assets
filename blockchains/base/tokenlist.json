@@ -19819,6 +19819,13 @@
             "logoURI": null,
             "name": "gasx",
             "symbol": "fid:863785"
+        },
+        {
+            "address": "0xFD9424aA0FA6eE2b63372b57bfcbb3fa86d7E3b8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1786340827142483968/okp2DRgv.jpg",
+            "name": "Moxie:botol112233-x",
+            "symbol": "Moxie:botol112233-x"
         }
     ],
     "version": {
