@@ -19658,6 +19658,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a16c959-cc12-4a5e-eb9b-5164a4e65100/rectcrop3",
             "name": "Moxie:hsnbhb-fc",
             "symbol": "Moxie:hsnbhb-fc"
+        },
+        {
+            "address": "0xf5bcA07FB84B51FA1DB6D9d0f793110b0BD75a4D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5370d3a6-fee6-4fd5-8f5c-1b83efe45a00/original",
+            "name": "Moxie:duckwife-fc",
+            "symbol": "Moxie:duckwife-fc"
         }
     ],
     "version": {
