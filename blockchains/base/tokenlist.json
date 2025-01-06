@@ -19749,6 +19749,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d05f05f-4f56-46aa-9d7e-c05ab635e100/rectcrop3",
             "name": "Moxie:higher1-fc",
             "symbol": "Moxie:higher1-fc"
+        },
+        {
+            "address": "0xB18B42bA350c96C740Eea4c3B4B71fC7AC84e35D",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qpVtvwP.jpg",
+            "name": "Moxie:babybozz04-fc",
+            "symbol": "Moxie:babybozz04-fc"
         }
     ],
     "version": {
