@@ -20246,6 +20246,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c4f7e8a-6f41-4d74-3029-d8a1bf368d00/rectcrop3",
             "name": "Moxie:mcbukky-fc",
             "symbol": "Moxie:mcbukky-fc"
+        },
+        {
+            "address": "0x90a2A49170092a44e587871830Ad6A29d35b2cA6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/996b5b8d-b391-4b71-cf72-edf8004c9b00/rectcrop3",
+            "name": "Moxie:memphis17-fc",
+            "symbol": "Moxie:memphis17-fc"
         }
     ],
     "version": {
