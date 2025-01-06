@@ -20218,6 +20218,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a6c5176-6078-4706-451a-7ebbddc45200/rectcrop3",
             "name": "Moxie:oliversykesxyz-fc",
             "symbol": "Moxie:oliversykesxyz-fc"
+        },
+        {
+            "address": "0x4854fbAa9aF8fE20e0B82E6d94A4879CDa7F8aa7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aea91320-b9d7-45c7-459f-7262d978db00/rectcrop3",
+            "name": "Moxie:blurs-fc",
+            "symbol": "Moxie:blurs-fc"
         }
     ],
     "version": {
