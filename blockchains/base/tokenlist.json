@@ -20316,6 +20316,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1856058716925374465/WfkXl73h.jpg",
             "name": "Moxie:richcryptoxd-x",
             "symbol": "Moxie:richcryptoxd-x"
+        },
+        {
+            "address": "0x817067B1D97961cf7EeAb19ff8D3fa739c2dE6aa",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xSa2vvU.jpg",
+            "name": "Moxie:elfriede-fc",
+            "symbol": "Moxie:elfriede-fc"
         }
     ],
     "version": {
