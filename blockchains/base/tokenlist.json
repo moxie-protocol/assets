@@ -19693,6 +19693,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870689703873445888/zIdJcYn2.jpg",
             "name": "Moxie:AirdropStarAdm-x",
             "symbol": "Moxie:AirdropStarAdm-x"
+        },
+        {
+            "address": "0x005F096DDCA29cea154AeA51bc8d8c9293f1f57f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/584ee2ca-bb77-4c99-de5c-09a99dd39800/rectcrop3",
+            "name": "Moxie:sussan-fc",
+            "symbol": "Moxie:sussan-fc"
         }
     ],
     "version": {
