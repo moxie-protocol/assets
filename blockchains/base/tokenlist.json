@@ -20106,6 +20106,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5bcea56-9512-4fcd-b1f7-46f817288200/rectcrop3",
             "name": "Moxie:rizalh-fc",
             "symbol": "Moxie:rizalh-fc"
+        },
+        {
+            "address": "0xB799fB9D0B9F03Bfb7103AeA3653b42015c4ad23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9efe7047-5d5c-4537-84ae-4f06377cc400/rectcrop3",
+            "name": "Moxie:zeerrey-fc",
+            "symbol": "Moxie:zeerrey-fc"
         }
     ],
     "version": {
