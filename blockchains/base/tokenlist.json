@@ -19938,6 +19938,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:SwagKren-x",
             "symbol": "Moxie:SwagKren-x"
+        },
+        {
+            "address": "0x5ecD2Cc91D9aC56a07aB2d0E4516C59d722698D7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/t76jTD8.jpg",
+            "name": "Moxie:preceh22-fc",
+            "symbol": "Moxie:preceh22-fc"
         }
     ],
     "version": {
