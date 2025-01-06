@@ -19973,6 +19973,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2983c32b-ebb9-49da-ffec-38f78fb56800/rectcrop3",
             "name": "Moxie:nekonime-fc",
             "symbol": "Moxie:nekonime-fc"
+        },
+        {
+            "address": "0x4DDFBF051829179447D04F18DfE581106c1FC507",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46b56362-672c-403f-4efa-829c02387100/rectcrop3",
+            "name": "Moxie:bitly-fc",
+            "symbol": "Moxie:bitly-fc"
         }
     ],
     "version": {
