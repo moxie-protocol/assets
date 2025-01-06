@@ -20008,6 +20008,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5edf6172-bb1f-497f-2766-6750613e6900/rectcrop3",
             "name": "Moxie:flowerf3-fc",
             "symbol": "Moxie:flowerf3-fc"
+        },
+        {
+            "address": "0x2a5dc44E42d3917c0454F9e511fa58a7A768AC88",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80426eb9-ffc8-4ffc-4df0-f6c97efd1a00/rectcrop3",
+            "name": "Moxie:qoisable-fc",
+            "symbol": "Moxie:qoisable-fc"
         }
     ],
     "version": {
