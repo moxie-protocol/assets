@@ -20323,6 +20323,13 @@
             "logoURI": "https://i.imgur.com/xSa2vvU.jpg",
             "name": "Moxie:elfriede-fc",
             "symbol": "Moxie:elfriede-fc"
+        },
+        {
+            "address": "0x86C9c9B6659E9054fe03217CebCa100b2d9DC68B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5049bbff-e57b-4135-5a97-70e4f62b8e00/rectcrop3",
+            "name": "Moxie:aminaghdam-fc",
+            "symbol": "Moxie:aminaghdam-fc"
         }
     ],
     "version": {
