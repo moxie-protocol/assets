@@ -19840,6 +19840,13 @@
             "logoURI": "https://i.imgur.com/6hjBo44.jpg",
             "name": "Moxie:court-fc",
             "symbol": "Moxie:court-fc"
+        },
+        {
+            "address": "0x7A958e7B4858A17C6123401Da4231c2ae9D119F1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1792903383248252928/921ckttq.png",
+            "name": "Moxie:AirdroopLab-x",
+            "symbol": "Moxie:AirdroopLab-x"
         }
     ],
     "version": {
