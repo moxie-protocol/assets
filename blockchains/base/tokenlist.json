@@ -20309,6 +20309,13 @@
             "logoURI": null,
             "name": "kollyaz",
             "symbol": "fid:826608"
+        },
+        {
+            "address": "0x17EA775a1eF321e1550A1Cf86907c3861F9E77fC",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1856058716925374465/WfkXl73h.jpg",
+            "name": "Moxie:richcryptoxd-x",
+            "symbol": "Moxie:richcryptoxd-x"
         }
     ],
     "version": {
