@@ -19777,6 +19777,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33ce8450-4866-47b4-6aa9-7d3deb4f9b00/rectcrop3",
             "name": "Moxie:0xdeeth-fc",
             "symbol": "Moxie:0xdeeth-fc"
+        },
+        {
+            "address": "0x521AFa207652A898d5d9CC6a9548F2568dD66533",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WjHNB1r.jpg",
+            "name": "Moxie:0xbsc-fc",
+            "symbol": "Moxie:0xbsc-fc"
         }
     ],
     "version": {
