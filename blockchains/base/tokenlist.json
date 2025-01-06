@@ -19826,6 +19826,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1786340827142483968/okp2DRgv.jpg",
             "name": "Moxie:botol112233-x",
             "symbol": "Moxie:botol112233-x"
+        },
+        {
+            "address": "0x6B797Ef831C7bb7B8baddcDe5019bbFd05FC20B6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/665be497-2495-4948-c271-4ece0b826f00/original",
+            "name": "Moxie:thethemitz-fc",
+            "symbol": "Moxie:thethemitz-fc"
         }
     ],
     "version": {
