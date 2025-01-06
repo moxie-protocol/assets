@@ -19714,6 +19714,13 @@
             "logoURI": "https://i.imgur.com/4JcnN9H.jpg",
             "name": "Moxie:krxr-fc",
             "symbol": "Moxie:krxr-fc"
+        },
+        {
+            "address": "0x5f10Db3D671483bb54DD617857C738B9D7Cac622",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreid3rcvt4xj3v63tzmjm6fbftfdkw2cjb6cbwchuf7d4hi65celyw4",
+            "name": "Moxie:vikvok-fc",
+            "symbol": "Moxie:vikvok-fc"
         }
     ],
     "version": {
