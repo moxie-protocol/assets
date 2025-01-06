@@ -19665,6 +19665,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5370d3a6-fee6-4fd5-8f5c-1b83efe45a00/original",
             "name": "Moxie:duckwife-fc",
             "symbol": "Moxie:duckwife-fc"
+        },
+        {
+            "address": "0x63A623077Bf70fcc5772A8A2c261Ad08d6DcBAb9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aeea9bb-5422-4edb-3b3d-5899e2521c00/rectcrop3",
+            "name": "Moxie:panducky-fc",
+            "symbol": "Moxie:panducky-fc"
         }
     ],
     "version": {
