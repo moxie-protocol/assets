@@ -19672,6 +19672,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2aeea9bb-5422-4edb-3b3d-5899e2521c00/rectcrop3",
             "name": "Moxie:panducky-fc",
             "symbol": "Moxie:panducky-fc"
+        },
+        {
+            "address": "0xdeA072E6f24105eaD56d866A12c56519B3dFC559",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76656b0f-fbf5-4102-b90a-357dd01c0d00/rectcrop3",
+            "name": "Moxie:duck3-fc",
+            "symbol": "Moxie:duck3-fc"
         }
     ],
     "version": {
