@@ -19791,6 +19791,13 @@
             "logoURI": "https://i.imgur.com/NKF74kq.jpg",
             "name": "Moxie:memojitu-fc",
             "symbol": "Moxie:memojitu-fc"
+        },
+        {
+            "address": "0xD389b0C865B9380E0Db14B5f8fDc16BB8B1D4b63",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1754108824951345153/qT_wfeO8.jpg",
+            "name": "Moxie:Adisamsul99-x",
+            "symbol": "Moxie:Adisamsul99-x"
         }
     ],
     "version": {
