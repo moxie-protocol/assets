@@ -20036,6 +20036,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2556b7e1-db4a-4360-9d38-c2b228d93a00/rectcrop3",
             "name": "Moxie:jaal27-fc",
             "symbol": "Moxie:jaal27-fc"
+        },
+        {
+            "address": "0x1AC087F22a32B09A80B2a64D39cFFAcEe9Eb05b8",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mohadese",
+            "symbol": "fid:444785"
         }
     ],
     "version": {
