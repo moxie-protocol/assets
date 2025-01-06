@@ -19812,6 +19812,13 @@
             "logoURI": "https://i.imgur.com/vSiy31J.jpg",
             "name": "Moxie:olimpiusinferno-fc",
             "symbol": "Moxie:olimpiusinferno-fc"
+        },
+        {
+            "address": "0xB58CDeC8f848F73959313F8398ed6c69b7440405",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "gasx",
+            "symbol": "fid:863785"
         }
     ],
     "version": {
