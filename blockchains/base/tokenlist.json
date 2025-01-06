@@ -19742,6 +19742,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1805472920090951682/fJH9hNmw.jpg",
             "name": "Moxie:Bayu13763957-x",
             "symbol": "Moxie:Bayu13763957-x"
+        },
+        {
+            "address": "0x9b23891dEAfcbAF9071DD98c75D6901C24400594",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d05f05f-4f56-46aa-9d7e-c05ab635e100/rectcrop3",
+            "name": "Moxie:higher1-fc",
+            "symbol": "Moxie:higher1-fc"
         }
     ],
     "version": {
