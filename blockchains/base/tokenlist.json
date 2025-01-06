@@ -20162,6 +20162,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/537655f6-283f-43c7-2a2d-7e61bf7f1200/rectcrop3",
             "name": "Moxie:usds-fc",
             "symbol": "Moxie:usds-fc"
+        },
+        {
+            "address": "0x262267cF6e1CfAF4Cd7e2cf0D8348c7Cc09C1113",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84d82740-5c39-4558-0166-a2cc9a540000/rectcrop3",
+            "name": "Moxie:mahnod-fc",
+            "symbol": "Moxie:mahnod-fc"
         }
     ],
     "version": {
