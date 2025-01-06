@@ -20225,6 +20225,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aea91320-b9d7-45c7-459f-7262d978db00/rectcrop3",
             "name": "Moxie:blurs-fc",
             "symbol": "Moxie:blurs-fc"
+        },
+        {
+            "address": "0xdEFf110668Ff4bbA6c4DD5092828962Ddf0fF90A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27766fd1-c2f2-4c10-95c4-129e1f0afd00/original",
+            "name": "Moxie:aliheydarian.eth-ens",
+            "symbol": "Moxie:aliheydarian.eth-ens"
         }
     ],
     "version": {
