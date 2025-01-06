@@ -20064,6 +20064,13 @@
             "logoURI": "https://i.imgur.com/Z4wxmaz.jpg",
             "name": "Moxie:zfckngz-fc",
             "symbol": "Moxie:zfckngz-fc"
+        },
+        {
+            "address": "0x7c1143bed214B7141b734c5D2556161E49543Cce",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sTcV6H7.jpg",
+            "name": "Moxie:zurouroo-fc",
+            "symbol": "Moxie:zurouroo-fc"
         }
     ],
     "version": {
