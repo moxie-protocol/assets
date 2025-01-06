@@ -19903,6 +19903,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1492496448692359173/C-BJSaZJ.jpg",
             "name": "Moxie:BapakeAmien-x",
             "symbol": "Moxie:BapakeAmien-x"
+        },
+        {
+            "address": "0x5342a251D056f8Fc45161c37fB9E89413dE3BE7a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a0f24eb0-1d53-47ff-92c0-3f49218d4e00/original",
+            "name": "Moxie:kelvin1-fc",
+            "symbol": "Moxie:kelvin1-fc"
         }
     ],
     "version": {
