@@ -19931,6 +19931,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreib625gd57ucreo2ujt35lemlwq4uvxuac2xeermnwhzmr3bno3w4e",
             "name": "Moxie:fikykyy-fc",
             "symbol": "Moxie:fikykyy-fc"
+        },
+        {
+            "address": "0xE5E223CD6bEDC19bEE3EFB770F020C7f0EA91563",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:SwagKren-x",
+            "symbol": "Moxie:SwagKren-x"
         }
     ],
     "version": {
