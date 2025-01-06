@@ -20260,6 +20260,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1875389996800090112/NQP6qZXg.jpg",
             "name": "Moxie:alizuki_-x",
             "symbol": "Moxie:alizuki_-x"
+        },
+        {
+            "address": "0x4F78F54c297942a9B75E35Ec92FFb422100EeA1f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b320b4f-b1f8-49fa-8242-5cfe89c36000/rectcrop3",
+            "name": "Moxie:channelpreston-fc",
+            "symbol": "Moxie:channelpreston-fc"
         }
     ],
     "version": {
