@@ -20001,6 +20001,13 @@
             "logoURI": "https://i.imgur.com/qjK3ezS.jpg",
             "name": "Moxie:artbysalman-fc",
             "symbol": "Moxie:artbysalman-fc"
+        },
+        {
+            "address": "0x36b4cdc0F1567ed5F218654f7158BcA506e613AB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5edf6172-bb1f-497f-2766-6750613e6900/rectcrop3",
+            "name": "Moxie:flowerf3-fc",
+            "symbol": "Moxie:flowerf3-fc"
         }
     ],
     "version": {
