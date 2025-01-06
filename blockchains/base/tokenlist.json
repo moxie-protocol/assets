@@ -19847,6 +19847,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1792903383248252928/921ckttq.png",
             "name": "Moxie:AirdroopLab-x",
             "symbol": "Moxie:AirdroopLab-x"
+        },
+        {
+            "address": "0x604AEE0B533a41F12499d46Cd859c2F971f8e8F8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1794285473004732416/c4fvegNL.jpg",
+            "name": "Moxie:New__State-x",
+            "symbol": "Moxie:New__State-x"
         }
     ],
     "version": {
