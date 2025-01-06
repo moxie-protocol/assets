@@ -20141,6 +20141,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/803c9839-2c82-4a2b-6aa4-9caff4bce900/rectcrop3",
             "name": "Moxie:thaisvaz-fc",
             "symbol": "Moxie:thaisvaz-fc"
+        },
+        {
+            "address": "0x269cea29fD96Bb2c51E215ee64BEE7b43Bc8A9ec",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1654803744360628225/qvhKl2Gz.jpg",
+            "name": "Moxie:wowodon-x",
+            "symbol": "Moxie:wowodon-x"
         }
     ],
     "version": {
