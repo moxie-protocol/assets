@@ -20274,6 +20274,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eca94aa5-752e-4fc0-9f5f-6ffc478dab00/original",
             "name": "Moxie:villawolf.eth-fc",
             "symbol": "Moxie:villawolf.eth-fc"
+        },
+        {
+            "address": "0x47054CE95AfEDD29e97DcbA8090e7102690A3fb9",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "thienan",
+            "symbol": "fid:512028"
         }
     ],
     "version": {
