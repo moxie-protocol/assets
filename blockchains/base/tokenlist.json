@@ -20407,6 +20407,13 @@
             "logoURI": "https://i.imgur.com/2LOWTeF.jpg",
             "name": "Moxie:r75-fc",
             "symbol": "Moxie:r75-fc"
+        },
+        {
+            "address": "0x358C217fb299cd6e4Fc7F6E3823C00d9C418cC0e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47f4b6be-964d-4d9c-dbf3-50bc40c18700/rectcrop3",
+            "name": "Moxie:szhyxt-fc",
+            "symbol": "Moxie:szhyxt-fc"
         }
     ],
     "version": {
