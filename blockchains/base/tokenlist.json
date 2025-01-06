@@ -19784,6 +19784,13 @@
             "logoURI": "https://i.imgur.com/WjHNB1r.jpg",
             "name": "Moxie:0xbsc-fc",
             "symbol": "Moxie:0xbsc-fc"
+        },
+        {
+            "address": "0x98A29C463fD92aeb1fD20F45b14CE81be02f9075",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/NKF74kq.jpg",
+            "name": "Moxie:memojitu-fc",
+            "symbol": "Moxie:memojitu-fc"
         }
     ],
     "version": {
