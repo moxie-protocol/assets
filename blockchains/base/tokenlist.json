@@ -20148,6 +20148,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1654803744360628225/qvhKl2Gz.jpg",
             "name": "Moxie:wowodon-x",
             "symbol": "Moxie:wowodon-x"
+        },
+        {
+            "address": "0xc1d8114f721a815D6e5d9e26908b8DF9DBc7681b",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/BhYyMK3.jpeg",
+            "name": "Moxie:web3sync.base.eth-base",
+            "symbol": "Moxie:web3sync.base.eth-base"
         }
     ],
     "version": {
