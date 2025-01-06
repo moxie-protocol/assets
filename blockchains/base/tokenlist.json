@@ -20015,6 +20015,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/80426eb9-ffc8-4ffc-4df0-f6c97efd1a00/rectcrop3",
             "name": "Moxie:qoisable-fc",
             "symbol": "Moxie:qoisable-fc"
+        },
+        {
+            "address": "0x688AE1E9cD066a8420d37aea5289a3025E71B759",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e750ab4d-57c3-49f8-d820-6db7b7239300/rectcrop3",
+            "name": "Moxie:liuqueen-fc",
+            "symbol": "Moxie:liuqueen-fc"
         }
     ],
     "version": {
