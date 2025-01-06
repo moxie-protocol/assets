@@ -20400,6 +20400,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea4fdb5e-bf41-4baa-11fa-e45ba341e000/rectcrop3",
             "name": "Moxie:tanyaq-fc",
             "symbol": "Moxie:tanyaq-fc"
+        },
+        {
+            "address": "0x1F675EBF034EFb9D5Eb3021E2f1Bac043b7FD748",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2LOWTeF.jpg",
+            "name": "Moxie:r75-fc",
+            "symbol": "Moxie:r75-fc"
         }
     ],
     "version": {
