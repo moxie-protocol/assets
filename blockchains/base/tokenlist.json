@@ -20169,6 +20169,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/84d82740-5c39-4558-0166-a2cc9a540000/rectcrop3",
             "name": "Moxie:mahnod-fc",
             "symbol": "Moxie:mahnod-fc"
+        },
+        {
+            "address": "0xb493b6954754E8E49b9A96462f4e420970C93D7a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872010885314560000/_yLfDtT5.jpg",
+            "name": "Moxie:Lightbie-x",
+            "symbol": "Moxie:Lightbie-x"
         }
     ],
     "version": {
