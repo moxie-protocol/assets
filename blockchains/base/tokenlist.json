@@ -19868,6 +19868,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a6b53bc-87d5-41c6-e580-627df554b200/original",
             "name": "Moxie:ar999-fc",
             "symbol": "Moxie:ar999-fc"
+        },
+        {
+            "address": "0x24c7Ca7cf0Ed450d1883Cdbb3e9Fb74FfDdf1FaE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83bdcfce-d78e-4e4a-5848-ab711f66d800/rectcrop3",
+            "name": "Moxie:pertofin-fc",
+            "symbol": "Moxie:pertofin-fc"
         }
     ],
     "version": {
