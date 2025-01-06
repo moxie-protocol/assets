@@ -19980,6 +19980,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46b56362-672c-403f-4efa-829c02387100/rectcrop3",
             "name": "Moxie:bitly-fc",
             "symbol": "Moxie:bitly-fc"
+        },
+        {
+            "address": "0x8903a70b5eBAA488244810e170f303165494DA0a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23d516bc-85fb-48d1-0315-03bbe6515500/rectcrop3",
+            "name": "Moxie:zeekganteng-fc",
+            "symbol": "Moxie:zeekganteng-fc"
         }
     ],
     "version": {
