@@ -19679,6 +19679,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/76656b0f-fbf5-4102-b90a-357dd01c0d00/rectcrop3",
             "name": "Moxie:duck3-fc",
             "symbol": "Moxie:duck3-fc"
+        },
+        {
+            "address": "0x87371e44D1BF0AEA3Aa2bC7CD5bab902403Cb576",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9nrsBZX.jpg",
+            "name": "Moxie:farcaser-fc",
+            "symbol": "Moxie:farcaser-fc"
         }
     ],
     "version": {
