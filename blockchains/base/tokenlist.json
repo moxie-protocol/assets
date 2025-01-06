@@ -20365,6 +20365,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868182079776890880/CYX64GU_.jpg",
             "name": "Moxie:y0uts-x",
             "symbol": "Moxie:y0uts-x"
+        },
+        {
+            "address": "0xAAA6f7E5E35530F2B1c17187d499F378A7419B52",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79246c78-7e94-40cb-6fdb-48fb3de79f00/rectcrop3",
+            "name": "Moxie:armaco-fc",
+            "symbol": "Moxie:armaco-fc"
         }
     ],
     "version": {
