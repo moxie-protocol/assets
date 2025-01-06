@@ -20176,6 +20176,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872010885314560000/_yLfDtT5.jpg",
             "name": "Moxie:Lightbie-x",
             "symbol": "Moxie:Lightbie-x"
+        },
+        {
+            "address": "0xEbc8521B0C3318A743EA04a2A712E1822388ab08",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1865266539970334723/SAsQQZG9.jpg",
+            "name": "Moxie:dogedejavu-x",
+            "symbol": "Moxie:dogedejavu-x"
         }
     ],
     "version": {
