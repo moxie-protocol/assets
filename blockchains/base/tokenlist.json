@@ -19721,6 +19721,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreid3rcvt4xj3v63tzmjm6fbftfdkw2cjb6cbwchuf7d4hi65celyw4",
             "name": "Moxie:vikvok-fc",
             "symbol": "Moxie:vikvok-fc"
+        },
+        {
+            "address": "0xe0976724257707c50bCBDDfc4E201100c03e6aA8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1799746677718552576/fbV07FAR.jpg",
+            "name": "Moxie:Lao_66_-x",
+            "symbol": "Moxie:Lao_66_-x"
         }
     ],
     "version": {
