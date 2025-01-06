@@ -19875,6 +19875,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83bdcfce-d78e-4e4a-5848-ab711f66d800/rectcrop3",
             "name": "Moxie:pertofin-fc",
             "symbol": "Moxie:pertofin-fc"
+        },
+        {
+            "address": "0x3F0Dc057047F11AE285813750406F333114eDC4c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33c6e71b-db3d-452b-3629-ffa778164300/rectcrop3",
+            "name": "Moxie:wolfiess-fc",
+            "symbol": "Moxie:wolfiess-fc"
         }
     ],
     "version": {
