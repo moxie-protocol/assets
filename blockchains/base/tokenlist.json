@@ -19987,6 +19987,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23d516bc-85fb-48d1-0315-03bbe6515500/rectcrop3",
             "name": "Moxie:zeekganteng-fc",
             "symbol": "Moxie:zeekganteng-fc"
+        },
+        {
+            "address": "0x7B5F7bCCd67644831508D034B5db42046e90Cefb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874410848120131584/daeY7Nh9.jpg",
+            "name": "Moxie:EasternDoe-x",
+            "symbol": "Moxie:EasternDoe-x"
         }
     ],
     "version": {
