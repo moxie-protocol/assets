@@ -20155,6 +20155,13 @@
             "logoURI": "https://i.imgur.com/BhYyMK3.jpeg",
             "name": "Moxie:web3sync.base.eth-base",
             "symbol": "Moxie:web3sync.base.eth-base"
+        },
+        {
+            "address": "0x1Ae9Eb82F8257fec92175ad7707fBAB5FF795a28",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/537655f6-283f-43c7-2a2d-7e61bf7f1200/rectcrop3",
+            "name": "Moxie:usds-fc",
+            "symbol": "Moxie:usds-fc"
         }
     ],
     "version": {
