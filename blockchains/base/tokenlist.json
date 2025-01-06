@@ -20330,6 +20330,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5049bbff-e57b-4135-5a97-70e4f62b8e00/rectcrop3",
             "name": "Moxie:aminaghdam-fc",
             "symbol": "Moxie:aminaghdam-fc"
+        },
+        {
+            "address": "0xeC874E0a8687E9aF9dC33427025fFF7953b84094",
+            "decimals": 18,
+            "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/99/bc/4499bc0d-7d7b-397e-42da-263af9260d9a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.png",
+            "name": "Moxie:mercurie.eth-ens",
+            "symbol": "Moxie:mercurie.eth-ens"
         }
     ],
     "version": {
