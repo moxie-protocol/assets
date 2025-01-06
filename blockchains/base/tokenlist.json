@@ -20120,6 +20120,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6daa23c-78d2-4bc9-15c0-dc7240afbf00/original",
             "name": "Moxie:juli-fc",
             "symbol": "Moxie:juli-fc"
+        },
+        {
+            "address": "0x17e4cBB1b190A81f196f7a42e9DB028f4069F90f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1876285332829941761/YxCRQG5X.jpg",
+            "name": "Moxie:sPUDGYs-x",
+            "symbol": "Moxie:sPUDGYs-x"
         }
     ],
     "version": {
