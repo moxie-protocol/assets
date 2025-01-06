@@ -19735,6 +19735,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868107730894073856/TjUlCtha.jpg",
             "name": "Moxie:magisterRog-x",
             "symbol": "Moxie:magisterRog-x"
+        },
+        {
+            "address": "0x0d581A06fC45b3a5fCf06fa2D449A92D6c1374E4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805472920090951682/fJH9hNmw.jpg",
+            "name": "Moxie:Bayu13763957-x",
+            "symbol": "Moxie:Bayu13763957-x"
         }
     ],
     "version": {
