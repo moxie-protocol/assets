@@ -19966,6 +19966,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15324247-d811-4756-3469-505aedb88600/rectcrop3",
             "name": "Moxie:rankohr-fc",
             "symbol": "Moxie:rankohr-fc"
+        },
+        {
+            "address": "0xddc697ca51aE784d98929608a3D25075bC448e7b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2983c32b-ebb9-49da-ffec-38f78fb56800/rectcrop3",
+            "name": "Moxie:nekonime-fc",
+            "symbol": "Moxie:nekonime-fc"
         }
     ],
     "version": {
