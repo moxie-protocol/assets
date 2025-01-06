@@ -20302,6 +20302,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1806bcef-9e80-4c53-cb3b-a1420d72e200/rectcrop3",
             "name": "Moxie:kusnadi-fc",
             "symbol": "Moxie:kusnadi-fc"
+        },
+        {
+            "address": "0x34b932249d9F5e930405F42c8101AB04603D1C69",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "kollyaz",
+            "symbol": "fid:826608"
         }
     ],
     "version": {
