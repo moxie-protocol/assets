@@ -19805,6 +19805,13 @@
             "logoURI": "https://i.imgur.com/661Ulmw.jpg",
             "name": "Moxie:coinhunter-fc",
             "symbol": "Moxie:coinhunter-fc"
+        },
+        {
+            "address": "0x5358D51EA524b21fF40cc14f2a37C02D11578249",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vSiy31J.jpg",
+            "name": "Moxie:olimpiusinferno-fc",
+            "symbol": "Moxie:olimpiusinferno-fc"
         }
     ],
     "version": {
