@@ -20239,6 +20239,13 @@
             "logoURI": "https://i.imgur.com/duU7gxW.jpg",
             "name": "Moxie:serebro-fc",
             "symbol": "Moxie:serebro-fc"
+        },
+        {
+            "address": "0xBc715870b025cE41f00e1A56BA7684DF2aC4EccE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c4f7e8a-6f41-4d74-3029-d8a1bf368d00/rectcrop3",
+            "name": "Moxie:mcbukky-fc",
+            "symbol": "Moxie:mcbukky-fc"
         }
     ],
     "version": {
