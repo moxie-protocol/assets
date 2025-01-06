@@ -20197,6 +20197,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1748157831512297472/nd_MWcwm.jpg",
             "name": "Moxie:HerroSoFi-x",
             "symbol": "Moxie:HerroSoFi-x"
+        },
+        {
+            "address": "0xCDEd72d4bcE03e7D699050EA01aBC007542C0066",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1858763164604919808/l7D-jtdf.jpg",
+            "name": "Moxie:susproy7-x",
+            "symbol": "Moxie:susproy7-x"
         }
     ],
     "version": {
