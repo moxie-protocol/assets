@@ -20372,6 +20372,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79246c78-7e94-40cb-6fdb-48fb3de79f00/rectcrop3",
             "name": "Moxie:armaco-fc",
             "symbol": "Moxie:armaco-fc"
+        },
+        {
+            "address": "0x188D12b3af15EE940c37e0b05b74bd0F4Ee6C310",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad19c957-f2a7-4f7d-ddbb-46c06cee8300/original",
+            "name": "Moxie:tomsto-fc",
+            "symbol": "Moxie:tomsto-fc"
         }
     ],
     "version": {
