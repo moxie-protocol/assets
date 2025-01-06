@@ -19798,6 +19798,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1754108824951345153/qT_wfeO8.jpg",
             "name": "Moxie:Adisamsul99-x",
             "symbol": "Moxie:Adisamsul99-x"
+        },
+        {
+            "address": "0x25Bff4680D10b820bC05F2AB829384981D9045F9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/661Ulmw.jpg",
+            "name": "Moxie:coinhunter-fc",
+            "symbol": "Moxie:coinhunter-fc"
         }
     ],
     "version": {
