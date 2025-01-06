@@ -19763,6 +19763,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1653894201292226561/PXkoLQN7.jpg",
             "name": "Moxie:dhanic95-x",
             "symbol": "Moxie:dhanic95-x"
+        },
+        {
+            "address": "0x20B151ADe10534fd5f4107F077b56423e2d36a01",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40cb49e7-4bf8-4ed3-0dda-28f0e4b42d00/rectcrop3",
+            "name": "Moxie:kopikos-fc",
+            "symbol": "Moxie:kopikos-fc"
         }
     ],
     "version": {
