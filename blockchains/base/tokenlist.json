@@ -20386,6 +20386,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9bda6dc7-0217-477d-ddf2-f005d538e300/rectcrop3",
             "name": "Moxie:aigabubakar-fc",
             "symbol": "Moxie:aigabubakar-fc"
+        },
+        {
+            "address": "0x648945252e748f1EdF621c924ebE4503394Ad1Eb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c742f236-623a-4db9-ce04-d23dff89a400/rectcrop3",
+            "name": "Moxie:udien7-fc",
+            "symbol": "Moxie:udien7-fc"
         }
     ],
     "version": {
