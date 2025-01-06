@@ -20043,6 +20043,13 @@
             "logoURI": null,
             "name": "mohadese",
             "symbol": "fid:444785"
+        },
+        {
+            "address": "0xc8905363713761b39a9FEA047E4E3B78Bd75ff01",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/543dd947-fddc-41e1-2e06-a2dfaa860300/rectcrop3",
+            "name": "Moxie:neya777-fc",
+            "symbol": "Moxie:neya777-fc"
         }
     ],
     "version": {
