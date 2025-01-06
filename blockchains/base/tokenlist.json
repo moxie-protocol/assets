@@ -19861,6 +19861,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1490943129096450050/X2uEovZy.jpg",
             "name": "Moxie:RestianGer-x",
             "symbol": "Moxie:RestianGer-x"
+        },
+        {
+            "address": "0x8d79628Cc5763bf3f7dc5d2402b87b8f7062712c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a6b53bc-87d5-41c6-e580-627df554b200/original",
+            "name": "Moxie:ar999-fc",
+            "symbol": "Moxie:ar999-fc"
         }
     ],
     "version": {
