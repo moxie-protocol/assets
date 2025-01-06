@@ -19945,6 +19945,13 @@
             "logoURI": "https://i.imgur.com/t76jTD8.jpg",
             "name": "Moxie:preceh22-fc",
             "symbol": "Moxie:preceh22-fc"
+        },
+        {
+            "address": "0x45639dDf5850a12E38D1fD8e4cF8AAfC49f55056",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fe4a6ee0-9b19-47c7-59a0-56566532c500/rectcrop3",
+            "name": "Moxie:babynahna-fc",
+            "symbol": "Moxie:babynahna-fc"
         }
     ],
     "version": {
