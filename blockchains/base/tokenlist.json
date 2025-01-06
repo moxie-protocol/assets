@@ -19854,6 +19854,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1794285473004732416/c4fvegNL.jpg",
             "name": "Moxie:New__State-x",
             "symbol": "Moxie:New__State-x"
+        },
+        {
+            "address": "0xc3b83f8454BD7Fb3E2d634e30e33c492C0dD305a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1490943129096450050/X2uEovZy.jpg",
+            "name": "Moxie:RestianGer-x",
+            "symbol": "Moxie:RestianGer-x"
         }
     ],
     "version": {
