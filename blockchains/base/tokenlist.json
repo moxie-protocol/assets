@@ -20295,6 +20295,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876320070911340544/cX_WhNHi.jpg",
             "name": "Moxie:Puneth_sgr-x",
             "symbol": "Moxie:Puneth_sgr-x"
+        },
+        {
+            "address": "0x66bee4460d042172E6057e9029aed94d1B989b9b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1806bcef-9e80-4c53-cb3b-a1420d72e200/rectcrop3",
+            "name": "Moxie:kusnadi-fc",
+            "symbol": "Moxie:kusnadi-fc"
         }
     ],
     "version": {
