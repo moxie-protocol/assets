@@ -20232,6 +20232,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27766fd1-c2f2-4c10-95c4-129e1f0afd00/original",
             "name": "Moxie:aliheydarian.eth-ens",
             "symbol": "Moxie:aliheydarian.eth-ens"
+        },
+        {
+            "address": "0x1A22609D44B8a408C0deFB81830F8A1CDcCE3821",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/duU7gxW.jpg",
+            "name": "Moxie:serebro-fc",
+            "symbol": "Moxie:serebro-fc"
         }
     ],
     "version": {
