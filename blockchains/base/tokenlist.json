@@ -19833,6 +19833,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/665be497-2495-4948-c271-4ece0b826f00/original",
             "name": "Moxie:thethemitz-fc",
             "symbol": "Moxie:thethemitz-fc"
+        },
+        {
+            "address": "0x43BdA08A1acC8e4238CfD2A8761875432ad5Dc4E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6hjBo44.jpg",
+            "name": "Moxie:court-fc",
+            "symbol": "Moxie:court-fc"
         }
     ],
     "version": {
