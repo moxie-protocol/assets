@@ -20337,6 +20337,13 @@
             "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/99/bc/4499bc0d-7d7b-397e-42da-263af9260d9a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.png",
             "name": "Moxie:mercurie.eth-ens",
             "symbol": "Moxie:mercurie.eth-ens"
+        },
+        {
+            "address": "0xE18a0ce54A2f8F970969A2110e0d86f50470222B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1834087692684201984/BO_YkbW-.png",
+            "name": "Moxie:leryan576345-x",
+            "symbol": "Moxie:leryan576345-x"
         }
     ],
     "version": {
