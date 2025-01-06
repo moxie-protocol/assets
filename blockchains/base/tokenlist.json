@@ -20204,6 +20204,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1858763164604919808/l7D-jtdf.jpg",
             "name": "Moxie:susproy7-x",
             "symbol": "Moxie:susproy7-x"
+        },
+        {
+            "address": "0x52e3874eD2a6CDfa24c9cf4b961ADF40b1cdb29C",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871942602636795904/Tk8ALk5-.jpg",
+            "name": "Moxie:snox_eth-x",
+            "symbol": "Moxie:snox_eth-x"
         }
     ],
     "version": {
