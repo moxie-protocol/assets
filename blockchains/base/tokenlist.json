@@ -19994,6 +19994,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874410848120131584/daeY7Nh9.jpg",
             "name": "Moxie:EasternDoe-x",
             "symbol": "Moxie:EasternDoe-x"
+        },
+        {
+            "address": "0x8488688Cee80342897F04C1B749a2189e71EDcB6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/qjK3ezS.jpg",
+            "name": "Moxie:artbysalman-fc",
+            "symbol": "Moxie:artbysalman-fc"
         }
     ],
     "version": {
