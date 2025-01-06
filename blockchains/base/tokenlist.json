@@ -19917,6 +19917,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864395395159257088/UNWLfWMV.jpg",
             "name": "Moxie:kingTur93004418-x",
             "symbol": "Moxie:kingTur93004418-x"
+        },
+        {
+            "address": "0xDDd476DB31803F55FFD6db3a8C6c136cA213eAAc",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SpyzQhl.jpg",
+            "name": "Moxie:devotra-fc",
+            "symbol": "Moxie:devotra-fc"
         }
     ],
     "version": {
