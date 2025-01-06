@@ -19770,6 +19770,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40cb49e7-4bf8-4ed3-0dda-28f0e4b42d00/rectcrop3",
             "name": "Moxie:kopikos-fc",
             "symbol": "Moxie:kopikos-fc"
+        },
+        {
+            "address": "0xA851470E7530De1110733934eE4586D2C71Ec786",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33ce8450-4866-47b4-6aa9-7d3deb4f9b00/rectcrop3",
+            "name": "Moxie:0xdeeth-fc",
+            "symbol": "Moxie:0xdeeth-fc"
         }
     ],
     "version": {
