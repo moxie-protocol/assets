@@ -20288,6 +20288,13 @@
             "logoURI": "https://i.imgur.com/iwkErBu.png",
             "name": "Moxie:quechula-fc",
             "symbol": "Moxie:quechula-fc"
+        },
+        {
+            "address": "0x48922f48E80fD87AcCeAF7152AA9AB7F4e56b878",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1876320070911340544/cX_WhNHi.jpg",
+            "name": "Moxie:Puneth_sgr-x",
+            "symbol": "Moxie:Puneth_sgr-x"
         }
     ],
     "version": {
