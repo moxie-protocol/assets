@@ -20134,6 +20134,13 @@
             "logoURI": null,
             "name": "heledesign",
             "symbol": "fid:539806"
+        },
+        {
+            "address": "0x7d8eAe421dA1B02Bfc1885894a8d63529cDB6774",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/803c9839-2c82-4a2b-6aa4-9caff4bce900/rectcrop3",
+            "name": "Moxie:thaisvaz-fc",
+            "symbol": "Moxie:thaisvaz-fc"
         }
     ],
     "version": {
