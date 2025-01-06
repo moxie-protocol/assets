@@ -20085,6 +20085,13 @@
             "logoURI": "https://i.imgur.com/Wr32G8k.jpg",
             "name": "Moxie:setting-fc",
             "symbol": "Moxie:setting-fc"
+        },
+        {
+            "address": "0x04481452a7E784004315b00da2E903e6B4693C8f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4gpMBHX.gif",
+            "name": "Moxie:360noscope-fc",
+            "symbol": "Moxie:360noscope-fc"
         }
     ],
     "version": {
