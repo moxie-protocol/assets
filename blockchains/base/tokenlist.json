@@ -20211,6 +20211,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871942602636795904/Tk8ALk5-.jpg",
             "name": "Moxie:snox_eth-x",
             "symbol": "Moxie:snox_eth-x"
+        },
+        {
+            "address": "0x594929ecbF49f6Ad0e9F3676Ee506738CE6f7105",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6a6c5176-6078-4706-451a-7ebbddc45200/rectcrop3",
+            "name": "Moxie:oliversykesxyz-fc",
+            "symbol": "Moxie:oliversykesxyz-fc"
         }
     ],
     "version": {
