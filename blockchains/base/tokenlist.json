@@ -20358,6 +20358,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafybeiee62xpjut5t27owzi4bltt4hurc26mqfzoljl57fckfec37pv6li",
             "name": "Moxie:okasatria-fc",
             "symbol": "Moxie:okasatria-fc"
+        },
+        {
+            "address": "0x2F77Ff4C5B812A24200Bb2Aef53039Ae2C320fB3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868182079776890880/CYX64GU_.jpg",
+            "name": "Moxie:y0uts-x",
+            "symbol": "Moxie:y0uts-x"
         }
     ],
     "version": {
