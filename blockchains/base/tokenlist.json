@@ -20393,6 +20393,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c742f236-623a-4db9-ce04-d23dff89a400/rectcrop3",
             "name": "Moxie:udien7-fc",
             "symbol": "Moxie:udien7-fc"
+        },
+        {
+            "address": "0x698Fa02E0cc0187A3b383D16685DEBe6d4BCBf07",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea4fdb5e-bf41-4baa-11fa-e45ba341e000/rectcrop3",
+            "name": "Moxie:tanyaq-fc",
+            "symbol": "Moxie:tanyaq-fc"
         }
     ],
     "version": {
