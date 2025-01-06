@@ -20127,6 +20127,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876285332829941761/YxCRQG5X.jpg",
             "name": "Moxie:sPUDGYs-x",
             "symbol": "Moxie:sPUDGYs-x"
+        },
+        {
+            "address": "0xD5172dceb667e0B2ac1e216a76e9E94997D19dfb",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "heledesign",
+            "symbol": "fid:539806"
         }
     ],
     "version": {
