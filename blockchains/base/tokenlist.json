@@ -20267,6 +20267,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b320b4f-b1f8-49fa-8242-5cfe89c36000/rectcrop3",
             "name": "Moxie:channelpreston-fc",
             "symbol": "Moxie:channelpreston-fc"
+        },
+        {
+            "address": "0x8fa1fcb0a10903B7690923459cA36919965B6A31",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/eca94aa5-752e-4fc0-9f5f-6ffc478dab00/original",
+            "name": "Moxie:villawolf.eth-fc",
+            "symbol": "Moxie:villawolf.eth-fc"
         }
     ],
     "version": {
