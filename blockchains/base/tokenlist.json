@@ -20092,6 +20092,13 @@
             "logoURI": "https://i.imgur.com/4gpMBHX.gif",
             "name": "Moxie:360noscope-fc",
             "symbol": "Moxie:360noscope-fc"
+        },
+        {
+            "address": "0xb8FC8773d48d9F8C2a1e171Bb811E2efC7761496",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a60e37e-7dbb-4a04-265f-dc1e30751b00/rectcrop3",
+            "name": "Moxie:teck-fc",
+            "symbol": "Moxie:teck-fc"
         }
     ],
     "version": {
