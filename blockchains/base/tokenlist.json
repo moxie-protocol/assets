@@ -19882,6 +19882,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/33c6e71b-db3d-452b-3629-ffa778164300/rectcrop3",
             "name": "Moxie:wolfiess-fc",
             "symbol": "Moxie:wolfiess-fc"
+        },
+        {
+            "address": "0x9f1C70A491c2C807dd247686b808034dFF5777fb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1958d7a-df3b-4016-c689-f6674a2f8d00/rectcrop3",
+            "name": "Moxie:bonson-fc",
+            "symbol": "Moxie:bonson-fc"
         }
     ],
     "version": {
