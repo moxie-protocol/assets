@@ -20099,6 +20099,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3a60e37e-7dbb-4a04-265f-dc1e30751b00/rectcrop3",
             "name": "Moxie:teck-fc",
             "symbol": "Moxie:teck-fc"
+        },
+        {
+            "address": "0x892f736103bB3fc10786ACd59750e1455Af64406",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5bcea56-9512-4fcd-b1f7-46f817288200/rectcrop3",
+            "name": "Moxie:rizalh-fc",
+            "symbol": "Moxie:rizalh-fc"
         }
     ],
     "version": {
