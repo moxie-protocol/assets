@@ -20071,6 +20071,13 @@
             "logoURI": "https://i.imgur.com/sTcV6H7.jpg",
             "name": "Moxie:zurouroo-fc",
             "symbol": "Moxie:zurouroo-fc"
+        },
+        {
+            "address": "0x48F47E8a6E891fC1777bC01d8Df7eCE59a5c8ADA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1862830124489478144/0z1DB42A.jpg",
+            "name": "Moxie:AmeerID_-x",
+            "symbol": "Moxie:AmeerID_-x"
         }
     ],
     "version": {
