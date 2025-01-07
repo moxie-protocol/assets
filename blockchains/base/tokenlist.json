@@ -20666,6 +20666,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8fe12c2-8db0-49e0-7deb-7bfc5009d300/rectcrop3",
             "name": "Moxie:davxdd23-fc",
             "symbol": "Moxie:davxdd23-fc"
+        },
+        {
+            "address": "0xf0F8CAb430BCD8a2b0fa15aa3043ADcAeFd53b0A",
+            "decimals": 18,
+            "logoURI": "https://previews.123rf.com/images/siridhata/siridhata1612/siridhata161200016/67974608-cartoon-robot-vector-illustration.jpg",
+            "name": "Moxie:capzz.eth-ens",
+            "symbol": "Moxie:capzz.eth-ens"
         }
     ],
     "version": {
