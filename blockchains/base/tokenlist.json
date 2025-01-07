@@ -20582,6 +20582,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20d92897-7853-41e6-2936-52c2a2412b00/rectcrop3",
             "name": "Moxie:hafizen-fc",
             "symbol": "Moxie:hafizen-fc"
+        },
+        {
+            "address": "0xeD5412F2550b96EE948131BA46E136ce30BDD6Dc",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "elnaz555",
+            "symbol": "fid:343434"
         }
     ],
     "version": {
