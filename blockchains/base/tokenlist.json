@@ -20561,6 +20561,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1687766943984701440/hpVugd_K.jpg",
             "name": "Moxie:AldeusBada-x",
             "symbol": "Moxie:AldeusBada-x"
+        },
+        {
+            "address": "0xbb03939cAfE13621E4E7950d1C82452924Ef529D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e93a4434-8acb-45d5-a1fe-83b8a222b700/rectcrop3",
+            "name": "Moxie:gustidifa-fc",
+            "symbol": "Moxie:gustidifa-fc"
         }
     ],
     "version": {
