@@ -20554,6 +20554,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c87952c-5c55-483d-ad46-15a83ce9e100/rectcrop3",
             "name": "Moxie:hiyah-fc",
             "symbol": "Moxie:hiyah-fc"
+        },
+        {
+            "address": "0x9a273ceeEEB634e05f84DBA7FCE51505df63E3c8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1687766943984701440/hpVugd_K.jpg",
+            "name": "Moxie:AldeusBada-x",
+            "symbol": "Moxie:AldeusBada-x"
         }
     ],
     "version": {
