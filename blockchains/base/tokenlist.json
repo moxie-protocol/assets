@@ -20540,6 +20540,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876196981582032897/hL7knz6E.jpg",
             "name": "Moxie:Artanabilstore-x",
             "symbol": "Moxie:Artanabilstore-x"
+        },
+        {
+            "address": "0xAC7B9a35fC14187bC706338311f6591c0f22Bb39",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d337ae43-4f98-44f5-df6d-481ef87e1e00/original",
+            "name": "Moxie:myucup-fc",
+            "symbol": "Moxie:myucup-fc"
         }
     ],
     "version": {
