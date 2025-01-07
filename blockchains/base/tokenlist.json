@@ -20610,6 +20610,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b89ee8d-40c1-444f-45de-1534d297f700/original",
             "name": "Moxie:exoxy-fc",
             "symbol": "Moxie:exoxy-fc"
+        },
+        {
+            "address": "0x34921a1D789a1A745B7550ADb1259B9941DeBC02",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1876332327560937472/VhWDs46H.jpg",
+            "name": "Moxie:azzzbayu-x",
+            "symbol": "Moxie:azzzbayu-x"
         }
     ],
     "version": {
