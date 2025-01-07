@@ -20869,6 +20869,13 @@
             "logoURI": null,
             "name": "reyhaneko",
             "symbol": "fid:534384"
+        },
+        {
+            "address": "0xeA999142090c1413B2aDE47e2Eef236490BEB8f8",
+            "decimals": 18,
+            "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+            "name": "Moxie:Jack_0xi-x",
+            "symbol": "Moxie:Jack_0xi-x"
         }
     ],
     "version": {
