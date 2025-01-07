@@ -20603,6 +20603,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c53d5d2-90bc-4b8c-a61b-d6b742d3e800/rectcrop3",
             "name": "Moxie:whiskerworks-fc",
             "symbol": "Moxie:whiskerworks-fc"
+        },
+        {
+            "address": "0xfc9500B8a5D6074DA7158738d20B6395AD30E062",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5b89ee8d-40c1-444f-45de-1534d297f700/original",
+            "name": "Moxie:exoxy-fc",
+            "symbol": "Moxie:exoxy-fc"
         }
     ],
     "version": {
