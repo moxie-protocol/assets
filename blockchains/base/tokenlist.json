@@ -20575,6 +20575,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872603982788513792/DbWBSmoL.png",
             "name": "Moxie:amirhossei40493-x",
             "symbol": "Moxie:amirhossei40493-x"
+        },
+        {
+            "address": "0x0CE4eCF240780a2b1a142d4f8A17169488ab7d90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/20d92897-7853-41e6-2936-52c2a2412b00/rectcrop3",
+            "name": "Moxie:hafizen-fc",
+            "symbol": "Moxie:hafizen-fc"
         }
     ],
     "version": {
