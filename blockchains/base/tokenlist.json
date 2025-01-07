@@ -20638,6 +20638,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864194752771395584/PAzRT_MD.jpg",
             "name": "Moxie:ConfideAIBot-x",
             "symbol": "Moxie:ConfideAIBot-x"
+        },
+        {
+            "address": "0x2f4911cbD425a0f5A06E55fFdABaa2FCFdf3f361",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcf862b5-360e-4402-8992-cbe90ce7d900/rectcrop3",
+            "name": "Moxie:zuldemanto-fc",
+            "symbol": "Moxie:zuldemanto-fc"
         }
     ],
     "version": {
