@@ -20442,6 +20442,13 @@
             "logoURI": null,
             "name": "omidhassani",
             "symbol": "fid:457161"
+        },
+        {
+            "address": "0xA3815f3a3AcC6a891c62A0f0A33d9f3b78E2878c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/6jQAcxs.jpg",
+            "name": "Moxie:pervysage-fc",
+            "symbol": "Moxie:pervysage-fc"
         }
     ],
     "version": {
