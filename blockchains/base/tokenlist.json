@@ -20456,6 +20456,13 @@
             "logoURI": "https://aujkejflfo4hyqluantf4qcvcdfddkyozbegnt6ouju5gadiclvq.arweave.net/BRKiJKsruHxBdANmXkBVEMoxqw7ISGbPzqJp0wBoEus/",
             "name": "Moxie:unknownkz-fc",
             "symbol": "Moxie:unknownkz-fc"
+        },
+        {
+            "address": "0xb5e87454694dd32Baa835520904ecc6876a60d45",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f4f1c46-3a7f-4563-5c44-4f9489413c00/rectcrop3",
+            "name": "Moxie:0xichl-fc",
+            "symbol": "Moxie:0xichl-fc"
         }
     ],
     "version": {
