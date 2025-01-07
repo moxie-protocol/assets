@@ -20806,6 +20806,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a3e32bd-28c2-4319-9c66-74f7a4a4a000/rectcrop3",
             "name": "Moxie:0xfahmi-fc",
             "symbol": "Moxie:0xfahmi-fc"
+        },
+        {
+            "address": "0x2307FDb604287b68b2523Ef6CCDc26F47dcBB89C",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/oEfFPvw.jpg",
+            "name": "Moxie:vampire2001-fc",
+            "symbol": "Moxie:vampire2001-fc"
         }
     ],
     "version": {
