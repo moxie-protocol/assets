@@ -20757,6 +20757,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5396b4d3-a043-4c3a-9fdb-bf0c84846000/rectcrop3",
             "name": "Moxie:nixos-fc",
             "symbol": "Moxie:nixos-fc"
+        },
+        {
+            "address": "0x943837452fF70Cf83e3aAC0DAe5c8d4CeFCDAF3f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/WUv7eCF.jpg",
+            "name": "Moxie:obacrypt-fc",
+            "symbol": "Moxie:obacrypt-fc"
         }
     ],
     "version": {
