@@ -20792,6 +20792,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmbTiF7s5Tvu2CY9A9bK1dbnTzD9BeALvdUhG2GC9CJo6Q",
             "name": "Moxie:donvicmarchie-fc",
             "symbol": "Moxie:donvicmarchie-fc"
+        },
+        {
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855651259292000256/r639PN0E.jpg",
+            "name": "Moxie:yariftamani-x",
+            "symbol": "Moxie:yariftamani-x"
         }
     ],
     "version": {
