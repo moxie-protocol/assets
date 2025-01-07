@@ -20771,6 +20771,13 @@
             "logoURI": "https://i.imgur.com/8hxx57B.jpg",
             "name": "Moxie:mhafidya-fc",
             "symbol": "Moxie:mhafidya-fc"
+        },
+        {
+            "address": "0x062059DAF4AfdbCAD57E5a7A6E1822655022C98A",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/P1T1ULb.jpg",
+            "name": "Moxie:crypto4mi-fc",
+            "symbol": "Moxie:crypto4mi-fc"
         }
     ],
     "version": {
