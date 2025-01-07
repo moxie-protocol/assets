@@ -20589,6 +20589,13 @@
             "logoURI": null,
             "name": "elnaz555",
             "symbol": "fid:343434"
+        },
+        {
+            "address": "0x542299383Eaf9bce211B6e1b950bB0a831934404",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mienfoo.eth",
+            "symbol": "fid:834885"
         }
     ],
     "version": {
