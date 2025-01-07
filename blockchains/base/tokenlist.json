@@ -20876,6 +20876,13 @@
             "logoURI": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
             "name": "Moxie:Jack_0xi-x",
             "symbol": "Moxie:Jack_0xi-x"
+        },
+        {
+            "address": "0x6ce2af2a6051f6970e25ea76c26c13022FcECD5C",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/158VND2s/FWG1.jpg",
+            "name": "Moxie:jeromemarchal.base.eth-base",
+            "symbol": "Moxie:jeromemarchal.base.eth-base"
         }
     ],
     "version": {
