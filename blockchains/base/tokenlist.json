@@ -20743,6 +20743,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7f48446-6198-49ca-6830-e22fa45b2b00/original",
             "name": "Moxie:che3ewy-fc",
             "symbol": "Moxie:che3ewy-fc"
+        },
+        {
+            "address": "0x9F1c9418f3dE127DBF3bEeb03d4BbaF529AB0d9E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4ac56d9d-5eca-4d22-9f56-9ddbbe77b800/rectcrop3",
+            "name": "Moxie:717003-fc",
+            "symbol": "Moxie:717003-fc"
         }
     ],
     "version": {
