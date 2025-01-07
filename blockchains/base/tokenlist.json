@@ -20848,6 +20848,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864262657743769600/g8cEjgYr.jpg",
             "name": "Moxie:PascalPMS-x",
             "symbol": "Moxie:PascalPMS-x"
+        },
+        {
+            "address": "0x9CA4FcFAFE1fB4DC9A61d6Fce759c660Ff06bf3a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1810401747736940544/JplNbUkz.jpg",
+            "name": "Moxie:latenightonbase-x",
+            "symbol": "Moxie:latenightonbase-x"
         }
     ],
     "version": {
