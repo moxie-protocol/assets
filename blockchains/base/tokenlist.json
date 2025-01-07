@@ -20463,6 +20463,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f4f1c46-3a7f-4563-5c44-4f9489413c00/rectcrop3",
             "name": "Moxie:0xichl-fc",
             "symbol": "Moxie:0xichl-fc"
+        },
+        {
+            "address": "0x7C1A1459Afef077A34F60098992863417A1Be5B8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab706b16-a5f7-49f7-1baa-f5e69325ff00/original",
+            "name": "Moxie:ritanesterova.eth-fc",
+            "symbol": "Moxie:ritanesterova.eth-fc"
         }
     ],
     "version": {
