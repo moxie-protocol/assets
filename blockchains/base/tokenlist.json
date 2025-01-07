@@ -20498,6 +20498,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b18e4dd8-5b12-40e2-a40e-047d74be7500/rectcrop3",
             "name": "Moxie:marialee-fc",
             "symbol": "Moxie:marialee-fc"
+        },
+        {
+            "address": "0x3B549D6583524F519B9fcb25fcD464592feAb895",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32e6d571-e547-42cd-72f7-ef129aed3e00/rectcrop3",
+            "name": "Moxie:recreatabu-fc",
+            "symbol": "Moxie:recreatabu-fc"
         }
     ],
     "version": {
