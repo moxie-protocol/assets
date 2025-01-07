@@ -20722,6 +20722,13 @@
             "logoURI": null,
             "name": "ameliajohn",
             "symbol": "fid:874750"
+        },
+        {
+            "address": "0xC643317B620E918827F850809839f6Dedb38499c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1211268926803501056/Iz91Q9Dw.jpg",
+            "name": "Moxie:ahvaz200-x",
+            "symbol": "Moxie:ahvaz200-x"
         }
     ],
     "version": {
