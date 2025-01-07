@@ -20897,6 +20897,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8264b7ae-7471-4aa3-8bf6-f7ab04606a00/original",
             "name": "Moxie:192289-fc",
             "symbol": "Moxie:192289-fc"
+        },
+        {
+            "address": "0xD9C06f11a836f6391E85F4D5dB5bDFb3B08e7B03",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868905851119190017/Be-lYrOb.jpg",
+            "name": "Moxie:wanwinair-x",
+            "symbol": "Moxie:wanwinair-x"
         }
     ],
     "version": {
