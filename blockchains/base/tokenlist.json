@@ -20827,6 +20827,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3dcd1f9-a14f-4a15-5941-ede80b0e8f00/rectcrop3",
             "name": "Moxie:itiscryptoclock-fc",
             "symbol": "Moxie:itiscryptoclock-fc"
+        },
+        {
+            "address": "0xeeceDA35E860f3ad17E1DDAB53Efc2c30067Fa1E",
+            "decimals": 18,
+            "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzfsifLBVKjbu3wuBFAhxIO-f-mTiI-0NWGNt_n708Z90u0h_fQGap9wf\u0026s=10",
+            "name": "Moxie:azisch-gt",
+            "symbol": "Moxie:azisch-gt"
         }
     ],
     "version": {
