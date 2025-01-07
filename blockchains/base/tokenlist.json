@@ -20596,6 +20596,13 @@
             "logoURI": null,
             "name": "mienfoo.eth",
             "symbol": "fid:834885"
+        },
+        {
+            "address": "0x49C90649cfb13fCb47a8a8B178842Ee7cD058EB1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c53d5d2-90bc-4b8c-a61b-d6b742d3e800/rectcrop3",
+            "name": "Moxie:whiskerworks-fc",
+            "symbol": "Moxie:whiskerworks-fc"
         }
     ],
     "version": {
