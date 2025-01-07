@@ -20862,6 +20862,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a73e260b-43ce-4bf5-d0f3-2f3e90cd6900/rectcrop3",
             "name": "Moxie:lileisabel-fc",
             "symbol": "Moxie:lileisabel-fc"
+        },
+        {
+            "address": "0xf37a066771eA4A85629faE166460bD01a67a97DA",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "reyhaneko",
+            "symbol": "fid:534384"
         }
     ],
     "version": {
