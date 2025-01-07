@@ -20645,6 +20645,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bcf862b5-360e-4402-8992-cbe90ce7d900/rectcrop3",
             "name": "Moxie:zuldemanto-fc",
             "symbol": "Moxie:zuldemanto-fc"
+        },
+        {
+            "address": "0x7cA95e0Cb7e0Cc882A95c93D5A08A1Ede9544124",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/101a24f5-2704-41d0-b6e3-726bac772f00/rectcrop3",
+            "name": "Moxie:0xtara-fc",
+            "symbol": "Moxie:0xtara-fc"
         }
     ],
     "version": {
