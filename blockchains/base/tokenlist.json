@@ -20617,6 +20617,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876332327560937472/VhWDs46H.jpg",
             "name": "Moxie:azzzbayu-x",
             "symbol": "Moxie:azzzbayu-x"
+        },
+        {
+            "address": "0x6fc3DAd9742FC4C48A44827178A7D0CbAc2cD2EA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d06e49e6-5b1f-42d6-8d07-9718c5cb4900/original",
+            "name": "Moxie:lehabaks-fc",
+            "symbol": "Moxie:lehabaks-fc"
         }
     ],
     "version": {
