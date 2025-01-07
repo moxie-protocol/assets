@@ -20470,6 +20470,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab706b16-a5f7-49f7-1baa-f5e69325ff00/original",
             "name": "Moxie:ritanesterova.eth-fc",
             "symbol": "Moxie:ritanesterova.eth-fc"
+        },
+        {
+            "address": "0xa4aaDCE5AfDe07d697004a41562aE472E7138073",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "myro5",
+            "symbol": "fid:542439"
         }
     ],
     "version": {
