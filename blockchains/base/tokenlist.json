@@ -20477,6 +20477,13 @@
             "logoURI": null,
             "name": "myro5",
             "symbol": "fid:542439"
+        },
+        {
+            "address": "0x103Da99B4aa94a895B0966f4Dc0Ef573B1d5F8b5",
+            "decimals": 18,
+            "logoURI": "https://i.seadn.io/gae/md2a4dECvBrjQnYWrm-nyI3hU7G7-NXVUtD1rlQ2VhBhIiLVSyvzEdzndGGclI9AMZeEkOg8TBAe1q0EtMQ1BjiYzmj8emcLXKZahpQ?w=500\u0026auto=format",
+            "name": "Moxie:morereese-fc",
+            "symbol": "Moxie:morereese-fc"
         }
     ],
     "version": {
