@@ -20435,6 +20435,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1799624991681720320/hPylD6ZG.jpg",
             "name": "Moxie:Catseinyan-x",
             "symbol": "Moxie:Catseinyan-x"
+        },
+        {
+            "address": "0x3b0B61BB71eD64060FfeD8770a702D280Bb8F81B",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "omidhassani",
+            "symbol": "fid:457161"
         }
     ],
     "version": {
