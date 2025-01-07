@@ -20519,6 +20519,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1875885242986430464/NqzbMFpJ.jpg",
             "name": "Moxie:pepesglory-x",
             "symbol": "Moxie:pepesglory-x"
+        },
+        {
+            "address": "0x1246CfFCB616e097c843f4506CbDF0ed1A8c28E5",
+            "decimals": 18,
+            "logoURI": "https://zerion-dna.s3.us-east-1.amazonaws.com/onepointo/b81a8288a5c2d017a69f24c424b2bd63321f28f8.png",
+            "name": "Moxie:habibullah-fc",
+            "symbol": "Moxie:habibullah-fc"
         }
     ],
     "version": {
