@@ -20491,6 +20491,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b7f9626-2bc4-4889-bda1-87a88e253600/rectcrop3",
             "name": "Moxie:noven00-fc",
             "symbol": "Moxie:noven00-fc"
+        },
+        {
+            "address": "0x27018Bb6cFbBd4e1bE2F7DEd7C3472f74DABc375",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b18e4dd8-5b12-40e2-a40e-047d74be7500/rectcrop3",
+            "name": "Moxie:marialee-fc",
+            "symbol": "Moxie:marialee-fc"
         }
     ],
     "version": {
