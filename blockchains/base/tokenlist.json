@@ -20715,6 +20715,13 @@
             "logoURI": "https://i.imgur.com/QcQAe6B.jpg",
             "name": "Moxie:wanderlustmom-fc",
             "symbol": "Moxie:wanderlustmom-fc"
+        },
+        {
+            "address": "0x3168eAE047B36DD583348AFE2709b15065F77D8c",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ameliajohn",
+            "symbol": "fid:874750"
         }
     ],
     "version": {
