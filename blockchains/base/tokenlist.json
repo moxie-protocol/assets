@@ -20764,6 +20764,13 @@
             "logoURI": "https://i.imgur.com/WUv7eCF.jpg",
             "name": "Moxie:obacrypt-fc",
             "symbol": "Moxie:obacrypt-fc"
+        },
+        {
+            "address": "0x54aC8b747dE79cE657d482Bb5Ad7C508839E3a49",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8hxx57B.jpg",
+            "name": "Moxie:mhafidya-fc",
+            "symbol": "Moxie:mhafidya-fc"
         }
     ],
     "version": {
