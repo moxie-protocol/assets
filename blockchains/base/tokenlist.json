@@ -20841,6 +20841,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1382479077743984640/fNQFVga9.jpg",
             "name": "Moxie:ExtaziiiK-x",
             "symbol": "Moxie:ExtaziiiK-x"
+        },
+        {
+            "address": "0x287c1C5dC109Ade2c87182c84548D46903e7Fd4E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864262657743769600/g8cEjgYr.jpg",
+            "name": "Moxie:PascalPMS-x",
+            "symbol": "Moxie:PascalPMS-x"
         }
     ],
     "version": {
