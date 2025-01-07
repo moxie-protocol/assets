@@ -20729,6 +20729,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1211268926803501056/Iz91Q9Dw.jpg",
             "name": "Moxie:ahvaz200-x",
             "symbol": "Moxie:ahvaz200-x"
+        },
+        {
+            "address": "0x5A39f0A0d20D7083ec0177857d75627Ae874c8D9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f1869e27-076d-4443-babc-0604cf943400/rectcrop3",
+            "name": "Moxie:parieali888-fc",
+            "symbol": "Moxie:parieali888-fc"
         }
     ],
     "version": {
