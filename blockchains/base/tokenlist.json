@@ -20820,6 +20820,13 @@
             "logoURI": "https://i.imgur.com/uOwruG4.jpg",
             "name": "Moxie:pushpaa-fc",
             "symbol": "Moxie:pushpaa-fc"
+        },
+        {
+            "address": "0xf4Bc3898897b8c4cC19e9e6681F13c9589a4e815",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b3dcd1f9-a14f-4a15-5941-ede80b0e8f00/rectcrop3",
+            "name": "Moxie:itiscryptoclock-fc",
+            "symbol": "Moxie:itiscryptoclock-fc"
         }
     ],
     "version": {
