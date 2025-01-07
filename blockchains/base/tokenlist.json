@@ -20813,6 +20813,13 @@
             "logoURI": "https://i.imgur.com/oEfFPvw.jpg",
             "name": "Moxie:vampire2001-fc",
             "symbol": "Moxie:vampire2001-fc"
+        },
+        {
+            "address": "0x840458B1510B00Ffb71540E3db685a3D5cF73778",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/uOwruG4.jpg",
+            "name": "Moxie:pushpaa-fc",
+            "symbol": "Moxie:pushpaa-fc"
         }
     ],
     "version": {
