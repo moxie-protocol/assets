@@ -20505,6 +20505,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/32e6d571-e547-42cd-72f7-ef129aed3e00/rectcrop3",
             "name": "Moxie:recreatabu-fc",
             "symbol": "Moxie:recreatabu-fc"
+        },
+        {
+            "address": "0x54b963F9b2658FFF75d6E41936742eBF536cb05C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/79a64e5e-9ab2-4a5f-9b02-09f2601e7e00/original",
+            "name": "Moxie:dcot-fc",
+            "symbol": "Moxie:dcot-fc"
         }
     ],
     "version": {
