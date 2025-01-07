@@ -20421,6 +20421,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/968e22d9-81e4-41ce-856a-afcd91cfe700/rectcrop3",
             "name": "Moxie:babych-fc",
             "symbol": "Moxie:babych-fc"
+        },
+        {
+            "address": "0xbBB8ee935E4ef8215b34E8A7a1b3A2eC76b55f51",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f73d2d8-c623-48cf-a9e9-e0017b4fe500/rectcrop3",
+            "name": "Moxie:abbytrade-fc",
+            "symbol": "Moxie:abbytrade-fc"
         }
     ],
     "version": {
