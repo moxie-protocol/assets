@@ -20680,6 +20680,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1747209494961270784/-vZae8uh.jpg",
             "name": "Moxie:Vouzy16-x",
             "symbol": "Moxie:Vouzy16-x"
+        },
+        {
+            "address": "0x8297b8861AF91E28b84424d8969270793ceB72Af",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c43b324-42f7-4ff0-d1cc-6236c5ac2000/original",
+            "name": "Moxie:beerguy.eth-fc",
+            "symbol": "Moxie:beerguy.eth-fc"
         }
     ],
     "version": {
