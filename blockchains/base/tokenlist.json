@@ -20883,6 +20883,13 @@
             "logoURI": "https://i.postimg.cc/158VND2s/FWG1.jpg",
             "name": "Moxie:jeromemarchal.base.eth-base",
             "symbol": "Moxie:jeromemarchal.base.eth-base"
+        },
+        {
+            "address": "0x95f2E1F5d9bbe0b4eEa55431F849C131ec850A1E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b6c1696-f70c-4369-f839-62a4e2204100/rectcrop3",
+            "name": "Moxie:v4l-fc",
+            "symbol": "Moxie:v4l-fc"
         }
     ],
     "version": {
