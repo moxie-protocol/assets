@@ -20890,6 +20890,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b6c1696-f70c-4369-f839-62a4e2204100/rectcrop3",
             "name": "Moxie:v4l-fc",
             "symbol": "Moxie:v4l-fc"
+        },
+        {
+            "address": "0x719430B89aF144e68933A3c18D0021DF7329DAC5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8264b7ae-7471-4aa3-8bf6-f7ab04606a00/original",
+            "name": "Moxie:192289-fc",
+            "symbol": "Moxie:192289-fc"
         }
     ],
     "version": {
