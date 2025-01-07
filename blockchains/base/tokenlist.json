@@ -20624,6 +20624,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d06e49e6-5b1f-42d6-8d07-9718c5cb4900/original",
             "name": "Moxie:lehabaks-fc",
             "symbol": "Moxie:lehabaks-fc"
+        },
+        {
+            "address": "0xAFC62c61c4326d1a27841FF412f676B6Be421609",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/MH6MP43S/eth-logo-b.png",
+            "name": "Moxie:rockys.base.eth-base",
+            "symbol": "Moxie:rockys.base.eth-base"
         }
     ],
     "version": {
