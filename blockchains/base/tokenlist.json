@@ -20904,6 +20904,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868905851119190017/Be-lYrOb.jpg",
             "name": "Moxie:wanwinair-x",
             "symbol": "Moxie:wanwinair-x"
+        },
+        {
+            "address": "0x616cc796Ca11Bf8ECe4F26c508bA5691dcae3f3C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c15a37a-b382-412d-1191-79aa991db800/rectcrop3",
+            "name": "Moxie:branzahm-fc",
+            "symbol": "Moxie:branzahm-fc"
         }
     ],
     "version": {
