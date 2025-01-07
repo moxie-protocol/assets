@@ -20652,6 +20652,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/101a24f5-2704-41d0-b6e3-726bac772f00/rectcrop3",
             "name": "Moxie:0xtara-fc",
             "symbol": "Moxie:0xtara-fc"
+        },
+        {
+            "address": "0xCCd22ba21A74286955fCF890610709481931eC90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57807bc2-ed9f-438d-2353-c0e1ae851600/original",
+            "name": "Moxie:sofi888-fc",
+            "symbol": "Moxie:sofi888-fc"
         }
     ],
     "version": {
