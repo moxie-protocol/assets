@@ -20428,6 +20428,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f73d2d8-c623-48cf-a9e9-e0017b4fe500/rectcrop3",
             "name": "Moxie:abbytrade-fc",
             "symbol": "Moxie:abbytrade-fc"
+        },
+        {
+            "address": "0x1d4F7ce889635D61aC16A553A6e4B66FcF0a9ce3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1799624991681720320/hPylD6ZG.jpg",
+            "name": "Moxie:Catseinyan-x",
+            "symbol": "Moxie:Catseinyan-x"
         }
     ],
     "version": {
