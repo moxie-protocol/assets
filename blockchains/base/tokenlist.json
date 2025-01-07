@@ -20526,6 +20526,13 @@
             "logoURI": "https://zerion-dna.s3.us-east-1.amazonaws.com/onepointo/b81a8288a5c2d017a69f24c424b2bd63321f28f8.png",
             "name": "Moxie:habibullah-fc",
             "symbol": "Moxie:habibullah-fc"
+        },
+        {
+            "address": "0xD51dD6550475bf45B7c89076c80cFe4Fb3ac0384",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "seael",
+            "symbol": "fid:508306"
         }
     ],
     "version": {
