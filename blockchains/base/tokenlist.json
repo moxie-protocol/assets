@@ -20708,6 +20708,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d68a536d-a0db-4a0e-e773-d1c5e0b86200/rectcrop3",
             "name": "Moxie:scarfacenx-fc",
             "symbol": "Moxie:scarfacenx-fc"
+        },
+        {
+            "address": "0xa96D4aF65Be5b81c4B2d42dB9A213464a41bcb1B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QcQAe6B.jpg",
+            "name": "Moxie:wanderlustmom-fc",
+            "symbol": "Moxie:wanderlustmom-fc"
         }
     ],
     "version": {
