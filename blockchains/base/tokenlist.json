@@ -20778,6 +20778,13 @@
             "logoURI": "https://i.imgur.com/P1T1ULb.jpg",
             "name": "Moxie:crypto4mi-fc",
             "symbol": "Moxie:crypto4mi-fc"
+        },
+        {
+            "address": "0x2625fA51CbCcb2Fb744918cDA2f2f793A209cC9F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cfc0a78b-3a35-4ab8-d396-f81e5b765e00/rectcrop3",
+            "name": "Moxie:farhanduiky-fc",
+            "symbol": "Moxie:farhanduiky-fc"
         }
     ],
     "version": {
