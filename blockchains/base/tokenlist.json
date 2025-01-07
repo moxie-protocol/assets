@@ -20687,6 +20687,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c43b324-42f7-4ff0-d1cc-6236c5ac2000/original",
             "name": "Moxie:beerguy.eth-fc",
             "symbol": "Moxie:beerguy.eth-fc"
+        },
+        {
+            "address": "0x0D9b5B592d9ea29f526566A781E2DF74Ed246b64",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1805649304457019393/lrIQ97Ax.jpg",
+            "name": "Moxie:LawanHalli78193-x",
+            "symbol": "Moxie:LawanHalli78193-x"
         }
     ],
     "version": {
