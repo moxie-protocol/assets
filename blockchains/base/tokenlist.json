@@ -21107,6 +21107,13 @@
             "logoURI": "https://i.imgur.com/0rruysp.jpg",
             "name": "Moxie:sedtheboogeyman-fc",
             "symbol": "Moxie:sedtheboogeyman-fc"
+        },
+        {
+            "address": "0xC13f233A734aa8F42750dda1d572F8A1a75eb43B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcc7cf98-335e-484f-279c-8d4e5f59f900/rectcrop3",
+            "name": "Moxie:erlanggas1-fc",
+            "symbol": "Moxie:erlanggas1-fc"
         }
     ],
     "version": {
