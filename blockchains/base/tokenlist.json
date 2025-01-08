@@ -21093,6 +21093,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93911c30-7e70-40e8-a0fc-1074ea647f00/rectcrop3",
             "name": "Moxie:dyrnt-fc",
             "symbol": "Moxie:dyrnt-fc"
+        },
+        {
+            "address": "0x0731669ee97369D6780EF1D3E5008A012759C5E0",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "shimiken777.eth",
+            "symbol": "fid:507629"
         }
     ],
     "version": {
