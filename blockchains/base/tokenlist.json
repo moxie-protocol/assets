@@ -21065,6 +21065,13 @@
             "logoURI": "https://i.imgur.com/HUk5POn.jpg",
             "name": "Moxie:otan-fc",
             "symbol": "Moxie:otan-fc"
+        },
+        {
+            "address": "0xb36e8B8A03B351a4680511922f41fD8e478d8b8f",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/2Z8tD7K.jpg",
+            "name": "Moxie:jhonregel-fc",
+            "symbol": "Moxie:jhonregel-fc"
         }
     ],
     "version": {
