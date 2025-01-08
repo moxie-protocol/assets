@@ -21058,6 +21058,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43a2cacb-afc6-4c6f-ff33-21959816a400/original",
             "name": "Moxie:oolyoolya-fc",
             "symbol": "Moxie:oolyoolya-fc"
+        },
+        {
+            "address": "0x26917cD60EC72B107848d7DB4A1Cc0a28606bAbD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/HUk5POn.jpg",
+            "name": "Moxie:otan-fc",
+            "symbol": "Moxie:otan-fc"
         }
     ],
     "version": {
