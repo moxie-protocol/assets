@@ -21051,6 +21051,13 @@
             "logoURI": null,
             "name": "ptuan963",
             "symbol": "fid:512649"
+        },
+        {
+            "address": "0xda59e4938Ec0ee6DD1fE51876A221764b2B30F15",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43a2cacb-afc6-4c6f-ff33-21959816a400/original",
+            "name": "Moxie:oolyoolya-fc",
+            "symbol": "Moxie:oolyoolya-fc"
         }
     ],
     "version": {
