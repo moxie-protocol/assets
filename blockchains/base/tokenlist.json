@@ -21044,6 +21044,13 @@
             "logoURI": "https://i.imgur.com/ZjPkAlK.jpeg",
             "name": "Moxie:cr7pro.eth-ens",
             "symbol": "Moxie:cr7pro.eth-ens"
+        },
+        {
+            "address": "0x9985BCBCd3a266e1621BCFbFf7Cd45eD024Ed913",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ptuan963",
+            "symbol": "fid:512649"
         }
     ],
     "version": {
