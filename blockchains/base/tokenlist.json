@@ -20988,6 +20988,13 @@
             "logoURI": "https://i.imgur.com/kSRt9XI.jpg",
             "name": "Moxie:birulangit-fc",
             "symbol": "Moxie:birulangit-fc"
+        },
+        {
+            "address": "0x4c9A1cFAaB6AF869E2D525c867A10fEeE1caa553",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf787fb9-6d11-43fa-ab34-9d14e8fc3100/original",
+            "name": "Moxie:gopi-bathala-fc",
+            "symbol": "Moxie:gopi-bathala-fc"
         }
     ],
     "version": {
