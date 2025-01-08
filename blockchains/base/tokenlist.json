@@ -21100,6 +21100,13 @@
             "logoURI": null,
             "name": "shimiken777.eth",
             "symbol": "fid:507629"
+        },
+        {
+            "address": "0xc302eB75a3b8a6b822CFeE6e44c6A9Ab67f60004",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/0rruysp.jpg",
+            "name": "Moxie:sedtheboogeyman-fc",
+            "symbol": "Moxie:sedtheboogeyman-fc"
         }
     ],
     "version": {
