@@ -21135,6 +21135,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870045284463718400/pDTZ5xYa.jpg",
             "name": "Moxie:kunhot69-x",
             "symbol": "Moxie:kunhot69-x"
+        },
+        {
+            "address": "0x88BFff82519E1aDEC8cc757E46540b4e488ff708",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fdd5d5b-ba80-4887-ef51-54cf5e8ee600/original",
+            "name": "Moxie:robinusa.eth-fc",
+            "symbol": "Moxie:robinusa.eth-fc"
         }
     ],
     "version": {
