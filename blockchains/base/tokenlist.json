@@ -20960,6 +20960,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876826867346690048/aDbTip26.jpg",
             "name": "Moxie:xdz1745-x",
             "symbol": "Moxie:xdz1745-x"
+        },
+        {
+            "address": "0xC59c1920c678FAD41CEcC98B22790F2D20b89583",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bgeuhvS.jpg",
+            "name": "Moxie:rasadi-fc",
+            "symbol": "Moxie:rasadi-fc"
         }
     ],
     "version": {
