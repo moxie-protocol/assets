@@ -20967,6 +20967,13 @@
             "logoURI": "https://i.imgur.com/bgeuhvS.jpg",
             "name": "Moxie:rasadi-fc",
             "symbol": "Moxie:rasadi-fc"
+        },
+        {
+            "address": "0x778A6f6AfeB9EaD1b8f5D7612912a9B99302f66A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1fa51a9-16f3-4d1a-d674-756382513600/rectcrop3",
+            "name": "Moxie:mcflyguysnft-fc",
+            "symbol": "Moxie:mcflyguysnft-fc"
         }
     ],
     "version": {
