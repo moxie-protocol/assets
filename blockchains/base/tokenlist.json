@@ -20974,6 +20974,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1fa51a9-16f3-4d1a-d674-756382513600/rectcrop3",
             "name": "Moxie:mcflyguysnft-fc",
             "symbol": "Moxie:mcflyguysnft-fc"
+        },
+        {
+            "address": "0xCB3101abf5cEd3a683b98e1f879317c62f2Ca8A5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b27cf492-41a7-4ee1-3a03-370faf50dd00/rectcrop3",
+            "name": "Moxie:hiyeong-fc",
+            "symbol": "Moxie:hiyeong-fc"
         }
     ],
     "version": {
