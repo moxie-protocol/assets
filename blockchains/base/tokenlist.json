@@ -21002,6 +21002,13 @@
             "logoURI": "https://i.imgur.com/bRTDwuJ.png",
             "name": "Moxie:kenobi-fc",
             "symbol": "Moxie:kenobi-fc"
+        },
+        {
+            "address": "0xEaeB2b27D267A51EC6554A46cf32A1bFFbB2e3c5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1855563994406494208/NrMxQ62-.jpg",
+            "name": "Moxie:Fitriani1919-x",
+            "symbol": "Moxie:Fitriani1919-x"
         }
     ],
     "version": {
