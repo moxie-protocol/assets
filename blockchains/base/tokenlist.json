@@ -20939,6 +20939,13 @@
             "logoURI": "https://i.imgur.com/DqsdC7a.jpg",
             "name": "Moxie:planto-fc",
             "symbol": "Moxie:planto-fc"
+        },
+        {
+            "address": "0xEBe4f4475Ae3ecA4687a6C8Ffb3Bc61936097C7e",
+            "decimals": 18,
+            "logoURI": "https://img.freepik.com/vecteurs-libre/alien-mignon-volant-illustration-icone-vecteur-dessin-anime-ovni-icone-technologie-scientifique-isolee-plat_138676-6190.jpg?t=st=1736303369~exp=1736306969~hmac=00669b714dc70c9030fd8cb8f1e85fa5437ce70cca7e3a8c6299f4ac66d58405\u0026w=826",
+            "name": "Moxie:neomuld3r.base.eth-base",
+            "symbol": "Moxie:neomuld3r.base.eth-base"
         }
     ],
     "version": {
