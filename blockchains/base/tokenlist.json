@@ -21149,6 +21149,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1448571062720020481/h6NGCURA.jpg",
             "name": "Moxie:crypto_coloring-x",
             "symbol": "Moxie:crypto_coloring-x"
+        },
+        {
+            "address": "0xB9a35B93623209f7f7570Ce1E6c9dFf492A4ae50",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/247ed1f5-bb53-4572-3a61-d6ac9229af00/rectcrop3",
+            "name": "Moxie:scorpion6-fc",
+            "symbol": "Moxie:scorpion6-fc"
         }
     ],
     "version": {
