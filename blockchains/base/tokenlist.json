@@ -21114,6 +21114,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fcc7cf98-335e-484f-279c-8d4e5f59f900/rectcrop3",
             "name": "Moxie:erlanggas1-fc",
             "symbol": "Moxie:erlanggas1-fc"
+        },
+        {
+            "address": "0x9C97940444d5e50ee183cDE693fBCb8a12c6C08E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/1up",
+            "symbol": "cid:1up"
         }
     ],
     "version": {
