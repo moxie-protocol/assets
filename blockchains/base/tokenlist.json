@@ -21030,6 +21030,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a7f974d-bdcf-4b99-ba81-0a0663473600/rectcrop3",
             "name": "Moxie:zingier-fc",
             "symbol": "Moxie:zingier-fc"
+        },
+        {
+            "address": "0x921eE418dC8c7714935C6E9BD47025ee71879aC1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff0a90a5-c479-4fbf-cdce-7f0940499600/rectcrop3",
+            "name": "Moxie:mardhika-fc",
+            "symbol": "Moxie:mardhika-fc"
         }
     ],
     "version": {
