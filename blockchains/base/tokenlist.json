@@ -21121,6 +21121,13 @@
             "logoURI": null,
             "name": "/1up",
             "symbol": "cid:1up"
+        },
+        {
+            "address": "0x8665360fEA328331107f6B82ff7Cb01b2EC1555B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5e3a4a3-a84c-4e6c-4105-f10afdda0a00/rectcrop3",
+            "name": "Moxie:mtb-fc",
+            "symbol": "Moxie:mtb-fc"
         }
     ],
     "version": {
