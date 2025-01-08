@@ -21086,6 +21086,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2d54880-02b4-462c-e653-473539ac3600/rectcrop3",
             "name": "Moxie:alicey4827-fc",
             "symbol": "Moxie:alicey4827-fc"
+        },
+        {
+            "address": "0xa77E1EbC715cB2E240b45f4B61f46752Edb9860a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93911c30-7e70-40e8-a0fc-1074ea647f00/rectcrop3",
+            "name": "Moxie:dyrnt-fc",
+            "symbol": "Moxie:dyrnt-fc"
         }
     ],
     "version": {
