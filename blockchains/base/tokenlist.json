@@ -20911,6 +20911,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c15a37a-b382-412d-1191-79aa991db800/rectcrop3",
             "name": "Moxie:branzahm-fc",
             "symbol": "Moxie:branzahm-fc"
+        },
+        {
+            "address": "0x39B7da9f56d4F98739634245B687c34E6f8246c5",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/VVDHa7E2Qff8_4ump-ijFdr753TZbGuAF7PV1dL41Hs/",
+            "name": "Moxie:opiknye-fc",
+            "symbol": "Moxie:opiknye-fc"
         }
     ],
     "version": {
