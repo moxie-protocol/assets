@@ -21142,6 +21142,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fdd5d5b-ba80-4887-ef51-54cf5e8ee600/original",
             "name": "Moxie:robinusa.eth-fc",
             "symbol": "Moxie:robinusa.eth-fc"
+        },
+        {
+            "address": "0x7D6DFcB40af79dE8044c0bf342C5f2F768e45bbC",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1448571062720020481/h6NGCURA.jpg",
+            "name": "Moxie:crypto_coloring-x",
+            "symbol": "Moxie:crypto_coloring-x"
         }
     ],
     "version": {
