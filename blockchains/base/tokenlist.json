@@ -21128,6 +21128,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5e3a4a3-a84c-4e6c-4105-f10afdda0a00/rectcrop3",
             "name": "Moxie:mtb-fc",
             "symbol": "Moxie:mtb-fc"
+        },
+        {
+            "address": "0xa2F5DE1851dE0a631e7533587b70Dbb14864AFAB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870045284463718400/pDTZ5xYa.jpg",
+            "name": "Moxie:kunhot69-x",
+            "symbol": "Moxie:kunhot69-x"
         }
     ],
     "version": {
