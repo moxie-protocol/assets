@@ -20995,6 +20995,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bf787fb9-6d11-43fa-ab34-9d14e8fc3100/original",
             "name": "Moxie:gopi-bathala-fc",
             "symbol": "Moxie:gopi-bathala-fc"
+        },
+        {
+            "address": "0x50569E1cD8cFe1A48152329e4cb73412eDb21198",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/bRTDwuJ.png",
+            "name": "Moxie:kenobi-fc",
+            "symbol": "Moxie:kenobi-fc"
         }
     ],
     "version": {
