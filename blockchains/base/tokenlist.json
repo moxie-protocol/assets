@@ -20981,6 +20981,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b27cf492-41a7-4ee1-3a03-370faf50dd00/rectcrop3",
             "name": "Moxie:hiyeong-fc",
             "symbol": "Moxie:hiyeong-fc"
+        },
+        {
+            "address": "0xfAFD16746c7a02AAa67b0bc9B6163B2DfDc9c69e",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/kSRt9XI.jpg",
+            "name": "Moxie:birulangit-fc",
+            "symbol": "Moxie:birulangit-fc"
         }
     ],
     "version": {
