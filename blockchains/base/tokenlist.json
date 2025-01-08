@@ -21072,6 +21072,13 @@
             "logoURI": "https://i.imgur.com/2Z8tD7K.jpg",
             "name": "Moxie:jhonregel-fc",
             "symbol": "Moxie:jhonregel-fc"
+        },
+        {
+            "address": "0x42985e055425EC3BC06512061A420e6D6C9ee2c0",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/9dpOsO8.jpg",
+            "name": "Moxie:pedronosandrine-fc",
+            "symbol": "Moxie:pedronosandrine-fc"
         }
     ],
     "version": {
