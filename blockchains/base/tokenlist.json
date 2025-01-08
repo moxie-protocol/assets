@@ -20946,6 +20946,13 @@
             "logoURI": "https://img.freepik.com/vecteurs-libre/alien-mignon-volant-illustration-icone-vecteur-dessin-anime-ovni-icone-technologie-scientifique-isolee-plat_138676-6190.jpg?t=st=1736303369~exp=1736306969~hmac=00669b714dc70c9030fd8cb8f1e85fa5437ce70cca7e3a8c6299f4ac66d58405\u0026w=826",
             "name": "Moxie:neomuld3r.base.eth-base",
             "symbol": "Moxie:neomuld3r.base.eth-base"
+        },
+        {
+            "address": "0x0E8DdDA3969DC822fecc2204d3aAb533E3D0B5D6",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "lameya",
+            "symbol": "fid:888743"
         }
     ],
     "version": {
