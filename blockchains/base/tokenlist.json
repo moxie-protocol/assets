@@ -20918,6 +20918,13 @@
             "logoURI": "https://arweave.net/VVDHa7E2Qff8_4ump-ijFdr753TZbGuAF7PV1dL41Hs/",
             "name": "Moxie:opiknye-fc",
             "symbol": "Moxie:opiknye-fc"
+        },
+        {
+            "address": "0xb9Cb1e313Af72113628F561a3aBEadbe40d79C77",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1875791204190744576/3xaHvLE5.jpg",
+            "name": "Moxie:Krypto_nation-x",
+            "symbol": "Moxie:Krypto_nation-x"
         }
     ],
     "version": {
