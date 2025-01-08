@@ -21079,6 +21079,13 @@
             "logoURI": "https://i.imgur.com/9dpOsO8.jpg",
             "name": "Moxie:pedronosandrine-fc",
             "symbol": "Moxie:pedronosandrine-fc"
+        },
+        {
+            "address": "0x362cAe8a82fe8313c69EA2b06A0F668E12E1e647",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2d54880-02b4-462c-e653-473539ac3600/rectcrop3",
+            "name": "Moxie:alicey4827-fc",
+            "symbol": "Moxie:alicey4827-fc"
         }
     ],
     "version": {
