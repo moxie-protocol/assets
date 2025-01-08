@@ -21016,6 +21016,13 @@
             "logoURI": null,
             "name": "hnimtahn",
             "symbol": "fid:509728"
+        },
+        {
+            "address": "0xeff92B005f480967C16C34f10a282067b4aEa380",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861809896313831424/gIHH-tBo.jpg",
+            "name": "Moxie:daddimy-x",
+            "symbol": "Moxie:daddimy-x"
         }
     ],
     "version": {
