@@ -21618,6 +21618,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870596255170105345/Ou_G9sjU.jpg",
             "name": "Moxie:GOPjesusNFT-x",
             "symbol": "Moxie:GOPjesusNFT-x"
+        },
+        {
+            "address": "0x397D08387284315BEaA5f5d8e8426E3E83320535",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829783665741901824/Nqb9ddCX.jpg",
+            "name": "Moxie:BamsRbt_CRYP-x",
+            "symbol": "Moxie:BamsRbt_CRYP-x"
         }
     ],
     "version": {
