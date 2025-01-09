@@ -21352,6 +21352,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829156797615353857/40gWzR6D.jpg",
             "name": "Moxie:Marseusi-x",
             "symbol": "Moxie:Marseusi-x"
+        },
+        {
+            "address": "0x1205AF928e68501F5b3Ec4878D5DA7BeAd7cffB7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1836209245530001408/Cqz5nUdk.jpg",
+            "name": "Moxie:Exarchxyz-x",
+            "symbol": "Moxie:Exarchxyz-x"
         }
     ],
     "version": {
