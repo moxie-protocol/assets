@@ -21478,6 +21478,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832375364531957760/ST2sTBUd.jpg",
             "name": "Moxie:stone_heart16-x",
             "symbol": "Moxie:stone_heart16-x"
+        },
+        {
+            "address": "0xFF82221D123140d3b82eC7cC3d3946F791fAbc7B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830088331645829120/phcYADB9.jpg",
+            "name": "Moxie:malique_kyrein-x",
+            "symbol": "Moxie:malique_kyrein-x"
         }
     ],
     "version": {
