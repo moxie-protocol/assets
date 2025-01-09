@@ -21429,6 +21429,13 @@
             "logoURI": null,
             "name": "sorinart",
             "symbol": "fid:881776"
+        },
+        {
+            "address": "0x1c2372cF28ef64498F9b37762fD73736121748f1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1833172546755391488/DlwAPICF.jpg",
+            "name": "Moxie:evora_nita-x",
+            "symbol": "Moxie:evora_nita-x"
         }
     ],
     "version": {
