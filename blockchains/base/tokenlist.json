@@ -21317,6 +21317,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876893063060283392/Q-loegoK.jpg",
             "name": "Moxie:TheKazorenaApp-x",
             "symbol": "Moxie:TheKazorenaApp-x"
+        },
+        {
+            "address": "0xA0D01515Bbf38211aC1Df89707fe7e42A1969b6d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1821978552612614149/EGSDNXbn.jpg",
+            "name": "Moxie:MadLads01-x",
+            "symbol": "Moxie:MadLads01-x"
         }
     ],
     "version": {
