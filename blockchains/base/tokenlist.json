@@ -21646,6 +21646,13 @@
             "logoURI": "https://i.imgur.com/ZXts1ab.png",
             "name": "Moxie:funkypty-fc",
             "symbol": "Moxie:funkypty-fc"
+        },
+        {
+            "address": "0x4fcD6E9Cb247E9E60c622cd75E7dD36cbfafCeDC",
+            "decimals": 18,
+            "logoURI": "https://i.postimg.cc/FRbC7Kgv/Validator-3102.png",
+            "name": "Moxie:sacha0.eth-ens",
+            "symbol": "Moxie:sacha0.eth-ens"
         }
     ],
     "version": {
