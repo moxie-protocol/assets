@@ -21562,6 +21562,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1831642275635507200/e9Gx789B.jpg",
             "name": "Moxie:JamesPounder-x",
             "symbol": "Moxie:JamesPounder-x"
+        },
+        {
+            "address": "0x50430CBE82Fcb26A604cb714Fe9B938C670342bb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828868592320045056/VQIIXY1J.jpg",
+            "name": "Moxie:Stonesilent_-x",
+            "symbol": "Moxie:Stonesilent_-x"
         }
     ],
     "version": {
