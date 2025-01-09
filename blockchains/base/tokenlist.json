@@ -21457,6 +21457,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829768513772523520/LQruhhA2.jpg",
             "name": "Moxie:crypto_one99-x",
             "symbol": "Moxie:crypto_one99-x"
+        },
+        {
+            "address": "0x5979429347f91d9f53c3348E7d414e48267903cB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829846782219563012/QbdG0N9t.jpg",
+            "name": "Moxie:BataviaBbg-x",
+            "symbol": "Moxie:BataviaBbg-x"
         }
     ],
     "version": {
