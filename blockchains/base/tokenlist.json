@@ -21471,6 +21471,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1833387954133471232/qkg2ZEYp.jpg",
             "name": "Moxie:BilliardiO-x",
             "symbol": "Moxie:BilliardiO-x"
+        },
+        {
+            "address": "0x6da6624b77A1Bc03f264b8Df21B8D4fF40c07f2E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832375364531957760/ST2sTBUd.jpg",
+            "name": "Moxie:stone_heart16-x",
+            "symbol": "Moxie:stone_heart16-x"
         }
     ],
     "version": {
