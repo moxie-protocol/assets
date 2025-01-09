@@ -21597,6 +21597,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af421b33-485e-4fbd-ec89-b162f25e1d00/rectcrop3",
             "name": "Moxie:demonclubnft-fc",
             "symbol": "Moxie:demonclubnft-fc"
+        },
+        {
+            "address": "0x4f0eE54B32e5D7CaD79c3c077Ed3d9a3D7b54358",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1806220004016500736/Q-Sv0dtE.jpg",
+            "name": "Moxie:kiettran0699-x",
+            "symbol": "Moxie:kiettran0699-x"
         }
     ],
     "version": {
