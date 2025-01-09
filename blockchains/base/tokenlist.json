@@ -21338,6 +21338,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830147272492883968/xfotvkcC.jpg",
             "name": "Moxie:avaxsilent-x",
             "symbol": "Moxie:avaxsilent-x"
+        },
+        {
+            "address": "0xb559837D31648B131F5884FB05E071f6a91cBdb5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829150759520186368/YBWs8n45.png",
+            "name": "Moxie:VenusYpto_-x",
+            "symbol": "Moxie:VenusYpto_-x"
         }
     ],
     "version": {
