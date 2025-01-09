@@ -21275,6 +21275,13 @@
             "logoURI": "https://i.imgur.com/azzqxH2.jpg",
             "name": "Moxie:parviz8998-fc",
             "symbol": "Moxie:parviz8998-fc"
+        },
+        {
+            "address": "0x800412E8F0e248085E35386d17cF14AE601074c1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7a4e1d88-7a3c-4467-bf73-d98611e3c400/original",
+            "name": "Moxie:hoangbacay-fc",
+            "symbol": "Moxie:hoangbacay-fc"
         }
     ],
     "version": {
