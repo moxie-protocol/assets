@@ -21268,6 +21268,13 @@
             "logoURI": null,
             "name": "attiasaeed",
             "symbol": "fid:465258"
+        },
+        {
+            "address": "0xf8b4B3be675F845BFacd2B442C4eD5ca47dF68B6",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/azzqxH2.jpg",
+            "name": "Moxie:parviz8998-fc",
+            "symbol": "Moxie:parviz8998-fc"
         }
     ],
     "version": {
