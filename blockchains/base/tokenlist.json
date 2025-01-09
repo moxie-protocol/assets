@@ -21583,6 +21583,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832488691824230400/neIgyC30.jpg",
             "name": "Moxie:just_kedingtan_-x",
             "symbol": "Moxie:just_kedingtan_-x"
+        },
+        {
+            "address": "0x3b0391ffCc278E7613A09751D9FEfCe20Cc8aC90",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1835142467316072449/VNCSRH4E.jpg",
+            "name": "Moxie:cleo_crypt-x",
+            "symbol": "Moxie:cleo_crypt-x"
         }
     ],
     "version": {
