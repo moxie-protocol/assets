@@ -233,6 +233,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1795809226776076288/t76NJNuH.jpg",
             "name": "Moxie:navawaspick-x",
             "symbol": "Moxie:navawaspick-x"
+        },
+        {
+            "address": "0xdab588E4C46f2D39951A68f8eD07A8E30E82f09B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872798488293158912/ZRIkXiBU.jpg",
+            "name": "Moxie:nazriel_hasbi-x",
+            "symbol": "Moxie:nazriel_hasbi-x"
         }
     ],
     "version": {
