@@ -21674,6 +21674,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04f530fa-e057-4dbe-4403-12da0c0eea00/rectcrop3",
             "name": "Moxie:vagas-fc",
             "symbol": "Moxie:vagas-fc"
+        },
+        {
+            "address": "0x297186D2A5Df045f719a4748782Fa9518caE7D58",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1554820885449785344/pNiAFQoa.jpg",
+            "name": "Moxie:finkerzNFT-x",
+            "symbol": "Moxie:finkerzNFT-x"
         }
     ],
     "version": {
