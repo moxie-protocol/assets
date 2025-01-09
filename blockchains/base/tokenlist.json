@@ -21450,6 +21450,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830063183685697536/8b_TLnU0.jpg",
             "name": "Moxie:Elephantkids_-x",
             "symbol": "Moxie:Elephantkids_-x"
+        },
+        {
+            "address": "0x2Cd49ec03705b2e0fb479F32C310B56a48248924",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829768513772523520/LQruhhA2.jpg",
+            "name": "Moxie:crypto_one99-x",
+            "symbol": "Moxie:crypto_one99-x"
         }
     ],
     "version": {
