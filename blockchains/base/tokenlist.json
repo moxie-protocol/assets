@@ -21394,6 +21394,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828141910445432832/XItin8dc.jpg",
             "name": "Moxie:Bellaro2_-x",
             "symbol": "Moxie:Bellaro2_-x"
+        },
+        {
+            "address": "0x5e00DF80A8b8f7800d981968795E7fFABE17682E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830047435676401664/pSSqKC2F.jpg",
+            "name": "Moxie:AllOxygen_AVAX-x",
+            "symbol": "Moxie:AllOxygen_AVAX-x"
         }
     ],
     "version": {
