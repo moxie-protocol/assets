@@ -21569,6 +21569,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1828868592320045056/VQIIXY1J.jpg",
             "name": "Moxie:Stonesilent_-x",
             "symbol": "Moxie:Stonesilent_-x"
+        },
+        {
+            "address": "0xD0fa6d5E4dF63816541082bAEc0F8E8434eA17c6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1834151862440001536/V3CG2XmW.jpg",
+            "name": "Moxie:herier_cats-x",
+            "symbol": "Moxie:herier_cats-x"
         }
     ],
     "version": {
