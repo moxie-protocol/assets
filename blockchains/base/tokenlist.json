@@ -21212,6 +21212,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1768772254031044609/Xma38ShN.png",
             "name": "Moxie:SallahEl24866-x",
             "symbol": "Moxie:SallahEl24866-x"
+        },
+        {
+            "address": "0xeA35DB8eB169F3b3708D5816dcdA689C88E6378c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867692704337125376/Bh1Di9RS.jpg",
+            "name": "Moxie:Maleogg-x",
+            "symbol": "Moxie:Maleogg-x"
         }
     ],
     "version": {
