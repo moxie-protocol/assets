@@ -21303,6 +21303,13 @@
             "logoURI": null,
             "name": "likeme",
             "symbol": "fid:881606"
+        },
+        {
+            "address": "0x34B597FC31AC6F33118a3c4212e25B6cb808AEC7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1877306394027896832/Hzte94Pz.jpg",
+            "name": "Moxie:J0eDegen-x",
+            "symbol": "Moxie:J0eDegen-x"
         }
     ],
     "version": {
