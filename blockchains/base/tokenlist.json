@@ -21240,6 +21240,13 @@
             "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
             "name": "Moxie:avxzy-fc",
             "symbol": "Moxie:avxzy-fc"
+        },
+        {
+            "address": "0x026377f9b8F81E4D1f4Eaf8099F504eaF6695006",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RUqAteA.jpg",
+            "name": "Moxie:nhunguyen1219-fc",
+            "symbol": "Moxie:nhunguyen1219-fc"
         }
     ],
     "version": {
