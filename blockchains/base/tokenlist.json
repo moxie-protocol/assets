@@ -21702,6 +21702,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d775780b-4f58-41a4-6687-c3ca42bc2b00/original",
             "name": "Moxie:franklynr-fc",
             "symbol": "Moxie:franklynr-fc"
+        },
+        {
+            "address": "0x3486AD29d15Cda3cCf07948a0F8Cc41Be2fd61DF",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTgZVqMm9adxcjGTZN9T8m7YuumUmgjC7bixJ6kGFV4ic",
+            "name": "Moxie:mabrurie-fc",
+            "symbol": "Moxie:mabrurie-fc"
         }
     ],
     "version": {
