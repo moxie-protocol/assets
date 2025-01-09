@@ -21541,6 +21541,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872841956037939200/8IQiPsCT.jpg",
             "name": "Moxie:Gravemind99-x",
             "symbol": "Moxie:Gravemind99-x"
+        },
+        {
+            "address": "0x4592406E2ED5986c0Eae6017F5c0784eB04E59C5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872309815298740224/0dG0pnt4.jpg",
+            "name": "Moxie:Que_meta-x",
+            "symbol": "Moxie:Que_meta-x"
         }
     ],
     "version": {
