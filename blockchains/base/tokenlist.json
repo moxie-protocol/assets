@@ -21513,6 +21513,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1778093394935296000/qsmInyFv.jpg",
             "name": "Moxie:Kndsoheil-x",
             "symbol": "Moxie:Kndsoheil-x"
+        },
+        {
+            "address": "0x9Ac4b3207e9A68e5E57886DeDd2F57EFb888f2c4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1770323773172109312/RUB-z9tJ.jpg",
+            "name": "Moxie:0x01Vinci-x",
+            "symbol": "Moxie:0x01Vinci-x"
         }
     ],
     "version": {
