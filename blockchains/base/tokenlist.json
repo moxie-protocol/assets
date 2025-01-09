@@ -21401,6 +21401,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830047435676401664/pSSqKC2F.jpg",
             "name": "Moxie:AllOxygen_AVAX-x",
             "symbol": "Moxie:AllOxygen_AVAX-x"
+        },
+        {
+            "address": "0x946eF8b71654A8698db7FA4215dBFEC6d5956d8E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "narayansena.eth",
+            "symbol": "fid:293062"
         }
     ],
     "version": {
