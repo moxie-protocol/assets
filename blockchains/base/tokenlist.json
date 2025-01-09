@@ -21380,6 +21380,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830037097148731392/D2X3_iKr.jpg",
             "name": "Moxie:Clust_Crypto-x",
             "symbol": "Moxie:Clust_Crypto-x"
+        },
+        {
+            "address": "0x39281629e6D8F509D4F7E6Af94fabc19ba177130",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830060365671251969/BDWT2P59.jpg",
+            "name": "Moxie:MezanineG-x",
+            "symbol": "Moxie:MezanineG-x"
         }
     ],
     "version": {
