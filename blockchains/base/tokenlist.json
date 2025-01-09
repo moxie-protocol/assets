@@ -21688,6 +21688,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1791489671924486144/RoNP93aO.jpg",
             "name": "Moxie:0x_diva-x",
             "symbol": "Moxie:0x_diva-x"
+        },
+        {
+            "address": "0x73d3b8c98aC469BABbB678E27d45c3D9821f9715",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798489628946923520/_mvOwt5z.jpg",
+            "name": "Moxie:ONEBULLNODE-x",
+            "symbol": "Moxie:ONEBULLNODE-x"
         }
     ],
     "version": {
