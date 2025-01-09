@@ -21436,6 +21436,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1833172546755391488/DlwAPICF.jpg",
             "name": "Moxie:evora_nita-x",
             "symbol": "Moxie:evora_nita-x"
+        },
+        {
+            "address": "0x98aD30edBAF44cD00E6E6eE669768d2AbFCF0633",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829789013793992704/FgkpcIe8.jpg",
+            "name": "Moxie:Blacknw_-x",
+            "symbol": "Moxie:Blacknw_-x"
         }
     ],
     "version": {
