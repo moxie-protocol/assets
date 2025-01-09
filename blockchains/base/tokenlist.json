@@ -21709,6 +21709,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmTgZVqMm9adxcjGTZN9T8m7YuumUmgjC7bixJ6kGFV4ic",
             "name": "Moxie:mabrurie-fc",
             "symbol": "Moxie:mabrurie-fc"
+        },
+        {
+            "address": "0x0F77127B1cfe1eC31F6e9D10307146c543B78992",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866287173508730880/BLh9ACbN.jpg",
+            "name": "Moxie:Foreigh_nft-x",
+            "symbol": "Moxie:Foreigh_nft-x"
         }
     ],
     "version": {
