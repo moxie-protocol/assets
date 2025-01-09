@@ -21422,6 +21422,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1859866009534128128/Osy0BW6G.jpg",
             "name": "Moxie:ArenaHelmet-x",
             "symbol": "Moxie:ArenaHelmet-x"
+        },
+        {
+            "address": "0xcb57567C831ffF28a1B1555dB09004fF4AbA258a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "sorinart",
+            "symbol": "fid:881776"
         }
     ],
     "version": {
