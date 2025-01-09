@@ -21415,6 +21415,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871236372834729987/k_eD6iZ_.jpg",
             "name": "Moxie:kirarayozi-x",
             "symbol": "Moxie:kirarayozi-x"
+        },
+        {
+            "address": "0xEA7E42205E0Ee35Ca459B437a4DbEE63b425Ebd2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1859866009534128128/Osy0BW6G.jpg",
+            "name": "Moxie:ArenaHelmet-x",
+            "symbol": "Moxie:ArenaHelmet-x"
         }
     ],
     "version": {
