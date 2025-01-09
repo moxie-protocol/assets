@@ -21198,6 +21198,13 @@
             "logoURI": null,
             "name": "dag01",
             "symbol": "fid:435144"
+        },
+        {
+            "address": "0x801Fa95A32950dd40129Edc99Ae304c10dDb342D",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "3lirzzrgo0",
+            "symbol": "fid:399932"
         }
     ],
     "version": {
