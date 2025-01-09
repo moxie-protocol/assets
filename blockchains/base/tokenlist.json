@@ -21261,6 +21261,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1323210820575219712/HpHtFooe.jpg",
             "name": "Moxie:Feraanmii-x",
             "symbol": "Moxie:Feraanmii-x"
+        },
+        {
+            "address": "0x9D624663BcA211cD58d4A6953631AC0a03Af94D4",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "attiasaeed",
+            "symbol": "fid:465258"
         }
     ],
     "version": {
