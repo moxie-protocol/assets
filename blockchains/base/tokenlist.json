@@ -21681,6 +21681,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1554820885449785344/pNiAFQoa.jpg",
             "name": "Moxie:finkerzNFT-x",
             "symbol": "Moxie:finkerzNFT-x"
+        },
+        {
+            "address": "0x92aBC5B3f7A8480F88d1217c7eC787B8707B281a",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1791489671924486144/RoNP93aO.jpg",
+            "name": "Moxie:0x_diva-x",
+            "symbol": "Moxie:0x_diva-x"
         }
     ],
     "version": {
