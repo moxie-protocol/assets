@@ -21492,6 +21492,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832220149606121472/E85vEqvY.jpg",
             "name": "Moxie:GCramoy_-x",
             "symbol": "Moxie:GCramoy_-x"
+        },
+        {
+            "address": "0x152B16D6caf619671CA9FbE0567Cc233A8Fe7ccD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1846361716952911873/D2LV0ZNP.jpg",
+            "name": "Moxie:toy_movies-x",
+            "symbol": "Moxie:toy_movies-x"
         }
     ],
     "version": {
