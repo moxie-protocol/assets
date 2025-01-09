@@ -21408,6 +21408,13 @@
             "logoURI": null,
             "name": "narayansena.eth",
             "symbol": "fid:293062"
+        },
+        {
+            "address": "0x5B6c07Ef8848CeD49E995cA85AD0d3e3553C08ce",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871236372834729987/k_eD6iZ_.jpg",
+            "name": "Moxie:kirarayozi-x",
+            "symbol": "Moxie:kirarayozi-x"
         }
     ],
     "version": {
