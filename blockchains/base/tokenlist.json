@@ -21233,6 +21233,13 @@
             "logoURI": "https://i.imgur.com/Q8CoycI.jpg",
             "name": "Moxie:papttdex-fc",
             "symbol": "Moxie:papttdex-fc"
+        },
+        {
+            "address": "0x9fea795f5af5BA860aD6ef803e0B809B00D69BA3",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/purple.jpg",
+            "name": "Moxie:avxzy-fc",
+            "symbol": "Moxie:avxzy-fc"
         }
     ],
     "version": {
