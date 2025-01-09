@@ -21667,6 +21667,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5ec0995-b7c0-4def-0d84-57ffe707bb00/original",
             "name": "Moxie:0xifreqs-fc",
             "symbol": "Moxie:0xifreqs-fc"
+        },
+        {
+            "address": "0xc81C1dE6DA94783E80d3Da69575f988aa901a79f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04f530fa-e057-4dbe-4403-12da0c0eea00/rectcrop3",
+            "name": "Moxie:vagas-fc",
+            "symbol": "Moxie:vagas-fc"
         }
     ],
     "version": {
