@@ -21310,6 +21310,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1877306394027896832/Hzte94Pz.jpg",
             "name": "Moxie:J0eDegen-x",
             "symbol": "Moxie:J0eDegen-x"
+        },
+        {
+            "address": "0x7921c56DFABa669540EAbfa9f88D6134cc695e5D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1876893063060283392/Q-loegoK.jpg",
+            "name": "Moxie:TheKazorenaApp-x",
+            "symbol": "Moxie:TheKazorenaApp-x"
         }
     ],
     "version": {
