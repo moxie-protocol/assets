@@ -21373,6 +21373,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41e80a18-6b73-4253-c6f7-5e4632ed3800/rectcrop3",
             "name": "Moxie:679788-fc",
             "symbol": "Moxie:679788-fc"
+        },
+        {
+            "address": "0xdAe429baFB3707325E656d4DbfcCCD6226EFe972",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830037097148731392/D2X3_iKr.jpg",
+            "name": "Moxie:Clust_Crypto-x",
+            "symbol": "Moxie:Clust_Crypto-x"
         }
     ],
     "version": {
