@@ -21653,6 +21653,13 @@
             "logoURI": "https://i.postimg.cc/FRbC7Kgv/Validator-3102.png",
             "name": "Moxie:sacha0.eth-ens",
             "symbol": "Moxie:sacha0.eth-ens"
+        },
+        {
+            "address": "0x5719Dd82c93a96c7d4410E425E4956004a6e03f7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1626603210969325569/PhTYHvQj.jpg",
+            "name": "Moxie:FreshMarketCrew-x",
+            "symbol": "Moxie:FreshMarketCrew-x"
         }
     ],
     "version": {
