@@ -21247,6 +21247,13 @@
             "logoURI": "https://i.imgur.com/RUqAteA.jpg",
             "name": "Moxie:nhunguyen1219-fc",
             "symbol": "Moxie:nhunguyen1219-fc"
+        },
+        {
+            "address": "0xFd35c93e965dC0350bE29D21cBfed2cCe7E2AEBC",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c840f517-67e5-4ad5-ba18-c8aee62a0700/rectcrop3",
+            "name": "Moxie:mfachrir-fc",
+            "symbol": "Moxie:mfachrir-fc"
         }
     ],
     "version": {
