@@ -21590,6 +21590,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1835142467316072449/VNCSRH4E.jpg",
             "name": "Moxie:cleo_crypt-x",
             "symbol": "Moxie:cleo_crypt-x"
+        },
+        {
+            "address": "0x4BDF1BD1269dF019f496084C4A41a2ED107fef6d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af421b33-485e-4fbd-ec89-b162f25e1d00/rectcrop3",
+            "name": "Moxie:demonclubnft-fc",
+            "symbol": "Moxie:demonclubnft-fc"
         }
     ],
     "version": {
