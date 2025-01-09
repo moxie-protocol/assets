@@ -219,6 +219,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1843324157947224068/G6g0XqwG.jpg",
             "name": "Moxie:sharathkrml-x",
             "symbol": "Moxie:sharathkrml-x"
+        },
+        {
+            "address": "0x66aC3A86189B132A1B2305dd99E7Ff03AA49EeAB",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1677118827870720001/FbBvHP6I.jpg",
+            "name": "Moxie:AAronR1440-x",
+            "symbol": "Moxie:AAronR1440-x"
         }
     ],
     "version": {
