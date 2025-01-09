@@ -21191,6 +21191,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/39148ff3-0093-4263-62dc-4fbf52a1fb00/original",
             "name": "Moxie:nandiadoth-fc",
             "symbol": "Moxie:nandiadoth-fc"
+        },
+        {
+            "address": "0x2B805548DC82d60dcD06822C4b319061Ab2cB63c",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "dag01",
+            "symbol": "fid:435144"
         }
     ],
     "version": {
