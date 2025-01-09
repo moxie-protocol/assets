@@ -21527,6 +21527,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1877224673471012864/bEquQ5Ll.jpg",
             "name": "Moxie:adroccck-x",
             "symbol": "Moxie:adroccck-x"
+        },
+        {
+            "address": "0xA60d7C64FC083F84e80b2F7ff548F6Dbbc213fdf",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1605336087831928840/kD1Oi50_.jpg",
+            "name": "Moxie:pcbo-x",
+            "symbol": "Moxie:pcbo-x"
         }
     ],
     "version": {
