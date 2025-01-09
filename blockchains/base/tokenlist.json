@@ -21639,6 +21639,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1837903291499663360/5grrMFFs.jpg",
             "name": "Moxie:GrassGbk-x",
             "symbol": "Moxie:GrassGbk-x"
+        },
+        {
+            "address": "0xa80a964F430cFc0D232dF18C95E1dB0Fb28849be",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/ZXts1ab.png",
+            "name": "Moxie:funkypty-fc",
+            "symbol": "Moxie:funkypty-fc"
         }
     ],
     "version": {
