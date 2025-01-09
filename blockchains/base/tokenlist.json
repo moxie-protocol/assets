@@ -21184,6 +21184,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8ea097d-d0f7-474d-046f-0893d734e500/rectcrop3",
             "name": "Moxie:indipnash-fc",
             "symbol": "Moxie:indipnash-fc"
+        },
+        {
+            "address": "0x0929d38A1b040CeE960B1b9A588967a8E6760cf0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/39148ff3-0093-4263-62dc-4fbf52a1fb00/original",
+            "name": "Moxie:nandiadoth-fc",
+            "symbol": "Moxie:nandiadoth-fc"
         }
     ],
     "version": {
