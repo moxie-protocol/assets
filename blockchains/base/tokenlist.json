@@ -21226,6 +21226,13 @@
             "logoURI": null,
             "name": "notwhale",
             "symbol": "fid:365756"
+        },
+        {
+            "address": "0xaE2e3cd77b677CCF2441C3829bE3ca280f68eD86",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/Q8CoycI.jpg",
+            "name": "Moxie:papttdex-fc",
+            "symbol": "Moxie:papttdex-fc"
         }
     ],
     "version": {
