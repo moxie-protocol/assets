@@ -21534,6 +21534,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1605336087831928840/kD1Oi50_.jpg",
             "name": "Moxie:pcbo-x",
             "symbol": "Moxie:pcbo-x"
+        },
+        {
+            "address": "0x6696C618BcB2b26d2555f8e861c77c88c10CbddF",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872841956037939200/8IQiPsCT.jpg",
+            "name": "Moxie:Gravemind99-x",
+            "symbol": "Moxie:Gravemind99-x"
         }
     ],
     "version": {
