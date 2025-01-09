@@ -226,6 +226,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1677118827870720001/FbBvHP6I.jpg",
             "name": "Moxie:AAronR1440-x",
             "symbol": "Moxie:AAronR1440-x"
+        },
+        {
+            "address": "0x7603E48bFe936feff5A4Bc035eb9cE7cC87167d1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1795809226776076288/t76NJNuH.jpg",
+            "name": "Moxie:navawaspick-x",
+            "symbol": "Moxie:navawaspick-x"
         }
     ],
     "version": {
