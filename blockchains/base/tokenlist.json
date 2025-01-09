@@ -21660,6 +21660,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1626603210969325569/PhTYHvQj.jpg",
             "name": "Moxie:FreshMarketCrew-x",
             "symbol": "Moxie:FreshMarketCrew-x"
+        },
+        {
+            "address": "0x02a1272916159bc1Fc3f2117e9e533CdB230Ce02",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5ec0995-b7c0-4def-0d84-57ffe707bb00/original",
+            "name": "Moxie:0xifreqs-fc",
+            "symbol": "Moxie:0xifreqs-fc"
         }
     ],
     "version": {
