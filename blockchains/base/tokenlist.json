@@ -21219,6 +21219,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867692704337125376/Bh1Di9RS.jpg",
             "name": "Moxie:Maleogg-x",
             "symbol": "Moxie:Maleogg-x"
+        },
+        {
+            "address": "0x448C8e5b2C35e86B8b5A40dCD4107681431179fC",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "notwhale",
+            "symbol": "fid:365756"
         }
     ],
     "version": {
