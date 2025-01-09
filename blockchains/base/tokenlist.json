@@ -21324,6 +21324,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1821978552612614149/EGSDNXbn.jpg",
             "name": "Moxie:MadLads01-x",
             "symbol": "Moxie:MadLads01-x"
+        },
+        {
+            "address": "0xc67D6Cae85B8E349736a30A332ec91193db03Cc5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1830783433616101376/tqw7b7qi.jpg",
+            "name": "Moxie:RingBackTone_-x",
+            "symbol": "Moxie:RingBackTone_-x"
         }
     ],
     "version": {
