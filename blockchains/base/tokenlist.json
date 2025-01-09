@@ -21485,6 +21485,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830088331645829120/phcYADB9.jpg",
             "name": "Moxie:malique_kyrein-x",
             "symbol": "Moxie:malique_kyrein-x"
+        },
+        {
+            "address": "0xB5eCD2cd7A7f8E7c9b58bcafa103c7cAd018F74d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832220149606121472/E85vEqvY.jpg",
+            "name": "Moxie:GCramoy_-x",
+            "symbol": "Moxie:GCramoy_-x"
         }
     ],
     "version": {
