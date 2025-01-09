@@ -21177,6 +21177,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc4eee21-53e9-4994-cc79-063e6377aa00/rectcrop3",
             "name": "Moxie:queenlizzy-fc",
             "symbol": "Moxie:queenlizzy-fc"
+        },
+        {
+            "address": "0xB08E28bD073eeD8F814a730935F3FFb9884E3aE0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b8ea097d-d0f7-474d-046f-0893d734e500/rectcrop3",
+            "name": "Moxie:indipnash-fc",
+            "symbol": "Moxie:indipnash-fc"
         }
     ],
     "version": {
