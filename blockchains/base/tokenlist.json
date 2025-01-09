@@ -21345,6 +21345,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829150759520186368/YBWs8n45.png",
             "name": "Moxie:VenusYpto_-x",
             "symbol": "Moxie:VenusYpto_-x"
+        },
+        {
+            "address": "0xe3415A447E5F29CF86160Cd8dBd4ea2cE1056Bec",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829156797615353857/40gWzR6D.jpg",
+            "name": "Moxie:Marseusi-x",
+            "symbol": "Moxie:Marseusi-x"
         }
     ],
     "version": {
