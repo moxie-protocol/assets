@@ -21625,6 +21625,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829783665741901824/Nqb9ddCX.jpg",
             "name": "Moxie:BamsRbt_CRYP-x",
             "symbol": "Moxie:BamsRbt_CRYP-x"
+        },
+        {
+            "address": "0xfE52A99980D157919253E4574029c2B334565b71",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1726253036639518720/48zmSW68.jpg",
+            "name": "Moxie:ArtistFAChekki-x",
+            "symbol": "Moxie:ArtistFAChekki-x"
         }
     ],
     "version": {
