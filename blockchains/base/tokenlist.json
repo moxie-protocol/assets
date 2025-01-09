@@ -21387,6 +21387,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1830060365671251969/BDWT2P59.jpg",
             "name": "Moxie:MezanineG-x",
             "symbol": "Moxie:MezanineG-x"
+        },
+        {
+            "address": "0xf05815027CD19A157093BAb24bDD43a16611C349",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828141910445432832/XItin8dc.jpg",
+            "name": "Moxie:Bellaro2_-x",
+            "symbol": "Moxie:Bellaro2_-x"
         }
     ],
     "version": {
