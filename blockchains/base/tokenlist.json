@@ -21499,6 +21499,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846361716952911873/D2LV0ZNP.jpg",
             "name": "Moxie:toy_movies-x",
             "symbol": "Moxie:toy_movies-x"
+        },
+        {
+            "address": "0xF026f4c3f54BB59ead43Ab3F83A4bD51d0240BCd",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da3d834a-732c-41d5-c7b7-6f90e0174d00/rectcrop3",
+            "name": "Moxie:adroccck-fc",
+            "symbol": "Moxie:adroccck-fc"
         }
     ],
     "version": {
