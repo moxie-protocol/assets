@@ -21170,6 +21170,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871366536134549504/UcoH0wp3.jpg",
             "name": "Moxie:RMac_5-x",
             "symbol": "Moxie:RMac_5-x"
+        },
+        {
+            "address": "0xf7D22D3Db456E872C933646159b3e2C99C3F0e5D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc4eee21-53e9-4994-cc79-063e6377aa00/rectcrop3",
+            "name": "Moxie:queenlizzy-fc",
+            "symbol": "Moxie:queenlizzy-fc"
         }
     ],
     "version": {
