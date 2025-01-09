@@ -21366,6 +21366,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829163505188323328/k9ZV4YXV.jpg",
             "name": "Moxie:Merc_urius-x",
             "symbol": "Moxie:Merc_urius-x"
+        },
+        {
+            "address": "0x92770D13a0c1de7f89397C19d8888ca29CD0E8d1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41e80a18-6b73-4253-c6f7-5e4632ed3800/rectcrop3",
+            "name": "Moxie:679788-fc",
+            "symbol": "Moxie:679788-fc"
         }
     ],
     "version": {
