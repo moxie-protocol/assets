@@ -21548,6 +21548,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872309815298740224/0dG0pnt4.jpg",
             "name": "Moxie:Que_meta-x",
             "symbol": "Moxie:Que_meta-x"
+        },
+        {
+            "address": "0x53176A8F05b83832E30Da1B8Bd33FFf345980Dd7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832216245003059200/5NG2hzyq.jpg",
+            "name": "Moxie:LunyaCatalunya-x",
+            "symbol": "Moxie:LunyaCatalunya-x"
         }
     ],
     "version": {
