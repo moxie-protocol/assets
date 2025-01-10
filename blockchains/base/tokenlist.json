@@ -22052,6 +22052,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1877661107827224576/qgn4-vsM.jpg",
             "name": "Moxie:CoqMeta-x",
             "symbol": "Moxie:CoqMeta-x"
+        },
+        {
+            "address": "0xCA350673b28cBBE343bbcD69599E11553C9633F5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1860035866430963715/X7gF1aw-.jpg",
+            "name": "Moxie:NikenSalindryFC-x",
+            "symbol": "Moxie:NikenSalindryFC-x"
         }
     ],
     "version": {
