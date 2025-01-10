@@ -22136,6 +22136,13 @@
             "logoURI": "https://i.imgur.com/gdE8MJT.jpg",
             "name": "Moxie:miladgh.eth-ens",
             "symbol": "Moxie:miladgh.eth-ens"
+        },
+        {
+            "address": "0x6a6CEABe50BDFbadBC8f6E33bA81ABC746F88062",
+            "decimals": 18,
+            "logoURI": "https://chat3-assets.s3.ap-southeast-1.amazonaws.com/users/C82E99A40E3DAEA5A43B8D36DACA3E3B043599CD/a-cq8hs1ds5kqc7i9is8tg.png",
+            "name": "Moxie:Negu-Blockchain-gt",
+            "symbol": "Moxie:Negu-Blockchain-gt"
         }
     ],
     "version": {
