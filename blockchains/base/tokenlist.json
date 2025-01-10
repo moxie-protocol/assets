@@ -21772,6 +21772,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874073570436898816/SMfih2ia.jpg",
             "name": "Moxie:ouioui7777777-x",
             "symbol": "Moxie:ouioui7777777-x"
+        },
+        {
+            "address": "0x4aa37654c695B60B57A2C85C0bbA7D83b1077453",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1828999387634380801/jZTqQAgc.jpg",
+            "name": "Moxie:StoneVarme-x",
+            "symbol": "Moxie:StoneVarme-x"
         }
     ],
     "version": {
