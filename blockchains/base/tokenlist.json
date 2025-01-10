@@ -22038,6 +22038,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1858093962629910529/lGIxs8tQ.jpg",
             "name": "Moxie:HushPuppiesAvax-x",
             "symbol": "Moxie:HushPuppiesAvax-x"
+        },
+        {
+            "address": "0x4026136633fe4a8E46ccf90924BE1EbaFA405d29",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870301660607852544/3SnrM0CU.jpg",
+            "name": "Moxie:XXAR_TROLL-x",
+            "symbol": "Moxie:XXAR_TROLL-x"
         }
     ],
     "version": {
