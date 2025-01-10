@@ -21814,6 +21814,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1606005926351097856/_jkE8ksD.jpg",
             "name": "Moxie:anasrebel30-x",
             "symbol": "Moxie:anasrebel30-x"
+        },
+        {
+            "address": "0x8C5c425B7505656b2cfc730F97F6a81cBc404738",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/S1rGL7n.jpg",
+            "name": "Moxie:xyra-fc",
+            "symbol": "Moxie:xyra-fc"
         }
     ],
     "version": {
