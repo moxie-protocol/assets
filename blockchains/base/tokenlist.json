@@ -21793,6 +21793,13 @@
             "logoURI": "https://i.imgur.com/txMH4Si.jpg",
             "name": "Moxie:karira-fc",
             "symbol": "Moxie:karira-fc"
+        },
+        {
+            "address": "0xFdE9302c666afA5d3292881456cb45111BD8dBD9",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1841818213996494849/Wj0nPu4g.jpg",
+            "name": "Moxie:guardiplo-x",
+            "symbol": "Moxie:guardiplo-x"
         }
     ],
     "version": {
