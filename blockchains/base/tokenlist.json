@@ -21786,6 +21786,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1838025482505449473/omaZmUh1.jpg",
             "name": "Moxie:BClorophil-x",
             "symbol": "Moxie:BClorophil-x"
+        },
+        {
+            "address": "0x4B3Ce9f4564F6825DBb74CfDcf70F9E320a5aEC3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/txMH4Si.jpg",
+            "name": "Moxie:karira-fc",
+            "symbol": "Moxie:karira-fc"
         }
     ],
     "version": {
