@@ -21800,6 +21800,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1841818213996494849/Wj0nPu4g.jpg",
             "name": "Moxie:guardiplo-x",
             "symbol": "Moxie:guardiplo-x"
+        },
+        {
+            "address": "0x1f17398D17990B5e5fB5f82cdF216eEd05030b62",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1787897536306626561/5r3S1mdy.jpg",
+            "name": "Moxie:ureceh40-x",
+            "symbol": "Moxie:ureceh40-x"
         }
     ],
     "version": {
