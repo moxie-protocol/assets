@@ -21989,6 +21989,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857405377756995584/nBTycf7g.jpg",
             "name": "Moxie:HuskyOnArena-x",
             "symbol": "Moxie:HuskyOnArena-x"
+        },
+        {
+            "address": "0xE607ba8Be715bBE54eceEf7649A95949cae270fc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857504015858413570/2aJ6-IHR.jpg",
+            "name": "Moxie:WolfGangArena-x",
+            "symbol": "Moxie:WolfGangArena-x"
         }
     ],
     "version": {
