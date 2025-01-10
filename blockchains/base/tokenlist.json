@@ -22010,6 +22010,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857446536856363008/0LQLJ6TR.jpg",
             "name": "Moxie:ApesOnArena-x",
             "symbol": "Moxie:ApesOnArena-x"
+        },
+        {
+            "address": "0x2d477EbdA40bf972AaE22d238C53e2400bB62E99",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857429903467225088/le9XLNwn.jpg",
+            "name": "Moxie:WulfyOnAvax-x",
+            "symbol": "Moxie:WulfyOnAvax-x"
         }
     ],
     "version": {
