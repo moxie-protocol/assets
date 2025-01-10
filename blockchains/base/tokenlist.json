@@ -22115,6 +22115,13 @@
             "logoURI": "https://thehappytoad.com/HappyToad.gif",
             "name": "Moxie:toadmccroaks.eth-ens",
             "symbol": "Moxie:toadmccroaks.eth-ens"
+        },
+        {
+            "address": "0x694002E8ad00707B3b28c8Ccc6Fd13d5A6c46E98",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7dcae445-6231-48f7-0a9a-cab1293b9700/rectcrop3",
+            "name": "Moxie:metoxg-fc",
+            "symbol": "Moxie:metoxg-fc"
         }
     ],
     "version": {
