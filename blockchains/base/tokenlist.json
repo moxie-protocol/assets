@@ -21891,6 +21891,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1855881734933676032/el12_GZZ.jpg",
             "name": "Moxie:BabbyPlankton-x",
             "symbol": "Moxie:BabbyPlankton-x"
+        },
+        {
+            "address": "0x14De626A72ec672430aaf6Ec7C8Bfe78F5e93693",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1872482368210259968/7hvKyYLA.jpg",
+            "name": "Moxie:hioh1o-x",
+            "symbol": "Moxie:hioh1o-x"
         }
     ],
     "version": {
