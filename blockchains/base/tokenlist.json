@@ -22150,6 +22150,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23c29fd9-cff5-4037-7e07-e37baf588000/rectcrop3",
             "name": "Moxie:z3r0--fc",
             "symbol": "Moxie:z3r0--fc"
+        },
+        {
+            "address": "0x79017A467F3b9cc2081FC3A05631d7C2eD9a4d90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd24a57d-96bf-4557-65ec-963ecc7f5d00/original",
+            "name": "Moxie:maic-fc",
+            "symbol": "Moxie:maic-fc"
         }
     ],
     "version": {
