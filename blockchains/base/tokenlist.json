@@ -21968,6 +21968,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857395804379713536/Nz1ovDAR.jpg",
             "name": "Moxie:DogeOnArena-x",
             "symbol": "Moxie:DogeOnArena-x"
+        },
+        {
+            "address": "0xaeEaadBfdde0800D8d41C07Ef7DA11C995Cf169a",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/playroom",
+            "symbol": "cid:playroom"
         }
     ],
     "version": {
