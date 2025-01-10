@@ -22024,6 +22024,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857336766300372992/z_-6iNH2.jpg",
             "name": "Moxie:HossOnAvax-x",
             "symbol": "Moxie:HossOnAvax-x"
+        },
+        {
+            "address": "0x6ec26F9E0FBeD53305b7F68623eD5BE44FE54B32",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857791532306411521/MaubglQb.jpg",
+            "name": "Moxie:bobcatavax-x",
+            "symbol": "Moxie:bobcatavax-x"
         }
     ],
     "version": {
