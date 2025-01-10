@@ -21898,6 +21898,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1872482368210259968/7hvKyYLA.jpg",
             "name": "Moxie:hioh1o-x",
             "symbol": "Moxie:hioh1o-x"
+        },
+        {
+            "address": "0x0e38EA4B0709e4e34b45edc4B13747823f0CEbAF",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1876955804303319041/cVcq1hcD.jpg",
+            "name": "Moxie:fathernomics-x",
+            "symbol": "Moxie:fathernomics-x"
         }
     ],
     "version": {
