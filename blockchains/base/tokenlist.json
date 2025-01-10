@@ -22087,6 +22087,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c8a25ec-3d54-4950-dfea-773b1dd68c00/rectcrop3",
             "name": "Moxie:neonay-fc",
             "symbol": "Moxie:neonay-fc"
+        },
+        {
+            "address": "0x3b26B9915B6003a773F7b80AAF50AD1Df5bbFA97",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/sDbrnQS.png",
+            "name": "Moxie:pilll-fc",
+            "symbol": "Moxie:pilll-fc"
         }
     ],
     "version": {
