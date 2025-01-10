@@ -22094,6 +22094,13 @@
             "logoURI": "https://i.imgur.com/sDbrnQS.png",
             "name": "Moxie:pilll-fc",
             "symbol": "Moxie:pilll-fc"
+        },
+        {
+            "address": "0xb817fd66A95C1BC1ce1062DE82f05384f087A12A",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1722282819022356480/rJtWdV32.jpg",
+            "name": "Moxie:DaAlternativeB-x",
+            "symbol": "Moxie:DaAlternativeB-x"
         }
     ],
     "version": {
