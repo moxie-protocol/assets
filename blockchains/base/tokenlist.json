@@ -21947,6 +21947,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864528504748167168/puxS8gsQ.jpg",
             "name": "Moxie:OgaNSkmei-x",
             "symbol": "Moxie:OgaNSkmei-x"
+        },
+        {
+            "address": "0x3fa35efaC20b5e0af6267F32957f2273Aca79fCe",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1856757317435633664/6kdqOVke.jpg",
+            "name": "Moxie:Sasha69Arena-x",
+            "symbol": "Moxie:Sasha69Arena-x"
         }
     ],
     "version": {
