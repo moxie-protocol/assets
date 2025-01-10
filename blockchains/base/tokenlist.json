@@ -21975,6 +21975,13 @@
             "logoURI": null,
             "name": "/playroom",
             "symbol": "cid:playroom"
+        },
+        {
+            "address": "0x89Ff505c126C36923C50bcd5EFeB410c51589085",
+            "decimals": 18,
+            "logoURI": "https://cdn.donmai.us/sample/fc/d7/__sensei_doodle_sensei_and_arona_blue_archive_drawn_by_doremi_doremi4704__sample-fcd713412b5bc06bf269320e0cfa2160.jpg",
+            "name": "Moxie:cryptoleva.base.eth-base",
+            "symbol": "Moxie:cryptoleva.base.eth-base"
         }
     ],
     "version": {
