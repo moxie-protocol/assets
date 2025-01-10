@@ -21905,6 +21905,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1876955804303319041/cVcq1hcD.jpg",
             "name": "Moxie:fathernomics-x",
             "symbol": "Moxie:fathernomics-x"
+        },
+        {
+            "address": "0xF15dD30700AB9B45085D28c6049531Aa3f0F3A8F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1856368873198735360/X6fja2m3.jpg",
+            "name": "Moxie:Mcd_On_Arena-x",
+            "symbol": "Moxie:Mcd_On_Arena-x"
         }
     ],
     "version": {
