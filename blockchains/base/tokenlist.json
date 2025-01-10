@@ -21807,6 +21807,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1787897536306626561/5r3S1mdy.jpg",
             "name": "Moxie:ureceh40-x",
             "symbol": "Moxie:ureceh40-x"
+        },
+        {
+            "address": "0xb7758997aECFA42d7Ac19eD137e0c2D763396e6B",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1606005926351097856/_jkE8ksD.jpg",
+            "name": "Moxie:anasrebel30-x",
+            "symbol": "Moxie:anasrebel30-x"
         }
     ],
     "version": {
