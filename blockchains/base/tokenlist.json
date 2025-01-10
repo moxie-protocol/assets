@@ -22045,6 +22045,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870301660607852544/3SnrM0CU.jpg",
             "name": "Moxie:XXAR_TROLL-x",
             "symbol": "Moxie:XXAR_TROLL-x"
+        },
+        {
+            "address": "0xC1f684c641428915706410a72c23C79f5c11bc9f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1877661107827224576/qgn4-vsM.jpg",
+            "name": "Moxie:CoqMeta-x",
+            "symbol": "Moxie:CoqMeta-x"
         }
     ],
     "version": {
