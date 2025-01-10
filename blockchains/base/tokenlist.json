@@ -21723,6 +21723,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9524d1b-3014-474a-c35f-a019caaf1c00/rectcrop3",
             "name": "Moxie:onyxfx-fc",
             "symbol": "Moxie:onyxfx-fc"
+        },
+        {
+            "address": "0xB21f7854CE6921f4Aba44C32eB4C8Dfe7f0731DE",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1659650450705219584/WJyrbhSi.jpg",
+            "name": "Moxie:XAUGUnlimit-x",
+            "symbol": "Moxie:XAUGUnlimit-x"
         }
     ],
     "version": {
