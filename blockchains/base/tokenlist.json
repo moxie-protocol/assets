@@ -22017,6 +22017,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857429903467225088/le9XLNwn.jpg",
             "name": "Moxie:WulfyOnAvax-x",
             "symbol": "Moxie:WulfyOnAvax-x"
+        },
+        {
+            "address": "0x54F4A14acbC445b0B32830f79E208233853487f0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857336766300372992/z_-6iNH2.jpg",
+            "name": "Moxie:HossOnAvax-x",
+            "symbol": "Moxie:HossOnAvax-x"
         }
     ],
     "version": {
