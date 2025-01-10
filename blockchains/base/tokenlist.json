@@ -22066,6 +22066,13 @@
             "logoURI": "https://i.imgur.com/5g88VtT.png",
             "name": "Moxie:zorogun-fc",
             "symbol": "Moxie:zorogun-fc"
+        },
+        {
+            "address": "0x22Cdd4924D0AF86325Cd16CbbF17fd3C4670Baf0",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1608467034911694848/_tHUcvf7.jpg",
+            "name": "Moxie:sachsglory-x",
+            "symbol": "Moxie:sachsglory-x"
         }
     ],
     "version": {
