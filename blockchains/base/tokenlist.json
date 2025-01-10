@@ -21828,6 +21828,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1772393442569531392/V1cxceGN.jpg",
             "name": "Moxie:socialpulse360-x",
             "symbol": "Moxie:socialpulse360-x"
+        },
+        {
+            "address": "0x53569e3707191c033f55DEAB6075246910e45906",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1747759424205430784/3y-H6wtZ.jpg",
+            "name": "Moxie:vocerdua-x",
+            "symbol": "Moxie:vocerdua-x"
         }
     ],
     "version": {
