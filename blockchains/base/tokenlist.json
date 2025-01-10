@@ -22143,6 +22143,13 @@
             "logoURI": "https://chat3-assets.s3.ap-southeast-1.amazonaws.com/users/C82E99A40E3DAEA5A43B8D36DACA3E3B043599CD/a-cq8hs1ds5kqc7i9is8tg.png",
             "name": "Moxie:Negu-Blockchain-gt",
             "symbol": "Moxie:Negu-Blockchain-gt"
+        },
+        {
+            "address": "0x49897968814151c58499542d464D3693a0f585b0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23c29fd9-cff5-4037-7e07-e37baf588000/rectcrop3",
+            "name": "Moxie:z3r0--fc",
+            "symbol": "Moxie:z3r0--fc"
         }
     ],
     "version": {
