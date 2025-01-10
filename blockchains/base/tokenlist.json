@@ -22122,6 +22122,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7dcae445-6231-48f7-0a9a-cab1293b9700/rectcrop3",
             "name": "Moxie:metoxg-fc",
             "symbol": "Moxie:metoxg-fc"
+        },
+        {
+            "address": "0x2606960231A82d6927f6C9f3996C5FD0ca006Dc8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_banners/1464262037870034948/1702659624/1500x500",
+            "name": "Moxie:mrcongno1.base.eth-base",
+            "symbol": "Moxie:mrcongno1.base.eth-base"
         }
     ],
     "version": {
