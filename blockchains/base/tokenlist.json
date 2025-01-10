@@ -22164,6 +22164,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1014436663492300800/2kt5KRaQ.jpg",
             "name": "Moxie:BuYondaime-x",
             "symbol": "Moxie:BuYondaime-x"
+        },
+        {
+            "address": "0xB8a7A0ea8a3ef7f19176dd7b2FceE30a380c44b3",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/xbnrcVT.jpg",
+            "name": "Moxie:imluffy-fc",
+            "symbol": "Moxie:imluffy-fc"
         }
     ],
     "version": {
