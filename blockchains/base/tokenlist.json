@@ -21926,6 +21926,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1856149512026501120/6f5m1pWT.jpg",
             "name": "Moxie:ArenaSmurff-x",
             "symbol": "Moxie:ArenaSmurff-x"
+        },
+        {
+            "address": "0xbE452CB6fcC43ab4f512C22863C145ac0e329646",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1866350122218770432/hvC-7VAm.jpg",
+            "name": "Moxie:DimsAnackBaick-x",
+            "symbol": "Moxie:DimsAnackBaick-x"
         }
     ],
     "version": {
