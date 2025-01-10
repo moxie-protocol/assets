@@ -21765,6 +21765,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1648619673615843331/8bT0Ofvu_400x400.jpg",
             "name": "Moxie:tosinchukwu.eth-ens",
             "symbol": "Moxie:tosinchukwu.eth-ens"
+        },
+        {
+            "address": "0x49a3A021192021Bb5C610bf52bb8998EFad9e154",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874073570436898816/SMfih2ia.jpg",
+            "name": "Moxie:ouioui7777777-x",
+            "symbol": "Moxie:ouioui7777777-x"
         }
     ],
     "version": {
