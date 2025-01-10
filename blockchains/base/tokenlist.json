@@ -21744,6 +21744,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863117656192155648/htJcATdh.jpg",
             "name": "Moxie:conanyb2020-x",
             "symbol": "Moxie:conanyb2020-x"
+        },
+        {
+            "address": "0x7d88e11c88D7eeb98dF0dF768f4c531f5a0aeF38",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/VoYsSQf.jpg",
+            "name": "Moxie:whoisabuzar-fc",
+            "symbol": "Moxie:whoisabuzar-fc"
         }
     ],
     "version": {
