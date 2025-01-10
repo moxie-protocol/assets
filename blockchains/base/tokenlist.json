@@ -22129,6 +22129,13 @@
             "logoURI": "https://pbs.twimg.com/profile_banners/1464262037870034948/1702659624/1500x500",
             "name": "Moxie:mrcongno1.base.eth-base",
             "symbol": "Moxie:mrcongno1.base.eth-base"
+        },
+        {
+            "address": "0x348A701cF5B1F3A9D671A904E6041C156AE1B57B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/gdE8MJT.jpg",
+            "name": "Moxie:miladgh.eth-ens",
+            "symbol": "Moxie:miladgh.eth-ens"
         }
     ],
     "version": {
