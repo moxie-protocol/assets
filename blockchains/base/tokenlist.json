@@ -22073,6 +22073,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1608467034911694848/_tHUcvf7.jpg",
             "name": "Moxie:sachsglory-x",
             "symbol": "Moxie:sachsglory-x"
+        },
+        {
+            "address": "0x856d7a1A4646C2C00f176F691D70B79685E0658F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48abc3aa-a22f-4d54-56d7-573d217a2b00/original",
+            "name": "Moxie:jusselpd-fc",
+            "symbol": "Moxie:jusselpd-fc"
         }
     ],
     "version": {
