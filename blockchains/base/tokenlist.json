@@ -21835,6 +21835,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1747759424205430784/3y-H6wtZ.jpg",
             "name": "Moxie:vocerdua-x",
             "symbol": "Moxie:vocerdua-x"
+        },
+        {
+            "address": "0x1d6C09e70952e31dbe4d4EC2AB0B6C3fB4114781",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1818939115951538176/2opoGgZL.jpg",
+            "name": "Moxie:24Oldman3D-x",
+            "symbol": "Moxie:24Oldman3D-x"
         }
     ],
     "version": {
