@@ -22059,6 +22059,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1860035866430963715/X7gF1aw-.jpg",
             "name": "Moxie:NikenSalindryFC-x",
             "symbol": "Moxie:NikenSalindryFC-x"
+        },
+        {
+            "address": "0x6a03f3eFC432B2FA6f20029467ab4d3BC5FB610E",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/5g88VtT.png",
+            "name": "Moxie:zorogun-fc",
+            "symbol": "Moxie:zorogun-fc"
         }
     ],
     "version": {
