@@ -21996,6 +21996,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1857504015858413570/2aJ6-IHR.jpg",
             "name": "Moxie:WolfGangArena-x",
             "symbol": "Moxie:WolfGangArena-x"
+        },
+        {
+            "address": "0x23817B916A651ed0D7187d777632822e43A120Cf",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864566698009088002/dRU5pkpQ.jpg",
+            "name": "Moxie:ee_stone95892-x",
+            "symbol": "Moxie:ee_stone95892-x"
         }
     ],
     "version": {
