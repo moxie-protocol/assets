@@ -21821,6 +21821,13 @@
             "logoURI": "https://i.imgur.com/S1rGL7n.jpg",
             "name": "Moxie:xyra-fc",
             "symbol": "Moxie:xyra-fc"
+        },
+        {
+            "address": "0xA51ae111aA8D12aD6C73cca4CC466E46523943F5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1772393442569531392/V1cxceGN.jpg",
+            "name": "Moxie:socialpulse360-x",
+            "symbol": "Moxie:socialpulse360-x"
         }
     ],
     "version": {
