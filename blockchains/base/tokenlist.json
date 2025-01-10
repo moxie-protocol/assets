@@ -21758,6 +21758,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6da005c5-1ccd-4bc7-8429-cbcb28c5b300/original",
             "name": "Moxie:crypto-ni-fc",
             "symbol": "Moxie:crypto-ni-fc"
+        },
+        {
+            "address": "0x99Fc9B3F5b77F27ACe8E362D662dF5990a39A8D1",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1648619673615843331/8bT0Ofvu_400x400.jpg",
+            "name": "Moxie:tosinchukwu.eth-ens",
+            "symbol": "Moxie:tosinchukwu.eth-ens"
         }
     ],
     "version": {
