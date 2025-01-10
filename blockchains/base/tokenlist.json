@@ -21877,6 +21877,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874428339961921536/_oBUVL-g.jpg",
             "name": "Moxie:damdextul-x",
             "symbol": "Moxie:damdextul-x"
+        },
+        {
+            "address": "0x0CE6cF1e043459CD51567D208e3339A80e6Fe1E7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867766435654828032/etWPkgaP.jpg",
+            "name": "Moxie:keggsxavax-x",
+            "symbol": "Moxie:keggsxavax-x"
         }
     ],
     "version": {
