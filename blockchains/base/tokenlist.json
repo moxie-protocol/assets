@@ -21730,6 +21730,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1659650450705219584/WJyrbhSi.jpg",
             "name": "Moxie:XAUGUnlimit-x",
             "symbol": "Moxie:XAUGUnlimit-x"
+        },
+        {
+            "address": "0x41979B32b3EA82526F51176C31A3A950539A774a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/03af5d68-e0cb-4b1e-f029-543c3e66aa00/rectcrop3",
+            "name": "Moxie:aayatsajid-fc",
+            "symbol": "Moxie:aayatsajid-fc"
         }
     ],
     "version": {
