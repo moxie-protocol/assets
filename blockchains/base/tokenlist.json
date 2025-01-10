@@ -22108,6 +22108,13 @@
             "logoURI": "https://i.imgur.com/YrrIUBg.jpg",
             "name": "Moxie:kkhakkhapukkhakk-fc",
             "symbol": "Moxie:kkhakkhapukkhakk-fc"
+        },
+        {
+            "address": "0x90839a0f815346554FCCd6FeC4c883584601DeF1",
+            "decimals": 18,
+            "logoURI": "https://thehappytoad.com/HappyToad.gif",
+            "name": "Moxie:toadmccroaks.eth-ens",
+            "symbol": "Moxie:toadmccroaks.eth-ens"
         }
     ],
     "version": {
