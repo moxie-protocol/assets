@@ -21716,6 +21716,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866287173508730880/BLh9ACbN.jpg",
             "name": "Moxie:Foreigh_nft-x",
             "symbol": "Moxie:Foreigh_nft-x"
+        },
+        {
+            "address": "0xf428EeDbEE713EC4FFE358D328a25C8932d357e2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9524d1b-3014-474a-c35f-a019caaf1c00/rectcrop3",
+            "name": "Moxie:onyxfx-fc",
+            "symbol": "Moxie:onyxfx-fc"
         }
     ],
     "version": {
