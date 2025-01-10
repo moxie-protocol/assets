@@ -22157,6 +22157,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd24a57d-96bf-4557-65ec-963ecc7f5d00/original",
             "name": "Moxie:maic-fc",
             "symbol": "Moxie:maic-fc"
+        },
+        {
+            "address": "0x2bc13EC898E49a0891284f3b8C311EFfC2CB36B4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1014436663492300800/2kt5KRaQ.jpg",
+            "name": "Moxie:BuYondaime-x",
+            "symbol": "Moxie:BuYondaime-x"
         }
     ],
     "version": {
