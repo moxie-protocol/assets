@@ -21933,6 +21933,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866350122218770432/hvC-7VAm.jpg",
             "name": "Moxie:DimsAnackBaick-x",
             "symbol": "Moxie:DimsAnackBaick-x"
+        },
+        {
+            "address": "0x587a5DB36E921C265d35f2Be3DfD811D3Dd019B4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1856406561540976645/MKvE4yH7.jpg",
+            "name": "Moxie:BitEarnsArena-x",
+            "symbol": "Moxie:BitEarnsArena-x"
         }
     ],
     "version": {
