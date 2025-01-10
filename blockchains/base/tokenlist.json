@@ -22101,6 +22101,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1722282819022356480/rJtWdV32.jpg",
             "name": "Moxie:DaAlternativeB-x",
             "symbol": "Moxie:DaAlternativeB-x"
+        },
+        {
+            "address": "0xc925762fFC219a37Ab34bf8FA9EE396c47fAd438",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YrrIUBg.jpg",
+            "name": "Moxie:kkhakkhapukkhakk-fc",
+            "symbol": "Moxie:kkhakkhapukkhakk-fc"
         }
     ],
     "version": {
