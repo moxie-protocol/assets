@@ -21940,6 +21940,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1856406561540976645/MKvE4yH7.jpg",
             "name": "Moxie:BitEarnsArena-x",
             "symbol": "Moxie:BitEarnsArena-x"
+        },
+        {
+            "address": "0x2922B2Cb7a05866a2a81C1cd325073f1629bD2C7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864528504748167168/puxS8gsQ.jpg",
+            "name": "Moxie:OgaNSkmei-x",
+            "symbol": "Moxie:OgaNSkmei-x"
         }
     ],
     "version": {
