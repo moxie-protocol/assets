@@ -21982,6 +21982,13 @@
             "logoURI": "https://cdn.donmai.us/sample/fc/d7/__sensei_doodle_sensei_and_arona_blue_archive_drawn_by_doremi_doremi4704__sample-fcd713412b5bc06bf269320e0cfa2160.jpg",
             "name": "Moxie:cryptoleva.base.eth-base",
             "symbol": "Moxie:cryptoleva.base.eth-base"
+        },
+        {
+            "address": "0xeef61f122E56e55b64Ee25dA522061BEA900FC55",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1857405377756995584/nBTycf7g.jpg",
+            "name": "Moxie:HuskyOnArena-x",
+            "symbol": "Moxie:HuskyOnArena-x"
         }
     ],
     "version": {
