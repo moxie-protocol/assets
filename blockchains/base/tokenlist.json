@@ -21751,6 +21751,13 @@
             "logoURI": "https://i.imgur.com/VoYsSQf.jpg",
             "name": "Moxie:whoisabuzar-fc",
             "symbol": "Moxie:whoisabuzar-fc"
+        },
+        {
+            "address": "0x1AC93426e826Ea9b32784270D5AC67f89a846690",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6da005c5-1ccd-4bc7-8429-cbcb28c5b300/original",
+            "name": "Moxie:crypto-ni-fc",
+            "symbol": "Moxie:crypto-ni-fc"
         }
     ],
     "version": {
