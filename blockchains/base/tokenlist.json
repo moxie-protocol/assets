@@ -22080,6 +22080,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48abc3aa-a22f-4d54-56d7-573d217a2b00/original",
             "name": "Moxie:jusselpd-fc",
             "symbol": "Moxie:jusselpd-fc"
+        },
+        {
+            "address": "0xC8323a9A416E11faBF266C9D59351253889b6D35",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1c8a25ec-3d54-4950-dfea-773b1dd68c00/rectcrop3",
+            "name": "Moxie:neonay-fc",
+            "symbol": "Moxie:neonay-fc"
         }
     ],
     "version": {
