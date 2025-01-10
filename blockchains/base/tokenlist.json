@@ -21870,6 +21870,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1855960437915033600/_yOgOl_2.jpg",
             "name": "Moxie:Lancelotarena-x",
             "symbol": "Moxie:Lancelotarena-x"
+        },
+        {
+            "address": "0x48177fD381B340192a9e8826D0fDCdb8e884DbD5",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874428339961921536/_oBUVL-g.jpg",
+            "name": "Moxie:damdextul-x",
+            "symbol": "Moxie:damdextul-x"
         }
     ],
     "version": {
