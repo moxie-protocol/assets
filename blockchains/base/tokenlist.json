@@ -22437,6 +22437,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fe67d15-2601-4648-aea2-f996a5b6f700/rectcrop3",
             "name": "Moxie:naqmehmjd-fc",
             "symbol": "Moxie:naqmehmjd-fc"
+        },
+        {
+            "address": "0x913b5BEa819Bc6dbEb74D120D618F972AEA8F391",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/O4hFJ1y.jpg",
+            "name": "Moxie:salargorbei-fc",
+            "symbol": "Moxie:salargorbei-fc"
         }
     ],
     "version": {
