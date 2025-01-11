@@ -22304,6 +22304,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/895850ee-d68d-415e-d274-2c0e73e97800/rectcrop3",
             "name": "Moxie:hephaes-fc",
             "symbol": "Moxie:hephaes-fc"
+        },
+        {
+            "address": "0xc78C67382D4d8368ec7F67E3DD5Cc833E2ff90fb",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1595898727734149122/jH-2pzxC.jpg",
+            "name": "Moxie:emma_nft_01-x",
+            "symbol": "Moxie:emma_nft_01-x"
         }
     ],
     "version": {
