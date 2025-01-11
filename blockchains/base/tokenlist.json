@@ -22360,6 +22360,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1468674875967553538/aS7ZgZWx.jpg",
             "name": "Moxie:Ophtho_Trader-x",
             "symbol": "Moxie:Ophtho_Trader-x"
+        },
+        {
+            "address": "0xb03268673e0756Cf0E03CbcFa58922A419Ce6bdD",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1874948614939615232/BZvIJ6hy.jpg",
+            "name": "Moxie:Iccug_X-x",
+            "symbol": "Moxie:Iccug_X-x"
         }
     ],
     "version": {
