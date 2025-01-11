@@ -22241,6 +22241,13 @@
             "logoURI": "https://i.imgur.com/fRbq67y.jpg",
             "name": "Moxie:henrypave-fc",
             "symbol": "Moxie:henrypave-fc"
+        },
+        {
+            "address": "0x1F3Ae2Bc20eaF9914551539624AAe523ddCEE0cb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ebe36d24-6dcb-4a19-4f15-f93cda590a00/rectcrop3",
+            "name": "Moxie:yudisetiawan-fc",
+            "symbol": "Moxie:yudisetiawan-fc"
         }
     ],
     "version": {
