@@ -22262,6 +22262,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9382ad8e-95d6-41c6-5372-36b663f0df00/original",
             "name": "Moxie:consuela-fc",
             "symbol": "Moxie:consuela-fc"
+        },
+        {
+            "address": "0xB04baF04DAe48fEbA252af8DE5E8f259fAeD7058",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RvlhyVp.jpg",
+            "name": "Moxie:0x1216-fc",
+            "symbol": "Moxie:0x1216-fc"
         }
     ],
     "version": {
