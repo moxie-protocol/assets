@@ -22395,6 +22395,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0450bf8f-1fb8-4bf4-d707-8dca3e430700/rectcrop3",
             "name": "Moxie:inksummit-fc",
             "symbol": "Moxie:inksummit-fc"
+        },
+        {
+            "address": "0xc9e1344A9871A141A846D24a426172F2b302956F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b320ea1-ce9f-4ef6-85ce-40ef69fa7100/rectcrop3",
+            "name": "Moxie:zyrus.eth-fc",
+            "symbol": "Moxie:zyrus.eth-fc"
         }
     ],
     "version": {
