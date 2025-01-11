@@ -22227,6 +22227,13 @@
             "logoURI": "https://i.imgur.com/rhF8ZJw.jpg",
             "name": "Moxie:arismanto-fc",
             "symbol": "Moxie:arismanto-fc"
+        },
+        {
+            "address": "0x41519608A013420664D313cafd3457c9060a4E2d",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1322944652337557504/8wD-RA3S.jpg",
+            "name": "Moxie:Lilik05260217-x",
+            "symbol": "Moxie:Lilik05260217-x"
         }
     ],
     "version": {
