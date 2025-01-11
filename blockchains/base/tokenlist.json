@@ -22276,6 +22276,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0441318-7a7d-475c-33b8-979fb71efa00/rectcrop3",
             "name": "Moxie:solalo-fc",
             "symbol": "Moxie:solalo-fc"
+        },
+        {
+            "address": "0xB83b581c3D3398D6394Cff123A0a016DC23D521b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fd85eaf-2e51-4451-d450-d19847aec200/original",
+            "name": "Moxie:nftdrops-fc",
+            "symbol": "Moxie:nftdrops-fc"
         }
     ],
     "version": {
