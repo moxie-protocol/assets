@@ -22423,6 +22423,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17aa6d3b-4cc4-4921-ed8d-5876506ab500/rectcrop3",
             "name": "Moxie:tomeigo-fc",
             "symbol": "Moxie:tomeigo-fc"
+        },
+        {
+            "address": "0x52BC5dD2067055beDBDFaf1651922F7B3bcACDc2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/834cb42a-0102-43b5-3bab-91f44300e200/rectcrop3",
+            "name": "Moxie:isiaqy101-fc",
+            "symbol": "Moxie:isiaqy101-fc"
         }
     ],
     "version": {
