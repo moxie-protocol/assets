@@ -22171,6 +22171,13 @@
             "logoURI": "https://i.imgur.com/xbnrcVT.jpg",
             "name": "Moxie:imluffy-fc",
             "symbol": "Moxie:imluffy-fc"
+        },
+        {
+            "address": "0x2e86ec38B4Fc6A6B2fe69329BF34E7Ea07003cD5",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "fatemehsgp",
+            "symbol": "fid:896797"
         }
     ],
     "version": {
