@@ -22206,6 +22206,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1719384328545992704/Q0FhYD25.jpg",
             "name": "Moxie:varrell_a-x",
             "symbol": "Moxie:varrell_a-x"
+        },
+        {
+            "address": "0x950F929526D8118B1273AaCfD0810E29B11a4308",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/16ca520d-63b3-4602-5863-26bdba810f00/rectcrop3",
+            "name": "Moxie:septiyadi-fc",
+            "symbol": "Moxie:septiyadi-fc"
         }
     ],
     "version": {
