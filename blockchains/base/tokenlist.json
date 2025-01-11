@@ -22353,6 +22353,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a474563-3644-4b8c-8638-d335070f3100/rectcrop3",
             "name": "Moxie:aasif-fc",
             "symbol": "Moxie:aasif-fc"
+        },
+        {
+            "address": "0x3De551c368e9bf7dcc3Db4559C133850dE769300",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1468674875967553538/aS7ZgZWx.jpg",
+            "name": "Moxie:Ophtho_Trader-x",
+            "symbol": "Moxie:Ophtho_Trader-x"
         }
     ],
     "version": {
