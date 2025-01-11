@@ -22234,6 +22234,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1322944652337557504/8wD-RA3S.jpg",
             "name": "Moxie:Lilik05260217-x",
             "symbol": "Moxie:Lilik05260217-x"
+        },
+        {
+            "address": "0x7023804Cc5813d7715884DB5378Cc9AEe9d5B433",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fRbq67y.jpg",
+            "name": "Moxie:henrypave-fc",
+            "symbol": "Moxie:henrypave-fc"
         }
     ],
     "version": {
