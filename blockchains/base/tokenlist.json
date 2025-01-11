@@ -22374,6 +22374,13 @@
             "logoURI": "https://i.imgur.com/rOOTKO6.gif",
             "name": "Moxie:early-fc",
             "symbol": "Moxie:early-fc"
+        },
+        {
+            "address": "0x1C35D27B6f94d7E979C79376642Fcaa67CFEdf25",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/4UjF7ug.jpg",
+            "name": "Moxie:flaptzy-fc",
+            "symbol": "Moxie:flaptzy-fc"
         }
     ],
     "version": {
