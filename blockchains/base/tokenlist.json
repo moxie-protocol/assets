@@ -22402,6 +22402,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4b320ea1-ce9f-4ef6-85ce-40ef69fa7100/rectcrop3",
             "name": "Moxie:zyrus.eth-fc",
             "symbol": "Moxie:zyrus.eth-fc"
+        },
+        {
+            "address": "0x254673399a2f783A8b60f7C5742e4DbF9e5BcacE",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1688899062655864832/JIaF3EZ4.jpg",
+            "name": "Moxie:wornoutBoby4-x",
+            "symbol": "Moxie:wornoutBoby4-x"
         }
     ],
     "version": {
