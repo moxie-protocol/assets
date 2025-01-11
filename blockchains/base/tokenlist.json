@@ -22367,6 +22367,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1874948614939615232/BZvIJ6hy.jpg",
             "name": "Moxie:Iccug_X-x",
             "symbol": "Moxie:Iccug_X-x"
+        },
+        {
+            "address": "0xfB6dEfDfAF5972D9a02a78f9B55abAdd0105743B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/rOOTKO6.gif",
+            "name": "Moxie:early-fc",
+            "symbol": "Moxie:early-fc"
         }
     ],
     "version": {
