@@ -22332,6 +22332,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873146337090502656/Yl0T2v8H.jpg",
             "name": "Moxie:oxsyaff-x",
             "symbol": "Moxie:oxsyaff-x"
+        },
+        {
+            "address": "0x8F6d71C5301771789ce0f3Dd3E8E27973e033849",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871990522815864832/Dl_MbPWV.jpg",
+            "name": "Moxie:cryptofunai-x",
+            "symbol": "Moxie:cryptofunai-x"
         }
     ],
     "version": {
