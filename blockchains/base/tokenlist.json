@@ -22339,6 +22339,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871990522815864832/Dl_MbPWV.jpg",
             "name": "Moxie:cryptofunai-x",
             "symbol": "Moxie:cryptofunai-x"
+        },
+        {
+            "address": "0x308F9D8c8B942C306007752590317B535d7BFf8a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bbac7971-75b8-463e-df4b-cf3f30412b00/rectcrop3",
+            "name": "Moxie:konohime.eth-fc",
+            "symbol": "Moxie:konohime.eth-fc"
         }
     ],
     "version": {
