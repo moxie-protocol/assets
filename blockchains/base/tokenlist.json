@@ -22416,6 +22416,13 @@
             "logoURI": "https://i.imgur.com/alRy40Z.jpg",
             "name": "Moxie:hamidstp-fc",
             "symbol": "Moxie:hamidstp-fc"
+        },
+        {
+            "address": "0xF883dB6409e36D2ce9EDA9a0F0Fe88B7C87dcc0C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/17aa6d3b-4cc4-4921-ed8d-5876506ab500/rectcrop3",
+            "name": "Moxie:tomeigo-fc",
+            "symbol": "Moxie:tomeigo-fc"
         }
     ],
     "version": {
