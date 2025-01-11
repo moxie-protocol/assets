@@ -22318,6 +22318,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1810791598135148544/evDJg0kS.jpg",
             "name": "Moxie:ragazo_2011-x",
             "symbol": "Moxie:ragazo_2011-x"
+        },
+        {
+            "address": "0xF512A69D5A995Ec190e70dE81ec8b895204d7d99",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1661956200681070592/7uYrD33w.jpg",
+            "name": "Moxie:mukaratrade-x",
+            "symbol": "Moxie:mukaratrade-x"
         }
     ],
     "version": {
