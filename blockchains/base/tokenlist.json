@@ -22381,6 +22381,13 @@
             "logoURI": "https://i.imgur.com/4UjF7ug.jpg",
             "name": "Moxie:flaptzy-fc",
             "symbol": "Moxie:flaptzy-fc"
+        },
+        {
+            "address": "0x6e7308EaD2cC39b40b7168d6aAD49C272798b946",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1806756458555731968/kXnXSJEX.jpg",
+            "name": "Moxie:RPsikis-x",
+            "symbol": "Moxie:RPsikis-x"
         }
     ],
     "version": {
