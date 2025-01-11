@@ -22192,6 +22192,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873038361113374720/5AaOu7FV.jpg",
             "name": "Moxie:outena_-x",
             "symbol": "Moxie:outena_-x"
+        },
+        {
+            "address": "0x38CAfe02E429ca9B1A8AE783682Eac916C33e0a7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1829131073978056704/HFxhstfj.jpg",
+            "name": "Moxie:builderzbase-x",
+            "symbol": "Moxie:builderzbase-x"
         }
     ],
     "version": {
