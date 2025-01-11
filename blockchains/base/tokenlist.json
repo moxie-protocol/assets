@@ -22311,6 +22311,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1595898727734149122/jH-2pzxC.jpg",
             "name": "Moxie:emma_nft_01-x",
             "symbol": "Moxie:emma_nft_01-x"
+        },
+        {
+            "address": "0xf155f505c9fE3F2d46b8deE72C36eAB31C641efd",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1810791598135148544/evDJg0kS.jpg",
+            "name": "Moxie:ragazo_2011-x",
+            "symbol": "Moxie:ragazo_2011-x"
         }
     ],
     "version": {
