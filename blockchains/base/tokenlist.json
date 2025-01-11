@@ -22283,6 +22283,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4fd85eaf-2e51-4451-d450-d19847aec200/original",
             "name": "Moxie:nftdrops-fc",
             "symbol": "Moxie:nftdrops-fc"
+        },
+        {
+            "address": "0x8b78db1944F0Ab947d7b367734017e6d2c0e85F3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873656572439662593/naliNROc.jpg",
+            "name": "Moxie:ubgocnigeria-x",
+            "symbol": "Moxie:ubgocnigeria-x"
         }
     ],
     "version": {
