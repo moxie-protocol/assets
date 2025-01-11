@@ -22346,6 +22346,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bbac7971-75b8-463e-df4b-cf3f30412b00/rectcrop3",
             "name": "Moxie:konohime.eth-fc",
             "symbol": "Moxie:konohime.eth-fc"
+        },
+        {
+            "address": "0xdbE590301Fe1a0811734Dabb0A92856799527B56",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4a474563-3644-4b8c-8638-d335070f3100/rectcrop3",
+            "name": "Moxie:aasif-fc",
+            "symbol": "Moxie:aasif-fc"
         }
     ],
     "version": {
