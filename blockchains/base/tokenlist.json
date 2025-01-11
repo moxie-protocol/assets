@@ -22199,6 +22199,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1829131073978056704/HFxhstfj.jpg",
             "name": "Moxie:builderzbase-x",
             "symbol": "Moxie:builderzbase-x"
+        },
+        {
+            "address": "0x5cAdD5F58a003706549e59C2c0B16E5E2096faB2",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1719384328545992704/Q0FhYD25.jpg",
+            "name": "Moxie:varrell_a-x",
+            "symbol": "Moxie:varrell_a-x"
         }
     ],
     "version": {
