@@ -22388,6 +22388,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1806756458555731968/kXnXSJEX.jpg",
             "name": "Moxie:RPsikis-x",
             "symbol": "Moxie:RPsikis-x"
+        },
+        {
+            "address": "0x305c226ADaFa81038517B7026a6F5175C14d3884",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0450bf8f-1fb8-4bf4-d707-8dca3e430700/rectcrop3",
+            "name": "Moxie:inksummit-fc",
+            "symbol": "Moxie:inksummit-fc"
         }
     ],
     "version": {
