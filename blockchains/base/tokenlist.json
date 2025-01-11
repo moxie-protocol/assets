@@ -22325,6 +22325,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1661956200681070592/7uYrD33w.jpg",
             "name": "Moxie:mukaratrade-x",
             "symbol": "Moxie:mukaratrade-x"
+        },
+        {
+            "address": "0x03a97c9C6330d553F4AD239F057D48abFCC58127",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873146337090502656/Yl0T2v8H.jpg",
+            "name": "Moxie:oxsyaff-x",
+            "symbol": "Moxie:oxsyaff-x"
         }
     ],
     "version": {
