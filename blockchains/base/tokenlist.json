@@ -22297,6 +22297,13 @@
             "logoURI": null,
             "name": "babymelon.eth",
             "symbol": "fid:451499"
+        },
+        {
+            "address": "0xf44F59050E9887306289e693aF358eFE031606bb",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/895850ee-d68d-415e-d274-2c0e73e97800/rectcrop3",
+            "name": "Moxie:hephaes-fc",
+            "symbol": "Moxie:hephaes-fc"
         }
     ],
     "version": {
