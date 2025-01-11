@@ -22255,6 +22255,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1256191206494625792/aNdMOkxl.jpg",
             "name": "Moxie:Nrftr24Qbx-x",
             "symbol": "Moxie:Nrftr24Qbx-x"
+        },
+        {
+            "address": "0x08F14b2C577DA5c07c847A1cD456B879348AEd83",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9382ad8e-95d6-41c6-5372-36b663f0df00/original",
+            "name": "Moxie:consuela-fc",
+            "symbol": "Moxie:consuela-fc"
         }
     ],
     "version": {
