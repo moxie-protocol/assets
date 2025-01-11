@@ -22430,6 +22430,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/834cb42a-0102-43b5-3bab-91f44300e200/rectcrop3",
             "name": "Moxie:isiaqy101-fc",
             "symbol": "Moxie:isiaqy101-fc"
+        },
+        {
+            "address": "0x481644F8fAB4AbC0A3A0794E08Ca706020832756",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2fe67d15-2601-4648-aea2-f996a5b6f700/rectcrop3",
+            "name": "Moxie:naqmehmjd-fc",
+            "symbol": "Moxie:naqmehmjd-fc"
         }
     ],
     "version": {
