@@ -22269,6 +22269,13 @@
             "logoURI": "https://i.imgur.com/RvlhyVp.jpg",
             "name": "Moxie:0x1216-fc",
             "symbol": "Moxie:0x1216-fc"
+        },
+        {
+            "address": "0xCE29f39DC9db4710CCA01bd87596747fDE127e85",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b0441318-7a7d-475c-33b8-979fb71efa00/rectcrop3",
+            "name": "Moxie:solalo-fc",
+            "symbol": "Moxie:solalo-fc"
         }
     ],
     "version": {
