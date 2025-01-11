@@ -22178,6 +22178,13 @@
             "logoURI": null,
             "name": "fatemehsgp",
             "symbol": "fid:896797"
+        },
+        {
+            "address": "0x992ffc7515e2Cb6D8f0d97e335Fc1c9d8cb76446",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e66f7f13-c200-4f1a-ac5a-1e4693112c00/rectcrop3",
+            "name": "Moxie:mdshakilahamed-fc",
+            "symbol": "Moxie:mdshakilahamed-fc"
         }
     ],
     "version": {
