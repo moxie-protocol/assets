@@ -22444,6 +22444,13 @@
             "logoURI": "https://i.imgur.com/O4hFJ1y.jpg",
             "name": "Moxie:salargorbei-fc",
             "symbol": "Moxie:salargorbei-fc"
+        },
+        {
+            "address": "0xbB89F703Ac8fb54dFFaD600fEA3782ecCB973211",
+            "decimals": 18,
+            "logoURI": "https://base.black/diva.jpg",
+            "name": "Moxie:dirtnoise.base.eth-base",
+            "symbol": "Moxie:dirtnoise.base.eth-base"
         }
     ],
     "version": {
