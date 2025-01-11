@@ -22409,6 +22409,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1688899062655864832/JIaF3EZ4.jpg",
             "name": "Moxie:wornoutBoby4-x",
             "symbol": "Moxie:wornoutBoby4-x"
+        },
+        {
+            "address": "0x1C31C147455b7E815189d09cD66a5e30577Da516",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/alRy40Z.jpg",
+            "name": "Moxie:hamidstp-fc",
+            "symbol": "Moxie:hamidstp-fc"
         }
     ],
     "version": {
