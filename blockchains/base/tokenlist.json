@@ -22290,6 +22290,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873656572439662593/naliNROc.jpg",
             "name": "Moxie:ubgocnigeria-x",
             "symbol": "Moxie:ubgocnigeria-x"
+        },
+        {
+            "address": "0xbD77E4A35707Ef5F433Ed076979638982B2b61E2",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "babymelon.eth",
+            "symbol": "fid:451499"
         }
     ],
     "version": {
