@@ -22556,6 +22556,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1868434706460454912/p6dkBbwZ.jpg",
             "name": "Moxie:spylooser-x",
             "symbol": "Moxie:spylooser-x"
+        },
+        {
+            "address": "0x8539B766fa531bcFdE0657E3d1286F5c29fc0966",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/434eb49b-79a7-4f3c-b243-b6cb3cf29100/rectcrop3",
+            "name": "Moxie:aderyan-fc",
+            "symbol": "Moxie:aderyan-fc"
         }
     ],
     "version": {
