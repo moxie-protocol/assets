@@ -22493,6 +22493,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2d2d60f5-ac67-494c-d968-cd7af3da0f00/rectcrop3",
             "name": "Moxie:dilan0015-fc",
             "symbol": "Moxie:dilan0015-fc"
+        },
+        {
+            "address": "0x0258B7EEA59cc264a21abb1286101DF463d236BB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba836062-bd9d-438e-8a82-9ab5f06bcb00/rectcrop3",
+            "name": "Moxie:marshallaws-fc",
+            "symbol": "Moxie:marshallaws-fc"
         }
     ],
     "version": {
