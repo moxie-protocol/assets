@@ -22479,6 +22479,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94c8e37d-b9cd-4392-ae51-7f8cb5fdc000/rectcrop3",
             "name": "Moxie:darrenpermana-fc",
             "symbol": "Moxie:darrenpermana-fc"
+        },
+        {
+            "address": "0xB618ae732C41A5b3A455631d0F7e4F84C25ECC7a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/RrtUGFb.jpg",
+            "name": "Moxie:087724081923-fc",
+            "symbol": "Moxie:087724081923-fc"
         }
     ],
     "version": {
