@@ -22542,6 +22542,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8734f8e1-c421-4654-56cb-cb383030ab00/rectcrop3",
             "name": "Moxie:thompag-fc",
             "symbol": "Moxie:thompag-fc"
+        },
+        {
+            "address": "0x89A7406a64c75c36A07B007a383C9828D8BD3557",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1863125021566091264/8jAQpMkg.jpg",
+            "name": "Moxie:sharafi_eth-x",
+            "symbol": "Moxie:sharafi_eth-x"
         }
     ],
     "version": {
