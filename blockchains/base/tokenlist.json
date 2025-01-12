@@ -22549,6 +22549,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863125021566091264/8jAQpMkg.jpg",
             "name": "Moxie:sharafi_eth-x",
             "symbol": "Moxie:sharafi_eth-x"
+        },
+        {
+            "address": "0xDC1fDA1529310036CDD39c4Da5A52b56E20C6F79",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1868434706460454912/p6dkBbwZ.jpg",
+            "name": "Moxie:spylooser-x",
+            "symbol": "Moxie:spylooser-x"
         }
     ],
     "version": {
