@@ -22507,6 +22507,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95fec9a6-cde0-4ef1-3ff3-3afc294b1600/rectcrop3",
             "name": "Moxie:mehr10-fc",
             "symbol": "Moxie:mehr10-fc"
+        },
+        {
+            "address": "0x9C895b6F1ecFC8A56Fa61F351C99C2CC20e3EA99",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47de10be-a658-463b-e62b-a20e33098000/rectcrop3",
+            "name": "Moxie:borsukman-fc",
+            "symbol": "Moxie:borsukman-fc"
         }
     ],
     "version": {
