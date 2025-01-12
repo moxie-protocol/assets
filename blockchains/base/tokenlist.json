@@ -22458,6 +22458,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1790138052972609536/sVxWrk97.jpg",
             "name": "Moxie:0xNewShin-x",
             "symbol": "Moxie:0xNewShin-x"
+        },
+        {
+            "address": "0x37591B54f27aebBC87660D1329BF934acd93449e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1798240797776592896/qWpQl5e6.jpg",
+            "name": "Moxie:mohsen76112406-x",
+            "symbol": "Moxie:mohsen76112406-x"
         }
     ],
     "version": {
