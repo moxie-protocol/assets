@@ -22521,6 +22521,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57f8600f-2e51-4549-8cc4-f80e4c681800/rectcrop3",
             "name": "Moxie:shomari.eth-fc",
             "symbol": "Moxie:shomari.eth-fc"
+        },
+        {
+            "address": "0x922b02CB64C5DAA10f9355eAA06a00F4BC2A2F1E",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1773010344086310912/Ovfn7zx1.jpg",
+            "name": "Moxie:Vika98395069687-x",
+            "symbol": "Moxie:Vika98395069687-x"
         }
     ],
     "version": {
