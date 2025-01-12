@@ -22535,6 +22535,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4bfb543f-6b39-4352-a915-641f6f037000/rectcrop3",
             "name": "Moxie:aliarga22-fc",
             "symbol": "Moxie:aliarga22-fc"
+        },
+        {
+            "address": "0x6602EA48FCDFe4d543aBE5136359baa8DE08753f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8734f8e1-c421-4654-56cb-cb383030ab00/rectcrop3",
+            "name": "Moxie:thompag-fc",
+            "symbol": "Moxie:thompag-fc"
         }
     ],
     "version": {
