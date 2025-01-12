@@ -22514,6 +22514,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47de10be-a658-463b-e62b-a20e33098000/rectcrop3",
             "name": "Moxie:borsukman-fc",
             "symbol": "Moxie:borsukman-fc"
+        },
+        {
+            "address": "0x6260E9FCfBA1C5Fe25b83F6bDe75679736E22731",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57f8600f-2e51-4549-8cc4-f80e4c681800/rectcrop3",
+            "name": "Moxie:shomari.eth-fc",
+            "symbol": "Moxie:shomari.eth-fc"
         }
     ],
     "version": {
