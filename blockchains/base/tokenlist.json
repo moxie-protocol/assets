@@ -22500,6 +22500,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba836062-bd9d-438e-8a82-9ab5f06bcb00/rectcrop3",
             "name": "Moxie:marshallaws-fc",
             "symbol": "Moxie:marshallaws-fc"
+        },
+        {
+            "address": "0x2d6624Fde6EEbdaA81f061BFa2e9AC5c5A72a644",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/95fec9a6-cde0-4ef1-3ff3-3afc294b1600/rectcrop3",
+            "name": "Moxie:mehr10-fc",
+            "symbol": "Moxie:mehr10-fc"
         }
     ],
     "version": {
