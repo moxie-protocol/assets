@@ -22640,6 +22640,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/49ccacbc-fa28-4d67-439d-b4ab40013900/rectcrop3",
             "name": "Moxie:0xdazai.eth-fc",
             "symbol": "Moxie:0xdazai.eth-fc"
+        },
+        {
+            "address": "0x4880e3E3815d7D36bB26260660E1Fe852B0F90cA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea5cabea-7a51-4412-9f7c-55419ef4ff00/rectcrop3",
+            "name": "Moxie:uzinaci-fc",
+            "symbol": "Moxie:uzinaci-fc"
         }
     ],
     "version": {
