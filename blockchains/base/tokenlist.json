@@ -22668,6 +22668,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1877777406980714496/u63ZjZos.jpg",
             "name": "Moxie:mahdliln-x",
             "symbol": "Moxie:mahdliln-x"
+        },
+        {
+            "address": "0x78C5De71fCD3Ce838AC1732372b268b6fEF8B89a",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/C5gxCEh.jpg",
+            "name": "Moxie:dennyjp41-fc",
+            "symbol": "Moxie:dennyjp41-fc"
         }
     ],
     "version": {
