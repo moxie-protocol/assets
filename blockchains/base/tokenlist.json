@@ -22675,6 +22675,13 @@
             "logoURI": "https://i.imgur.com/C5gxCEh.jpg",
             "name": "Moxie:dennyjp41-fc",
             "symbol": "Moxie:dennyjp41-fc"
+        },
+        {
+            "address": "0x449c64674B91F473988Aca91A8383C444F6d691D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1532844630148100096/I0ebdned.jpg",
+            "name": "Moxie:Amir_sh_2002-x",
+            "symbol": "Moxie:Amir_sh_2002-x"
         }
     ],
     "version": {
