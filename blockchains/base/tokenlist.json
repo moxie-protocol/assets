@@ -22682,6 +22682,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1532844630148100096/I0ebdned.jpg",
             "name": "Moxie:Amir_sh_2002-x",
             "symbol": "Moxie:Amir_sh_2002-x"
+        },
+        {
+            "address": "0x6F90d1e914827C26F5B918f02135451f30b8aE82",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1741342705203163136/1QPZWhmW.jpg",
+            "name": "Moxie:Zioraa18-x",
+            "symbol": "Moxie:Zioraa18-x"
         }
     ],
     "version": {
