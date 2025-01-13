@@ -22703,6 +22703,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce6b16a1-5edb-4f40-21a9-cb7f8943fb00/original",
             "name": "Moxie:phynn-fc",
             "symbol": "Moxie:phynn-fc"
+        },
+        {
+            "address": "0x93b2291C6ABBD9ee6C2A4363fBa2f236596d427c",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/932E4ao.jpg",
+            "name": "Moxie:usersurya-fc",
+            "symbol": "Moxie:usersurya-fc"
         }
     ],
     "version": {
