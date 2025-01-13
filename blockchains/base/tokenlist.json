@@ -22626,6 +22626,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1878384083199303680/Mus9ueHX.jpg",
             "name": "Moxie:navid_rajaei-x",
             "symbol": "Moxie:navid_rajaei-x"
+        },
+        {
+            "address": "0x98e7B05eaCFF44d02f3A9293Ca484b8184FA9E69",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1873473804741058560/G0z0pEVQ.jpg",
+            "name": "Moxie:Meysami77-x",
+            "symbol": "Moxie:Meysami77-x"
         }
     ],
     "version": {
