@@ -22563,6 +22563,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/434eb49b-79a7-4f3c-b243-b6cb3cf29100/rectcrop3",
             "name": "Moxie:aderyan-fc",
             "symbol": "Moxie:aderyan-fc"
+        },
+        {
+            "address": "0xdbAC4D4F02138DB7b1ef5B3BF7EC889820D70458",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a648917-696f-4a6e-cea8-653803bda100/rectcrop3",
+            "name": "Moxie:basyar-fc",
+            "symbol": "Moxie:basyar-fc"
         }
     ],
     "version": {
