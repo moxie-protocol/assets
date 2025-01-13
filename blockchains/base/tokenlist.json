@@ -22605,6 +22605,13 @@
             "logoURI": null,
             "name": "/farcaster-esp",
             "symbol": "cid:farcaster-esp"
+        },
+        {
+            "address": "0xE31584a96C0fBe7400D586d1B62B38D411Ce35D5",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "rozinfinity.eth",
+            "symbol": "fid:877716"
         }
     ],
     "version": {
