@@ -22633,6 +22633,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1873473804741058560/G0z0pEVQ.jpg",
             "name": "Moxie:Meysami77-x",
             "symbol": "Moxie:Meysami77-x"
+        },
+        {
+            "address": "0x53cA02A407a6269e9AB40E32f9BEc92C3EC14a02",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/49ccacbc-fa28-4d67-439d-b4ab40013900/rectcrop3",
+            "name": "Moxie:0xdazai.eth-fc",
+            "symbol": "Moxie:0xdazai.eth-fc"
         }
     ],
     "version": {
