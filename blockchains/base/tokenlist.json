@@ -22647,6 +22647,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea5cabea-7a51-4412-9f7c-55419ef4ff00/rectcrop3",
             "name": "Moxie:uzinaci-fc",
             "symbol": "Moxie:uzinaci-fc"
+        },
+        {
+            "address": "0xf089E00efBE06B85b28E0042a38bee6B0D9C7191",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb197fcf-d50e-4e97-e552-783aac543f00/original",
+            "name": "Moxie:ygn-ysf-fc",
+            "symbol": "Moxie:ygn-ysf-fc"
         }
     ],
     "version": {
