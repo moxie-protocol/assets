@@ -22696,6 +22696,13 @@
             "logoURI": "https://arweave.net/xEL4j4jXg7j_B00AyPGhZE0qVaitpY9g0xOTBxHtap4/",
             "name": "Moxie:hasakal-fc",
             "symbol": "Moxie:hasakal-fc"
+        },
+        {
+            "address": "0xb007509E71090986B09b1A0831ACF7E46753953F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ce6b16a1-5edb-4f40-21a9-cb7f8943fb00/original",
+            "name": "Moxie:phynn-fc",
+            "symbol": "Moxie:phynn-fc"
         }
     ],
     "version": {
