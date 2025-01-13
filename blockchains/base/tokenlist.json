@@ -22577,6 +22577,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1847952855770312704/hzYfoX9o.jpg",
             "name": "Moxie:ElonMuskOCI-x",
             "symbol": "Moxie:ElonMuskOCI-x"
+        },
+        {
+            "address": "0xa1D123Ae18d7A1EC3C8b49CDFE30207a687Dc6C7",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreidp6suz55lfb2vkov36ddpha2lh6cbw3qqaqvkrigyop5lnby4cdm",
+            "name": "Moxie:fraekjump-fc",
+            "symbol": "Moxie:fraekjump-fc"
         }
     ],
     "version": {
