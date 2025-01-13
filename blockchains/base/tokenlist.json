@@ -22661,6 +22661,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1846562277736288256/5I802k01.jpg",
             "name": "Moxie:BaseCaptainHB-x",
             "symbol": "Moxie:BaseCaptainHB-x"
+        },
+        {
+            "address": "0x38E19b471Ca780a1093595777BF3BDd0cE2ffc97",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1877777406980714496/u63ZjZos.jpg",
+            "name": "Moxie:mahdliln-x",
+            "symbol": "Moxie:mahdliln-x"
         }
     ],
     "version": {
