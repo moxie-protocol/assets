@@ -22598,6 +22598,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/00c8f23b-d129-4fbc-6fb0-6e5440db2700/rectcrop3",
             "name": "Moxie:ferinode-fc",
             "symbol": "Moxie:ferinode-fc"
+        },
+        {
+            "address": "0xA3B6C50e598f957E3a97D13FbC13DB9F5a1112F1",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "/farcaster-esp",
+            "symbol": "cid:farcaster-esp"
         }
     ],
     "version": {
