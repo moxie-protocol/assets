@@ -22689,6 +22689,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1741342705203163136/1QPZWhmW.jpg",
             "name": "Moxie:Zioraa18-x",
             "symbol": "Moxie:Zioraa18-x"
+        },
+        {
+            "address": "0x92d267b3f5B4dA4eA1E0E86D597f22998C41B7e1",
+            "decimals": 18,
+            "logoURI": "https://arweave.net/xEL4j4jXg7j_B00AyPGhZE0qVaitpY9g0xOTBxHtap4/",
+            "name": "Moxie:hasakal-fc",
+            "symbol": "Moxie:hasakal-fc"
         }
     ],
     "version": {
