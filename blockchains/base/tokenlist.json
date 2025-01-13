@@ -22584,6 +22584,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreidp6suz55lfb2vkov36ddpha2lh6cbw3qqaqvkrigyop5lnby4cdm",
             "name": "Moxie:fraekjump-fc",
             "symbol": "Moxie:fraekjump-fc"
+        },
+        {
+            "address": "0x958dA41c4bb072Cfe23F325a2fd2F24b04bfef13",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869008641728323584/7H-8y9GM.jpg",
+            "name": "Moxie:Syarif1226-x",
+            "symbol": "Moxie:Syarif1226-x"
         }
     ],
     "version": {
