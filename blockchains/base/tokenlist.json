@@ -22612,6 +22612,13 @@
             "logoURI": null,
             "name": "rozinfinity.eth",
             "symbol": "fid:877716"
+        },
+        {
+            "address": "0x1a079a4D2846c61C2006e2B69CC30311d1B0835f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15f8f79a-00ce-4774-3f99-b38347ecbf00/rectcrop3",
+            "name": "Moxie:purkon-fc",
+            "symbol": "Moxie:purkon-fc"
         }
     ],
     "version": {
