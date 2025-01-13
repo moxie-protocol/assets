@@ -22570,6 +22570,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a648917-696f-4a6e-cea8-653803bda100/rectcrop3",
             "name": "Moxie:basyar-fc",
             "symbol": "Moxie:basyar-fc"
+        },
+        {
+            "address": "0xE6d66DdF7a6B83272bc94d701b1e6e3EDbc90e27",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1847952855770312704/hzYfoX9o.jpg",
+            "name": "Moxie:ElonMuskOCI-x",
+            "symbol": "Moxie:ElonMuskOCI-x"
         }
     ],
     "version": {
