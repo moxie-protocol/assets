@@ -22591,6 +22591,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869008641728323584/7H-8y9GM.jpg",
             "name": "Moxie:Syarif1226-x",
             "symbol": "Moxie:Syarif1226-x"
+        },
+        {
+            "address": "0xD13B8CB7190333931e83ADe90ae3b681D7e73acE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/00c8f23b-d129-4fbc-6fb0-6e5440db2700/rectcrop3",
+            "name": "Moxie:ferinode-fc",
+            "symbol": "Moxie:ferinode-fc"
         }
     ],
     "version": {
