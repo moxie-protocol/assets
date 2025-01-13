@@ -22619,6 +22619,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/15f8f79a-00ce-4774-3f99-b38347ecbf00/rectcrop3",
             "name": "Moxie:purkon-fc",
             "symbol": "Moxie:purkon-fc"
+        },
+        {
+            "address": "0xF7DD6eCB154f81325b19945ED756C434a7aC23C6",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1878384083199303680/Mus9ueHX.jpg",
+            "name": "Moxie:navid_rajaei-x",
+            "symbol": "Moxie:navid_rajaei-x"
         }
     ],
     "version": {
