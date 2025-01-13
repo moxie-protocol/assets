@@ -22710,6 +22710,13 @@
             "logoURI": "https://i.imgur.com/932E4ao.jpg",
             "name": "Moxie:usersurya-fc",
             "symbol": "Moxie:usersurya-fc"
+        },
+        {
+            "address": "0x888f44e66C15FE75cfC2c28aD4Da0238201D2636",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d33876b-ee83-4835-fc67-5700f7705100/original",
+            "name": "Moxie:fidi-fc",
+            "symbol": "Moxie:fidi-fc"
         }
     ],
     "version": {
