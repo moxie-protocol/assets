@@ -22654,6 +22654,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bb197fcf-d50e-4e97-e552-783aac543f00/original",
             "name": "Moxie:ygn-ysf-fc",
             "symbol": "Moxie:ygn-ysf-fc"
+        },
+        {
+            "address": "0xE574a04fe6b694de8bD0751fcEB2236BFa226f46",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1846562277736288256/5I802k01.jpg",
+            "name": "Moxie:BaseCaptainHB-x",
+            "symbol": "Moxie:BaseCaptainHB-x"
         }
     ],
     "version": {
