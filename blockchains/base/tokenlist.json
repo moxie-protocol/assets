@@ -22759,6 +22759,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869310092493139968/kn5bfX5Q.jpg",
             "name": "Moxie:infzit-x",
             "symbol": "Moxie:infzit-x"
+        },
+        {
+            "address": "0x55e5f3540012b1786DC86C00222482082dCB5689",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/efe99c7f-134b-4409-f4c4-02b04b2aca00/rectcrop3",
+            "name": "Moxie:to-fa-fc",
+            "symbol": "Moxie:to-fa-fc"
         }
     ],
     "version": {
