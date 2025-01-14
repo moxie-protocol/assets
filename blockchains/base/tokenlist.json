@@ -22773,6 +22773,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f441d5d1-690f-46ad-07ff-e4b48a8f0900/original",
             "name": "Moxie:michelle3-fc",
             "symbol": "Moxie:michelle3-fc"
+        },
+        {
+            "address": "0x346923a4c89A5507cAc81FC3CDD46032A67a3c20",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/FA3idE5.jpg",
+            "name": "Moxie:irenella-fc",
+            "symbol": "Moxie:irenella-fc"
         }
     ],
     "version": {
