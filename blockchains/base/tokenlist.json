@@ -22724,6 +22724,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1878845226946605056/dUu44DgQ.jpg",
             "name": "Moxie:Nil_web3-x",
             "symbol": "Moxie:Nil_web3-x"
+        },
+        {
+            "address": "0xeBeF8f262b61E99D32A987dBb570B851982De6E4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1832540304378920960/a4fG9Gj5.jpg",
+            "name": "Moxie:Ko6e2x4-x",
+            "symbol": "Moxie:Ko6e2x4-x"
         }
     ],
     "version": {
