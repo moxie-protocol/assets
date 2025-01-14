@@ -22822,6 +22822,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e66cab75-e5f4-4790-f24b-7a1454a7b100/rectcrop3",
             "name": "Moxie:r4ngg4rut-fc",
             "symbol": "Moxie:r4ngg4rut-fc"
+        },
+        {
+            "address": "0xb9C922B480720251a0a43555A062dd8d561aBB1C",
+            "decimals": 18,
+            "logoURI": "https://ipfs.io/ipfs/bafybeif6jak4q2xdnbd6unclvfj2cnvxxq5e2gaq6g6shx5bawqbdt3zpq",
+            "name": "Moxie:oppaajabro.base.eth-base",
+            "symbol": "Moxie:oppaajabro.base.eth-base"
         }
     ],
     "version": {
