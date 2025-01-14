@@ -22752,6 +22752,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1751801753790799872/maiaA4cQ.jpg",
             "name": "Moxie:nino1454390-x",
             "symbol": "Moxie:nino1454390-x"
+        },
+        {
+            "address": "0x40f64F9f43fB515C26088d7900952Ab85a5faA8F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869310092493139968/kn5bfX5Q.jpg",
+            "name": "Moxie:infzit-x",
+            "symbol": "Moxie:infzit-x"
         }
     ],
     "version": {
