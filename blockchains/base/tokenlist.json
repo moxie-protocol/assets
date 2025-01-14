@@ -22801,6 +22801,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1647670756900503554/1TzwmdR_.jpg",
             "name": "Moxie:Arneloy01628-x",
             "symbol": "Moxie:Arneloy01628-x"
+        },
+        {
+            "address": "0xa834863352af009f24C9304c9E8CCcA6588Fa54C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ed7beb85-1fae-431c-a7a2-3f82375e5100/original",
+            "name": "Moxie:asyncawait-fc",
+            "symbol": "Moxie:asyncawait-fc"
         }
     ],
     "version": {
