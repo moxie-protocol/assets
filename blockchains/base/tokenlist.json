@@ -22836,6 +22836,13 @@
             "logoURI": "https://i.postimg.cc/tJGc7GXh/Captura-de-pantalla-2025-01-14-171421.png",
             "name": "Moxie:aram18.base.eth-base",
             "symbol": "Moxie:aram18.base.eth-base"
+        },
+        {
+            "address": "0xbbCFbfEA97E86D1938d28623f7396F5C7272e504",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1587059896159449088/JnjddPSi.jpg",
+            "name": "Moxie:axialta3-x",
+            "symbol": "Moxie:axialta3-x"
         }
     ],
     "version": {
