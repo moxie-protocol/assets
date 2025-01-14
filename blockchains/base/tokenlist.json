@@ -22850,6 +22850,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc52db4b-e6d7-4d09-5cdc-46fac061fd00/rectcrop3",
             "name": "Moxie:nikiram-fc",
             "symbol": "Moxie:nikiram-fc"
+        },
+        {
+            "address": "0x14515fe59e5480E829F3C7c5Cb8b22DB85B84D2e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e0aaa01b-79aa-4cd6-a072-a1a312dbbf00/rectcrop3",
+            "name": "Moxie:aulia27-fc",
+            "symbol": "Moxie:aulia27-fc"
         }
     ],
     "version": {
