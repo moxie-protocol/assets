@@ -22766,6 +22766,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/efe99c7f-134b-4409-f4c4-02b04b2aca00/rectcrop3",
             "name": "Moxie:to-fa-fc",
             "symbol": "Moxie:to-fa-fc"
+        },
+        {
+            "address": "0x9e4dE54d13d3F0Af76A8305391F5bD303934503c",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f441d5d1-690f-46ad-07ff-e4b48a8f0900/original",
+            "name": "Moxie:michelle3-fc",
+            "symbol": "Moxie:michelle3-fc"
         }
     ],
     "version": {
