@@ -22717,6 +22717,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d33876b-ee83-4835-fc67-5700f7705100/original",
             "name": "Moxie:fidi-fc",
             "symbol": "Moxie:fidi-fc"
+        },
+        {
+            "address": "0xbfD6CAF253f66B1F4AAA9d017315b4326cF9a614",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1878845226946605056/dUu44DgQ.jpg",
+            "name": "Moxie:Nil_web3-x",
+            "symbol": "Moxie:Nil_web3-x"
         }
     ],
     "version": {
