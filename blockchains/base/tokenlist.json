@@ -22780,6 +22780,13 @@
             "logoURI": "https://i.imgur.com/FA3idE5.jpg",
             "name": "Moxie:irenella-fc",
             "symbol": "Moxie:irenella-fc"
+        },
+        {
+            "address": "0x110D70f65a6a702b220ccf1f8f7fFC87a79dADd7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1627185738734346246/lvcPz5Rb_400x400.jpg",
+            "name": "Moxie:rskycar.base.eth-base",
+            "symbol": "Moxie:rskycar.base.eth-base"
         }
     ],
     "version": {
