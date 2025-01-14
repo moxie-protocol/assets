@@ -22843,6 +22843,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1587059896159449088/JnjddPSi.jpg",
             "name": "Moxie:axialta3-x",
             "symbol": "Moxie:axialta3-x"
+        },
+        {
+            "address": "0xDA5fC050270033B77FFfc68e8D747DE245EE2111",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc52db4b-e6d7-4d09-5cdc-46fac061fd00/rectcrop3",
+            "name": "Moxie:nikiram-fc",
+            "symbol": "Moxie:nikiram-fc"
         }
     ],
     "version": {
