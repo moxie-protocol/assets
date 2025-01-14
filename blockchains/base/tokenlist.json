@@ -22787,6 +22787,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1627185738734346246/lvcPz5Rb_400x400.jpg",
             "name": "Moxie:rskycar.base.eth-base",
             "symbol": "Moxie:rskycar.base.eth-base"
+        },
+        {
+            "address": "0xA0Fc81eB50771480Ec3549FACe728e8be31B0154",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/36f3659c-4fa0-4ec9-7b84-e60f969a5e00/rectcrop3",
+            "name": "Moxie:miiilad-fc",
+            "symbol": "Moxie:miiilad-fc"
         }
     ],
     "version": {
