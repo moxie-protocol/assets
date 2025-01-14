@@ -22731,6 +22731,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1832540304378920960/a4fG9Gj5.jpg",
             "name": "Moxie:Ko6e2x4-x",
             "symbol": "Moxie:Ko6e2x4-x"
+        },
+        {
+            "address": "0x9aC6aFDB60fE837bb6edb993558d2b9E4f0Ba27F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1788175021514346496/VvWy6WKP.jpg",
+            "name": "Moxie:Kaduna_Karma-x",
+            "symbol": "Moxie:Kaduna_Karma-x"
         }
     ],
     "version": {
