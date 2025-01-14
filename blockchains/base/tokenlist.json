@@ -22878,6 +22878,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1854865653695414272/e9zNvUHJ.jpg",
             "name": "Moxie:0xpandasol-x",
             "symbol": "Moxie:0xpandasol-x"
+        },
+        {
+            "address": "0x6575a486A71Ca75a758d0572026f2e4d936ADd8D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1870132569343164416/s-cxuYiC.jpg",
+            "name": "Moxie:specialonemou01-x",
+            "symbol": "Moxie:specialonemou01-x"
         }
     ],
     "version": {
