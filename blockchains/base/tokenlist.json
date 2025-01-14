@@ -22864,6 +22864,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861623929481158656/cwe4O33V.jpg",
             "name": "Moxie:king_meta008-x",
             "symbol": "Moxie:king_meta008-x"
+        },
+        {
+            "address": "0x02E9F6BD3b000f5B946e8c21CB616487e66f4182",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9a1d6a5-56db-44c7-0eeb-ad6055fe8800/rectcrop3",
+            "name": "Moxie:lucavalcante-fc",
+            "symbol": "Moxie:lucavalcante-fc"
         }
     ],
     "version": {
