@@ -22955,6 +22955,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2078d6c9-9357-49da-7742-6d7cefaa1c00/rectcrop3",
             "name": "Moxie:henryn-fc",
             "symbol": "Moxie:henryn-fc"
+        },
+        {
+            "address": "0x043eEFdd4FaE37172eD8275Cd4AE8bba0bd5eA1A",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nahid03",
+            "symbol": "fid:516130"
         }
     ],
     "version": {
