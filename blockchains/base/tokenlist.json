@@ -22927,6 +22927,13 @@
             "logoURI": "https://i.imgur.com/vgTYgJz.png",
             "name": "Moxie:yellowclaw-fc",
             "symbol": "Moxie:yellowclaw-fc"
+        },
+        {
+            "address": "0xA729c843c4f5f83A38199B8E5b9dbE5ef63aa1E4",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1864001566174224384/3zSXq_DM.jpg",
+            "name": "Moxie:0xGutso-x",
+            "symbol": "Moxie:0xGutso-x"
         }
     ],
     "version": {
