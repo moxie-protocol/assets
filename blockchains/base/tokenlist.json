@@ -22934,6 +22934,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1864001566174224384/3zSXq_DM.jpg",
             "name": "Moxie:0xGutso-x",
             "symbol": "Moxie:0xGutso-x"
+        },
+        {
+            "address": "0x6E4628BCD36303E972335CAF720280B586f47F6F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b5735706-bcc9-4862-7dd8-749dc4519400/rectcrop3",
+            "name": "Moxie:faezenasaj-fc",
+            "symbol": "Moxie:faezenasaj-fc"
         }
     ],
     "version": {
