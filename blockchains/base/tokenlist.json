@@ -22913,6 +22913,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ede7e7e-88b7-4bde-ae9e-5ae9e0c50c00/rectcrop3",
             "name": "Moxie:imbaboo-fc",
             "symbol": "Moxie:imbaboo-fc"
+        },
+        {
+            "address": "0x5B90B097F4C342CE9608f60740e8011D2e44EbE3",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1634931767349223427/16NVBTox.jpg",
+            "name": "Moxie:garbin_eth-x",
+            "symbol": "Moxie:garbin_eth-x"
         }
     ],
     "version": {
