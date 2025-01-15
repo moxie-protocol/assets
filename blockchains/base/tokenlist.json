@@ -22899,6 +22899,13 @@
             "logoURI": "https://tse3.mm.bing.net/th?id=OIP.DtSNsWx_-jU3Aw2bplDzVQHaHa\u0026pid=Api\u0026P=0\u0026h=180",
             "name": "Moxie:vrustasy-gt",
             "symbol": "Moxie:vrustasy-gt"
+        },
+        {
+            "address": "0xd3c00667A7730F7a131dDE329Aa93D98578d683E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea806af9-b41f-4f54-855b-96e9f5dd2c00/rectcrop3",
+            "name": "Moxie:moza12-fc",
+            "symbol": "Moxie:moza12-fc"
         }
     ],
     "version": {
