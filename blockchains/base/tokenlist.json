@@ -22920,6 +22920,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1634931767349223427/16NVBTox.jpg",
             "name": "Moxie:garbin_eth-x",
             "symbol": "Moxie:garbin_eth-x"
+        },
+        {
+            "address": "0xE272Ae0f5F8Fc2ED609FD56fA2Bdb0f36d061d1B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/vgTYgJz.png",
+            "name": "Moxie:yellowclaw-fc",
+            "symbol": "Moxie:yellowclaw-fc"
         }
     ],
     "version": {
