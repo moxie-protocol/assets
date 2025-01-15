@@ -22906,6 +22906,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea806af9-b41f-4f54-855b-96e9f5dd2c00/rectcrop3",
             "name": "Moxie:moza12-fc",
             "symbol": "Moxie:moza12-fc"
+        },
+        {
+            "address": "0x65e77cE4d9aC04fC16a5eD83e53626c63495d45e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ede7e7e-88b7-4bde-ae9e-5ae9e0c50c00/rectcrop3",
+            "name": "Moxie:imbaboo-fc",
+            "symbol": "Moxie:imbaboo-fc"
         }
     ],
     "version": {
