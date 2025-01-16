@@ -23585,6 +23585,13 @@
             "logoURI": "https://files.oaiusercontent.com/file-2NpXXw1KjQvAukXnLjZce3?se=2024-12-25T14%3A48%3A18Z\u0026sp=r\u0026sv=2024-08-04\u0026sr=b\u0026rscc=max-age%3D604800%2C%20immutable%2C%20private\u0026rscd=attachment%3B%20filename%3D3639611f-0774-4e60-812f-b6c9528d3e78.webp\u0026sig=tP3CvLxRU75fJLbitNehZxePLli4OwLvxJqsZJ2lYeE%3D",
             "name": "Moxie:victormta.base.eth-base",
             "symbol": "Moxie:victormta.base.eth-base"
+        },
+        {
+            "address": "0xFbe2a992074ed6e12E81e9478963AfC028C1bA34",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/DT3Kcni.jpg",
+            "name": "Moxie:axt4-fc",
+            "symbol": "Moxie:axt4-fc"
         }
     ],
     "version": {
