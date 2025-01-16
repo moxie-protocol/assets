@@ -23109,6 +23109,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ba1119d-c23e-41ec-4d17-6bc032e02a00/rectcrop3",
             "name": "Moxie:howlmen-fc",
             "symbol": "Moxie:howlmen-fc"
+        },
+        {
+            "address": "0x27E810FFd8AF8b150D339ee6Ba487D00A889a0F9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e848abd-4d46-42af-3c3d-312c12f39000/rectcrop3",
+            "name": "Moxie:cochunho-fc",
+            "symbol": "Moxie:cochunho-fc"
         }
     ],
     "version": {
