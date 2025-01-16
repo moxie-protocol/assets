@@ -23641,6 +23641,13 @@
             "logoURI": "https://i.imgur.com/YC86o1E.jpg",
             "name": "Moxie:sohag360-fc",
             "symbol": "Moxie:sohag360-fc"
+        },
+        {
+            "address": "0x2115c5A6d8b3E47720b526b883d5541d8049c75B",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/LJhhtA4.jpg",
+            "name": "Moxie:zimi18-fc",
+            "symbol": "Moxie:zimi18-fc"
         }
     ],
     "version": {
