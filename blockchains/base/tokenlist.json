@@ -23361,6 +23361,13 @@
             "logoURI": "https://i.imgur.com/i7645JH.jpg",
             "name": "Moxie:efee82-fc",
             "symbol": "Moxie:efee82-fc"
+        },
+        {
+            "address": "0xe7EaA1571bFca9AC6B6cAB0905d19CEb37818dA8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13a572e4-e18e-449b-d3f0-b1cc5659a200/rectcrop3",
+            "name": "Moxie:hiyukrem-fc",
+            "symbol": "Moxie:hiyukrem-fc"
         }
     ],
     "version": {
