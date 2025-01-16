@@ -23501,6 +23501,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2875cbf-b9e1-4833-19ee-fa1a2fd0a100/rectcrop3",
             "name": "Moxie:thidep-fc",
             "symbol": "Moxie:thidep-fc"
+        },
+        {
+            "address": "0xAD9A52dC3aCcbc14ceB3F6a342A986245CAb243f",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff41ce3b-bd0a-447f-944a-e57384110900/rectcrop3",
+            "name": "Moxie:becai-fc",
+            "symbol": "Moxie:becai-fc"
         }
     ],
     "version": {
