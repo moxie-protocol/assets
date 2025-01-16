@@ -23410,6 +23410,13 @@
             "logoURI": "https://i.imgur.com/QAHsgpg.jpg",
             "name": "Moxie:tuyennguyen95-fc",
             "symbol": "Moxie:tuyennguyen95-fc"
+        },
+        {
+            "address": "0x7B06B3A607F7Ac4Ff1055957EeE7Fc145bda4A2C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ead7c609-d23a-4881-c080-de79e5608a00/rectcrop3",
+            "name": "Moxie:phatdat-fc",
+            "symbol": "Moxie:phatdat-fc"
         }
     ],
     "version": {
