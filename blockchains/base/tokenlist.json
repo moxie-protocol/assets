@@ -23256,6 +23256,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e2e15ed-80ba-4068-a61c-e69d200bfe00/rectcrop3",
             "name": "Moxie:giatruong-fc",
             "symbol": "Moxie:giatruong-fc"
+        },
+        {
+            "address": "0xf57d802C14D7fcaa44CCa193bc6C2eB4FCf3e23B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1376751-286d-44d9-ec91-4124c8fb3600/rectcrop3",
+            "name": "Moxie:tinhkhiet-fc",
+            "symbol": "Moxie:tinhkhiet-fc"
         }
     ],
     "version": {
