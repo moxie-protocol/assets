@@ -23158,6 +23158,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87206e4b-44e6-4f67-2eb6-71434abe4800/rectcrop3",
             "name": "Moxie:yame-fc",
             "symbol": "Moxie:yame-fc"
+        },
+        {
+            "address": "0x891081a4554929358aa9E4b3a1371e983832ccBf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/48b391a3-8785-4191-d577-4ff9eab68b00/rectcrop3",
+            "name": "Moxie:upyou-fc",
+            "symbol": "Moxie:upyou-fc"
         }
     ],
     "version": {
