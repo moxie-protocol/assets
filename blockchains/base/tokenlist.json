@@ -23578,6 +23578,13 @@
             "logoURI": null,
             "name": "nomanshahid",
             "symbol": "fid:948187"
+        },
+        {
+            "address": "0xa7c8302CBa69d08916EA3151f6aaa262E3FeF02D",
+            "decimals": 18,
+            "logoURI": "https://files.oaiusercontent.com/file-2NpXXw1KjQvAukXnLjZce3?se=2024-12-25T14%3A48%3A18Z\u0026sp=r\u0026sv=2024-08-04\u0026sr=b\u0026rscc=max-age%3D604800%2C%20immutable%2C%20private\u0026rscd=attachment%3B%20filename%3D3639611f-0774-4e60-812f-b6c9528d3e78.webp\u0026sig=tP3CvLxRU75fJLbitNehZxePLli4OwLvxJqsZJ2lYeE%3D",
+            "name": "Moxie:victormta.base.eth-base",
+            "symbol": "Moxie:victormta.base.eth-base"
         }
     ],
     "version": {
