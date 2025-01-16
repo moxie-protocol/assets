@@ -23277,6 +23277,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18142853-1290-418f-b7cd-821793799100/rectcrop3",
             "name": "Moxie:boiloi-fc",
             "symbol": "Moxie:boiloi-fc"
+        },
+        {
+            "address": "0x94cAeFaFB0c65deedffBC26C6D762E42Ea28D290",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f4835bd-f75d-4d3f-4474-19ada2302900/rectcrop3",
+            "name": "Moxie:caulong-fc",
+            "symbol": "Moxie:caulong-fc"
         }
     ],
     "version": {
