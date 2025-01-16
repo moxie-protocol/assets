@@ -23088,6 +23088,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11fd9607-557e-45f6-9a2e-138c7164b400/rectcrop3",
             "name": "Moxie:luanvu-fc",
             "symbol": "Moxie:luanvu-fc"
+        },
+        {
+            "address": "0x3a46617B06BCf7B66fCA7a39D391678Fce535c86",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd70ccbc-50ab-4b42-80c5-f25efc046100/rectcrop3",
+            "name": "Moxie:boncha-fc",
+            "symbol": "Moxie:boncha-fc"
         }
     ],
     "version": {
