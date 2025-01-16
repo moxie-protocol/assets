@@ -23284,6 +23284,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f4835bd-f75d-4d3f-4474-19ada2302900/rectcrop3",
             "name": "Moxie:caulong-fc",
             "symbol": "Moxie:caulong-fc"
+        },
+        {
+            "address": "0x63e0bD941957DD70D0044d280d0744b3b25f5D80",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09c66965-d097-402f-8c82-a5bb4d200b00/rectcrop3",
+            "name": "Moxie:trungcut-fc",
+            "symbol": "Moxie:trungcut-fc"
         }
     ],
     "version": {
