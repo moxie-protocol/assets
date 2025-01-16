@@ -23249,6 +23249,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73623599-fbdb-43e2-94e6-976dcea0e000/rectcrop3",
             "name": "Moxie:chala-fc",
             "symbol": "Moxie:chala-fc"
+        },
+        {
+            "address": "0x1D4e58D7D480498b2dC3D6CCb997334b367416CE",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e2e15ed-80ba-4068-a61c-e69d200bfe00/rectcrop3",
+            "name": "Moxie:giatruong-fc",
+            "symbol": "Moxie:giatruong-fc"
         }
     ],
     "version": {
