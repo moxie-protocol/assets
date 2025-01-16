@@ -23473,6 +23473,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55b131eb-9cb0-4117-702e-c5c56c7fe600/rectcrop3",
             "name": "Moxie:begau-fc",
             "symbol": "Moxie:begau-fc"
+        },
+        {
+            "address": "0x450Bdb513cC1CE79C27BdDBe3556de1c3E92a31B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f9f2f6b5-35ec-405c-7327-448769294200/rectcrop3",
+            "name": "Moxie:bebap-fc",
+            "symbol": "Moxie:bebap-fc"
         }
     ],
     "version": {
