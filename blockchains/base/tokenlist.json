@@ -23151,6 +23151,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ed7151b-92f6-4d66-db0f-9004c29a8400/rectcrop3",
             "name": "Moxie:matong-fc",
             "symbol": "Moxie:matong-fc"
+        },
+        {
+            "address": "0x2f8d59d693ed2D5F3a89870D7797a42916282F61",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/87206e4b-44e6-4f67-2eb6-71434abe4800/rectcrop3",
+            "name": "Moxie:yame-fc",
+            "symbol": "Moxie:yame-fc"
         }
     ],
     "version": {
