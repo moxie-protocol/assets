@@ -23445,6 +23445,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/99e48bfe-0b5c-4377-c854-0730006cbe00/rectcrop3",
             "name": "Moxie:nhunhu-fc",
             "symbol": "Moxie:nhunhu-fc"
+        },
+        {
+            "address": "0xf24Ef9B5fAD3A29b3253edF12E2FAB1d253836D7",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nazeerahmad",
+            "symbol": "fid:513199"
         }
     ],
     "version": {
