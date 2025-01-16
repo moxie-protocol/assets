@@ -23725,6 +23725,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bdfda8f9-8836-4b21-930f-c4d73ca9d300/rectcrop3",
             "name": "Moxie:cengeu12-fc",
             "symbol": "Moxie:cengeu12-fc"
+        },
+        {
+            "address": "0xa780bcc3c5467C8712bd65cc587Cbb4309042eDA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae29a972-4b67-4f4b-af0c-9a4ba63da000/rectcrop3",
+            "name": "Moxie:princ-fc",
+            "symbol": "Moxie:princ-fc"
         }
     ],
     "version": {
