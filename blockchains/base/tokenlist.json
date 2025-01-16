@@ -23046,6 +23046,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47683032-676b-4f21-08da-0269f183a800/original",
             "name": "Moxie:tuankhanh-fc",
             "symbol": "Moxie:tuankhanh-fc"
+        },
+        {
+            "address": "0xAECfA33f95EF79F48784584e765cD913B9256260",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0d2353-7a5e-4edd-98d3-6545bb0eb400/original",
+            "name": "Moxie:giakhang-fc",
+            "symbol": "Moxie:giakhang-fc"
         }
     ],
     "version": {
