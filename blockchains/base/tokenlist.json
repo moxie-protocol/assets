@@ -23221,6 +23221,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/436d7613-d247-4b08-ec79-e5bb11844400/rectcrop3",
             "name": "Moxie:jenny33-fc",
             "symbol": "Moxie:jenny33-fc"
+        },
+        {
+            "address": "0x994637E33cB71A160D16965365c282e1DB9DeBe2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ecea12-de8e-4cc2-031e-6439d4065f00/rectcrop3",
+            "name": "Moxie:quocthien-fc",
+            "symbol": "Moxie:quocthien-fc"
         }
     ],
     "version": {
