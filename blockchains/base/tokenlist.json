@@ -23627,6 +23627,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86534068-792a-4011-734c-0e2afe80e500/rectcrop3",
             "name": "Moxie:0xxxx-fc",
             "symbol": "Moxie:0xxxx-fc"
+        },
+        {
+            "address": "0xEb4090B07D84610a9d70aE5e535EBC8A1F3eE200",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreibxgicblrnpwaapm7jfgluefnubkgmzxe6hmndgzmonzh6yvrxp7y",
+            "name": "Moxie:remorta-fc",
+            "symbol": "Moxie:remorta-fc"
         }
     ],
     "version": {
