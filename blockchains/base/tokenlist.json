@@ -23095,6 +23095,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd70ccbc-50ab-4b42-80c5-f25efc046100/rectcrop3",
             "name": "Moxie:boncha-fc",
             "symbol": "Moxie:boncha-fc"
+        },
+        {
+            "address": "0x2F5FA3Efe4c8D403A9D4b93288Dc163ea05A95aa",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a26e670-0645-4e11-65e6-56ac4965d600/rectcrop3",
+            "name": "Moxie:camthu-fc",
+            "symbol": "Moxie:camthu-fc"
         }
     ],
     "version": {
