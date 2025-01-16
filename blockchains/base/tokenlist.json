@@ -23739,6 +23739,13 @@
             "logoURI": "https://i.imgur.com/fPpcUmh.jpg",
             "name": "Moxie:piraku-fc",
             "symbol": "Moxie:piraku-fc"
+        },
+        {
+            "address": "0xee6A2C14Ae58ae9E2bfa7FC22C7B5639609db890",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lkRoWw7.jpg",
+            "name": "Moxie:setan398-fc",
+            "symbol": "Moxie:setan398-fc"
         }
     ],
     "version": {
