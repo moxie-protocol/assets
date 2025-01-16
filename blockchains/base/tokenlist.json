@@ -23536,6 +23536,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88ddd38e-ba7f-4bda-856e-010dd20d5100/rectcrop3",
             "name": "Moxie:beyeu-fc",
             "symbol": "Moxie:beyeu-fc"
+        },
+        {
+            "address": "0xbD86971da6432D68bc0D19551EfcCfFC3B7610fc",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "malikwaseem",
+            "symbol": "fid:476058"
         }
     ],
     "version": {
