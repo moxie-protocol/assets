@@ -23550,6 +23550,13 @@
             "logoURI": null,
             "name": "shabazgil",
             "symbol": "fid:511876"
+        },
+        {
+            "address": "0x32F733A3319738EC76706D2F850fcf15FBf5a1a5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aca8c31b-0e6e-43a6-6847-6663460f9a00/rectcrop3",
+            "name": "Moxie:kheren-fc",
+            "symbol": "Moxie:kheren-fc"
         }
     ],
     "version": {
