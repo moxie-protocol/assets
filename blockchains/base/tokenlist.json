@@ -23494,6 +23494,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3504d352-2f06-4d5b-4b5c-c633c72d9100/rectcrop3",
             "name": "Moxie:thanhhoa-fc",
             "symbol": "Moxie:thanhhoa-fc"
+        },
+        {
+            "address": "0xd6282c33d269207dDb2CcD95e9Df084993C5B1Ff",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2875cbf-b9e1-4833-19ee-fa1a2fd0a100/rectcrop3",
+            "name": "Moxie:thidep-fc",
+            "symbol": "Moxie:thidep-fc"
         }
     ],
     "version": {
