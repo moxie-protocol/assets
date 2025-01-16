@@ -23466,6 +23466,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ef02788-f3cc-4536-d18e-b22b85da6700/rectcrop3",
             "name": "Moxie:tamcam-fc",
             "symbol": "Moxie:tamcam-fc"
+        },
+        {
+            "address": "0xd289bbDC538fCdba437b752F55602989Fd27a77D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55b131eb-9cb0-4117-702e-c5c56c7fe600/rectcrop3",
+            "name": "Moxie:begau-fc",
+            "symbol": "Moxie:begau-fc"
         }
     ],
     "version": {
