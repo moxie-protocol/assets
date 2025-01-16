@@ -23298,6 +23298,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d789b529-a208-47e0-36de-f3cf8e3d5f00/rectcrop3",
             "name": "Moxie:bongchuyen-fc",
             "symbol": "Moxie:bongchuyen-fc"
+        },
+        {
+            "address": "0xbd08141c5190D66857A3C1b13D1278cA9642Ba89",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef07f671-de6d-4f02-4469-9ac427a2b600/rectcrop3",
+            "name": "Moxie:matna-fc",
+            "symbol": "Moxie:matna-fc"
         }
     ],
     "version": {
