@@ -23102,6 +23102,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a26e670-0645-4e11-65e6-56ac4965d600/rectcrop3",
             "name": "Moxie:camthu-fc",
             "symbol": "Moxie:camthu-fc"
+        },
+        {
+            "address": "0x43898f9DCe3D75E38979241a033e90A64d06aEBc",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ba1119d-c23e-41ec-4d17-6bc032e02a00/rectcrop3",
+            "name": "Moxie:howlmen-fc",
+            "symbol": "Moxie:howlmen-fc"
         }
     ],
     "version": {
