@@ -23018,6 +23018,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac3931bf-8196-4dfe-1c23-b7c1bc22e600/rectcrop3",
             "name": "Moxie:kathyngoc-fc",
             "symbol": "Moxie:kathyngoc-fc"
+        },
+        {
+            "address": "0xCd96984F4e9Bf99C96645d2a5B8b7359Bc922Be1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f5cc6d1f-ef0a-41fb-c16a-ae435fd24f00/rectcrop3",
+            "name": "Moxie:kathyngoc1-fc",
+            "symbol": "Moxie:kathyngoc1-fc"
         }
     ],
     "version": {
