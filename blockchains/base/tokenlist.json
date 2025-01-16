@@ -23123,6 +23123,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad2cf356-7db2-4931-36ca-453f818ade00/rectcrop3",
             "name": "Moxie:demaitinh-fc",
             "symbol": "Moxie:demaitinh-fc"
+        },
+        {
+            "address": "0x2b5997D436B4fC45e037f0388f0b878C25634E27",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6f66ddf-13eb-47dd-3ec8-8ad71873f600/rectcrop3",
+            "name": "Moxie:duahau-fc",
+            "symbol": "Moxie:duahau-fc"
         }
     ],
     "version": {
