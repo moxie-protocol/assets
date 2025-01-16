@@ -23235,6 +23235,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a549eb95-5aa3-4703-5790-6592f508e500/rectcrop3",
             "name": "Moxie:baoanh1-fc",
             "symbol": "Moxie:baoanh1-fc"
+        },
+        {
+            "address": "0x9EeBD4b54Db479Ae3a927DcDAC3f95859C6efA23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4419b8c0-0e76-4d1e-45ea-5834feb5fb00/rectcrop3",
+            "name": "Moxie:hienthuc-fc",
+            "symbol": "Moxie:hienthuc-fc"
         }
     ],
     "version": {
