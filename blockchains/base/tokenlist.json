@@ -23039,6 +23039,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/361c1f84-4c7e-4410-b6eb-12ab5ef2ee00/rectcrop3",
             "name": "Moxie:furpunkz-fc",
             "symbol": "Moxie:furpunkz-fc"
+        },
+        {
+            "address": "0xF49Aec461f21D917d15F801EBf8b8862a6c9Cb7D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47683032-676b-4f21-08da-0269f183a800/original",
+            "name": "Moxie:tuankhanh-fc",
+            "symbol": "Moxie:tuankhanh-fc"
         }
     ],
     "version": {
