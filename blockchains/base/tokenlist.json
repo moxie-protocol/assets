@@ -23305,6 +23305,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ef07f671-de6d-4f02-4469-9ac427a2b600/rectcrop3",
             "name": "Moxie:matna-fc",
             "symbol": "Moxie:matna-fc"
+        },
+        {
+            "address": "0x6755DB91C45eeF26140C76909293DE4F55419ffa",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc39c59f-75ba-4ba6-048a-58f596c90200/rectcrop3",
+            "name": "Moxie:bongda-fc",
+            "symbol": "Moxie:bongda-fc"
         }
     ],
     "version": {
