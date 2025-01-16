@@ -23669,6 +23669,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1870760236639989760/YgoOl_uI.jpg",
             "name": "Moxie:CuanCuan_-x",
             "symbol": "Moxie:CuanCuan_-x"
+        },
+        {
+            "address": "0x9551a018d93a1CABA769Def816F19c7B4366391f",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861004127607881728/BLQZf5Lt.jpg",
+            "name": "Moxie:lapakripto-x",
+            "symbol": "Moxie:lapakripto-x"
         }
     ],
     "version": {
