@@ -23004,6 +23004,13 @@
             "logoURI": null,
             "name": "kosiris",
             "symbol": "fid:236443"
+        },
+        {
+            "address": "0x6d77A6fb16F74E191b88cFF7764d80778C801fC9",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/msyyXXX.jpg",
+            "name": "Moxie:sunstars-fc",
+            "symbol": "Moxie:sunstars-fc"
         }
     ],
     "version": {
