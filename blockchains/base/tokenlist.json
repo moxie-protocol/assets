@@ -23571,6 +23571,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26a4dcb7-f419-45cb-1492-e0c0e30f6100/rectcrop3",
             "name": "Moxie:mhn69-fc",
             "symbol": "Moxie:mhn69-fc"
+        },
+        {
+            "address": "0xd374d52437C32Ece96511Ebf5FaC8A2bddEa1286",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "nomanshahid",
+            "symbol": "fid:948187"
         }
     ],
     "version": {
