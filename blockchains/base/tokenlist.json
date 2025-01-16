@@ -23459,6 +23459,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06a3b9d1-1352-4553-202d-5b4d0cd00d00/rectcrop3",
             "name": "Moxie:quangtrung-fc",
             "symbol": "Moxie:quangtrung-fc"
+        },
+        {
+            "address": "0x50De14c84547B41d90096364996eD6bE5901AA91",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ef02788-f3cc-4536-d18e-b22b85da6700/rectcrop3",
+            "name": "Moxie:tamcam-fc",
+            "symbol": "Moxie:tamcam-fc"
         }
     ],
     "version": {
