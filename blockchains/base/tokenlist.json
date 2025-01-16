@@ -23011,6 +23011,13 @@
             "logoURI": "https://i.imgur.com/msyyXXX.jpg",
             "name": "Moxie:sunstars-fc",
             "symbol": "Moxie:sunstars-fc"
+        },
+        {
+            "address": "0x5FD530825760bb2113aD98AA96A525072a5Ca5e8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac3931bf-8196-4dfe-1c23-b7c1bc22e600/rectcrop3",
+            "name": "Moxie:kathyngoc-fc",
+            "symbol": "Moxie:kathyngoc-fc"
         }
     ],
     "version": {
