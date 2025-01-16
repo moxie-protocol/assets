@@ -23697,6 +23697,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiclpom4blkvad2keije5p7kuqbmzokm3cynpa44xboiemxfnwnoui",
             "name": "Moxie:kentungjp-fc",
             "symbol": "Moxie:kentungjp-fc"
+        },
+        {
+            "address": "0x05323f91a2429b7e4f514aF8aF85a987E73dCb61",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1502650855756992516/Re5Cij30.jpg",
+            "name": "Moxie:Cangkul1108-x",
+            "symbol": "Moxie:Cangkul1108-x"
         }
     ],
     "version": {
