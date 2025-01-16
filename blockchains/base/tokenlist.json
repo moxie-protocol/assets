@@ -23529,6 +23529,13 @@
             "logoURI": null,
             "name": "ercel",
             "symbol": "fid:528550"
+        },
+        {
+            "address": "0x2922eC5E0630DCfF1129189E08023cAf91123f6D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88ddd38e-ba7f-4bda-856e-010dd20d5100/rectcrop3",
+            "name": "Moxie:beyeu-fc",
+            "symbol": "Moxie:beyeu-fc"
         }
     ],
     "version": {
