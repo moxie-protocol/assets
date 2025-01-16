@@ -23403,6 +23403,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9fec872-558c-4570-c828-16a544392f00/rectcrop3",
             "name": "Moxie:bichphuongkg-fc",
             "symbol": "Moxie:bichphuongkg-fc"
+        },
+        {
+            "address": "0xE66C5400eAEd86C3390e3A60a957126a425Bcb88",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/QAHsgpg.jpg",
+            "name": "Moxie:tuyennguyen95-fc",
+            "symbol": "Moxie:tuyennguyen95-fc"
         }
     ],
     "version": {
