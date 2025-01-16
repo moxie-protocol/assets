@@ -23620,6 +23620,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d7aa049-35a4-47f3-c4a1-ad8393c84600/rectcrop3",
             "name": "Moxie:cimpuy-fc",
             "symbol": "Moxie:cimpuy-fc"
+        },
+        {
+            "address": "0xA3357DB151C1688620CF53AbF222cc6A627b446a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/86534068-792a-4011-734c-0e2afe80e500/rectcrop3",
+            "name": "Moxie:0xxxx-fc",
+            "symbol": "Moxie:0xxxx-fc"
         }
     ],
     "version": {
