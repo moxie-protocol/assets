@@ -23270,6 +23270,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/164d5671-b35f-4e23-93ab-14c276c3cd00/rectcrop3",
             "name": "Moxie:bongban-fc",
             "symbol": "Moxie:bongban-fc"
+        },
+        {
+            "address": "0x7d356E0F72C8c9A5569b5e6F0A26A14EA131d5e9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18142853-1290-418f-b7cd-821793799100/rectcrop3",
+            "name": "Moxie:boiloi-fc",
+            "symbol": "Moxie:boiloi-fc"
         }
     ],
     "version": {
