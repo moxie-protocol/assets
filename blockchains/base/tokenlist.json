@@ -23690,6 +23690,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1685405167879917571/6_9HUO4P.jpg",
             "name": "Moxie:Kemi0625-x",
             "symbol": "Moxie:Kemi0625-x"
+        },
+        {
+            "address": "0x1AAe49BA340a35e1415172B63d3Bc5f4d2415251",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreiclpom4blkvad2keije5p7kuqbmzokm3cynpa44xboiemxfnwnoui",
+            "name": "Moxie:kentungjp-fc",
+            "symbol": "Moxie:kentungjp-fc"
         }
     ],
     "version": {
