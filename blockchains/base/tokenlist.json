@@ -23179,6 +23179,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b5274d0-fce2-4d9a-22ea-a5046e847b00/rectcrop3",
             "name": "Moxie:embe-fc",
             "symbol": "Moxie:embe-fc"
+        },
+        {
+            "address": "0xa36Cacf345ea2f53126f4Dc5d1F5cd6917C50742",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea4176b1-c470-47b5-c53e-188835dcb000/rectcrop3",
+            "name": "Moxie:maucho-fc",
+            "symbol": "Moxie:maucho-fc"
         }
     ],
     "version": {
