@@ -23515,6 +23515,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a34bfb04-44f1-490c-005c-171911269700/rectcrop3",
             "name": "Moxie:thaomai-fc",
             "symbol": "Moxie:thaomai-fc"
+        },
+        {
+            "address": "0x2Db9fff5b2eCA7cF4d5Aa1877a453814e42De794",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc3c62b9-95c7-4f86-5403-926804545d00/rectcrop3",
+            "name": "Moxie:thaotrang-fc",
+            "symbol": "Moxie:thaotrang-fc"
         }
     ],
     "version": {
