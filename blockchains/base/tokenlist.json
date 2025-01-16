@@ -23487,6 +23487,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1cb1a93-3ae7-4098-a7a2-46cc0cf14000/rectcrop3",
             "name": "Moxie:thaihung-fc",
             "symbol": "Moxie:thaihung-fc"
+        },
+        {
+            "address": "0x50AE79576056A8d346B60aA39d50ce9524bAa6C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3504d352-2f06-4d5b-4b5c-c633c72d9100/rectcrop3",
+            "name": "Moxie:thanhhoa-fc",
+            "symbol": "Moxie:thanhhoa-fc"
         }
     ],
     "version": {
