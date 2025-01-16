@@ -23214,6 +23214,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa434d63-cc4a-4e8a-5f59-7ddc39761200/rectcrop3",
             "name": "Moxie:phapkieu-fc",
             "symbol": "Moxie:phapkieu-fc"
+        },
+        {
+            "address": "0x3e44A988eA9b40f37b80F27491C7b5Ea86f4060C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/436d7613-d247-4b08-ec79-e5bb11844400/rectcrop3",
+            "name": "Moxie:jenny33-fc",
+            "symbol": "Moxie:jenny33-fc"
         }
     ],
     "version": {
