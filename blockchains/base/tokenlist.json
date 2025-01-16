@@ -22983,6 +22983,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1494352530415013893/8ohX7SzF.jpg",
             "name": "Moxie:petetrev-x",
             "symbol": "Moxie:petetrev-x"
+        },
+        {
+            "address": "0x53F0c87Ad63b63d297eBc0e7e51363F080f7588A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22549c83-75ac-4c01-cf4f-20bc52b6c300/original",
+            "name": "Moxie:thersa-fc",
+            "symbol": "Moxie:thersa-fc"
         }
     ],
     "version": {
