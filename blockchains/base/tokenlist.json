@@ -23207,6 +23207,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e1ac096a-1b92-43d8-c5d3-f18b38a6e000/rectcrop3",
             "name": "Moxie:nguyenkhuyen-fc",
             "symbol": "Moxie:nguyenkhuyen-fc"
+        },
+        {
+            "address": "0x034F9fDFf9940b1E56CEF79E22F4F5c79D9e0926",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa434d63-cc4a-4e8a-5f59-7ddc39761200/rectcrop3",
+            "name": "Moxie:phapkieu-fc",
+            "symbol": "Moxie:phapkieu-fc"
         }
     ],
     "version": {
