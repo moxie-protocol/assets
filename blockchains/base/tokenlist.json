@@ -23368,6 +23368,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13a572e4-e18e-449b-d3f0-b1cc5659a200/rectcrop3",
             "name": "Moxie:hiyukrem-fc",
             "symbol": "Moxie:hiyukrem-fc"
+        },
+        {
+            "address": "0x637a575366DA1fF27a8463406D6128C4f00b70a8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f657d587-97a4-43be-b2b6-7b1ece08d200/rectcrop3",
+            "name": "Moxie:bichngockute-fc",
+            "symbol": "Moxie:bichngockute-fc"
         }
     ],
     "version": {
