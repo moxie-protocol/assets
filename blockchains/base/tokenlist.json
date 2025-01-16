@@ -23592,6 +23592,13 @@
             "logoURI": "https://i.imgur.com/DT3Kcni.jpg",
             "name": "Moxie:axt4-fc",
             "symbol": "Moxie:axt4-fc"
+        },
+        {
+            "address": "0x2F932022ED0CDe901898ec0F0329B0EBB60Edd3b",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1371044465318756353/B_EFSDho.jpg",
+            "name": "Moxie:destiny_utubor-x",
+            "symbol": "Moxie:destiny_utubor-x"
         }
     ],
     "version": {
