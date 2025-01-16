@@ -23522,6 +23522,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc3c62b9-95c7-4f86-5403-926804545d00/rectcrop3",
             "name": "Moxie:thaotrang-fc",
             "symbol": "Moxie:thaotrang-fc"
+        },
+        {
+            "address": "0x46d9985284A1E97461Cbd3bA56B69f7D72DE413b",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "ercel",
+            "symbol": "fid:528550"
         }
     ],
     "version": {
