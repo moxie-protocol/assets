@@ -23081,6 +23081,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/254359f1-1707-4466-cb9f-2ddd8ed49a00/rectcrop3",
             "name": "Moxie:anhthoxay-fc",
             "symbol": "Moxie:anhthoxay-fc"
+        },
+        {
+            "address": "0xCa3537137D100677022DE89dfc381440Ea33fbBA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/11fd9607-557e-45f6-9a2e-138c7164b400/rectcrop3",
+            "name": "Moxie:luanvu-fc",
+            "symbol": "Moxie:luanvu-fc"
         }
     ],
     "version": {
