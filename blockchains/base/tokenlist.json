@@ -23704,6 +23704,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1502650855756992516/Re5Cij30.jpg",
             "name": "Moxie:Cangkul1108-x",
             "symbol": "Moxie:Cangkul1108-x"
+        },
+        {
+            "address": "0x1C14eFe6798627aa9C757768C88BE9453555e529",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1861864930481475584/mbO3uk-d.png",
+            "name": "Moxie:TaiAnjing43-x",
+            "symbol": "Moxie:TaiAnjing43-x"
         }
     ],
     "version": {
