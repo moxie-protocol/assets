@@ -23137,6 +23137,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8140d1a4-af1b-48cc-c9e7-28cc32f2a600/rectcrop3",
             "name": "Moxie:latmat-fc",
             "symbol": "Moxie:latmat-fc"
+        },
+        {
+            "address": "0xB3e567C0478b293C72EC0aC2bdd45A17fA21A18D",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871590131062509568/9VEC3Wvn.jpg",
+            "name": "Moxie:zanfand12-x",
+            "symbol": "Moxie:zanfand12-x"
         }
     ],
     "version": {
