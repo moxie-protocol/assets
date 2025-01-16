@@ -23676,6 +23676,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1861004127607881728/BLQZf5Lt.jpg",
             "name": "Moxie:lapakripto-x",
             "symbol": "Moxie:lapakripto-x"
+        },
+        {
+            "address": "0xfbA2E4aF1A225fe459f4B52836d8A36f8D02d064",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6847f1cc-5f78-4fc8-296c-094cd0834e00/original",
+            "name": "Moxie:mdshehab1112-fc",
+            "symbol": "Moxie:mdshehab1112-fc"
         }
     ],
     "version": {
