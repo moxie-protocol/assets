@@ -23634,6 +23634,13 @@
             "logoURI": "https://ipfs.decentralized-content.com/ipfs/bafkreibxgicblrnpwaapm7jfgluefnubkgmzxe6hmndgzmonzh6yvrxp7y",
             "name": "Moxie:remorta-fc",
             "symbol": "Moxie:remorta-fc"
+        },
+        {
+            "address": "0x1898eAeF20353276963130eD95fCC78c3F141B79",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/YC86o1E.jpg",
+            "name": "Moxie:sohag360-fc",
+            "symbol": "Moxie:sohag360-fc"
         }
     ],
     "version": {
