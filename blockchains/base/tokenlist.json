@@ -23613,6 +23613,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae21c9ed-afc2-43dc-122f-b325b688cc00/rectcrop3",
             "name": "Moxie:vcc-fc",
             "symbol": "Moxie:vcc-fc"
+        },
+        {
+            "address": "0xe240AC7962e4c0dDC621A9d8afCee358099aE7cf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3d7aa049-35a4-47f3-c4a1-ad8393c84600/rectcrop3",
+            "name": "Moxie:cimpuy-fc",
+            "symbol": "Moxie:cimpuy-fc"
         }
     ],
     "version": {
