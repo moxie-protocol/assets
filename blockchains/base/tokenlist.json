@@ -23144,6 +23144,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871590131062509568/9VEC3Wvn.jpg",
             "name": "Moxie:zanfand12-x",
             "symbol": "Moxie:zanfand12-x"
+        },
+        {
+            "address": "0x09274EFC15bdC40576B8FB21c6Ed5b4Ff7253E37",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0ed7151b-92f6-4d66-db0f-9004c29a8400/rectcrop3",
+            "name": "Moxie:matong-fc",
+            "symbol": "Moxie:matong-fc"
         }
     ],
     "version": {
