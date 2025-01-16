@@ -23606,6 +23606,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/70e0e7ad-ea61-447e-369a-33a1a7057a00/original",
             "name": "Moxie:lilmomoii-fc",
             "symbol": "Moxie:lilmomoii-fc"
+        },
+        {
+            "address": "0x7814346dB264F2fF58e579578E980Aa45011f151",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae21c9ed-afc2-43dc-122f-b325b688cc00/rectcrop3",
+            "name": "Moxie:vcc-fc",
+            "symbol": "Moxie:vcc-fc"
         }
     ],
     "version": {
