@@ -23186,6 +23186,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ea4176b1-c470-47b5-c53e-188835dcb000/rectcrop3",
             "name": "Moxie:maucho-fc",
             "symbol": "Moxie:maucho-fc"
+        },
+        {
+            "address": "0x2DA39B11C63B4A3f41ef56e197f272129CFA5e58",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d7015e1-174d-47a3-b765-36aa686de400/rectcrop3",
+            "name": "Moxie:duongkhanh-fc",
+            "symbol": "Moxie:duongkhanh-fc"
         }
     ],
     "version": {
