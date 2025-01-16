@@ -23291,6 +23291,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09c66965-d097-402f-8c82-a5bb4d200b00/rectcrop3",
             "name": "Moxie:trungcut-fc",
             "symbol": "Moxie:trungcut-fc"
+        },
+        {
+            "address": "0x8455cb668351b46c73D58d56385Fe2b9B0736D44",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d789b529-a208-47e0-36de-f3cf8e3d5f00/rectcrop3",
+            "name": "Moxie:bongchuyen-fc",
+            "symbol": "Moxie:bongchuyen-fc"
         }
     ],
     "version": {
