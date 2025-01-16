@@ -23480,6 +23480,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f9f2f6b5-35ec-405c-7327-448769294200/rectcrop3",
             "name": "Moxie:bebap-fc",
             "symbol": "Moxie:bebap-fc"
+        },
+        {
+            "address": "0x82a69b28887Eb1F1b9c7eE80D785C92832db0Eee",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1cb1a93-3ae7-4098-a7a2-46cc0cf14000/rectcrop3",
+            "name": "Moxie:thaihung-fc",
+            "symbol": "Moxie:thaihung-fc"
         }
     ],
     "version": {
