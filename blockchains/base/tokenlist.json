@@ -23431,6 +23431,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af68cbff-ec18-495c-958c-a38c9f065500/rectcrop3",
             "name": "Moxie:andythuy-fc",
             "symbol": "Moxie:andythuy-fc"
+        },
+        {
+            "address": "0x1A91aD49201c72652ea0A467D3cAfC0719254964",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c4f38f7-4dbb-47c5-e912-6db5c2c0db00/rectcrop3",
+            "name": "Moxie:hmy-fc",
+            "symbol": "Moxie:hmy-fc"
         }
     ],
     "version": {
