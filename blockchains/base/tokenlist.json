@@ -23193,6 +23193,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d7015e1-174d-47a3-b765-36aa686de400/rectcrop3",
             "name": "Moxie:duongkhanh-fc",
             "symbol": "Moxie:duongkhanh-fc"
+        },
+        {
+            "address": "0xA4f0426Ad940604F9ab77314a959bCFdd60dcCA6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40e2dcfc-c75e-4b94-6d14-3ce03c28e200/rectcrop3",
+            "name": "Moxie:suatuoi-fc",
+            "symbol": "Moxie:suatuoi-fc"
         }
     ],
     "version": {
