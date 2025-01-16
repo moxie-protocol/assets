@@ -23116,6 +23116,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2e848abd-4d46-42af-3c3d-312c12f39000/rectcrop3",
             "name": "Moxie:cochunho-fc",
             "symbol": "Moxie:cochunho-fc"
+        },
+        {
+            "address": "0x25CbB31792498D5A22b7D0a47986770369d83979",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad2cf356-7db2-4931-36ca-453f818ade00/rectcrop3",
+            "name": "Moxie:demaitinh-fc",
+            "symbol": "Moxie:demaitinh-fc"
         }
     ],
     "version": {
