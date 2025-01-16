@@ -23312,6 +23312,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc39c59f-75ba-4ba6-048a-58f596c90200/rectcrop3",
             "name": "Moxie:bongda-fc",
             "symbol": "Moxie:bongda-fc"
+        },
+        {
+            "address": "0x910038C918053890982f43c6765Dd6dc2c7f524B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e689d149-4e83-4d80-2582-9674f1f48300/rectcrop3",
+            "name": "Moxie:bongro-fc",
+            "symbol": "Moxie:bongro-fc"
         }
     ],
     "version": {
