@@ -23557,6 +23557,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aca8c31b-0e6e-43a6-6847-6663460f9a00/rectcrop3",
             "name": "Moxie:kheren-fc",
             "symbol": "Moxie:kheren-fc"
+        },
+        {
+            "address": "0xCebB8615957bB5de6C33B58cfBC4c5b5d30CF361",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/GeL02OH.jpg",
+            "name": "Moxie:eva2024-fc",
+            "symbol": "Moxie:eva2024-fc"
         }
     ],
     "version": {
