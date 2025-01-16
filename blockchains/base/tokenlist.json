@@ -23795,6 +23795,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1793276071430762498/C5suOMy7.jpg",
             "name": "Moxie:gamewheezard-x",
             "symbol": "Moxie:gamewheezard-x"
+        },
+        {
+            "address": "0x6E00E578dFe3A6f29766CeE71707c6c201bdE39f",
+            "decimals": 18,
+            "logoURI": "https://ipfs.decentralized-content.com/ipfs/QmYL2tZCSGLDGEHfbpX72Sceu8GzzMsPdCwmoCjicGjZYL",
+            "name": "Moxie:lomaaoflagos-fc",
+            "symbol": "Moxie:lomaaoflagos-fc"
         }
     ],
     "version": {
