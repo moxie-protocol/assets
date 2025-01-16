@@ -23228,6 +23228,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ecea12-de8e-4cc2-031e-6439d4065f00/rectcrop3",
             "name": "Moxie:quocthien-fc",
             "symbol": "Moxie:quocthien-fc"
+        },
+        {
+            "address": "0xde2930875A91979f9899A60bA355b68D29cC9eaB",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a549eb95-5aa3-4703-5790-6592f508e500/rectcrop3",
+            "name": "Moxie:baoanh1-fc",
+            "symbol": "Moxie:baoanh1-fc"
         }
     ],
     "version": {
