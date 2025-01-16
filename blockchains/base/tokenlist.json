@@ -23060,6 +23060,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88807b67-e187-4cff-c4fe-9d0a574a2200/rectcrop3",
             "name": "Moxie:ramesy-fc",
             "symbol": "Moxie:ramesy-fc"
+        },
+        {
+            "address": "0xe4de0727CD4b6b7dfd6Fee394Bd136866dc2b553",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0dad9d09-8d00-4cea-02a2-809d16a24300/rectcrop3",
+            "name": "Moxie:lethu-fc",
+            "symbol": "Moxie:lethu-fc"
         }
     ],
     "version": {
