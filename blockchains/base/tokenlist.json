@@ -23354,6 +23354,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/261c1380-a337-4992-2eef-626e0cfb8f00/rectcrop3",
             "name": "Moxie:gumdouble-fc",
             "symbol": "Moxie:gumdouble-fc"
+        },
+        {
+            "address": "0x53024b261638613e4D10221efBe0e62aF306432d",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/i7645JH.jpg",
+            "name": "Moxie:efee82-fc",
+            "symbol": "Moxie:efee82-fc"
         }
     ],
     "version": {
