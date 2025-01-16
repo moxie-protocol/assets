@@ -23648,6 +23648,13 @@
             "logoURI": "https://i.imgur.com/LJhhtA4.jpg",
             "name": "Moxie:zimi18-fc",
             "symbol": "Moxie:zimi18-fc"
+        },
+        {
+            "address": "0x482C89B068B9fb751e89635C0aD6b079455910d7",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1860657503731695617/aJgxVKKb.jpg",
+            "name": "Moxie:itzmeXHEEGS-x",
+            "symbol": "Moxie:itzmeXHEEGS-x"
         }
     ],
     "version": {
