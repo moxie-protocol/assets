@@ -23788,6 +23788,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1747490099724754944/6vyxpAjg.jpg",
             "name": "Moxie:AnitaNft-x",
             "symbol": "Moxie:AnitaNft-x"
+        },
+        {
+            "address": "0x567f30C23949C79aF850c4faF2A11559F0c76d5F",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1793276071430762498/C5suOMy7.jpg",
+            "name": "Moxie:gamewheezard-x",
+            "symbol": "Moxie:gamewheezard-x"
         }
     ],
     "version": {
