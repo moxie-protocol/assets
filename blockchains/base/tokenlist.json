@@ -22990,6 +22990,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/22549c83-75ac-4c01-cf4f-20bc52b6c300/original",
             "name": "Moxie:thersa-fc",
             "symbol": "Moxie:thersa-fc"
+        },
+        {
+            "address": "0xE93a5F2f4f9b60a6e545919009e11Acf19c59EE2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f351a019-4409-4f13-c7af-e6e41f4acf00/rectcrop3",
+            "name": "Moxie:jefaprayoga-fc",
+            "symbol": "Moxie:jefaprayoga-fc"
         }
     ],
     "version": {
