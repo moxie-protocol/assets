@@ -23263,6 +23263,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1376751-286d-44d9-ec91-4124c8fb3600/rectcrop3",
             "name": "Moxie:tinhkhiet-fc",
             "symbol": "Moxie:tinhkhiet-fc"
+        },
+        {
+            "address": "0xA185020ea83Fc4f38952F4442Cc785a0571676B6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/164d5671-b35f-4e23-93ab-14c276c3cd00/rectcrop3",
+            "name": "Moxie:bongban-fc",
+            "symbol": "Moxie:bongban-fc"
         }
     ],
     "version": {
