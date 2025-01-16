@@ -23032,6 +23032,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a2325e8a-50a9-4dc5-0df5-9e8835b56c00/rectcrop3",
             "name": "Moxie:tuanvu221-fc",
             "symbol": "Moxie:tuanvu221-fc"
+        },
+        {
+            "address": "0xF8Fa45a685FE9FF90DC0508FcA2617Cc1087883B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/361c1f84-4c7e-4410-b6eb-12ab5ef2ee00/rectcrop3",
+            "name": "Moxie:furpunkz-fc",
+            "symbol": "Moxie:furpunkz-fc"
         }
     ],
     "version": {
