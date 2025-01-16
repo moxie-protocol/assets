@@ -23319,6 +23319,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e689d149-4e83-4d80-2582-9674f1f48300/rectcrop3",
             "name": "Moxie:bongro-fc",
             "symbol": "Moxie:bongro-fc"
+        },
+        {
+            "address": "0x3eb713297101DBCd49B89a23009Db1617afdEd0B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/24a44bd1-95eb-4418-05e8-d9720e4a5700/rectcrop3",
+            "name": "Moxie:truong18-fc",
+            "symbol": "Moxie:truong18-fc"
         }
     ],
     "version": {
