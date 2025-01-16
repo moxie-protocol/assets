@@ -23375,6 +23375,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f657d587-97a4-43be-b2b6-7b1ece08d200/rectcrop3",
             "name": "Moxie:bichngockute-fc",
             "symbol": "Moxie:bichngockute-fc"
+        },
+        {
+            "address": "0x26295A4FAE5d0355Cfc104FCcb709240C8009Eb9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/41d04fff-338d-4dc8-5ba2-1f73f790b100/rectcrop3",
+            "name": "Moxie:kimmy18-fc",
+            "symbol": "Moxie:kimmy18-fc"
         }
     ],
     "version": {
