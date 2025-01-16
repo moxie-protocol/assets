@@ -23438,6 +23438,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4c4f38f7-4dbb-47c5-e912-6db5c2c0db00/rectcrop3",
             "name": "Moxie:hmy-fc",
             "symbol": "Moxie:hmy-fc"
+        },
+        {
+            "address": "0xe9354BEB23B76aB892a354BC07748bE4720297D8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/99e48bfe-0b5c-4377-c854-0730006cbe00/rectcrop3",
+            "name": "Moxie:nhunhu-fc",
+            "symbol": "Moxie:nhunhu-fc"
         }
     ],
     "version": {
