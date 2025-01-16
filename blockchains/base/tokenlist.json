@@ -23053,6 +23053,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c0d2353-7a5e-4edd-98d3-6545bb0eb400/original",
             "name": "Moxie:giakhang-fc",
             "symbol": "Moxie:giakhang-fc"
+        },
+        {
+            "address": "0x2C6FD5907af64dC5268cFdc6A1256E1961F65dB5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/88807b67-e187-4cff-c4fe-9d0a574a2200/rectcrop3",
+            "name": "Moxie:ramesy-fc",
+            "symbol": "Moxie:ramesy-fc"
         }
     ],
     "version": {
