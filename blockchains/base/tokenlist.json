@@ -23753,6 +23753,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ae68640-6038-4f2e-80de-ffa2c700bc00/rectcrop3",
             "name": "Moxie:arifin441-fc",
             "symbol": "Moxie:arifin441-fc"
+        },
+        {
+            "address": "0x5924F03D9E492D15Bb2dD6AA48ab5e3AFC3cfb53",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3683e7b2-bd8d-4739-da4c-93dca7765a00/rectcrop3",
+            "name": "Moxie:koin-fc",
+            "symbol": "Moxie:koin-fc"
         }
     ],
     "version": {
