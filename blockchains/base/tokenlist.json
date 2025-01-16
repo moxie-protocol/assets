@@ -23172,6 +23172,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dd7bd2b2-8444-46f6-5315-d0c20fc4b600/rectcrop3",
             "name": "Moxie:emminion-fc",
             "symbol": "Moxie:emminion-fc"
+        },
+        {
+            "address": "0x8Fa7F2B883bf758a437979a69b03cE4b9B04007F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b5274d0-fce2-4d9a-22ea-a5046e847b00/rectcrop3",
+            "name": "Moxie:embe-fc",
+            "symbol": "Moxie:embe-fc"
         }
     ],
     "version": {
