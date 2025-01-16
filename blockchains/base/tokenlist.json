@@ -23396,6 +23396,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/96e4e889-7528-444b-fbe2-772e29d63c00/rectcrop3",
             "name": "Moxie:snapbee-fc",
             "symbol": "Moxie:snapbee-fc"
+        },
+        {
+            "address": "0xef5e4570218b65ACcD708b6579bcbEB06e902893",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9fec872-558c-4570-c828-16a544392f00/rectcrop3",
+            "name": "Moxie:bichphuongkg-fc",
+            "symbol": "Moxie:bichphuongkg-fc"
         }
     ],
     "version": {
