@@ -22997,6 +22997,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f351a019-4409-4f13-c7af-e6e41f4acf00/rectcrop3",
             "name": "Moxie:jefaprayoga-fc",
             "symbol": "Moxie:jefaprayoga-fc"
+        },
+        {
+            "address": "0x48b5078f5fcC77bc6ab9B0EdDA605b2F9feb0E5E",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "kosiris",
+            "symbol": "fid:236443"
         }
     ],
     "version": {
