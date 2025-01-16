@@ -23732,6 +23732,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ae29a972-4b67-4f4b-af0c-9a4ba63da000/rectcrop3",
             "name": "Moxie:princ-fc",
             "symbol": "Moxie:princ-fc"
+        },
+        {
+            "address": "0x5D91FC55bc71D73Cf6c676a612A051a1c0888E91",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fPpcUmh.jpg",
+            "name": "Moxie:piraku-fc",
+            "symbol": "Moxie:piraku-fc"
         }
     ],
     "version": {
