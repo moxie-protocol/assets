@@ -23333,6 +23333,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62b85be1-ba50-4343-0ea6-7a2857f2e700/rectcrop3",
             "name": "Moxie:kimdan19-fc",
             "symbol": "Moxie:kimdan19-fc"
+        },
+        {
+            "address": "0x04B11F62c7ceE5bb0A391073EE89D8f7FB90B021",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30732abc-d33f-4da3-1bff-a49702793600/rectcrop3",
+            "name": "Moxie:nguyenthao-fc",
+            "symbol": "Moxie:nguyenthao-fc"
         }
     ],
     "version": {
