@@ -23340,6 +23340,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/30732abc-d33f-4da3-1bff-a49702793600/rectcrop3",
             "name": "Moxie:nguyenthao-fc",
             "symbol": "Moxie:nguyenthao-fc"
+        },
+        {
+            "address": "0xd6eBF0b4dEBf36e4c47eCDE387Ca12f17b0B7862",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01a5e4ab-bc90-434f-5e8c-ad7008720c00/rectcrop3",
+            "name": "Moxie:coolmint-fc",
+            "symbol": "Moxie:coolmint-fc"
         }
     ],
     "version": {
