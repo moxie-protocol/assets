@@ -23242,6 +23242,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4419b8c0-0e76-4d1e-45ea-5834feb5fb00/rectcrop3",
             "name": "Moxie:hienthuc-fc",
             "symbol": "Moxie:hienthuc-fc"
+        },
+        {
+            "address": "0x47CE14d96e7DC3a066543499feC755efB6cD4a43",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/73623599-fbdb-43e2-94e6-976dcea0e000/rectcrop3",
+            "name": "Moxie:chala-fc",
+            "symbol": "Moxie:chala-fc"
         }
     ],
     "version": {
