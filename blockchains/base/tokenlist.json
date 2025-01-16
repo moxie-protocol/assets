@@ -23347,6 +23347,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/01a5e4ab-bc90-434f-5e8c-ad7008720c00/rectcrop3",
             "name": "Moxie:coolmint-fc",
             "symbol": "Moxie:coolmint-fc"
+        },
+        {
+            "address": "0x2A5F4185e6AC80ABc7ba45388c5C46e453E086d0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/261c1380-a337-4992-2eef-626e0cfb8f00/rectcrop3",
+            "name": "Moxie:gumdouble-fc",
+            "symbol": "Moxie:gumdouble-fc"
         }
     ],
     "version": {
