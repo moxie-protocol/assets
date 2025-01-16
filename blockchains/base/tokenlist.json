@@ -23326,6 +23326,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/24a44bd1-95eb-4418-05e8-d9720e4a5700/rectcrop3",
             "name": "Moxie:truong18-fc",
             "symbol": "Moxie:truong18-fc"
+        },
+        {
+            "address": "0xEc85c1A92550283346E43e407C4fFd3a2363100D",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62b85be1-ba50-4343-0ea6-7a2857f2e700/rectcrop3",
+            "name": "Moxie:kimdan19-fc",
+            "symbol": "Moxie:kimdan19-fc"
         }
     ],
     "version": {
