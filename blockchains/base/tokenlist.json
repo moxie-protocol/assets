@@ -23130,6 +23130,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c6f66ddf-13eb-47dd-3ec8-8ad71873f600/rectcrop3",
             "name": "Moxie:duahau-fc",
             "symbol": "Moxie:duahau-fc"
+        },
+        {
+            "address": "0x3aCB8C724279554efe69E2868bc138846C22d8A1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8140d1a4-af1b-48cc-c9e7-28cc32f2a600/rectcrop3",
+            "name": "Moxie:latmat-fc",
+            "symbol": "Moxie:latmat-fc"
         }
     ],
     "version": {
