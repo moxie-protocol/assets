@@ -23424,6 +23424,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ea1601f-69d5-4473-f748-30d91d54f800/rectcrop3",
             "name": "Moxie:giayen-fc",
             "symbol": "Moxie:giayen-fc"
+        },
+        {
+            "address": "0xb352f7a6024f9AfC5e948946BF700dc8A28e9763",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/af68cbff-ec18-495c-958c-a38c9f065500/rectcrop3",
+            "name": "Moxie:andythuy-fc",
+            "symbol": "Moxie:andythuy-fc"
         }
     ],
     "version": {
