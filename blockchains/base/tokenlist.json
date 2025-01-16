@@ -23508,6 +23508,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ff41ce3b-bd0a-447f-944a-e57384110900/rectcrop3",
             "name": "Moxie:becai-fc",
             "symbol": "Moxie:becai-fc"
+        },
+        {
+            "address": "0x90c00e6f7055C6B5750784dA67c5F26610c068B0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a34bfb04-44f1-490c-005c-171911269700/rectcrop3",
+            "name": "Moxie:thaomai-fc",
+            "symbol": "Moxie:thaomai-fc"
         }
     ],
     "version": {
