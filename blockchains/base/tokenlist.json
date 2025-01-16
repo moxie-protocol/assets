@@ -23781,6 +23781,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2ec56604-ba3d-4962-9a43-c1f1e7d0eb00/rectcrop3",
             "name": "Moxie:701234-fc",
             "symbol": "Moxie:701234-fc"
+        },
+        {
+            "address": "0xADE1a70f8b99b55933664826DC09B26442922281",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1747490099724754944/6vyxpAjg.jpg",
+            "name": "Moxie:AnitaNft-x",
+            "symbol": "Moxie:AnitaNft-x"
         }
     ],
     "version": {
