@@ -23389,6 +23389,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc08b45c-8671-40df-36bb-8b6b0f0abe00/rectcrop3",
             "name": "Moxie:jokermask-fc",
             "symbol": "Moxie:jokermask-fc"
+        },
+        {
+            "address": "0x48E8d5154ffd1925b213c75AE1126be745Ea08F8",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/96e4e889-7528-444b-fbe2-772e29d63c00/rectcrop3",
+            "name": "Moxie:snapbee-fc",
+            "symbol": "Moxie:snapbee-fc"
         }
     ],
     "version": {
