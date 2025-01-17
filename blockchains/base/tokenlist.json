@@ -23907,6 +23907,13 @@
             "logoURI": null,
             "name": "eeyasinali",
             "symbol": "fid:348034"
+        },
+        {
+            "address": "0x0F6eE9a7F26A01e61f59D725BD3F7F5eD042B9d8",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1869877395169173504/RFgcb6LO.jpg",
+            "name": "Moxie:RubyboyA-x",
+            "symbol": "Moxie:RubyboyA-x"
         }
     ],
     "version": {
