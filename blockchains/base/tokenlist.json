@@ -23816,6 +23816,13 @@
             "logoURI": null,
             "name": "dev0ps",
             "symbol": "fid:207400"
+        },
+        {
+            "address": "0x61ec44d51960A1040084f8Faca592f781A6AbB3e",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1709096157811707904/fGHo9a-Q.jpg",
+            "name": "Moxie:Alea209-x",
+            "symbol": "Moxie:Alea209-x"
         }
     ],
     "version": {
