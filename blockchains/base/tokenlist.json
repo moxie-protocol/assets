@@ -23851,6 +23851,13 @@
             "logoURI": "https://imgs.search.brave.com/E5hHdWHwuXGKOv5H1EpEduiOY739mQnXVx5w_8nz8vI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cGhvdG9zLXByZW1p/dW0vc2ltcHNvbi1w/eWphbWEtZGV2YW50/LW11ci1yb3NlXzk0/OTA2Ny03NTY1Mi5q/cGc_c2VtdD1haXNf/aHlicmlk",
             "name": "Moxie:lahi.base.eth-base",
             "symbol": "Moxie:lahi.base.eth-base"
+        },
+        {
+            "address": "0xcBd5BD0eCba403647d554660E2C4c9B8b24f27f7",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/lM4ugqV.jpg",
+            "name": "Moxie:joyz-fc",
+            "symbol": "Moxie:joyz-fc"
         }
     ],
     "version": {
