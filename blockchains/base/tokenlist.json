@@ -23935,6 +23935,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4df5041-ba68-493f-8e32-2940777f9300/rectcrop3",
             "name": "Moxie:jiiyoonii-fc",
             "symbol": "Moxie:jiiyoonii-fc"
+        },
+        {
+            "address": "0x7a7161431f64977C95f3771B7bf67e3625e8cA6E",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a54c0be-2ec7-4c07-11a6-d79f78b3dd00/rectcrop3",
+            "name": "Moxie:degen-graduation-fc",
+            "symbol": "Moxie:degen-graduation-fc"
         }
     ],
     "version": {
