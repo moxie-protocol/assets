@@ -23893,6 +23893,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1242995999162826754/rsBQQNJY.jpg",
             "name": "Moxie:AeeAlek-x",
             "symbol": "Moxie:AeeAlek-x"
+        },
+        {
+            "address": "0x170bF2736DdC7FC464a10fAD3Be4AeD51c3fCC1c",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1871148448189456384/18VTlAoB.jpg",
+            "name": "Moxie:Aprilia47845244-x",
+            "symbol": "Moxie:Aprilia47845244-x"
         }
     ],
     "version": {
