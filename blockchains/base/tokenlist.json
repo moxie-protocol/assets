@@ -23984,6 +23984,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1869604624069525504/sEtUWZ52.jpg",
             "name": "Moxie:0xhascou-x",
             "symbol": "Moxie:0xhascou-x"
+        },
+        {
+            "address": "0x4D92FbD4bBeF8D515DAABC019D90C57e91a5163e",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "mafia9",
+            "symbol": "fid:510029"
         }
     ],
     "version": {
