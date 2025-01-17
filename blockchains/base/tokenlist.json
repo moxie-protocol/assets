@@ -23809,6 +23809,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ab8d36a-068e-434c-78de-7193cbbe2700/rectcrop3",
             "name": "Moxie:egorka-fc",
             "symbol": "Moxie:egorka-fc"
+        },
+        {
+            "address": "0x0cC8C7bf9ae8D34d772c096E8230C381387359f8",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "dev0ps",
+            "symbol": "fid:207400"
         }
     ],
     "version": {
