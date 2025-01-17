@@ -23858,6 +23858,13 @@
             "logoURI": "https://i.imgur.com/lM4ugqV.jpg",
             "name": "Moxie:joyz-fc",
             "symbol": "Moxie:joyz-fc"
+        },
+        {
+            "address": "0x132b0B1a9C338E501f7B2d34f6502636f862d4Ac",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1786100692605652994/hrzzeWml.jpg",
+            "name": "Moxie:Affiliate_write-x",
+            "symbol": "Moxie:Affiliate_write-x"
         }
     ],
     "version": {
