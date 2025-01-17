@@ -23837,6 +23837,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55829a49-e317-475a-d2a4-4ff3ab424300/original",
             "name": "Moxie:ssungxx-fc",
             "symbol": "Moxie:ssungxx-fc"
+        },
+        {
+            "address": "0xC951c669E55FBFF132b77b5c478d8cFF6F75C74B",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e45f696-631b-4797-4a5f-90eeec632400/original",
+            "name": "Moxie:asteure.eth-fc",
+            "symbol": "Moxie:asteure.eth-fc"
         }
     ],
     "version": {
