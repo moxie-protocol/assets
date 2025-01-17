@@ -23900,6 +23900,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1871148448189456384/18VTlAoB.jpg",
             "name": "Moxie:Aprilia47845244-x",
             "symbol": "Moxie:Aprilia47845244-x"
+        },
+        {
+            "address": "0xd3B88D5cdd44983C2Bc38276D6f9570e1649f163",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "eeyasinali",
+            "symbol": "fid:348034"
         }
     ],
     "version": {
