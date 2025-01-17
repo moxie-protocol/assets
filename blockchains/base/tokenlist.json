@@ -23865,6 +23865,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1786100692605652994/hrzzeWml.jpg",
             "name": "Moxie:Affiliate_write-x",
             "symbol": "Moxie:Affiliate_write-x"
+        },
+        {
+            "address": "0x17dB076ab6947b1B09DC3AcE50a7908baaB5c6e0",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa21cce9-c073-41c5-4baa-34e96ac74100/rectcrop3",
+            "name": "Moxie:abhimzp09-fc",
+            "symbol": "Moxie:abhimzp09-fc"
         }
     ],
     "version": {
