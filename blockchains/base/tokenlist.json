@@ -23928,6 +23928,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccfb6f93-fdf8-498d-8db4-f9ec65f5ff00/rectcrop3",
             "name": "Moxie:yezzi-fc",
             "symbol": "Moxie:yezzi-fc"
+        },
+        {
+            "address": "0x0c16F561ba25F5Ac61D9Cc5dc3Ead2D82F5aDA27",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a4df5041-ba68-493f-8e32-2940777f9300/rectcrop3",
+            "name": "Moxie:jiiyoonii-fc",
+            "symbol": "Moxie:jiiyoonii-fc"
         }
     ],
     "version": {
