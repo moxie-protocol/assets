@@ -23949,6 +23949,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac5ab472-11a4-4a96-d6e2-bc0c81b63f00/rectcrop3",
             "name": "Moxie:imzzi-fc",
             "symbol": "Moxie:imzzi-fc"
+        },
+        {
+            "address": "0xFa311b66a9e5d7E80164b3d79b87d2A0c0C90CDc",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1863883746291720192/CFZi2tss.jpg",
+            "name": "Moxie:Cosmoon7-x",
+            "symbol": "Moxie:Cosmoon7-x"
         }
     ],
     "version": {
