@@ -23956,6 +23956,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1863883746291720192/CFZi2tss.jpg",
             "name": "Moxie:Cosmoon7-x",
             "symbol": "Moxie:Cosmoon7-x"
+        },
+        {
+            "address": "0x6E17946B7DFcAA7A6a84BeB606FDB5b5710Af8fa",
+            "decimals": 18,
+            "logoURI": "https://beb-public.s3.us-west-1.amazonaws.com/yellow.jpg",
+            "name": "Moxie:samffret-fc",
+            "symbol": "Moxie:samffret-fc"
         }
     ],
     "version": {
