@@ -23942,6 +23942,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a54c0be-2ec7-4c07-11a6-d79f78b3dd00/rectcrop3",
             "name": "Moxie:degen-graduation-fc",
             "symbol": "Moxie:degen-graduation-fc"
+        },
+        {
+            "address": "0x45dD4B3677E92ADeB00708E57f77aB08aBEfcAd7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac5ab472-11a4-4a96-d6e2-bc0c81b63f00/rectcrop3",
+            "name": "Moxie:imzzi-fc",
+            "symbol": "Moxie:imzzi-fc"
         }
     ],
     "version": {
