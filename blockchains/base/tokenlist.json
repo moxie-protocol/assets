@@ -23830,6 +23830,13 @@
             "logoURI": "https://avatars.mds.yandex.net/i?id=73f94b953c9443bc34f8607143fbfce5_l-12624456-images-thumbs\u0026n=13",
             "name": "Moxie:trullybased.base.eth-base",
             "symbol": "Moxie:trullybased.base.eth-base"
+        },
+        {
+            "address": "0x7Ff578E4A95AEf181e7674a36eAE81CA6A272091",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/55829a49-e317-475a-d2a4-4ff3ab424300/original",
+            "name": "Moxie:ssungxx-fc",
+            "symbol": "Moxie:ssungxx-fc"
         }
     ],
     "version": {
