@@ -23844,6 +23844,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e45f696-631b-4797-4a5f-90eeec632400/original",
             "name": "Moxie:asteure.eth-fc",
             "symbol": "Moxie:asteure.eth-fc"
+        },
+        {
+            "address": "0x7cae8b6C047d1CB00F8D2CD5b40Ba24b0064F315",
+            "decimals": 18,
+            "logoURI": "https://imgs.search.brave.com/E5hHdWHwuXGKOv5H1EpEduiOY739mQnXVx5w_8nz8vI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cGhvdG9zLXByZW1p/dW0vc2ltcHNvbi1w/eWphbWEtZGV2YW50/LW11ci1yb3NlXzk0/OTA2Ny03NTY1Mi5q/cGc_c2VtdD1haXNf/aHlicmlk",
+            "name": "Moxie:lahi.base.eth-base",
+            "symbol": "Moxie:lahi.base.eth-base"
         }
     ],
     "version": {
