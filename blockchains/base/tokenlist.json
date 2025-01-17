@@ -23921,6 +23921,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/641fe9f0-4c5e-43c0-b053-412fb8db7600/rectcrop3",
             "name": "Moxie:willpowered.eth-fc",
             "symbol": "Moxie:willpowered.eth-fc"
+        },
+        {
+            "address": "0x2F6640c9f00385A83FCd495472f23E5496B23C76",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ccfb6f93-fdf8-498d-8db4-f9ec65f5ff00/rectcrop3",
+            "name": "Moxie:yezzi-fc",
+            "symbol": "Moxie:yezzi-fc"
         }
     ],
     "version": {
