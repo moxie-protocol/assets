@@ -24159,6 +24159,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4a660ef-73ae-48a5-e2ba-a48b21fa9a00/rectcrop3",
             "name": "Moxie:cabinetmi-fc",
             "symbol": "Moxie:cabinetmi-fc"
+        },
+        {
+            "address": "0x28d613f0D3360025db0DB3b78Ba916E350A0e124",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6702ec17-e083-4a2f-993a-c0886a023400/rectcrop3",
+            "name": "Moxie:sonyna-fc",
+            "symbol": "Moxie:sonyna-fc"
         }
     ],
     "version": {
