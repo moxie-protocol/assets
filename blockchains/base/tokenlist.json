@@ -24341,6 +24341,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c5d9991-0ec3-4582-1094-e16e105a9500/rectcrop3",
             "name": "Moxie:thieuphuong-fc",
             "symbol": "Moxie:thieuphuong-fc"
+        },
+        {
+            "address": "0x78E8b85b523945230A5dD4a99903512E0f58477b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fde8a9d-4795-4630-b116-14282afe2700/rectcrop3",
+            "name": "Moxie:vuongviet-fc",
+            "symbol": "Moxie:vuongviet-fc"
         }
     ],
     "version": {
