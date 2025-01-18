@@ -24103,6 +24103,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9afea7f2-90a5-4ce5-1f59-4ce2c4371200/rectcrop3",
             "name": "Moxie:lalilali-fc",
             "symbol": "Moxie:lalilali-fc"
+        },
+        {
+            "address": "0x4dDC0419C8545238F896bE0C9E929c2445CeCD87",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18a26d15-6e74-4fd7-be1c-d195aa713b00/rectcrop3",
+            "name": "Moxie:guriana-fc",
+            "symbol": "Moxie:guriana-fc"
         }
     ],
     "version": {
