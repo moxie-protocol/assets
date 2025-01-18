@@ -24096,6 +24096,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3006aee-ab4b-445f-94a5-9234c400e900/rectcrop3",
             "name": "Moxie:jenniero-fc",
             "symbol": "Moxie:jenniero-fc"
+        },
+        {
+            "address": "0x4cbECAcb1b2B27Cac53055E9125ACCF79d88AD3C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9afea7f2-90a5-4ce5-1f59-4ce2c4371200/rectcrop3",
+            "name": "Moxie:lalilali-fc",
+            "symbol": "Moxie:lalilali-fc"
         }
     ],
     "version": {
