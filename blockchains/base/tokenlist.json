@@ -24173,6 +24173,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/891fe3ed-657b-4cad-1ce8-f091c97a0000/rectcrop3",
             "name": "Moxie:gennyco-fc",
             "symbol": "Moxie:gennyco-fc"
+        },
+        {
+            "address": "0x88b22220CfBa9dAc523607eD1A4B6D13Dec752B7",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c1e632b-371f-47a7-05df-0b21ab136b00/rectcrop3",
+            "name": "Moxie:amandar-fc",
+            "symbol": "Moxie:amandar-fc"
         }
     ],
     "version": {
