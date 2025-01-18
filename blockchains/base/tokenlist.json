@@ -24383,6 +24383,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bc4048c-b3fa-475e-a721-e5d78343b400/rectcrop3",
             "name": "Moxie:hongpinky-fc",
             "symbol": "Moxie:hongpinky-fc"
+        },
+        {
+            "address": "0x25F765B48B0662430395f3f3FF427e1a5a7425da",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65beb7a9-d153-42db-f0c2-a654bd07da00/rectcrop3",
+            "name": "Moxie:naucam-fc",
+            "symbol": "Moxie:naucam-fc"
         }
     ],
     "version": {
