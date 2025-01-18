@@ -24425,6 +24425,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f57bcf9-6f28-44ca-249b-0a8429af1c00/rectcrop3",
             "name": "Moxie:xanh-fc",
             "symbol": "Moxie:xanh-fc"
+        },
+        {
+            "address": "0x1f04882C1095113B1D382A09A4e0683801677787",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fad7e35b-930f-4316-d556-d41ea44a3c00/rectcrop3",
+            "name": "Moxie:xanhmint-fc",
+            "symbol": "Moxie:xanhmint-fc"
         }
     ],
     "version": {
