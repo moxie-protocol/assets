@@ -24068,6 +24068,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d89ba56d-5996-4671-2ecb-3a0791be8700/rectcrop3",
             "name": "Moxie:bicht-fc",
             "symbol": "Moxie:bicht-fc"
+        },
+        {
+            "address": "0x6103Fdb2fDeE41B36D73aEFCca970a020bF905Db",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92d6c3bb-63c8-4d4a-3694-5213737d4100/rectcrop3",
+            "name": "Moxie:bichtrandethuong-fc",
+            "symbol": "Moxie:bichtrandethuong-fc"
         }
     ],
     "version": {
