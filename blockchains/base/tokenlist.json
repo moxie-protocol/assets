@@ -24397,6 +24397,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1552e56-dd15-4819-6d70-937379610100/rectcrop3",
             "name": "Moxie:timmongmo-fc",
             "symbol": "Moxie:timmongmo-fc"
+        },
+        {
+            "address": "0xc94953D614191CF4696055b59D2BE916e3BA4D0d",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e637784-c862-4df0-c0a6-b4f6c7a17600/rectcrop3",
+            "name": "Moxie:trangtinkhoi-fc",
+            "symbol": "Moxie:trangtinkhoi-fc"
         }
     ],
     "version": {
