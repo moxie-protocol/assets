@@ -24327,6 +24327,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1469cff-9ea8-482a-a376-13ec7fc3fd00/rectcrop3",
             "name": "Moxie:myhandmade-fc",
             "symbol": "Moxie:myhandmade-fc"
+        },
+        {
+            "address": "0x0E86fCAAa1526Bb02DF0C630797754d1b0B05f0a",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/303182ad-c712-4e12-217f-1b9485722400/rectcrop3",
+            "name": "Moxie:dagiam-fc",
+            "symbol": "Moxie:dagiam-fc"
         }
     ],
     "version": {
