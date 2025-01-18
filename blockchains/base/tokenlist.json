@@ -24271,6 +24271,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f386375a-3fc5-40e9-79a1-c6c5256fc400/rectcrop3",
             "name": "Moxie:begao-fc",
             "symbol": "Moxie:begao-fc"
+        },
+        {
+            "address": "0xa719e325ADF79A9b0faE5cdfa1e732Eb52EDB4C2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58eb1b0-a022-4f84-2a85-ce3988aa6600/rectcrop3",
+            "name": "Moxie:bebong-fc",
+            "symbol": "Moxie:bebong-fc"
         }
     ],
     "version": {
