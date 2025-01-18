@@ -24229,6 +24229,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/569364c6-fa7e-4d35-160e-8e19f4960700/rectcrop3",
             "name": "Moxie:lelu-fc",
             "symbol": "Moxie:lelu-fc"
+        },
+        {
+            "address": "0x56f9eDc91b0e66B8bD0a28bf1f65C840f0a54cff",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc185f84-3149-4c56-ea90-1134b9cd1b00/rectcrop3",
+            "name": "Moxie:hongbang-fc",
+            "symbol": "Moxie:hongbang-fc"
         }
     ],
     "version": {
