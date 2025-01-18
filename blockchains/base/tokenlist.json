@@ -24033,6 +24033,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/992242b9-1e7a-4bda-7372-3d1d9eb88600/rectcrop3",
             "name": "Moxie:thanhdung89-fc",
             "symbol": "Moxie:thanhdung89-fc"
+        },
+        {
+            "address": "0xc08c431854a86c62052d152E49f8CD96AC19be36",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10807090-0b89-41fd-3137-9e01e411e200/rectcrop3",
+            "name": "Moxie:dungha-fc",
+            "symbol": "Moxie:dungha-fc"
         }
     ],
     "version": {
