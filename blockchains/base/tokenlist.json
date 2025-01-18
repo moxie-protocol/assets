@@ -24250,6 +24250,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90c5e9a2-14af-4cb0-8d56-afda231b6400/rectcrop3",
             "name": "Moxie:truongchinh-fc",
             "symbol": "Moxie:truongchinh-fc"
+        },
+        {
+            "address": "0x2BEb6CfFCd25CE0C5AB42ad2d552c74C2B838BB1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/687887f9-a669-4d35-c40a-1c5bac605d00/rectcrop3",
+            "name": "Moxie:conghoa-fc",
+            "symbol": "Moxie:conghoa-fc"
         }
     ],
     "version": {
