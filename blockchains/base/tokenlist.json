@@ -24131,6 +24131,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6d5c34e-c434-4f81-87df-fe68d318d000/rectcrop3",
             "name": "Moxie:zesony-fc",
             "symbol": "Moxie:zesony-fc"
+        },
+        {
+            "address": "0xf8e1D64a2844Aa9E3b98bba0f7209B738B94f976",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad033eef-1a31-4c1a-4b4f-ca6875b30c00/rectcrop3",
+            "name": "Moxie:zelous-fc",
+            "symbol": "Moxie:zelous-fc"
         }
     ],
     "version": {
