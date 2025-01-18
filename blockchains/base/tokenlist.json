@@ -24299,6 +24299,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/109168c5-266f-4b40-73ef-7ac99b062500/rectcrop3",
             "name": "Moxie:dasanila-fc",
             "symbol": "Moxie:dasanila-fc"
+        },
+        {
+            "address": "0xB64d7a408b287a5d2E4d74Da392533e9663dc8E1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b615251-7a50-4299-9a44-aa282efe6700/rectcrop3",
+            "name": "Moxie:shopkhoga-fc",
+            "symbol": "Moxie:shopkhoga-fc"
         }
     ],
     "version": {
