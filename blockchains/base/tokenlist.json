@@ -24152,6 +24152,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/37db06b9-4d67-4fed-06fd-e5fb6d1d6e00/rectcrop3",
             "name": "Moxie:cl2ne1-fc",
             "symbol": "Moxie:cl2ne1-fc"
+        },
+        {
+            "address": "0x3257afDb3E56c3323F262025143789Aa8EFff106",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4a660ef-73ae-48a5-e2ba-a48b21fa9a00/rectcrop3",
+            "name": "Moxie:cabinetmi-fc",
+            "symbol": "Moxie:cabinetmi-fc"
         }
     ],
     "version": {
