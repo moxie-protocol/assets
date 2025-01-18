@@ -24054,6 +24054,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1894b326-219d-4278-fd5f-1fb2f4aa3b00/rectcrop3",
             "name": "Moxie:baod-fc",
             "symbol": "Moxie:baod-fc"
+        },
+        {
+            "address": "0xC767d7D10D6659d68c1C56CdAbf20Eb4142F5298",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a76f032d-ebce-4974-6a2a-70d17dc24800/rectcrop3",
+            "name": "Moxie:mybao-fc",
+            "symbol": "Moxie:mybao-fc"
         }
     ],
     "version": {
