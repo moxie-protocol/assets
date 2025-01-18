@@ -24166,6 +24166,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6702ec17-e083-4a2f-993a-c0886a023400/rectcrop3",
             "name": "Moxie:sonyna-fc",
             "symbol": "Moxie:sonyna-fc"
+        },
+        {
+            "address": "0x1663Bf071A7eE1Db61B950d045c6E8f0039b278e",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/891fe3ed-657b-4cad-1ce8-f091c97a0000/rectcrop3",
+            "name": "Moxie:gennyco-fc",
+            "symbol": "Moxie:gennyco-fc"
         }
     ],
     "version": {
