@@ -24040,6 +24040,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10807090-0b89-41fd-3137-9e01e411e200/rectcrop3",
             "name": "Moxie:dungha-fc",
             "symbol": "Moxie:dungha-fc"
+        },
+        {
+            "address": "0x56f7338C51cb86A51D97A3d9b2E847013b3fea90",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82dcfc72-a8cc-4375-3785-511616ce4300/rectcrop3",
+            "name": "Moxie:namd-fc",
+            "symbol": "Moxie:namd-fc"
         }
     ],
     "version": {
