@@ -24075,6 +24075,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92d6c3bb-63c8-4d4a-3694-5213737d4100/rectcrop3",
             "name": "Moxie:bichtrandethuong-fc",
             "symbol": "Moxie:bichtrandethuong-fc"
+        },
+        {
+            "address": "0x5dC1440EB1aB5a28F47572a9e2Fb399A9FE80853",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bb5a21b-a0fc-48c0-d13e-cc2be3ac9400/rectcrop3",
+            "name": "Moxie:gonano-fc",
+            "symbol": "Moxie:gonano-fc"
         }
     ],
     "version": {
