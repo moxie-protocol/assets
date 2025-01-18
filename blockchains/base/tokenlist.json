@@ -24404,6 +24404,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3e637784-c862-4df0-c0a6-b4f6c7a17600/rectcrop3",
             "name": "Moxie:trangtinkhoi-fc",
             "symbol": "Moxie:trangtinkhoi-fc"
+        },
+        {
+            "address": "0xb6289d495757877De0FB0c87a024De7593c26180",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7a786d2-749a-4e33-5d3e-ef652d75ae00/rectcrop3",
+            "name": "Moxie:tubalangchoi-fc",
+            "symbol": "Moxie:tubalangchoi-fc"
         }
     ],
     "version": {
