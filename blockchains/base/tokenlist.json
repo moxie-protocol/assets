@@ -24047,6 +24047,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/82dcfc72-a8cc-4375-3785-511616ce4300/rectcrop3",
             "name": "Moxie:namd-fc",
             "symbol": "Moxie:namd-fc"
+        },
+        {
+            "address": "0xba9a1a8dFFD5EF8BE8acF2622B04E2FF478a47F3",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1894b326-219d-4278-fd5f-1fb2f4aa3b00/rectcrop3",
+            "name": "Moxie:baod-fc",
+            "symbol": "Moxie:baod-fc"
         }
     ],
     "version": {
