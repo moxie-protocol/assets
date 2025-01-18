@@ -24313,6 +24313,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5afe03aa-ce86-4a7b-2699-9e215febf600/rectcrop3",
             "name": "Moxie:lethuylinh-fc",
             "symbol": "Moxie:lethuylinh-fc"
+        },
+        {
+            "address": "0x14463FFeB00f7051cE8972d21661AC7a9C13Af23",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/edd8ec18-9f3f-4533-dbc6-e7f495cd1800/rectcrop3",
+            "name": "Moxie:highland-fc",
+            "symbol": "Moxie:highland-fc"
         }
     ],
     "version": {
