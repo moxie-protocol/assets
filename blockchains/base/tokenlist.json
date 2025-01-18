@@ -24355,6 +24355,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e9d2b988-5bf0-42de-3854-3e47ea8ae400/rectcrop3",
             "name": "Moxie:thieuphunhan-fc",
             "symbol": "Moxie:thieuphunhan-fc"
+        },
+        {
+            "address": "0x68F4b0e6521157fd44b50682ee3785E93f760D58",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d8f724e-d5cc-4f71-8df1-a2e9c2d4ab00/rectcrop3",
+            "name": "Moxie:thanhchu-fc",
+            "symbol": "Moxie:thanhchu-fc"
         }
     ],
     "version": {
