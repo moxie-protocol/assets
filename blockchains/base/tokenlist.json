@@ -24369,6 +24369,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d29f6d93-165f-4cd7-d964-4426f3f44f00/rectcrop3",
             "name": "Moxie:condymami-fc",
             "symbol": "Moxie:condymami-fc"
+        },
+        {
+            "address": "0xd29d519D7CD3087Fe6Fe38dBc323A66e7ED7C1D5",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10b2f5e8-4d9b-4252-1fc4-e6e36c7b7e00/rectcrop3",
+            "name": "Moxie:dotuoi-fc",
+            "symbol": "Moxie:dotuoi-fc"
         }
     ],
     "version": {
