@@ -24194,6 +24194,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c9bbf3f-af82-445a-447e-ef0500c77900/rectcrop3",
             "name": "Moxie:battlebom-fc",
             "symbol": "Moxie:battlebom-fc"
+        },
+        {
+            "address": "0xc2A172aDF3911187956480505e00E5412FE790De",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9c5a21e-4620-49a2-84f7-1905d0376000/rectcrop3",
+            "name": "Moxie:groundbon-fc",
+            "symbol": "Moxie:groundbon-fc"
         }
     ],
     "version": {
