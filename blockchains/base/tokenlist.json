@@ -24334,6 +24334,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/303182ad-c712-4e12-217f-1b9485722400/rectcrop3",
             "name": "Moxie:dagiam-fc",
             "symbol": "Moxie:dagiam-fc"
+        },
+        {
+            "address": "0x1068372E781718084C609EFCFB47e0cb79EBfd79",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c5d9991-0ec3-4582-1094-e16e105a9500/rectcrop3",
+            "name": "Moxie:thieuphuong-fc",
+            "symbol": "Moxie:thieuphuong-fc"
         }
     ],
     "version": {
