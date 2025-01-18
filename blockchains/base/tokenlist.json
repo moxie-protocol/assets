@@ -23991,6 +23991,13 @@
             "logoURI": null,
             "name": "mafia9",
             "symbol": "fid:510029"
+        },
+        {
+            "address": "0x56707Ec687B6Faf56AB0154abEeD9A2c183cAdF2",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fcc11a9-f98b-4833-e7ac-94753ddb8900/rectcrop3",
+            "name": "Moxie:kelan-fc",
+            "symbol": "Moxie:kelan-fc"
         }
     ],
     "version": {
