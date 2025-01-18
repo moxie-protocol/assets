@@ -24264,6 +24264,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3c2143f-c6b3-456e-5ea2-451701dfa600/rectcrop3",
             "name": "Moxie:minhnhi-fc",
             "symbol": "Moxie:minhnhi-fc"
+        },
+        {
+            "address": "0xed6F758D1b635A6Fe917e7Bc4CD3f2D2eCe93A19",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f386375a-3fc5-40e9-79a1-c6c5256fc400/rectcrop3",
+            "name": "Moxie:begao-fc",
+            "symbol": "Moxie:begao-fc"
         }
     ],
     "version": {
