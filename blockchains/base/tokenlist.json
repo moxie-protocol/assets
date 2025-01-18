@@ -24390,6 +24390,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65beb7a9-d153-42db-f0c2-a654bd07da00/rectcrop3",
             "name": "Moxie:naucam-fc",
             "symbol": "Moxie:naucam-fc"
+        },
+        {
+            "address": "0x4938A7e2600Bdf17Be98fD36705813193Ea10b49",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a1552e56-dd15-4819-6d70-937379610100/rectcrop3",
+            "name": "Moxie:timmongmo-fc",
+            "symbol": "Moxie:timmongmo-fc"
         }
     ],
     "version": {
