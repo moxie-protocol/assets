@@ -24292,6 +24292,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da679ec2-d410-48d2-4b03-78216e340800/rectcrop3",
             "name": "Moxie:betao-fc",
             "symbol": "Moxie:betao-fc"
+        },
+        {
+            "address": "0x80aAb3dE4374b00ad67E1f8cfcfc365EE016B6ED",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/109168c5-266f-4b40-73ef-7ac99b062500/rectcrop3",
+            "name": "Moxie:dasanila-fc",
+            "symbol": "Moxie:dasanila-fc"
         }
     ],
     "version": {
