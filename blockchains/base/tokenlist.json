@@ -24320,6 +24320,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/edd8ec18-9f3f-4533-dbc6-e7f495cd1800/rectcrop3",
             "name": "Moxie:highland-fc",
             "symbol": "Moxie:highland-fc"
+        },
+        {
+            "address": "0xFA2287b7eDB64Df06D2D69B9535707BbA2d61a14",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1469cff-9ea8-482a-a376-13ec7fc3fd00/rectcrop3",
+            "name": "Moxie:myhandmade-fc",
+            "symbol": "Moxie:myhandmade-fc"
         }
     ],
     "version": {
