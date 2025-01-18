@@ -24236,6 +24236,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dc185f84-3149-4c56-ea90-1134b9cd1b00/rectcrop3",
             "name": "Moxie:hongbang-fc",
             "symbol": "Moxie:hongbang-fc"
+        },
+        {
+            "address": "0x563AD28b814cC6398263FFA7A0e1998a3F1447f9",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27bfb151-9582-4fcb-2c2b-0a14e44ad500/rectcrop3",
+            "name": "Moxie:tanhuong-fc",
+            "symbol": "Moxie:tanhuong-fc"
         }
     ],
     "version": {
