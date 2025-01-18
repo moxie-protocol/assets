@@ -24061,6 +24061,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a76f032d-ebce-4974-6a2a-70d17dc24800/rectcrop3",
             "name": "Moxie:mybao-fc",
             "symbol": "Moxie:mybao-fc"
+        },
+        {
+            "address": "0x0d27f94a7bbfA7fB030a4C046fFB42e927C1f231",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d89ba56d-5996-4671-2ecb-3a0791be8700/rectcrop3",
+            "name": "Moxie:bicht-fc",
+            "symbol": "Moxie:bicht-fc"
         }
     ],
     "version": {
