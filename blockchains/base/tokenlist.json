@@ -24257,6 +24257,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/687887f9-a669-4d35-c40a-1c5bac605d00/rectcrop3",
             "name": "Moxie:conghoa-fc",
             "symbol": "Moxie:conghoa-fc"
+        },
+        {
+            "address": "0x322399ffEDdf906B8aD159404dD0879Cf90F7724",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3c2143f-c6b3-456e-5ea2-451701dfa600/rectcrop3",
+            "name": "Moxie:minhnhi-fc",
+            "symbol": "Moxie:minhnhi-fc"
         }
     ],
     "version": {
