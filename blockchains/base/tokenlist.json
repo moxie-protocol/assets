@@ -24243,6 +24243,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/27bfb151-9582-4fcb-2c2b-0a14e44ad500/rectcrop3",
             "name": "Moxie:tanhuong-fc",
             "symbol": "Moxie:tanhuong-fc"
+        },
+        {
+            "address": "0xcE2954E0Dfb590cF2AAf91A46e4c44DDC0Dd9B8b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/90c5e9a2-14af-4cb0-8d56-afda231b6400/rectcrop3",
+            "name": "Moxie:truongchinh-fc",
+            "symbol": "Moxie:truongchinh-fc"
         }
     ],
     "version": {
