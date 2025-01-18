@@ -24019,6 +24019,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/241f7a67-40f7-497f-7f17-c98df18ae300/rectcrop3",
             "name": "Moxie:kimmy98-fc",
             "symbol": "Moxie:kimmy98-fc"
+        },
+        {
+            "address": "0x7F8194848de6e74F2dA601264E9589705A32c402",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/726dae19-d44c-46a4-33b8-e4f9133f4600/rectcrop3",
+            "name": "Moxie:mbao-fc",
+            "symbol": "Moxie:mbao-fc"
         }
     ],
     "version": {
