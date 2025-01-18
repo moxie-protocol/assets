@@ -24411,6 +24411,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b7a786d2-749a-4e33-5d3e-ef652d75ae00/rectcrop3",
             "name": "Moxie:tubalangchoi-fc",
             "symbol": "Moxie:tubalangchoi-fc"
+        },
+        {
+            "address": "0x55e265e3507a86a8E9F3112a94b88639623fA90C",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29f191ae-8230-43b0-3df3-32e8ab1c9700/rectcrop3",
+            "name": "Moxie:vanguom-fc",
+            "symbol": "Moxie:vanguom-fc"
         }
     ],
     "version": {
