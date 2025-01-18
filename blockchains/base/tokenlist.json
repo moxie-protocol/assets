@@ -24082,6 +24082,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bb5a21b-a0fc-48c0-d13e-cc2be3ac9400/rectcrop3",
             "name": "Moxie:gonano-fc",
             "symbol": "Moxie:gonano-fc"
+        },
+        {
+            "address": "0x5A384a6Ea2F6A015ee738f21433792FB46984444",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1576460f-8cd8-4c1b-e7c5-509ed5a5a800/rectcrop3",
+            "name": "Moxie:rosehoney-fc",
+            "symbol": "Moxie:rosehoney-fc"
         }
     ],
     "version": {
