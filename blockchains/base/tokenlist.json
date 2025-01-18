@@ -24117,6 +24117,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a00b816-08f5-4fe7-7660-acc06c012e00/rectcrop3",
             "name": "Moxie:donalita-fc",
             "symbol": "Moxie:donalita-fc"
+        },
+        {
+            "address": "0x37c632AFc51a29197B891d000FF6f8EA35BF066F",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8bc94cb-63ca-4f5b-7477-e6dcfb2e2300/rectcrop3",
+            "name": "Moxie:zelonya-fc",
+            "symbol": "Moxie:zelonya-fc"
         }
     ],
     "version": {
