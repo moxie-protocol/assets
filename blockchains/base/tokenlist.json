@@ -24145,6 +24145,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c3d2b0d-692e-4851-9976-e08a12d61a00/rectcrop3",
             "name": "Moxie:sangdara-fc",
             "symbol": "Moxie:sangdara-fc"
+        },
+        {
+            "address": "0x6fD541F15d9e40B4A53bAC352b40DFc1c1ec82fA",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/37db06b9-4d67-4fed-06fd-e5fb6d1d6e00/rectcrop3",
+            "name": "Moxie:cl2ne1-fc",
+            "symbol": "Moxie:cl2ne1-fc"
         }
     ],
     "version": {
