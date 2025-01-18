@@ -24089,6 +24089,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1576460f-8cd8-4c1b-e7c5-509ed5a5a800/rectcrop3",
             "name": "Moxie:rosehoney-fc",
             "symbol": "Moxie:rosehoney-fc"
+        },
+        {
+            "address": "0xC367f290B821405C573A57D3756AA2a6c0A83792",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3006aee-ab4b-445f-94a5-9234c400e900/rectcrop3",
+            "name": "Moxie:jenniero-fc",
+            "symbol": "Moxie:jenniero-fc"
         }
     ],
     "version": {
