@@ -24362,6 +24362,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d8f724e-d5cc-4f71-8df1-a2e9c2d4ab00/rectcrop3",
             "name": "Moxie:thanhchu-fc",
             "symbol": "Moxie:thanhchu-fc"
+        },
+        {
+            "address": "0xeF576561c267D9C7ac1CB6B3FEf669f7E07D5d45",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d29f6d93-165f-4cd7-d964-4426f3f44f00/rectcrop3",
+            "name": "Moxie:condymami-fc",
+            "symbol": "Moxie:condymami-fc"
         }
     ],
     "version": {
