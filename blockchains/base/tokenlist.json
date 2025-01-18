@@ -24124,6 +24124,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d8bc94cb-63ca-4f5b-7477-e6dcfb2e2300/rectcrop3",
             "name": "Moxie:zelonya-fc",
             "symbol": "Moxie:zelonya-fc"
+        },
+        {
+            "address": "0x2bb0b8fFe5D9140aaB2e2E92F1C4174fD857315b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a6d5c34e-c434-4f81-87df-fe68d318d000/rectcrop3",
+            "name": "Moxie:zesony-fc",
+            "symbol": "Moxie:zesony-fc"
         }
     ],
     "version": {
