@@ -24138,6 +24138,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ad033eef-1a31-4c1a-4b4f-ca6875b30c00/rectcrop3",
             "name": "Moxie:zelous-fc",
             "symbol": "Moxie:zelous-fc"
+        },
+        {
+            "address": "0xCBD7793c3106B99D261dB521521Eb59E407F5e49",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c3d2b0d-692e-4851-9976-e08a12d61a00/rectcrop3",
+            "name": "Moxie:sangdara-fc",
+            "symbol": "Moxie:sangdara-fc"
         }
     ],
     "version": {
