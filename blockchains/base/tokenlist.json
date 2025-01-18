@@ -24222,6 +24222,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd504765-e1c4-4c05-f1a3-cf20122faa00/rectcrop3",
             "name": "Moxie:nguyenly-fc",
             "symbol": "Moxie:nguyenly-fc"
+        },
+        {
+            "address": "0x81656DF9BbB8585AA3aB5FfCE16b4BD2B8992A68",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/569364c6-fa7e-4d35-160e-8e19f4960700/rectcrop3",
+            "name": "Moxie:lelu-fc",
+            "symbol": "Moxie:lelu-fc"
         }
     ],
     "version": {
