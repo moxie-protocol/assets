@@ -24376,6 +24376,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/10b2f5e8-4d9b-4252-1fc4-e6e36c7b7e00/rectcrop3",
             "name": "Moxie:dotuoi-fc",
             "symbol": "Moxie:dotuoi-fc"
+        },
+        {
+            "address": "0xEe84e3Bc382Fc25fCA09de5919e628dFEbC65F19",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5bc4048c-b3fa-475e-a721-e5d78343b400/rectcrop3",
+            "name": "Moxie:hongpinky-fc",
+            "symbol": "Moxie:hongpinky-fc"
         }
     ],
     "version": {
