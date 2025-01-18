@@ -24201,6 +24201,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9c5a21e-4620-49a2-84f7-1905d0376000/rectcrop3",
             "name": "Moxie:groundbon-fc",
             "symbol": "Moxie:groundbon-fc"
+        },
+        {
+            "address": "0xa1DE3736734455f69F5D95B096cEb48Aa22A9A41",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a0cc059-2ece-48ae-c604-62a1bbd3b400/rectcrop3",
+            "name": "Moxie:gyroco-fc",
+            "symbol": "Moxie:gyroco-fc"
         }
     ],
     "version": {
