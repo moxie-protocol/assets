@@ -24215,6 +24215,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b12aec4f-d1a6-40dd-913b-f2b540958a00/rectcrop3",
             "name": "Moxie:copter-fc",
             "symbol": "Moxie:copter-fc"
+        },
+        {
+            "address": "0xd11409Ae63b6d7CEb61C699103dfAAf0bC67e399",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cd504765-e1c4-4c05-f1a3-cf20122faa00/rectcrop3",
+            "name": "Moxie:nguyenly-fc",
+            "symbol": "Moxie:nguyenly-fc"
         }
     ],
     "version": {
