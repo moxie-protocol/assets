@@ -24110,6 +24110,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/18a26d15-6e74-4fd7-be1c-d195aa713b00/rectcrop3",
             "name": "Moxie:guriana-fc",
             "symbol": "Moxie:guriana-fc"
+        },
+        {
+            "address": "0xe449c1Af83aDDC12d9c0cE130Dc269F83Dd26478",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1a00b816-08f5-4fe7-7660-acc06c012e00/rectcrop3",
+            "name": "Moxie:donalita-fc",
+            "symbol": "Moxie:donalita-fc"
         }
     ],
     "version": {
