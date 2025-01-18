@@ -24012,6 +24012,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63a50ea0-92bf-4c53-c2dd-ecf1a5d44700/rectcrop3",
             "name": "Moxie:gioinguyen-fc",
             "symbol": "Moxie:gioinguyen-fc"
+        },
+        {
+            "address": "0x4FF27C8022FfAB1ee1B9703B793d3131d2B3601A",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/241f7a67-40f7-497f-7f17-c98df18ae300/rectcrop3",
+            "name": "Moxie:kimmy98-fc",
+            "symbol": "Moxie:kimmy98-fc"
         }
     ],
     "version": {
