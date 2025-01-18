@@ -24005,6 +24005,13 @@
             "logoURI": null,
             "name": "amirrojhan",
             "symbol": "fid:411878"
+        },
+        {
+            "address": "0xd1195c917E4fdAca69EB6fde026cc0CEcCE4F222",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/63a50ea0-92bf-4c53-c2dd-ecf1a5d44700/rectcrop3",
+            "name": "Moxie:gioinguyen-fc",
+            "symbol": "Moxie:gioinguyen-fc"
         }
     ],
     "version": {
