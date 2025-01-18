@@ -24026,6 +24026,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/726dae19-d44c-46a4-33b8-e4f9133f4600/rectcrop3",
             "name": "Moxie:mbao-fc",
             "symbol": "Moxie:mbao-fc"
+        },
+        {
+            "address": "0xFb4327Db9F8B9f8096135ee20373DCa27C6c92D6",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/992242b9-1e7a-4bda-7372-3d1d9eb88600/rectcrop3",
+            "name": "Moxie:thanhdung89-fc",
+            "symbol": "Moxie:thanhdung89-fc"
         }
     ],
     "version": {
