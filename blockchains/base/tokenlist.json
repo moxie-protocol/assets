@@ -24418,6 +24418,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/29f191ae-8230-43b0-3df3-32e8ab1c9700/rectcrop3",
             "name": "Moxie:vanguom-fc",
             "symbol": "Moxie:vanguom-fc"
+        },
+        {
+            "address": "0xf42F47d5a9cb1da2d726e86eF6322f61ac806cA1",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f57bcf9-6f28-44ca-249b-0a8429af1c00/rectcrop3",
+            "name": "Moxie:xanh-fc",
+            "symbol": "Moxie:xanh-fc"
         }
     ],
     "version": {
