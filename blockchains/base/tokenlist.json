@@ -23998,6 +23998,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3fcc11a9-f98b-4833-e7ac-94753ddb8900/rectcrop3",
             "name": "Moxie:kelan-fc",
             "symbol": "Moxie:kelan-fc"
+        },
+        {
+            "address": "0x97Add9Cc48a3C19c411f13880cCAC3Ca2100eFEB",
+            "decimals": 18,
+            "logoURI": null,
+            "name": "amirrojhan",
+            "symbol": "fid:411878"
         }
     ],
     "version": {
