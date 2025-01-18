@@ -24187,6 +24187,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/64118169-9e01-4388-02bf-26df976ed900/rectcrop3",
             "name": "Moxie:nguyenduong-fc",
             "symbol": "Moxie:nguyenduong-fc"
+        },
+        {
+            "address": "0xE12d99EE8eF93fEa19aDf3530c6C443266024822",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c9bbf3f-af82-445a-447e-ef0500c77900/rectcrop3",
+            "name": "Moxie:battlebom-fc",
+            "symbol": "Moxie:battlebom-fc"
         }
     ],
     "version": {
