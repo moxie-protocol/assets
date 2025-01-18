@@ -24306,6 +24306,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3b615251-7a50-4299-9a44-aa282efe6700/rectcrop3",
             "name": "Moxie:shopkhoga-fc",
             "symbol": "Moxie:shopkhoga-fc"
+        },
+        {
+            "address": "0x59d63f191c0905da1985F0e8e75eBF77E804eD9b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5afe03aa-ce86-4a7b-2699-9e215febf600/rectcrop3",
+            "name": "Moxie:lethuylinh-fc",
+            "symbol": "Moxie:lethuylinh-fc"
         }
     ],
     "version": {
