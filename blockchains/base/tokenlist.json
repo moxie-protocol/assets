@@ -24285,6 +24285,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/188a3b5b-6b1e-4a49-eb66-ea6407762600/rectcrop3",
             "name": "Moxie:benam-fc",
             "symbol": "Moxie:benam-fc"
+        },
+        {
+            "address": "0xB97749C4BAFbd6725e56B5879fd22b905aCF0202",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/da679ec2-d410-48d2-4b03-78216e340800/rectcrop3",
+            "name": "Moxie:betao-fc",
+            "symbol": "Moxie:betao-fc"
         }
     ],
     "version": {
