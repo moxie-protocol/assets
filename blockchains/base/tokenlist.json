@@ -24278,6 +24278,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58eb1b0-a022-4f84-2a85-ce3988aa6600/rectcrop3",
             "name": "Moxie:bebong-fc",
             "symbol": "Moxie:bebong-fc"
+        },
+        {
+            "address": "0x879B81D89C84c7902D61310124C88168aFfcBAdD",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/188a3b5b-6b1e-4a49-eb66-ea6407762600/rectcrop3",
+            "name": "Moxie:benam-fc",
+            "symbol": "Moxie:benam-fc"
         }
     ],
     "version": {
