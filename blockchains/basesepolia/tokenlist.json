@@ -261,6 +261,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/49aa6b62-292f-43b3-1ae8-91a8d87f9100/original",
             "name": "Moxie:vigneshwaran-fc",
             "symbol": "Moxie:vigneshwaran-fc"
+        },
+        {
+            "address": "0xDF28828A784b0372bbbaA7fc2De130FDEdfE479d",
+            "decimals": 18,
+            "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/7a/dd/bc7add52-2c91-5eb3-c9e6-66a8977d257c/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+            "name": "Moxie:sarvesh371.eth-ens",
+            "symbol": "Moxie:sarvesh371.eth-ens"
         }
     ],
     "version": {
