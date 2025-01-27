@@ -268,6 +268,13 @@
             "logoURI": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/7a/dd/bc7add52-2c91-5eb3-c9e6-66a8977d257c/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
             "name": "Moxie:sarvesh371.eth-ens",
             "symbol": "Moxie:sarvesh371.eth-ens"
+        },
+        {
+            "address": "0x3791834AFaA4B5dAeA8E3102294863eB40D80396",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1867532716964540416/jBawvHou.png",
+            "name": "Moxie:airstack_user-x",
+            "symbol": "Moxie:airstack_user-x"
         }
     ],
     "version": {
