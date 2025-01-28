@@ -275,6 +275,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1867532716964540416/jBawvHou.png",
             "name": "Moxie:airstack_user-x",
             "symbol": "Moxie:airstack_user-x"
+        },
+        {
+            "address": "0x14463087b53364bD05EF41FD0ABA323F06E35166",
+            "decimals": 18,
+            "logoURI": "https://image.shutterstock.com/image-photo/black-rowan-berries-on-branches-260nw-159086927.jpg",
+            "name": "Moxie:Hrishikesh-Thakkar-gt",
+            "symbol": "Moxie:Hrishikesh-Thakkar-gt"
         }
     ],
     "version": {
