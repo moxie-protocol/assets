@@ -289,6 +289,13 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1866433505388888064/jgemjY7o.jpg",
             "name": "Moxie:BotMoxie-x",
             "symbol": "Moxie:BotMoxie-x"
+        },
+        {
+            "address": "0x69165Ac16bbB06c438ED6f7822F80328a143A6C6",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/base/images/moxie-ai.png",
+            "name": "Moxie AI Agents",
+            "symbol": "moxie_ai"
         }
     ],
     "version": {
