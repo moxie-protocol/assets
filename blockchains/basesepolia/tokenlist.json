@@ -296,6 +296,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/main/blockchains/base/images/moxie-ai.png",
             "name": "Moxie AI Agents",
             "symbol": "moxie_ai"
+        },
+        {
+            "address": "0xd4296bc8205FCCAE76C52f93819F22114ecf1C5b",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ec6a8bd-fc89-4c11-76d0-296f3dc71800/original",
+            "name": "Moxie:photoshop.eth-fc",
+            "symbol": "Moxie:photoshop.eth-fc"
         }
     ],
     "version": {
