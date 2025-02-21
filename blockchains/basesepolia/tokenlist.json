@@ -310,6 +310,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b028259-506e-4d43-8b7e-a1d7bcd2b700/original",
             "name": "Moxie:basedsatoshi.eth-fc",
             "symbol": "Moxie:basedsatoshi.eth-fc"
+        },
+        {
+            "address": "0x7aE7Fa211ef0B828021d010A6382f245B43C4552",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/refs/heads/main/blockchains/base/images/data-coins/D:1.png",
+            "name": "Moxie:dortmunder09.eth-ens",
+            "symbol": "Moxie:dortmunder09.eth-ens"
         }
     ],
     "version": {
