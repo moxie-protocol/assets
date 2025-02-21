@@ -317,6 +317,13 @@
             "logoURI": "https://raw.githubusercontent.com/moxie-protocol/assets/refs/heads/main/blockchains/base/images/data-coins/D:1.png",
             "name": "Moxie:dortmunder09.eth-ens",
             "symbol": "Moxie:dortmunder09.eth-ens"
+        },
+        {
+            "address": "0xB39078c1F61415386B71f07D1654A870aAf13275",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6874ee1f-7149-429a-586f-e93ebe015a00/original",
+            "name": "Moxie:bhaskarhocane-ens",
+            "symbol": "Moxie:bhaskarhocane-ens"
         }
     ],
     "version": {
