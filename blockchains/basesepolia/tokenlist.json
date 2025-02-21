@@ -303,6 +303,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5ec6a8bd-fc89-4c11-76d0-296f3dc71800/original",
             "name": "Moxie:photoshop.eth-fc",
             "symbol": "Moxie:photoshop.eth-fc"
+        },
+        {
+            "address": "0x18c3B473dD36e2DfBF61e99668C7c073f8BA67Bf",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b028259-506e-4d43-8b7e-a1d7bcd2b700/original",
+            "name": "Moxie:basedsatoshi.eth-fc",
+            "symbol": "Moxie:basedsatoshi.eth-fc"
         }
     ],
     "version": {
