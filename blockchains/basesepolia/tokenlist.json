@@ -324,6 +324,13 @@
             "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6874ee1f-7149-429a-586f-e93ebe015a00/original",
             "name": "Moxie:bhaskarhocane-ens",
             "symbol": "Moxie:bhaskarhocane-ens"
+        },
+        {
+            "address": "0xb479E393c1E76BbF54fB736eeF81f6C00BF6cf86",
+            "decimals": 18,
+            "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6874ee1f-7149-429a-586f-e93ebe015a00/original",
+            "name": "Moxie:bhaskar-hocane-fc",
+            "symbol": "Moxie:bhaskar-hocane-fc"
         }
     ],
     "version": {
